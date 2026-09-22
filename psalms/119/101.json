@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 101,
+  "ref": "psalms 119:101",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "От всеки път на зло сдържах нозете си, за да пазя словото Ти.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "от всеки"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "път"
+    },
+    {
+      "surface": "רע",
+      "gloss": "на зло"
+    },
+    {
+      "surface": "כלאתי",
+      "gloss": "сдържах"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "нозете си"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "пазя"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "словото Ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:43.198901931Z",
+  "model": "glm-5.3"
+}

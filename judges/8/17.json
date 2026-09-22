@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "judges 8:17",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И ⟨את⟩ кулата на Пнуел събори, и уби ⟨את⟩ мъжете на града.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "кулата на Пнуел"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "кулата"
+    },
+    {
+      "surface": "פנואל",
+      "gloss": "на Пнуел"
+    },
+    {
+      "surface": "נתץ",
+      "gloss": "събори"
+    },
+    {
+      "surface": "ויהרג",
+      "gloss": "и уби"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мъжете на града"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мъжете"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "на града"
+    }
+  ],
+  "timestamp": "2026-09-22T12:30:22.404285550Z",
+  "model": "glm-5.3"
+}

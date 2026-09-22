@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 21:23",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И биде слово от Яхве към мен, казвайки:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И биде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мен"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T16:26:59.647055077Z",
+  "model": "glm-5.3"
+}

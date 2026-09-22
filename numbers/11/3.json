@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 11:3",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И нарече ⟨те⟩ името на мястото онова Тавера, защото пламна в тях огънят на Яхве.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И нарече"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "на мястото"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онова"
+    },
+    {
+      "surface": "תבערה",
+      "gloss": "Тавера"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "בערה",
+      "gloss": "пламна"
+    },
+    {
+      "surface": "בם",
+      "gloss": "в тях"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огънят"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:49:48.538044616Z",
+  "model": "glm-5.3"
+}

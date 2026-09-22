@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Дори слънцето не е видял и не е узнал — повече покой има този от онзи.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "дори"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "слънцето"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "е видял"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "е узнал"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "покой"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "за този"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "от онзи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:35.050126733Z",
+  "model": "glm-5.3"
+}

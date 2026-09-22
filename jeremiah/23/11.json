@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 23:11",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Защото и пророк, и свещеник се оскверниха — и в дома Ми намерих злото им, слово на Яхве.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "свещеник"
+    },
+    {
+      "surface": "חנפו",
+      "gloss": "се оскверниха"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בביתי",
+      "gloss": "в дома Ми"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "намерих"
+    },
+    {
+      "surface": "רעתם",
+      "gloss": "злото им"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T13:56:53.603020974Z",
+  "model": "glm-5.3"
+}

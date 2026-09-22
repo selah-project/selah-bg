@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 6:12",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Пази се да не забравиш ⟨את⟩ Яхве, който те изведе от земята Мицраим, от дом на роби.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Пази се"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за себе си"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "забравиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "הוציאך",
+      "gloss": "те изведе"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "от земята"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "от дом"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "на роби"
+    }
+  ],
+  "timestamp": "2026-09-22T12:03:30.846007028Z",
+  "model": "glm-5.3"
+}

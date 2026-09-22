@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 23:7",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Защото както смята в душата си, така е той — яж и пий ще ти каже, а сърцето му не е с тебе.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "както"
+    },
+    {
+      "surface": "שער",
+      "gloss": "смята"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "в душата си"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "яж"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "и пий"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ще каже"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ולבו",
+      "gloss": "а сърцето му"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тебе"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:56.136635634Z",
+  "model": "glm-5.3"
+}

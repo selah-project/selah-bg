@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И чу Давид, и изпрати ⟨את⟩ Йоав и ⟨את⟩ цялото войнство на мощните.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и чу"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и изпрати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йоав"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "цялото войнство"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялото"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "войнство"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "на мощните"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:30.384901672Z",
+  "model": "glm-5.3"
+}

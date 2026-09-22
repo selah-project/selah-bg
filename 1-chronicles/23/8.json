@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Синове на Ладан: главният Йехиел, и Зетам, и Йоел — трима.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синове"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "на Ладан"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "главният"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "Йехиел"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "и Зетам"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "и Йоел"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "трима"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:52.137211641Z",
+  "model": "glm-5.3"
+}

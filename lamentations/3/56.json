@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Гласа ми Ти чу; не скривай ухото Си от дишането ми, от вика ми.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "гласа ми"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "чу Ти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "скривай"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ухото Си"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "от дишането ми"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "от вика ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:37:02.385456671Z",
+  "model": "glm-5.3"
+}

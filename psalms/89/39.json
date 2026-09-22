@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 89:39",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 89,
+  "translation": "Но Ти отхвърли и презря, разгневи се ⟨с⟩ Машиаха Си.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "но Ти"
+    },
+    {
+      "surface": "זנחת",
+      "gloss": "отхвърли"
+    },
+    {
+      "surface": "ותמאס",
+      "gloss": "и презря"
+    },
+    {
+      "surface": "התעברת",
+      "gloss": "разгневи се"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "Машиаха Си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:32.607190019Z",
+  "model": "glm-5.3"
+}

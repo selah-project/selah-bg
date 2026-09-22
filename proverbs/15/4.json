@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 15:4",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Целебен език — дърво на живота, а изкривяване в него — счупване на духа.",
+  "tokens": [
+    {
+      "surface": "מרפא",
+      "gloss": "целебен"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "език"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дърво"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "на живота"
+    },
+    {
+      "surface": "וסלף",
+      "gloss": "а изкривяване"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в него"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "счупване"
+    },
+    {
+      "surface": "ברוח",
+      "gloss": "на духа"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:14.355089676Z",
+  "model": "glm-5.3"
+}

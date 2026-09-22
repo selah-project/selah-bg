@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 30:19",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И ще извърша съдове в Мицраим, и ще познаят, че аз съм Яхве.",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "и ще извърша"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "съдове"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "в Мицраим"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "и ще познаят"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:23:54.284705842Z",
+  "model": "glm-5.3"
+}

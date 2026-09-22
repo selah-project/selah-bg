@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "А сега душата ни изсъхна — няма нищо, освен ⟨само⟩ манът ⟨пред⟩ очите ни.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А сега"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "душата ни"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "изсъхна"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "כל",
+      "gloss": "нищо"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "освен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨към⟩"
+    },
+    {
+      "surface": "המן",
+      "gloss": "манът"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "очите ни"
+    }
+  ],
+  "timestamp": "2026-09-22T16:18:49.070186356Z",
+  "model": "glm-5.3"
+}

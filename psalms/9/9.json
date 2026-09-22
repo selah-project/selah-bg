@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 9:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И ⟨той⟩ ще съди света в правда, ще съди племената в правота.",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "и ⟨той⟩"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "ще съди"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "света"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "в правда"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "ще съди"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "племената"
+    },
+    {
+      "surface": "במישרים",
+      "gloss": "в правота"
+    }
+  ],
+  "timestamp": "2026-09-22T14:51:48.913620694Z",
+  "model": "glm-5.3"
+}

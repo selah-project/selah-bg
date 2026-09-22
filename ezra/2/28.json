@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Мъжете на Бет-Ел и Аяй — двеста двадесет и три.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Мъжете"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "и Аяй"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двеста"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "и три"
+    }
+  ],
+  "timestamp": "2026-09-22T15:48:33.415533437Z",
+  "model": "glm-5.3"
+}

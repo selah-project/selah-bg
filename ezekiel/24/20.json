@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И казах им: слово от Яхве дойде към мен, казвайки:",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и казах"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "היה",
+      "gloss": "дойде"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мен"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T14:21:21.371183977Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 13:15",
+  "book": "2-kings",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И рече му Елиша: вземи лък и стрели; и той взе при него ⟨את⟩ лъка и стрелите.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "Елиша"
+    },
+    {
+      "surface": "קח",
+      "gloss": "вземи"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лък"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "и стрели"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и взе"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "при него"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лък"
+    },
+    {
+      "surface": "וחצים",
+      "gloss": "и стрели"
+    }
+  ],
+  "timestamp": "2026-09-22T13:19:00.145376293Z",
+  "model": "glm-5.3"
+}

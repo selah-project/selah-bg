@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 105:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 105,
+  "translation": "Пейте му, свирете му, разказвайте за всичките му чудеса.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Пейте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "свирете"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "разказвайте"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "за всичките"
+    },
+    {
+      "surface": "נפלאותיו",
+      "gloss": "чудеса му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:48.149789312Z",
+  "model": "glm-5.3"
+}

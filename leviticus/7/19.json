@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 7:19",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "А месото, което се допре до нещо нечисто, не се яда — в огън да се изгори; а месото — всеки чист да яде месо.",
+  "tokens": [
+    {
+      "surface": "והבשר",
+      "gloss": "а месото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "се допре"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "до нещо"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечисто"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "се яда"
+    },
+    {
+      "surface": "באש",
+      "gloss": "в огън"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "да се изгори"
+    },
+    {
+      "surface": "והבשר",
+      "gloss": "а месото"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чист"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "да яде"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "месо"
+    }
+  ],
+  "timestamp": "2026-09-22T11:33:20.443880149Z",
+  "model": "glm-5.3"
+}

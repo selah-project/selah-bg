@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Покри ⟨себе Си⟩ с облак, та молитва да не премине.",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "Покри"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "с облак"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за Себе Си"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "та да не премине"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "молитва"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:45.814657296Z",
+  "model": "glm-5.3"
+}

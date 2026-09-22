@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 30:11",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И ако в дома на мъжа си е обрекла или е свързала зарок върху душата си с клетва —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "בית",
+      "gloss": "в дома"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "на мъжа си"
+    },
+    {
+      "surface": "נדרה",
+      "gloss": "е обрекла"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "е свързала"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "зарок"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "נפשה",
+      "gloss": "душата си"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "с клетва"
+    }
+  ],
+  "timestamp": "2026-09-22T11:58:47.370415349Z",
+  "model": "glm-5.3"
+}

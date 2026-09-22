@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И излезе Лот при тях на входа, и вратата затвори след себе си.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и излезе"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "при тях"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лот"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "на входа"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "и вратата"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "затвори"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "след него"
+    }
+  ],
+  "timestamp": "2026-09-22T10:59:21.867418494Z",
+  "model": "glm-5.3"
+}

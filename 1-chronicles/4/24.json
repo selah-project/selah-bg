@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Синовете на Шимон: Немуел, и Ямин, Ярив, Зерах, Шаул.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "Немуел"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "и Ямин"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "Ярив"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:42.113357275Z",
+  "model": "glm-5.3"
+}

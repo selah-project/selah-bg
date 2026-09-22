@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 3:16",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И още видях под слънцето: мястото на съда — там нечестие, и мястото на правдата — там нечестие.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "И още"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видях"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "слънцето"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "мястото"
+    },
+    {
+      "surface": "המשפט",
+      "gloss": "на съда"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "там"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "нечестие"
+    },
+    {
+      "surface": "ומקום",
+      "gloss": "и мястото"
+    },
+    {
+      "surface": "הצדק",
+      "gloss": "на правдата"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "там"
+    },
+    {
+      "surface": "הרשע",
+      "gloss": "нечестие"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:48.857578165Z",
+  "model": "glm-5.3"
+}

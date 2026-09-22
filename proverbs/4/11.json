@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 4:11",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "В пътя на мъдрост те научих, водих те в пътеките на правотата.",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "В пътя"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "на мъдрост"
+    },
+    {
+      "surface": "הרתיך",
+      "gloss": "те научих"
+    },
+    {
+      "surface": "הדרכתיך",
+      "gloss": "водих те"
+    },
+    {
+      "surface": "במעגלי",
+      "gloss": "в пътеките"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "на правотата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:49.219594671Z",
+  "model": "glm-5.3"
+}

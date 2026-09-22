@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 8:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Какво е смъртенният, че го помниш, и синът на човека, че го спохождаш?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "смъртен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "תזכרנו",
+      "gloss": "го помниш"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "и син"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "תפקדנו",
+      "gloss": "го спохождаш"
+    }
+  ],
+  "timestamp": "2026-09-22T14:51:31.089287298Z",
+  "model": "glm-5.3"
+}

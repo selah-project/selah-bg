@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 7:21",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Един юнец, син на стадото, един овен, едно агне на една година, за всеизгаряне:",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "юнец"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "на стадото"
+    },
+    {
+      "surface": "איל",
+      "gloss": "овен"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "агне"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "едно"
+    },
+    {
+      "surface": "בן",
+      "gloss": "на"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "една година"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "за всеизгаряне"
+    }
+  ],
+  "timestamp": "2026-09-22T11:46:56.269597049Z",
+  "model": "glm-5.3"
+}

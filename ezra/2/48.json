@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezra 2:48",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Рецин, синовете на Некода, синовете на Газам.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "Рецин"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "Некода"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "Газам"
+    }
+  ],
+  "timestamp": "2026-09-22T15:49:14.319498382Z",
+  "model": "glm-5.3"
+}

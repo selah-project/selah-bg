@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 28:14",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Бездната каза: „Не у мен е тя“; и морето каза: „Няма я при мен“.",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "Бездната"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בי",
+      "gloss": "у мен"
+    },
+    {
+      "surface": "היא",
+      "gloss": "е тя"
+    },
+    {
+      "surface": "וים",
+      "gloss": "и морето"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "при мен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:29:58.481303181Z",
+  "model": "glm-5.3"
+}

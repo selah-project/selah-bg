@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 13:8",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И биде слово от Яхве към мен, като каза:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И биде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мен"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "като каза"
+    }
+  ],
+  "timestamp": "2026-09-22T16:24:51.464494011Z",
+  "model": "glm-5.3"
+}

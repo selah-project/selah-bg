@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 94,
+  "translation": "Яхве знае помислите на човека, че ⟨те са⟩ дим.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знае"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "помислите"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨те⟩"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "дим"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:37.615859116Z",
+  "model": "glm-5.3"
+}

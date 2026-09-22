@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "А идолите напълно ще изчезнат.",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "а идолите"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "напълно"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "ще изчезнат"
+    }
+  ],
+  "timestamp": "2026-09-22T13:24:47.266630080Z",
+  "model": "glm-5.3"
+}

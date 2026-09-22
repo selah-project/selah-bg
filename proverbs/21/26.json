@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 21:26",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Цял ден копнее ⟨той⟩ копнеж, а праведният дава и не задържа.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Цял"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "копнее"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "копнеж"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "а праведният"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дава"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "задържа"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:40.921774137Z",
+  "model": "glm-5.3"
+}

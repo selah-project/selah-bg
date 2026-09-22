@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 10:18",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Криещият омраза ⟨с⟩ устни на лъжа, и изнасящият клевета — той е глупав.",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "Криещият"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "омраза"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "⟨с⟩ устни"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "на лъжа"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "и изнасящият"
+    },
+    {
+      "surface": "דבה",
+      "gloss": "клевета"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупав"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:35.209890949Z",
+  "model": "glm-5.3"
+}

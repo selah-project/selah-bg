@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "И рече: Ти ли си, синко мой, Исав? И рече: Аз съм.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти ли"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨този⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синко мой"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исав"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Аз съм"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:32.209586868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 10:12",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Омразата събужда раздори, а любовта покрива всички прегрешения.",
+  "tokens": [
+    {
+      "surface": "שנאה",
+      "gloss": "Омразата"
+    },
+    {
+      "surface": "תעורר",
+      "gloss": "събужда"
+    },
+    {
+      "surface": "מדנים",
+      "gloss": "раздори"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "а върху"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "פשעים",
+      "gloss": "прегрешения"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "покрива"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "любовта"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:27.632056685Z",
+  "model": "glm-5.3"
+}

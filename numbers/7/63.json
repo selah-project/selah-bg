@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "numbers 7:63",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Един юнец, син на говедото, един овен, едно агне, син на годината си, за всеизгаряне.",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "юнец"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "Един"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "на говедото"
+    },
+    {
+      "surface": "איל",
+      "gloss": "овен"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "агне"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "едно"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "на годината си"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "за всеизгаряне"
+    }
+  ],
+  "timestamp": "2026-09-22T11:48:27.684209170Z",
+  "model": "glm-5.3"
+}

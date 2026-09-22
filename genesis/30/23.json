@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 30:23",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И зачене, и роди син, и рече: Елохим събра ⟨את⟩ безчестието ми.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "И зачене"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "събра"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "безчестието ми"
+    },
+    {
+      "surface": "חרפתי",
+      "gloss": "безчестието ми"
+    }
+  ],
+  "timestamp": "2026-09-22T11:04:04.674748064Z",
+  "model": "glm-5.3"
+}

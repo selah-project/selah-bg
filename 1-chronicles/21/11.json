@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И дойде Гад при Давид и му каза: така каза Яхве: приеми си",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И дойде"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "приеми"
+    },
+    {
+      "surface": "לך",
+      "gloss": "си"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:40.591124996Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Ето, малък те поставих сред народите — презрян си твърде много.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "малък"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "те поставих"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "сред народите"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "презрян"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "твърде много"
+    }
+  ],
+  "timestamp": "2026-09-22T14:39:25.740914711Z",
+  "model": "glm-5.3"
+}

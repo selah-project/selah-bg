@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "amos 5:20",
+  "book": "amos",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Нима денят на Яхве ⟨е⟩ тъмнина, а не светлина, и мрак, а не сияние за него?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Нима"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "тъмнина"
+    },
+    {
+      "surface": "יום",
+      "gloss": "денят"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светлина"
+    },
+    {
+      "surface": "ואפל",
+      "gloss": "и мрак"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "נגה",
+      "gloss": "сияние"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за него"
+    }
+  ],
+  "timestamp": "2026-09-22T14:38:32.416744474Z",
+  "model": "glm-5.3"
+}

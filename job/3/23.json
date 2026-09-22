@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 3:23",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "на човек, чийто път е скрит и когото Елоах е оградил",
+  "tokens": [
+    {
+      "surface": "לגבר",
+      "gloss": "на човек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "чийто път"
+    },
+    {
+      "surface": "נסתרה",
+      "gloss": "е скрит"
+    },
+    {
+      "surface": "ויסך",
+      "gloss": "и е оградил"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елоах"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "него"
+    }
+  ],
+  "timestamp": "2026-09-22T15:23:22.736393299Z",
+  "model": "glm-5.3"
+}

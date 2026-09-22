@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 15:11",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Тъй да се направи за всеки вол, или за всеки овен, или за агне от овцете, или от козите.",
+  "tokens": [
+    {
+      "surface": "ככה",
+      "gloss": "Тъй"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "да се направи"
+    },
+    {
+      "surface": "לשור",
+      "gloss": "за вол"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "לאיל",
+      "gloss": "за овен"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "לשה",
+      "gloss": "за агне"
+    },
+    {
+      "surface": "בכבשים",
+      "gloss": "от овцете"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בעזים",
+      "gloss": "от козите"
+    }
+  ],
+  "timestamp": "2026-09-22T11:51:42.231495420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 29:22",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И събра Лаван ⟨את⟩ всички мъже на мястото и направи гощавка.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "И събра"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всички мъже на мястото"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мъже"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "на мястото"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и направи"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "гощавка"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:30.298465491Z",
+  "model": "glm-5.3"
+}

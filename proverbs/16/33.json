@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 16:33",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "В пазвата се хвърля ⟨את⟩ жребият, но от Яхве е цялото му решение.",
+  "tokens": [
+    {
+      "surface": "בחיק",
+      "gloss": "в пазвата"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "се хвърля"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жребият"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "жребият"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "но от Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялото"
+    },
+    {
+      "surface": "משפטו",
+      "gloss": "му решение"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:23.084087918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И се изкачи Давид по думата на Гад, както заповяда Яхве.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и се изкачи"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "по думата"
+    },
+    {
+      "surface": "גד",
+      "gloss": "на Гад"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповяда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T12:59:26.627860817Z",
+  "model": "glm-5.3"
+}

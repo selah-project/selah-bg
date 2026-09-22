@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И вол или овца — ⟨את⟩ него и ⟨את⟩ сина му да не колите в един ден.",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "И вол"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "שה",
+      "gloss": "овца"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него (вола или овцата)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сина му"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сина му"
+    },
+    {
+      "surface": "לא",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "колите"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в ден"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    }
+  ],
+  "timestamp": "2026-09-22T11:40:01.970800810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И умря Йосеф, и всичките му братя, и цялото онова поколение.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умря"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всичките"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "му братя"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и цялото"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "поколение"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онова"
+    }
+  ],
+  "timestamp": "2026-09-22T11:13:07.716782799Z",
+  "model": "glm-5.3"
+}

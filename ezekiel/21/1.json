@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 21:1",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И беше слово на Яхве към мен, казвайки:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мен"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T14:19:52.707349941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "От синовете на Шимон — силни в доблест за войската, седем хиляди и сто.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "От"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "на Шимон"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "силни"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "в доблест"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "за войската"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седем"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "хиляди"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "и сто"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:46.719848822Z",
+  "model": "glm-5.3"
+}

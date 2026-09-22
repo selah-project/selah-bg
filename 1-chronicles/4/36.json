@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 4:36",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "и Елйоенай, и Яаковa, и Йешохайа, и Асайа, и Адиел, и Йесимiel, и Бенайа.",
+  "tokens": [
+    {
+      "surface": "ואליועיני",
+      "gloss": "и Елйоенай"
+    },
+    {
+      "surface": "ויעקבה",
+      "gloss": "и Яакова"
+    },
+    {
+      "surface": "וישוחיה",
+      "gloss": "и Йешохайа"
+    },
+    {
+      "surface": "ועשיה",
+      "gloss": "и Асайа"
+    },
+    {
+      "surface": "ועדיאל",
+      "gloss": "и Адиел"
+    },
+    {
+      "surface": "וישימאל",
+      "gloss": "и Йесимiel"
+    },
+    {
+      "surface": "ובניה",
+      "gloss": "и Бенайа"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:47.154760088Z",
+  "model": "glm-5.3"
+}

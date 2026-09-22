@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 33:18",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И тръгнаха от Хацерот и разположиха стан в Ритма.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И тръгнаха"
+    },
+    {
+      "surface": "מחצרת",
+      "gloss": "от Хацерот"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и разположиха стан"
+    },
+    {
+      "surface": "ברתמота",
+      "gloss": "в Ритма"
+    }
+  ],
+  "timestamp": "2026-09-22T16:19:10.847662943Z",
+  "model": "glm-5.3"
+}

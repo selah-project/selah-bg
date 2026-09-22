@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Пътят на глупака е прав в очите му, а слушащият на съвет ⟨е⟩ мъдър.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "пътят"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "на глупака"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прав"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в очите му"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "а слушащият"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "на съвет"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мъдър"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:22.492062497Z",
+  "model": "glm-5.3"
+}

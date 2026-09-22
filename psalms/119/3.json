@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 119:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Дори не вършат неправда, в пътищата му ходят.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Дори"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "вършат"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "неправда"
+    },
+    {
+      "surface": "בדרכיו",
+      "gloss": "в пътищата му"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ходят"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:28.746143241Z",
+  "model": "glm-5.3"
+}

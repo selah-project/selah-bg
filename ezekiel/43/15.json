@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 43:15",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 43,
+  "translation": "И Харелът — четири лактя; и от Ариел нагоре рогата — четири.",
+  "tokens": [
+    {
+      "surface": "וההראל",
+      "gloss": "И Харелът"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "лактя"
+    },
+    {
+      "surface": "ומהאראיל",
+      "gloss": "и от Ариел"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "нагоре"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "рогата"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    }
+  ],
+  "timestamp": "2026-09-22T14:29:59.471858105Z",
+  "model": "glm-5.3"
+}

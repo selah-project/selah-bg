@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Шамот харореецът, Хелец пелониецът,",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "Шамот"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "харореецът"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Хелец"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "пелониецът"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:22.696013979Z",
+  "model": "glm-5.3"
+}

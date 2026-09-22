@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 8:10",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И ги натрупаха ⟨את⟩ купчини, купчини, и завони земята.",
+  "tokens": [
+    {
+      "surface": "ויצברו",
+      "gloss": "И ги натрупаха"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ги",
+      "marks": "жабите"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "купчини"
+    },
+    {
+      "surface": "חמרם",
+      "gloss": "купчини"
+    },
+    {
+      "surface": "ותבאש",
+      "gloss": "и завони"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    }
+  ],
+  "timestamp": "2026-09-22T11:16:29.471668920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 3:24",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "След него укрепи Бинуй, син на Хенадад, втора мярка — от дома на Азария до ъгъла и до върха.",
+  "tokens": [
+    {
+      "surface": "אחריו",
+      "gloss": "след него"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "укрепи"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "Бинуй"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חנדד",
+      "gloss": "на Хенадад"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "мярка"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "втора"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "от дома"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "на Азария"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "המקצוע",
+      "gloss": "ъгъла"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "върха"
+    }
+  ],
+  "timestamp": "2026-09-22T15:52:16.410596054Z",
+  "model": "glm-5.3"
+}

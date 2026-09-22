@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Но жив съм Аз, и славата на Яхве ще напълни ⟨את⟩ цялата земя.",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Но"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "אני",
+      "gloss": "съм Аз"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "и ще напълни"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цялата земя"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земя"
+    }
+  ],
+  "timestamp": "2026-09-22T11:51:29.967695686Z",
+  "model": "glm-5.3"
+}

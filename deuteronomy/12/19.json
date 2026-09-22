@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Пази се да не изоставиш ⟨את⟩ левита през всичките си дни върху земята си.",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "Пази се"
+    },
+    {
+      "surface": "לך",
+      "gloss": "си"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "изоставиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "левита"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "левита"
+    },
+    {
+      "surface": "כל",
+      "gloss": "през всичките"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "си дни"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "земята си"
+    }
+  ],
+  "timestamp": "2026-09-22T12:07:34.136982885Z",
+  "model": "glm-5.3"
+}

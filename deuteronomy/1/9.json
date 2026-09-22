@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И казах ви в онова време, казвайки: не мога сам да нося ⟨את⟩ вас.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И казах"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "в"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онова време"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "мога"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "сам"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "да нося"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "вас"
+    }
+  ],
+  "timestamp": "2026-09-22T12:00:51.949535979Z",
+  "model": "glm-5.3"
+}

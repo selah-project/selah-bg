@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 31:25",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Защото наситих изморена душа, и всяка копнееща душа напълних.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "הרויתי",
+      "gloss": "наситих"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "изморена"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всяка"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "דאבה",
+      "gloss": "копнееща"
+    },
+    {
+      "surface": "מלאתי",
+      "gloss": "напълних"
+    }
+  ],
+  "timestamp": "2026-09-22T13:59:19.738971687Z",
+  "model": "glm-5.3"
+}

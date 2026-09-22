@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Защото напразно се разпъва мрежата пред очите на всеки владетел на крило.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "напразно"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "се разпъва"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "мрежата"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "пред очите на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "владетел"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "крило"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:34.926016968Z",
+  "model": "glm-5.3"
+}

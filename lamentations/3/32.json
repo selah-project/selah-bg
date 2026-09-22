@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Защото, ако и наскърби, ще се смили според изобилието на ⟨неговия⟩ хесед.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "наскърби"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "и ще се смили"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "според изобилието"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хесед ⟨му⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:52.418553315Z",
+  "model": "glm-5.3"
+}

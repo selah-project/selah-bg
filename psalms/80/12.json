@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 80:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 80,
+  "translation": "Прости тя клоните си до морето, и до реката — леторастите си.",
+  "tokens": [
+    {
+      "surface": "תשלח",
+      "gloss": "прости"
+    },
+    {
+      "surface": "קצירה",
+      "gloss": "клоните си"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "ים",
+      "gloss": "морето"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и до"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "реката"
+    },
+    {
+      "surface": "יונקותיה",
+      "gloss": "леторастите си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:20.361914927Z",
+  "model": "glm-5.3"
+}

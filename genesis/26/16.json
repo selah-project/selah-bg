@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 26:16",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И рече Авимелех на Ицхак: иди от нас, защото стана много по-могъщ от нас.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "מעמנו",
+      "gloss": "от нас"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "עצמת",
+      "gloss": "стана могъщ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "от нас"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "много"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:05.210121595Z",
+  "model": "glm-5.3"
+}

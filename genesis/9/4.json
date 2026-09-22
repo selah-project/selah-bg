@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Само плът с душата ѝ — кръвта ѝ — не ядете.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Само"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плът"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "с душата ѝ"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "кръвта ѝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ядете"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:10.734307975Z",
+  "model": "glm-5.3"
+}

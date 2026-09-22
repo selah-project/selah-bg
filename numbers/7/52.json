@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Един козел от козите, за жертва за грях.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "козел"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "от козите"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за жертва за грях"
+    }
+  ],
+  "timestamp": "2026-09-22T11:47:33.290617524Z",
+  "model": "glm-5.3"
+}

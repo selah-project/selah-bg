@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 6:5",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "За Гершом: Ливни, синът му, Яхат, синът му, Зима, синът му.",
+  "tokens": [
+    {
+      "surface": "לגרשום",
+      "gloss": "за Гершом"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Ливни"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Яхат"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Зима"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:05.933230507Z",
+  "model": "glm-5.3"
+}

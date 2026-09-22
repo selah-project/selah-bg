@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Праведен си Ти, Яхве, и прави ⟨са⟩ Твоите съдби.",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "Праведен"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "и прави"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "Твоите съдби"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:13.175370975Z",
+  "model": "glm-5.3"
+}

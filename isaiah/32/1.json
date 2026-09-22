@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 32:1",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "Ето, с правда ще царува цар, и князете с правосъдие ще владеят.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ето"
+    },
+    {
+      "surface": "לצדק",
+      "gloss": "с правда"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ще царува"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ולשרים",
+      "gloss": "и князете"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "с правосъдие"
+    },
+    {
+      "surface": "ישרו",
+      "gloss": "ще владеят"
+    }
+  ],
+  "timestamp": "2026-09-22T13:34:34.339151368Z",
+  "model": "glm-5.3"
+}

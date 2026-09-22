@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 3:16",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И стана в края на седем дни, и стана слово на Яхве към мен, казвайки:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "в края"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "на седем"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мен"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T14:12:04.489371351Z",
+  "model": "glm-5.3"
+}

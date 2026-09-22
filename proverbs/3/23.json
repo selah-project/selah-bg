@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Тогава ще ходиш безопасно пътя си и ногата ти няма да се препъне.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тогава"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ще ходиш"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "безопасно"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "пътя си"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "и ногата ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "няма"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "да се препъне"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:47.309180208Z",
+  "model": "glm-5.3"
+}

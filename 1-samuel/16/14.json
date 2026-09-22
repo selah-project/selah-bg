@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И Духът на Яхве се отстрани от Шаул, и го ужасяваше зъл дух от ⟨את⟩ Яхве.",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "И Духът"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "се отстрани"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "от"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "и го ужасяваше"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зъл"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "от ⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T12:41:23.068841305Z",
+  "model": "glm-5.3"
+}

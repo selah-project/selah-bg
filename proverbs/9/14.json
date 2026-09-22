@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И седи при входа на дома си, на престол във висините на града.",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "и седи"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "при входа"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "на дома си"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "престол"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "висините"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "на града"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:24.488142875Z",
+  "model": "glm-5.3"
+}

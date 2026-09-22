@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "Не ставай за мен за ужас, ти си моето прибежище в деня на злото.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ставай"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мен"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "за ужас"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "моето прибежище"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти си"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "на злото"
+    }
+  ],
+  "timestamp": "2026-09-22T13:54:56.139844012Z",
+  "model": "glm-5.3"
+}

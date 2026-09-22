@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "В една къща ще бъде изядено; не изваждай от къщата навън от месото, и кост не чупете в него.",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "в една къща"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "една"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ще бъде изядено"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "изваждай"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "къщата"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "месото"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "навън"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "и кост"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "чупете"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в него"
+    }
+  ],
+  "timestamp": "2026-09-22T11:18:28.959973629Z",
+  "model": "glm-5.3"
+}

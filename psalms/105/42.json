@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 105:42",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 105,
+  "translation": "Защото помнеше ⟨את⟩ святото Си слово, ⟨את⟩ Авраам, Своя раб.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "помнеше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "святото Си слово"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "святото Си"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авраам"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "Своя раб"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:14.858754973Z",
+  "model": "glm-5.3"
+}

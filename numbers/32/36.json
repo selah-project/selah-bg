@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "и ⟨את⟩ Бет-Нимра и ⟨את⟩ Бет-Харан, укрепени градове и овчи огради.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Бет-Нимра"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "Нимра"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Бет-Харан"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Харан"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "градове"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "укрепени"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "и огради"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "овчи"
+    }
+  ],
+  "timestamp": "2026-09-22T11:58:44.530989958Z",
+  "model": "glm-5.3"
+}

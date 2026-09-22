@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ecclesiastes 7:29",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Ето, само това намерих: ⟨че⟩ Елохим направи ⟨את⟩ човека прав, а те потърсиха много измислици.",
+  "tokens": [
+    {
+      "surface": "לבד",
+      "gloss": "само"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "намерих"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨че⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "човека"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прав"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "а те"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "потърсиха"
+    },
+    {
+      "surface": "חשבנות",
+      "gloss": "измислици"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "много"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:16.358687865Z",
+  "model": "glm-5.3"
+}

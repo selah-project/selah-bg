@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Не отказвай на момчето възпитание, защото ако го удариш с тояга, не ще умре.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "отказвай"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "на момчето"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "възпитание"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "го удариш"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "с тояга"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ще умре"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:06.068301545Z",
+  "model": "glm-5.3"
+}

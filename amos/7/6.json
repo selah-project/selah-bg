@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Съжали Яхве за това — и това няма да бъде, каза Адонай Яхве.",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "Съжали"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "היא",
+      "gloss": "това"
+    },
+    {
+      "surface": "לא",
+      "gloss": "няма"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "да бъде"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:39:10.497538770Z",
+  "model": "glm-5.3"
+}

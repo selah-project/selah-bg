@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 10:8",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Мешулам, Авия, Миямин,",
+  "tokens": [
+    {
+      "surface": "משלם",
+      "gloss": "Мешулам"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авия"
+    },
+    {
+      "surface": "מימן",
+      "gloss": "Миямин"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:58.431791237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Също ако легнат двама, топло им е; а на един как ще му е топло?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Също"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "легнат"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двама"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "топло им е"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "а на един"
+    },
+    {
+      "surface": "איך",
+      "gloss": "как"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ще му е топло"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:31.513008823Z",
+  "model": "glm-5.3"
+}

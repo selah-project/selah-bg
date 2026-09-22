@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 70,
+  "translation": "Да се върнат върху петата ⟨на⟩ срама си, казващите: еха, еха!",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "да се върнат"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "петата"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "срама им"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "казващите"
+    },
+    {
+      "surface": "האח",
+      "gloss": "еха"
+    },
+    {
+      "surface": "האח",
+      "gloss": "еха"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:36.915797596Z",
+  "model": "glm-5.3"
+}

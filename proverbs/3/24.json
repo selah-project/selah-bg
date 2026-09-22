@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Кога лягаш, няма да се уплашиш, и ще легнеш, и сладка ще бъде сънят ти.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Кога"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "лягаш"
+    },
+    {
+      "surface": "לא",
+      "gloss": "няма"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "да се уплашиш"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "и ще легнеш"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "и сладка ще бъде"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "сънят ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:47.309339809Z",
+  "model": "glm-5.3"
+}

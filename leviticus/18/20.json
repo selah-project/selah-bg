@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 18:20",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И към жена на ближния си не давай лягането си за семе, за оскверняване с нея.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "и към"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жена"
+    },
+    {
+      "surface": "עמיתך",
+      "gloss": "на ближния си"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "давай"
+    },
+    {
+      "surface": "שכבתך",
+      "gloss": "лягането си"
+    },
+    {
+      "surface": "לזרע",
+      "gloss": "за семе"
+    },
+    {
+      "surface": "לטמאה",
+      "gloss": "за оскверняване"
+    },
+    {
+      "surface": "בה",
+      "gloss": "с нея"
+    }
+  ],
+  "timestamp": "2026-09-22T11:38:17.380321043Z",
+  "model": "glm-5.3"
+}

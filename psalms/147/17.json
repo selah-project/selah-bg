@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 147:17",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 147,
+  "translation": "Хвърля леда си ⟨като⟩ парченца; пред студа му кой ще устои?",
+  "tokens": [
+    {
+      "surface": "משליך",
+      "gloss": "Хвърля"
+    },
+    {
+      "surface": "קרחו",
+      "gloss": "леда си"
+    },
+    {
+      "surface": "כפתים",
+      "gloss": "парченца"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "קרתו",
+      "gloss": "студа му"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ще устои"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:12.086547317Z",
+  "model": "glm-5.3"
+}

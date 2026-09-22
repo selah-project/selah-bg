@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 24:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Това е родът, който Го търси, търсещите лицето Ти, Яков. Села.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Това"
+    },
+    {
+      "surface": "дור",
+      "gloss": "е родът"
+    },
+    {
+      "surface": "דרשו",
+      "gloss": "който Го търси"
+    },
+    {
+      "surface": "מבקשי",
+      "gloss": "търсещите"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицето Ти"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-22T14:55:16.292652241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 1:3",
+  "book": "hosea",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И отиде той и взе Гомер ⟨את⟩, дъщеря на Дивлайим, и тя зачене и роди нему син.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и взе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гомер"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомер"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщеря"
+    },
+    {
+      "surface": "דבלים",
+      "gloss": "Дивлайим"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "и зачене"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    }
+  ],
+  "timestamp": "2026-09-22T16:27:58.510553314Z",
+  "model": "glm-5.3"
+}

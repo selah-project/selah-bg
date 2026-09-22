@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Шама ха-харари, Ахиям син на Шарар ха-арари,",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Шама"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ха-харари"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "Ахиям"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "Шарар"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "ха-арари"
+    }
+  ],
+  "timestamp": "2026-09-22T12:59:04.580945192Z",
+  "model": "glm-5.3"
+}

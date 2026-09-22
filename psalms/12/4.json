@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 12:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Да отсече Яхве всички устни гладки, език, говорещ големи неща.",
+  "tokens": [
+    {
+      "surface": "יכרת",
+      "gloss": "да отсече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "устни"
+    },
+    {
+      "surface": "חלקות",
+      "gloss": "гладки"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "език"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "говорещ"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "големи неща"
+    }
+  ],
+  "timestamp": "2026-09-22T14:51:29.718254289Z",
+  "model": "glm-5.3"
+}

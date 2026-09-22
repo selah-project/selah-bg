@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 136:20",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 136,
+  "translation": "И на Ог, царя на Башан, защото до вечността ⟨е⟩ хеседът Му.",
+  "tokens": [
+    {
+      "surface": "ולעוג",
+      "gloss": "И на Ог"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "на Башан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "до вечността"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседът Му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:47.369225240Z",
+  "model": "glm-5.3"
+}

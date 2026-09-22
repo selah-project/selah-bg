@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 33:23",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И било слово на Яхве към мен, казвайки:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И било"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мен"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T14:24:32.847072342Z",
+  "model": "glm-5.3"
+}

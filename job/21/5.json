@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Обърнете се към мен и се смаяйте, и сложете ръка на уста.",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "Обърнете се"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мен"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "и се смаяйте"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "и сложете"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ръка"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פה",
+      "gloss": "уста"
+    }
+  ],
+  "timestamp": "2026-09-22T15:28:08.958086899Z",
+  "model": "glm-5.3"
+}

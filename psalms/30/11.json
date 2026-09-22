@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 30:11",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Чуй, Яхве, и се смили над мен; Яхве, бъди ми помощник.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Чуй"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "и се смили над мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "היה",
+      "gloss": "бъди"
+    },
+    {
+      "surface": "עזר",
+      "gloss": "помощник"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    }
+  ],
+  "timestamp": "2026-09-22T14:55:04.440810902Z",
+  "model": "glm-5.3"
+}

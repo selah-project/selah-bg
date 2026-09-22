@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 72:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 72,
+  "translation": "Ще понесат планините мир на народа и хълмовете — правда.",
+  "tokens": [
+    {
+      "surface": "ישאו",
+      "gloss": "Ще понесат"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "планините"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "на народа"
+    },
+    {
+      "surface": "וגבעות",
+      "gloss": "и хълмовете"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "правда"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:36.654896626Z",
+  "model": "glm-5.3"
+}

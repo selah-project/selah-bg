@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Който пази вятъра, няма да сее; и който гледа облаците, няма да жъне.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Който пази"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "вятъра"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ще сее"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и който гледа"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "облаците"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "ще жъне"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:08.897402308Z",
+  "model": "glm-5.3"
+}

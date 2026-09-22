@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "И умря Хананя пророкът в същата година, в седмия месец.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и умря"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "Хананя"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророкът"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "в годината"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "онази"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "в месеца"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седмия"
+    }
+  ],
+  "timestamp": "2026-09-22T13:58:35.310386781Z",
+  "model": "glm-5.3"
+}

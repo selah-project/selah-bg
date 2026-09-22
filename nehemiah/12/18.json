@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 12:18",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "На Билга — Шамуа; на Шемая — Йехонатан.",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "на Билга"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Шамуа"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "на Шемая"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йехонатан"
+    }
+  ],
+  "timestamp": "2026-09-22T15:55:19.626342339Z",
+  "model": "glm-5.3"
+}

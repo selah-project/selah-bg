@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 22:24",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Сине човешки, кажи ѝ: ти си земя, която не е очистена, нито е дъждувана в деня на негодувание.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човешки"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "кажи"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ѝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מטהרה",
+      "gloss": "е очистена"
+    },
+    {
+      "surface": "היא",
+      "gloss": "която"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нито"
+    },
+    {
+      "surface": "גשמה",
+      "gloss": "е дъждувана"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "на негодувание"
+    }
+  ],
+  "timestamp": "2026-09-22T14:21:01.503218852Z",
+  "model": "glm-5.3"
+}

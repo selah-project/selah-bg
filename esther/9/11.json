@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "В ⟨онзи⟩ ден дойде числото на убитите в Сузан ⟨крепостта⟩ пред царя",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онзи"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дойде"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "числото"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "на убитите"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "в Сузан"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "крепостта"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-09-22T15:42:37.402404160Z",
+  "model": "glm-5.3"
+}

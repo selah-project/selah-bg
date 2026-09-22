@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 33:19",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И тръгнаха от Ритма и опънаха ⟨стан⟩ в Римон-Перец.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "и тръгнаха"
+    },
+    {
+      "surface": "מרתמה",
+      "gloss": "от Ритма"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и опънаха ⟨стан⟩"
+    },
+    {
+      "surface": "ברמן",
+      "gloss": "в Римон"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    }
+  ],
+  "timestamp": "2026-09-22T16:19:21.695023173Z",
+  "model": "glm-5.3"
+}

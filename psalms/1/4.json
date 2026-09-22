@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Не така безбожните, а ⟨са⟩ като плевата, която вятърът разпръсква.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "безбожните"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨а⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "като плевата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "разпръсква"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "вятърът"
+    }
+  ],
+  "timestamp": "2026-09-22T16:28:55.282326319Z",
+  "model": "glm-5.3"
+}

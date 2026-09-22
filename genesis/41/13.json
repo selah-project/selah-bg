@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 41:13",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 41,
+  "translation": "И стана, както ни изтълкува, така беше: мен върна на мястото ми, а него обеси.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И стана"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "פתר",
+      "gloss": "изтълкува"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ме",
+      "marks": "мен"
+    },
+    {
+      "surface": "השיב",
+      "gloss": "върна"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כני",
+      "gloss": "мястото ми"
+    },
+    {
+      "surface": "ואתו",
+      "gloss": "и ⟨את⟩ него",
+      "marks": "него"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "обеси"
+    }
+  ],
+  "timestamp": "2026-09-22T11:10:07.901652086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 2:24",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Няма добро в човека, освен да яде и да пие, и да покаже на ⟨את⟩ душата си добро в труда си. И това видях аз: че е от ръката на Елохим.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "в човека"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "да яде"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "и да пие"
+    },
+    {
+      "surface": "והראה",
+      "gloss": "и да покаже"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "душата си"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душата си"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "בעמלו",
+      "gloss": "в труда си"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видях"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "от ръката"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "היא",
+      "gloss": "е"
+    }
+  ],
+  "timestamp": "2026-09-22T16:44:17.804304480Z",
+  "model": "glm-5.3"
+}

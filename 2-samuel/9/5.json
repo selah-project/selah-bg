@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 9:5",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И царят Давид ⟨я⟩ прати и го взе от дома на Махир, син на Амиел, от Ло-Девар.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "прати"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "ויקחהו",
+      "gloss": "го взе"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "от дома"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "на Махир"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Амиел"
+    },
+    {
+      "surface": "מלו",
+      "gloss": "от Ло"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Девар"
+    }
+  ],
+  "timestamp": "2026-09-22T12:50:52.522692519Z",
+  "model": "glm-5.3"
+}

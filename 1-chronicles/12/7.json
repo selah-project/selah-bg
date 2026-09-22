@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 12:7",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Елкана, и Йишияху, и Азариил, и Йоезер, и Яшавам корахците",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Елкана"
+    },
+    {
+      "surface": "וישיהו",
+      "gloss": "и Йишияху"
+    },
+    {
+      "surface": "ועזראל",
+      "gloss": "и Азариил"
+    },
+    {
+      "surface": "ויועזר",
+      "gloss": "и Йоезер"
+    },
+    {
+      "surface": "וישבעם",
+      "gloss": "и Яшавам"
+    },
+    {
+      "surface": "הקרחים",
+      "gloss": "корахците"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:47.495453167Z",
+  "model": "glm-5.3"
+}

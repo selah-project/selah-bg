@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "От месото им не ще ядете и мършата им не ще пипате — нечисти са те за вас.",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "от месото им"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ще ядете"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "и мършата им"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "ще пипате"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "нечисти"
+    },
+    {
+      "surface": "הם",
+      "gloss": "те"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-09-22T11:34:53.286128843Z",
+  "model": "glm-5.3"
+}

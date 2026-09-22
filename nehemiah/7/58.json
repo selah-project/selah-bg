@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Синове на Яала, синове на Даркон, синове на Гидел.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "יעלא",
+      "gloss": "Яала"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "Даркон"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "Гидел"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:54.827271191Z",
+  "model": "glm-5.3"
+}

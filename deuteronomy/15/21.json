@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 15:21",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "И ако има в него дефект — куц или сляп, всякакъв лош дефект — няма да го заколеш на Яхве, твоя Елохим.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "има"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в него"
+    },
+    {
+      "surface": "מום",
+      "gloss": "дефект"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "куц"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "עור",
+      "gloss": "сляп"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякакъв"
+    },
+    {
+      "surface": "מום",
+      "gloss": "дефект"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лош"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תזבחנו",
+      "gloss": "ще го заколеш"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твоя Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T12:06:33.458852363Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Синовете на Реуел: Нахат, Зерах, Шама и Миза.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "на Реуел"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "Нахат"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Шама"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "и Миза"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:24.124531102Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "И видя Есав, че лоши ⟨са⟩ дъщерите на Ханаан в очите на Ицхак, баща му.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и видя"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "лоши"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дъщерите"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "на Ханаан"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очите"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "на Ицхак"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "баща му"
+    }
+  ],
+  "timestamp": "2026-09-22T11:04:03.283553891Z",
+  "model": "glm-5.3"
+}

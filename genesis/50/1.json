@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 50,
+  "translation": "И падна Йосеф върху лицето на баща си, и плака над него, и го целуна.",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "И падна"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "баща си"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "и плака"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "над него"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "и целуна"
+    },
+    {
+      "surface": "לו",
+      "gloss": "го"
+    }
+  ],
+  "timestamp": "2026-09-22T11:13:52.690637150Z",
+  "model": "glm-5.3"
+}

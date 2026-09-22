@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 9:39",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И Ner роди ⟨את⟩ Киш, и Киш роди ⟨את⟩ Шаул, и Шаул роди ⟨את⟩ Йехонатан и ⟨את⟩ Малки-Шуа и ⟨את⟩ Авинадав и ⟨את⟩ Ешбаал.",
+  "tokens": [
+    {
+      "surface": "ונר",
+      "gloss": "и Нер"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Киш"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Киш"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "и Киш"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шаул"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "и Шаул"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йехонатан"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йехонатан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Малки-Шуа"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Малки-"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Шуа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Авинадав"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Авинадав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Ешбаал"
+    },
+    {
+      "surface": "אשבעל",
+      "gloss": "Ешбаал"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:28.185111902Z",
+  "model": "glm-5.3"
+}

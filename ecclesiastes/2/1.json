@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Казах аз в сърцето си: Хайде, нека изпитам със слабост на радост и видя в доброто — и ето, дори то е суета.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Казах"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "в сърцето си"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "Хайде"
+    },
+    {
+      "surface": "נא",
+      "gloss": "нека"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "изпитам"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "с радост"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и видя"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "в доброто"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дори"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "суета"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:03.181932306Z",
+  "model": "glm-5.3"
+}

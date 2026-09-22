@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 10:29",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "и ⟨את⟩ Офир, и ⟨את⟩ Хавила, и ⟨את⟩ Йовав; всички тези са синове Йоктанови.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Офир"
+    },
+    {
+      "surface": "אופר",
+      "gloss": "Офир"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Хавила"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Хавила"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Йовав"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Йоктанови"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:55.179215202Z",
+  "model": "glm-5.3"
+}

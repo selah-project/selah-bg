@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "царят на Тирца — един. Всичките царе — тридесет и един.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Тирца"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичките"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "царе"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридесет"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "и един"
+    }
+  ],
+  "timestamp": "2026-09-22T12:20:31.540664217Z",
+  "model": "glm-5.3"
+}

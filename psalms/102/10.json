@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 102,
+  "translation": "Защото пепел като хляб ядях и питието си с плач размесих.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "пепел"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "като хляб"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "ядях"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "и питието си"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "с плач"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "размесих"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:25.284126547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 5:37",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И роди Ацария ⟨את⟩ Амария, и Амария роди ⟨את⟩ Ахитув.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Ацария"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амария"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "Амария"
+    },
+    {
+      "surface": "ואמריה",
+      "gloss": "и Амария"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ахитув"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "Ахитув"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:18.829978620Z",
+  "model": "glm-5.3"
+}

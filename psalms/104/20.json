@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 104,
+  "translation": "Поставяш тъмнина — и става нощ; в нея пълзи всяко горско животно.",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "поставяш"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "тъмнина"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и става"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "нощ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в нея"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "пълзи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяко"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "животно"
+    },
+    {
+      "surface": "יער",
+      "gloss": "горско"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:06.657898747Z",
+  "model": "glm-5.3"
+}

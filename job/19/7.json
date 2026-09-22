@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 19:7",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "Ето, викам насилие, и не се отговарям; зовя, но няма съд,",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ето"
+    },
+    {
+      "surface": "אצעק",
+      "gloss": "викам"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насилие"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "се отговарям"
+    },
+    {
+      "surface": "אשוע",
+      "gloss": "зовя"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "но няма"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "съд"
+    }
+  ],
+  "timestamp": "2026-09-22T15:27:41.012006732Z",
+  "model": "glm-5.3"
+}

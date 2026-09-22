@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И умря Яир, и бе погребан в Камон.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и умря"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Яир"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "и бе погребан"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "в Камон"
+    }
+  ],
+  "timestamp": "2026-09-22T16:21:19.174417598Z",
+  "model": "glm-5.3"
+}

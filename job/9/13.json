@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 9:13",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Ел не връща гнева си; под Него се превиха помагачите на Раав.",
+  "tokens": [
+    {
+      "surface": "אלוה",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "връща"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "гнева си"
+    },
+    {
+      "surface": "תחתו",
+      "gloss": "под Него"
+    },
+    {
+      "surface": "שחחו",
+      "gloss": "се превиха"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "помагачите на"
+    },
+    {
+      "surface": "רהב",
+      "gloss": "Раав"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:48.246678925Z",
+  "model": "glm-5.3"
+}

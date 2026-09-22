@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Виж, това намерих, рече Коелет: едно към едно, за да се намери сметката.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Виж"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "намерих"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "рече"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Коелет"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "едно"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "към едно"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "да се намери"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "сметката"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:05.284315111Z",
+  "model": "glm-5.3"
+}

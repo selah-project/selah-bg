@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И живя Ной след потопа триста години и петдесет години.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "И живя"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ной"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "след"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "потопа"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "и петдесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:39.560248619Z",
+  "model": "glm-5.3"
+}

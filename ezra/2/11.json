@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синове на Бевай — шестстотин двадесет и трима.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "Бевай"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "и трима"
+    }
+  ],
+  "timestamp": "2026-09-22T15:48:04.012554943Z",
+  "model": "glm-5.3"
+}

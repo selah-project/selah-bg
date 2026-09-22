@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 66,
+  "translation": "Беззакотие, ако съм гледал в сърцето си, Адонай няма да чуе.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "беззакотие"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "съм гледал"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "в сърцето си"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ще чуе"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    }
+  ],
+  "timestamp": "2026-09-22T15:01:51.794637101Z",
+  "model": "glm-5.3"
+}

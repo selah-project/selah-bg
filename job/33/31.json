@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 33:31",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "Вслушай се, Иов, чуй ме; мълчи, и аз ще говоря.",
+  "tokens": [
+    {
+      "surface": "הקשב",
+      "gloss": "Вслушай се"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Иов"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чуй"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "мълчи"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "и аз"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ще говоря"
+    }
+  ],
+  "timestamp": "2026-09-22T15:31:27.492039565Z",
+  "model": "glm-5.3"
+}

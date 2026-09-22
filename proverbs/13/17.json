@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Нечестив пратеник пада в зло, а вестител на верни ⟨е⟩ изцеление.",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "пратеник"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечестив"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "пада"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "в зло"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "а вестител"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "на верни"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "изцеление"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:29.196355143Z",
+  "model": "glm-5.3"
+}

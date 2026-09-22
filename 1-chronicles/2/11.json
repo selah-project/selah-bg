@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И Нахшон роди ⟨את⟩ Салма, и Салма роди ⟨את⟩ Вооз.",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "И Нахшон"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Салма"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "Салма"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "и Салма"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Вооз"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "Вооз"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:53.074744795Z",
+  "model": "glm-5.3"
+}

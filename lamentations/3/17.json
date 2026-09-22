@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И отблъсна ⟨от⟩ мира душата ми; забравих доброто.",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "И отблъсна"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "от мира"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата ми"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "забравих"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "доброто"
+    }
+  ],
+  "timestamp": "2026-09-22T15:37:01.007444458Z",
+  "model": "glm-5.3"
+}

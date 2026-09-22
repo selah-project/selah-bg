@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 84,
+  "translation": "Блажен ⟨ е ⟩ човекът, чиита сила е в тебе, пътища ⟨ има ⟩ в сърцето им.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Блажен"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човекът"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "сила"
+    },
+    {
+      "surface": "לו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в тебе"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "пътища"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "в сърцето им"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:49.479125352Z",
+  "model": "glm-5.3"
+}

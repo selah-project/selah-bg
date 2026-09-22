@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 9:22",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И в Тавера, и в Маса, и в Киврот ха-Таава бяхте разгневяващи ⟨את⟩ Яхве.",
+  "tokens": [
+    {
+      "surface": "ובתבערה",
+      "gloss": "и в Тавера"
+    },
+    {
+      "surface": "ובמסה",
+      "gloss": "и в Маса"
+    },
+    {
+      "surface": "ובקברת",
+      "gloss": "и в Киврот"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "ха-Таава"
+    },
+    {
+      "surface": "מקצפים",
+      "gloss": "разгневяващи"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "бяхте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T12:05:10.288923407Z",
+  "model": "glm-5.3"
+}

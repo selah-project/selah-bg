@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 10:7",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Оттам тръгнаха за Гудгода, а от Гудгода — за Йотвата, земя на потоци с вода.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "оттам"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "тръгнаха"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "за Гудгода"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "а от"
+    },
+    {
+      "surface": "הגדגדה",
+      "gloss": "Гудгода"
+    },
+    {
+      "surface": "יטבתה",
+      "gloss": "за Йотвата"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "на потоци"
+    },
+    {
+      "surface": "מים",
+      "gloss": "с вода"
+    }
+  ],
+  "timestamp": "2026-09-22T12:05:46.042662778Z",
+  "model": "glm-5.3"
+}

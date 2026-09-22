@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 6:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Върни се, Яхве, избави душата ми, спаси ме заради Твоя хесед.",
+  "tokens": [
+    {
+      "surface": "שובה",
+      "gloss": "Върни се"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חלצה",
+      "gloss": "избави"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата ми"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "спаси ме"
+    },
+    {
+      "surface": "למען",
+      "gloss": "заради"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Твоя хесед"
+    }
+  ],
+  "timestamp": "2026-09-22T14:50:02.512821102Z",
+  "model": "glm-5.3"
+}

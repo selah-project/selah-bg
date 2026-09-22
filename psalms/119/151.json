@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Близо си Ти, Яхве, и всичките Твои повели са истина.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Близо"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всичките"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "Твои повели"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "са истина"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:47.464136413Z",
+  "model": "glm-5.3"
+}

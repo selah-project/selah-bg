@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 135:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 135,
+  "translation": "Защото Ях избра ⟨за Си⟩ Яков, Израел за Своето съкровище.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "избра"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨за Си⟩"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "לסגלתו",
+      "gloss": "за Своето съкровище"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:28.931441650Z",
+  "model": "glm-5.3"
+}

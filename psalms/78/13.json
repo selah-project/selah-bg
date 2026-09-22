@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 78:13",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 78,
+  "translation": "Раздели море и ги преведе през него; изправи води като купина.",
+  "tokens": [
+    {
+      "surface": "בקע",
+      "gloss": "Раздели"
+    },
+    {
+      "surface": "ים",
+      "gloss": "море"
+    },
+    {
+      "surface": "ויעבירם",
+      "gloss": "и ги преведе"
+    },
+    {
+      "surface": "ויצב",
+      "gloss": "и изправи"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "като"
+    },
+    {
+      "surface": "נד",
+      "gloss": "купина"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:38.522194874Z",
+  "model": "glm-5.3"
+}

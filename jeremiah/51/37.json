@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 51:37",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 51,
+  "translation": "И ще бъде Вавилон за руини, жилище на чакали, ужас и свиркане, без жител.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "и ще бъде"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    },
+    {
+      "surface": "לגלים",
+      "gloss": "за руини"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "жилище"
+    },
+    {
+      "surface": "תנים",
+      "gloss": "на чакали"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ужас"
+    },
+    {
+      "surface": "ושרקה",
+      "gloss": "и свиркане"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "без"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "жител"
+    }
+  ],
+  "timestamp": "2026-09-22T14:09:13.017953703Z",
+  "model": "glm-5.3"
+}

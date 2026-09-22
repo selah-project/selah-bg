@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 33:15",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "Който оформя сърцата им заедно, разбира всичките им дела.",
+  "tokens": [
+    {
+      "surface": "היצר",
+      "gloss": "Който оформя"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "заедно"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "сърцата им"
+    },
+    {
+      "surface": "המבין",
+      "gloss": "разбира"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичките"
+    },
+    {
+      "surface": "מעשיהם",
+      "gloss": "им дела"
+    }
+  ],
+  "timestamp": "2026-09-22T14:56:45.493339089Z",
+  "model": "glm-5.3"
+}

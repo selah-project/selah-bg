@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И в Шушан ⟨крепостта⟩ убиха юдеите и погубиха петстотин мъже.",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "и в Шушан"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "крепостта"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "убиха"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "юдеите"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "и погубиха"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъже"
+    }
+  ],
+  "timestamp": "2026-09-22T15:42:17.454808012Z",
+  "model": "glm-5.3"
+}

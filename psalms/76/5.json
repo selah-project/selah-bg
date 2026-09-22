@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 76,
+  "translation": "Сияен си ти, могъщ над планините на плячката.",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "Сияен"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "могъщ"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "над планините"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "на плячката"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:19.014890951Z",
+  "model": "glm-5.3"
+}

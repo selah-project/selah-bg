@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Хашум — двеста двадесет и трима.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "на Хашум"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двеста"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "и трима"
+    }
+  ],
+  "timestamp": "2026-09-22T15:48:29.263007660Z",
+  "model": "glm-5.3"
+}

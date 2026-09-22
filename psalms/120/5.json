@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 120:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 120,
+  "translation": "Окаяние за мене, че гостувах в Мешех, че обитавах ⟨сред⟩ шатрите на Кедар.",
+  "tokens": [
+    {
+      "surface": "אויה",
+      "gloss": "окаяние"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мене"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "גרתי",
+      "gloss": "гостувах"
+    },
+    {
+      "surface": "משך",
+      "gloss": "в Мешех"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "обитавах"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨сред⟩"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "шатрите"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "на Кедар"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:27.986828571Z",
+  "model": "glm-5.3"
+}

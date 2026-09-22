@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 20:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Яхве, спаси! Царят да ни отговори в деня, в който зовем!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "спаси"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "Царят"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "да ни отговори"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "קראנו",
+      "gloss": "зовем"
+    }
+  ],
+  "timestamp": "2026-09-22T14:53:09.905843137Z",
+  "model": "glm-5.3"
+}

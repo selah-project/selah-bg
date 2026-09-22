@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Под три неща трепери земята, и под четири не може да носи:",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "три"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "трепери"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "и под"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "може"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "да носи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:37.713088138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Синове на Атер ⟨на⟩ Хизкия: деветдесет и осем.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "Атер"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "⟨на⟩ Хизкия"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "деветдесет"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и осем"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:44.248253979Z",
+  "model": "glm-5.3"
+}

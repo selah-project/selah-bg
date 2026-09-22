@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Не казвай на ближния си: „Иди и се върни, и утре ще дам“ — а има ⟨את⟩ тебе.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "казвай"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "на ближния си"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "и се върни"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "и утре"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ще дам"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "а има"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ тебе",
+      "marks": "тебе"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:26.888458312Z",
+  "model": "glm-5.3"
+}

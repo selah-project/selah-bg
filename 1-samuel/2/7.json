@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 2:7",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Яхве разорява и обогатява, смирява, да и възвишава.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מוריש",
+      "gloss": "разорява"
+    },
+    {
+      "surface": "ומעשיר",
+      "gloss": "и обогатява"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "смирява"
+    },
+    {
+      "surface": "אף",
+      "gloss": "да"
+    },
+    {
+      "surface": "מרומם",
+      "gloss": "възвишава"
+    }
+  ],
+  "timestamp": "2026-09-22T12:35:18.935726843Z",
+  "model": "glm-5.3"
+}

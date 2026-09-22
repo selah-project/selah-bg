@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 73:11",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 73,
+  "translation": "И казаха: Как би познал Ел, и има ли знание във Всевишния?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "И казаха"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "Как"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "би познал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "и има ли"
+    },
+    {
+      "surface": "דעה",
+      "gloss": "знание"
+    },
+    {
+      "surface": "בעליון",
+      "gloss": "във Всевишния"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:54.463609255Z",
+  "model": "glm-5.3"
+}

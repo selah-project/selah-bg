@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Както разрез от нар е слепоочието ти зад забрадката ти.",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "Както разрез"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "от нар"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "слепоочието ти"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "зад"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "забрадката ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:34:02.581576887Z",
+  "model": "glm-5.3"
+}

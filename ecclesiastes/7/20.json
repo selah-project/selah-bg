@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Защото човек — няма праведник на земята, който да прави добро и да не съгрешава.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведник"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земята"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "да прави"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "съгрешава"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:52.015461826Z",
+  "model": "glm-5.3"
+}

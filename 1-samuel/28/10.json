@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 28:10",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "И се закле Шаул ⟨в⟩ Яхве, казвайки: жив е Яхве, ако те сполети вина за това нещо!",
+  "tokens": [
+    {
+      "surface": "וישבע",
+      "gloss": "и се закле"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟝ней⟩"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "в Яхве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יקרך",
+      "gloss": "сполети"
+    },
+    {
+      "surface": "עון",
+      "gloss": "вина"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "за нещо"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "това"
+    }
+  ],
+  "timestamp": "2026-09-22T12:46:19.847104913Z",
+  "model": "glm-5.3"
+}

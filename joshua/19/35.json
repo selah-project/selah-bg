@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 19:35",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И укрепените градове: Ха-Цидим, Цер, и Хамат, Рекат, и Кинерет.",
+  "tokens": [
+    {
+      "surface": "וערי",
+      "gloss": "И градове"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "укрепени"
+    },
+    {
+      "surface": "הצדים",
+      "gloss": "Ха-Цидим"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цер"
+    },
+    {
+      "surface": "וחמת",
+      "gloss": "и Хамат"
+    },
+    {
+      "surface": "רקת",
+      "gloss": "Рекат"
+    },
+    {
+      "surface": "וכנרת",
+      "gloss": "и Кинерет"
+    }
+  ],
+  "timestamp": "2026-09-22T12:23:42.783959387Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-kings 7:20",
+  "book": "2-kings",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И стана му така, и народят го стъпка в портата, и умря.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "וירמסו",
+      "gloss": "и го стъпка"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него — третия"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народът"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "в портата"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умря"
+    }
+  ],
+  "timestamp": "2026-09-22T13:16:42.013367272Z",
+  "model": "glm-5.3"
+}

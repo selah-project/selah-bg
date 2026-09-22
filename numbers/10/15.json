@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 10:15",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И над войската на племето на сыновете на Иссахар — Нетанел, син на Цуар.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "войската"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "на племето"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновете"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "на Иссахар"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетанел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "на Цуар"
+    }
+  ],
+  "timestamp": "2026-09-22T11:48:41.832605003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 94:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 94,
+  "translation": "Народа ти, Яхве, смачкват, а наследството ти утискат.",
+  "tokens": [
+    {
+      "surface": "עמך",
+      "gloss": "народа ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ידכאו",
+      "gloss": "смачкват"
+    },
+    {
+      "surface": "ונחלתך",
+      "gloss": "а наследството ти"
+    },
+    {
+      "surface": "יענו",
+      "gloss": "утискат"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:17.247714320Z",
+  "model": "glm-5.3"
+}

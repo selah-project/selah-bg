@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Рама и Гева — шестстотин двадесет и едно.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Рама"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "и Гева"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "и едно"
+    }
+  ],
+  "timestamp": "2026-09-22T15:48:33.415228274Z",
+  "model": "glm-5.3"
+}

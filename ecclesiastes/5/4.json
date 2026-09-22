@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "По-добро е да не обещаеш, отколкото да обещаеш и да не платиш.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "по-добро"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨което⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "обещаеш"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "от да обещаеш"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "платиш"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:22.258230735Z",
+  "model": "glm-5.3"
+}

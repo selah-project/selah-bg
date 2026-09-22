@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "и за подуване, и за краста, и за белег:",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "и за подуване"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "и за краста"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "и за белег"
+    }
+  ],
+  "timestamp": "2026-09-22T11:36:45.851135840Z",
+  "model": "glm-5.3"
+}

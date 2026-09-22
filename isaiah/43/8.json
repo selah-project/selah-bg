@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 43,
+  "translation": "Изведи ⟨едини⟩ народ слеп, а очи има, и глухи, а уши има ⟨ним⟩.",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "Изведи"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "слеп"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "а очи"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "и глухи"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "а уши"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨ним⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T13:37:55.011104053Z",
+  "model": "glm-5.3"
+}

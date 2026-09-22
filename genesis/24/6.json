@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 24:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И рече към него Авраам: внимавай за себе си — да не върнеш ⟨את⟩ сина ми натам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "към него"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "внимавай"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за себе си"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "върнеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сина ми"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сина ми"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "натам"
+    }
+  ],
+  "timestamp": "2026-09-22T11:01:57.274868163Z",
+  "model": "glm-5.3"
+}

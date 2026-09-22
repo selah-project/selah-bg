@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 24:22",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И ще помниш, че роб беше в земята Мицраим ⟨Египет⟩; затова аз ти заповядвам да вършиш ⟨את⟩ тази работа.",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "и ще помниш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "роб"
+    },
+    {
+      "surface": "היית",
+      "gloss": "беше"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "כן",
+      "gloss": "това"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ти заповядвам"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да вършиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тази работа"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "работата"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "тази"
+    }
+  ],
+  "timestamp": "2026-09-22T12:10:44.240136615Z",
+  "model": "glm-5.3"
+}

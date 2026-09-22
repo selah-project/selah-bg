@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "синовете на Хашем Гизонееца, Йонатан, син на Шаге Харарееца,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "השם",
+      "gloss": "на Хашем"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "Гизонееца"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "на Шаге"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "Харарееца"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:31.974950584Z",
+  "model": "glm-5.3"
+}

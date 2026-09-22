@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 15:44",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "и Кеила, и Ахзив, и Мареша — градове девет, и селата им",
+  "tokens": [
+    {
+      "surface": "וקעילה",
+      "gloss": "и Кеила"
+    },
+    {
+      "surface": "ואכזיב",
+      "gloss": "и Ахзив"
+    },
+    {
+      "surface": "ומראשה",
+      "gloss": "и Мареша"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "градове"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "девет"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "и селата им"
+    }
+  ],
+  "timestamp": "2026-09-22T12:22:19.894741449Z",
+  "model": "glm-5.3"
+}

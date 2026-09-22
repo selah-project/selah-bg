@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 7:46",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "и един козел за принасяне за грях;",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "козел"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "от козите"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за принасяне за грях"
+    }
+  ],
+  "timestamp": "2026-09-22T11:47:19.913925077Z",
+  "model": "glm-5.3"
+}

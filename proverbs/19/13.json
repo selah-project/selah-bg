@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 19:13",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "Погибел на баща му е син глупав, и непрестанно капене — раздорите ⟨на⟩ жена.",
+  "tokens": [
+    {
+      "surface": "הות",
+      "gloss": "погибел"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "на баща му"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупав"
+    },
+    {
+      "surface": "ודלף",
+      "gloss": "и капене"
+    },
+    {
+      "surface": "טרד",
+      "gloss": "непрестанно"
+    },
+    {
+      "surface": "מדיני",
+      "gloss": "раздорите"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:56.418089567Z",
+  "model": "glm-5.3"
+}

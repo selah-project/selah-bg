@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 126:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 126,
+  "translation": "Яхве върши велики неща с нас; бяхме радостни.",
+  "tokens": [
+    {
+      "surface": "הגדיל",
+      "gloss": "върши велики"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "неща"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "с нас"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "бяхме"
+    },
+    {
+      "surface": "שמחים",
+      "gloss": "радостни"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:21.088184181Z",
+  "model": "glm-5.3"
+}

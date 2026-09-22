@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 7:24",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Со стрели и с лък ще отива ⟨човек⟩ там, защото тръни и бодили ще бъде цялата земя.",
+  "tokens": [
+    {
+      "surface": "בחצים",
+      "gloss": "Со стрели"
+    },
+    {
+      "surface": "ובקשת",
+      "gloss": "и с лък"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ще отива"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "там"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "тръни"
+    },
+    {
+      "surface": "ושית",
+      "gloss": "и бодили"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ще бъде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земя"
+    }
+  ],
+  "timestamp": "2026-09-22T13:26:14.975432104Z",
+  "model": "glm-5.3"
+}

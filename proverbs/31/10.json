@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Жена на доблест кой ще намери, и по-високо от корали е цената ѝ?",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "Жена"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "на доблест"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ще намери"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "и по-високо"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "от корали"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "цената ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T15:23:07.449801577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Нека мина през земята ти; по пътя, по пътя ще ходя; няма да се отклоня надясно и наляво.",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "Нека мина"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "през земята ти"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "по пътя"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "по пътя"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ще ходя"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "ще се отклоня"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "надясно"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "и наляво"
+    }
+  ],
+  "timestamp": "2026-09-22T12:01:52.248247925Z",
+  "model": "glm-5.3"
+}

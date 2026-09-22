@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 26:23",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И ако с тези не се вразумите ⟨към⟩ Мене, а ходите с Мене враждебно —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "באלה",
+      "gloss": "с тези"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוסרו",
+      "gloss": "се вразумите"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мене"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "и ходите"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "с Мене"
+    },
+    {
+      "surface": "קרי",
+      "gloss": "враждебно"
+    }
+  ],
+  "timestamp": "2026-09-22T11:44:04.659230665Z",
+  "model": "glm-5.3"
+}

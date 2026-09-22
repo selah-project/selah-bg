@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "защото който намери мен, намира живот, и добива благоволение от Яхве.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "който намери"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "намира"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живот"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "и добива"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "благоволение"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "от Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:23.643853071Z",
+  "model": "glm-5.3"
+}

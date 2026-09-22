@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Ако змията ухапе без заклинание, няма полза за господаря на езика.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ухапе"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "змията"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "без"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "заклинание"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "полза"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "за господаря"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "на езика"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:37.590441207Z",
+  "model": "glm-5.3"
+}

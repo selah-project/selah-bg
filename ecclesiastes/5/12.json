@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Има зло болно, което видях под слънцето: богатство, пазено за стопанина му — за злото му.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видях"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "слънцето"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "пазено"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "за стопанина му"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "за злото му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:32.295588105Z",
+  "model": "glm-5.3"
+}

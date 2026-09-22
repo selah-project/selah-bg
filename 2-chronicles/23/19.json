@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 23:19",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "И постави вратарите на портите на дома на Яхве, и нечист ⟨човек⟩ да не влезе за никакво нещо.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "И постави"
+    },
+    {
+      "surface": "השוערים",
+      "gloss": "вратарите"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "портите"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "влезе"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечист"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "за никакво"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "нещо"
+    }
+  ],
+  "timestamp": "2026-09-22T16:10:33.299497544Z",
+  "model": "glm-5.3"
+}

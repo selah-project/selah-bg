@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 78:30",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 78,
+  "translation": "Не отбяха се от желанието си — още бе ястието им в устата им.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "זרו",
+      "gloss": "отбяха се"
+    },
+    {
+      "surface": "מתאותם",
+      "gloss": "от желанието си"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "още"
+    },
+    {
+      "surface": "אכלם",
+      "gloss": "ястието им"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "в устата им"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:07.474406919Z",
+  "model": "glm-5.3"
+}

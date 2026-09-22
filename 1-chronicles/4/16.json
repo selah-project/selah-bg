@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И синовете на Йехалеле́л: Зиф и Зифа, Тиря и Ашаре́л.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синовете"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "на Йехалеле́л"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "Зиф"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "и Зифа"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "Тиря"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "и Ашаре́л"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:00.181563407Z",
+  "model": "glm-5.3"
+}

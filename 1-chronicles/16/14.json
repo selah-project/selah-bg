@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 16:14",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Той ⟨е⟩ Яхве, Елохимът ни; по цялата земя ⟨са⟩ Неговите съдби.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Той"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохимът ни"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "по цялата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "Неговите съдби"
+    }
+  ],
+  "timestamp": "2026-09-22T16:01:13.897822495Z",
+  "model": "glm-5.3"
+}

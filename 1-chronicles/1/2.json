@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 1:2",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Кейнан, Махалалел, Яред.",
+  "tokens": [
+    {
+      "surface": "קינן",
+      "gloss": "Кейнан"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Махалалел"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Яред"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:19.474220978Z",
+  "model": "glm-5.3"
+}

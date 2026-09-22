@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Синовете на Яфет: Гомер и Магог, и Мадай, и Яван, и Тувал, и Мешех, и Тирас.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "на Яфет"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "Гомер"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "и Магог"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "и Мадай"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "и Яван"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "и Тувал"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "и Мешех"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "и Тирас"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:25.523706278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 20:15",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Така ще сториш на всички градове, много далечни от тебе, които не са от градовете на тези народи тук",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "Така"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ще сториш"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на всички"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "градове"
+    },
+    {
+      "surface": "הרחקת",
+      "gloss": "далечни"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "от тебе"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "много"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מערי",
+      "gloss": "от градовете"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "на народите"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "тук"
+    }
+  ],
+  "timestamp": "2026-09-22T12:09:27.284691744Z",
+  "model": "glm-5.3"
+}

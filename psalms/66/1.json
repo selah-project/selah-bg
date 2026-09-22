@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 66:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 66,
+  "translation": "За водача. Песен, мизмор. Изревете към Елохим, цялата земя!",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "за водача"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песен"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "изревете"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "към Елохим"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земя"
+    }
+  ],
+  "timestamp": "2026-09-22T15:02:00.237995925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Аз, Кохелет, бях цар над Израел в Йерушалаим.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Кохелет"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "бях"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "в Йерушалаим"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:35.671584499Z",
+  "model": "glm-5.3"
+}

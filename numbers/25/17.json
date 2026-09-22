@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 25:17",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Потиснете ⟨את⟩ мадианците и ги поразете ⟨את⟩ тях!",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "Потиснете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мадианците"
+    },
+    {
+      "surface": "המדינים",
+      "gloss": "мадианците"
+    },
+    {
+      "surface": "והכיתם",
+      "gloss": "и ги поразете"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ тях",
+      "marks": "тях"
+    }
+  ],
+  "timestamp": "2026-09-22T11:54:38.662882180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 10:15",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И се върна Йехошуа и целият Израел с него към стана, в Гилгал.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И се върна"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йехошуа"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и целият"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с него"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "הגלגלה",
+      "gloss": "в Гилгал"
+    }
+  ],
+  "timestamp": "2026-09-22T12:20:02.077578387Z",
+  "model": "glm-5.3"
+}

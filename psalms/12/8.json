@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 12:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Ти, Яхве, ще ги пазиш, ще го запазиш от поколението това завинаги.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תשמרם",
+      "gloss": "ще ги пазиш"
+    },
+    {
+      "surface": "תצרנו",
+      "gloss": "ще го запазиш"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "поколението"
+    },
+    {
+      "surface": "זו",
+      "gloss": "това"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "завинаги"
+    }
+  ],
+  "timestamp": "2026-09-22T16:43:44.055585152Z",
+  "model": "glm-5.3"
+}

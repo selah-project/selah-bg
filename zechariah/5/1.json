@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 5:1",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И се обърнах, и вдигнах очите си, и видях, и ето — летящ свитък.",
+  "tokens": [
+    {
+      "surface": "ואשוב",
+      "gloss": "и се обърнах"
+    },
+    {
+      "surface": "ואשא",
+      "gloss": "и вдигнах"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очите си"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "и видях"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "свитък"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "летящ"
+    }
+  ],
+  "timestamp": "2026-09-22T14:46:56.623714401Z",
+  "model": "glm-5.3"
+}

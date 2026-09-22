@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И рече змеят на жената: не, умирайки няма да умрете.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "змеят"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מות",
+      "gloss": "умирайки"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "ще умрете"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:28.946269082Z",
+  "model": "glm-5.3"
+}

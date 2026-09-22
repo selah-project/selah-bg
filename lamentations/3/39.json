@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Защо ще се оплаква живият човек, мъжът за греха си?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "защо"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "ще се оплаква"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "греха си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:57.073805563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 105,
+  "translation": "Каза — и дойде скакалец, и гъсеница, без число.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Каза"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и дойде"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "скакалец"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "и гъсеница"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "без"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "число"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:26.707408367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 33:43",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И тръгнаха от Фунон и опънаха ⟨стан⟩ в Овот.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И тръгнаха"
+    },
+    {
+      "surface": "מפונן",
+      "gloss": "от Фунон"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и опънаха ⟨стан⟩"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "в Овот"
+    }
+  ],
+  "timestamp": "2026-09-22T11:59:51.682909427Z",
+  "model": "glm-5.3"
+}

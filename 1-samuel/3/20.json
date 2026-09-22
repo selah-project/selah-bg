@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-samuel 3:20",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И узна целият Израел, от Дан до Беер-Шева, че верен ⟨е⟩ Шемуел за пророк на Яхве.",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "и узна"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целият"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "от Дан"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беер"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "верен"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "לנביא",
+      "gloss": "за пророк"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T12:36:50.222236277Z",
+  "model": "glm-5.3"
+}

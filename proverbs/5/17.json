@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 5:17",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Нека бъдат за тебе само за тебе, и да няма ⟨за⟩ чужденци ⟨את⟩ тебе.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "нека бъдат"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за тебе"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "само за тебе"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и да няма"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "⟨за⟩ чужденци"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ тебе"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:36.267622349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 85,
+  "translation": "Хесед и истина се срещнаха; правда и мир се целунаха.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Хесед"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "и истина"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "се срещнаха"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правда"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "и мир"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "се целунаха"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:21.917603377Z",
+  "model": "glm-5.3"
+}

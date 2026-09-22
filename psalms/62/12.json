@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 62,
+  "translation": "Едно е говорил Елохим, две чух — това: че сила ⟨принадлежи⟩ на Елохим.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Едно"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "е говорил"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "две"
+    },
+    {
+      "surface": "זו",
+      "gloss": "това"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "чух"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "עז",
+      "gloss": "сила"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "на Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T15:02:10.409640417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 3:22",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Не се бойте от тях, защото Яхве, вашият Елохим, ⟨той⟩ е този, който воюва за вас.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תיראום",
+      "gloss": "се бойте от тях"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "вашият Елохим"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨той⟩"
+    },
+    {
+      "surface": "הנלחם",
+      "gloss": "който воюва"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-09-22T12:01:12.649295645Z",
+  "model": "glm-5.3"
+}

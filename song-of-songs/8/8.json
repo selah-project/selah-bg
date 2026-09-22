@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Сестра имаме, малка, и гърди няма ⟨тя⟩; какво ще сторим за сестра ни в деня, когато говорят за нея?",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "Сестра"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "имаме"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "малка"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "и гърди"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨тя⟩"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ще сторим"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "за сестра ни"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "когато говорят"
+    },
+    {
+      "surface": "בה",
+      "gloss": "за нея"
+    }
+  ],
+  "timestamp": "2026-09-22T15:35:40.405692263Z",
+  "model": "glm-5.3"
+}

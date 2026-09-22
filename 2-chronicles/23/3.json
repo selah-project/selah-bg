@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 23:3",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "И среза целият сбор завет в дома на Елохим с царя, и рече им: ето, синът на царя ще царува, както говори Яхве за синовете на Давид.",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "и среза"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целият"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "сбор"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завет"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "в дома"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синът"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царя"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ще царува"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T16:09:25.044683068Z",
+  "model": "glm-5.3"
+}

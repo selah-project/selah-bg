@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 6:19",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "да прогони ⟨את⟩ всички твои врагове от лицето ти, както каза Яхве.",
+  "tokens": [
+    {
+      "surface": "להדף",
+      "gloss": "да прогони"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всички твои врагове"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "твоите врагове"
+    },
+    {
+      "surface": "мפניך",
+      "gloss": "от лицето ти"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T16:20:41.879973066Z",
+  "model": "glm-5.3"
+}

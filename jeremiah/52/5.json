@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 52,
+  "translation": "И дойде градът в обсада до единадесетата година на царя Седекия.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "и дойде"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градът"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "в обсада"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "единадесетата"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "⟨единадесетата⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "година"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "на царя"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Седекия"
+    }
+  ],
+  "timestamp": "2026-09-22T14:09:55.039347705Z",
+  "model": "glm-5.3"
+}

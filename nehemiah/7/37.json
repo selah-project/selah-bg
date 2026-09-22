@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Синовете на Лод, Хадид и Оно, седемстотин двадесет и едно.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "Хадид"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "и Оно"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седем"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадесет"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "и едно"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:47.996702582Z",
+  "model": "glm-5.3"
+}

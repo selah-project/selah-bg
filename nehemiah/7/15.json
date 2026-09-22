@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Синовете на Бинуй, шестстотин четиридесет и осем.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "на Бинуй"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четиридесет"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и осем"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:45.477442494Z",
+  "model": "glm-5.3"
+}

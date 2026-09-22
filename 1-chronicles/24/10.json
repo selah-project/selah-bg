@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "седмият за Хакоц, осмият за Авиja",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "за Хакоц"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "седмият"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "за Авиja"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "осмият"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:28.180427569Z",
+  "model": "glm-5.3"
+}

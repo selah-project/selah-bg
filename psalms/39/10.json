@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 39,
+  "translation": "Замлъкнах, не отварям устата си, защото Ти ⟨ти⟩ го стори.",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "Замлъкнах"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "отварям"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устата си"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "го стори"
+    }
+  ],
+  "timestamp": "2026-09-22T14:57:57.083442454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Вържи ги върху сърцето си винаги, опачи ги върху гърлото си.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "Вържи ги"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "сърцето си"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "винаги"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "опачи ги"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "гърлото си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:40.376733287Z",
+  "model": "glm-5.3"
+}

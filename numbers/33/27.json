@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И тръгнаха от Тахат и се разположиха на стан в Терах.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И тръгнаха"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "от Тахат"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и се разположиха на стан"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "в Терах"
+    }
+  ],
+  "timestamp": "2026-09-22T11:59:40.035040121Z",
+  "model": "glm-5.3"
+}

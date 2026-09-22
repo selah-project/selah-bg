@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 2:13",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Адоникам — шестстотин шестдесет и шест.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "Адоникам"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "шестдесет"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "и шест"
+    }
+  ],
+  "timestamp": "2026-09-22T15:48:17.733071481Z",
+  "model": "glm-5.3"
+}

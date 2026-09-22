@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "2-kings 17:40",
+  "book": "2-kings",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "но не послушаха, а според първия си обичай ⟨те⟩ постъпваха",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "послушаха"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨а⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨а⟩"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "според обичая им"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "първия"
+    },
+    {
+      "surface": "הם",
+      "gloss": "те"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "постъпваха"
+    }
+  ],
+  "timestamp": "2026-09-22T13:20:29.072699786Z",
+  "model": "glm-5.3"
+}

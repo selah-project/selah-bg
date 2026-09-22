@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "Сине човешки, обърни лицето си към планината Сеир и пророкувай против нея:",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човешки"
+    },
+    {
+      "surface": "שים",
+      "gloss": "обърни"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицето си"
+    },
+    {
+      "surface": "על",
+      "gloss": "към"
+    },
+    {
+      "surface": "הר",
+      "gloss": "планината"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "и пророкувай"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "против нея"
+    }
+  ],
+  "timestamp": "2026-09-22T14:26:42.475187422Z",
+  "model": "glm-5.3"
+}

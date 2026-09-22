@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 16:19",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И рече Моше ⟨Мойсей⟩ им: никой да не оставя от него до утро.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше ⟨Мойсей⟩"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "איש",
+      "gloss": "никой"
+    },
+    {
+      "surface": "אל",
+      "gloss": "да не"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "оставя"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "от него"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "утро"
+    }
+  ],
+  "timestamp": "2026-09-22T11:19:40.661810077Z",
+  "model": "glm-5.3"
+}

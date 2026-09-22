@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 28:41",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Синове и дъщери ще родиш, но те няма да бъдат твои, защото ще отидат в плен.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "Синове"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и дъщери"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "ще родиш"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ще бъдат"
+    },
+    {
+      "surface": "לך",
+      "gloss": "твои"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ще отидат"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "в плен"
+    }
+  ],
+  "timestamp": "2026-09-22T12:13:06.720826397Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 15:30",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Сияние на очите радва сърцето; добра вест угоява костите.",
+  "tokens": [
+    {
+      "surface": "מאור",
+      "gloss": "сияние"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "на очите"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "радва"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърцето"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "вест"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "угоява"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "костите"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:20.581916589Z",
+  "model": "glm-5.3"
+}

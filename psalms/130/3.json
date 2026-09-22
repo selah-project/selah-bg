@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 130:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 130,
+  "translation": "Ако беззакония пазиш, Ях, Адонай, кой ще устои?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "עונות",
+      "gloss": "беззакония"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "пазиш"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ще устои"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:47.782196287Z",
+  "model": "glm-5.3"
+}

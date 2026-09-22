@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Сила и слава ⟨са⟩ нейната дреха, и тя се смее за ⟨последния⟩ ден.",
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "Сила"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "и слава"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "нейната дреха"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "и се смее"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "за ден"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "последния"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:58.439078622Z",
+  "model": "glm-5.3"
+}

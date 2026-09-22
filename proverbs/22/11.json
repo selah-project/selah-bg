@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Обича чистота на сърцето — благодат на устните му; приятел му е царят.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "обича"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чистота"
+    },
+    {
+      "surface": "לב",
+      "gloss": "на сърцето"
+    },
+    {
+      "surface": "חן",
+      "gloss": "благодат"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "на устните му"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "приятел му"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:47.100185817Z",
+  "model": "glm-5.3"
+}

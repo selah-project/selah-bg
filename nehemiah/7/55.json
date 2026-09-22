@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "nehemiah 7:55",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "синовете на Баркос, синовете на Сисера, синовете на Тамах,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "Баркос"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "Сисера"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "Тамах"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:53.709319619Z",
+  "model": "glm-5.3"
+}

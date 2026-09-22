@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 33:17",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "Защото така каза Яхве: няма да бъде отнет на Давид ⟨Мъж⟩, седящ на престола на дома Израил.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יכרת",
+      "gloss": "ще бъде отнет"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "седящ"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "престола"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израил"
+    }
+  ],
+  "timestamp": "2026-09-22T14:01:20.406728789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Надявай се на Яхве с цялото си сърце и на своя разум не се опирай.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "надявай се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "с цялото"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "си сърце"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "своя разум"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "се опирай"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:08.993816116Z",
+  "model": "glm-5.3"
+}

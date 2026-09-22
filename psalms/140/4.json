@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 140,
+  "translation": "Изостриха езика си като змия; отрова на аспида е под устните им. Села.",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "Изостриха"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "езика си"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "като"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "змия"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "отрова"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "на аспида"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "устните им"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:46.520886904Z",
+  "model": "glm-5.3"
+}

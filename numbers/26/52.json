@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 26:52",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И говори Яхве на Моше, казвайки:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T11:56:35.049151914Z",
+  "model": "glm-5.3"
+}

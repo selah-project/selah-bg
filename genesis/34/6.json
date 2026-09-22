@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "И излезе Хамор, бащата на Шхем, при Яков, да говори ⟨את⟩ него.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И излезе"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Хамор"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "бащата"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "на Шхем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "да говори"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него"
+    }
+  ],
+  "timestamp": "2026-09-22T11:07:48.550074372Z",
+  "model": "glm-5.3"
+}

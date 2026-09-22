@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 63,
+  "translation": "Ще го излеят на ⟨острието⟩ на меча; дял за чакали ще бъдат.",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "Ще го излеят"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "⟨острието⟩"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "на меча"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "дял"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "за чакали"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ще бъдат"
+    }
+  ],
+  "timestamp": "2026-09-22T15:02:23.568244088Z",
+  "model": "glm-5.3"
+}

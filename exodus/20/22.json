@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 20:22",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И рече Яхве на Моше: така да кажеш на синовете на Израел: вие видяхте, че от небесата говорих с вас.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "да кажеш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "ראיתם",
+      "gloss": "видяхте"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесата"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорих"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "с вас"
+    }
+  ],
+  "timestamp": "2026-09-22T11:20:10.949779980Z",
+  "model": "glm-5.3"
+}

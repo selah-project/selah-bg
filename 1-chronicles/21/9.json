@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И говори Яхве на Гад, виделеца на Давид, казвайки:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "виделеца"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:40.589440076Z",
+  "model": "glm-5.3"
+}

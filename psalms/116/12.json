@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 116:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 116,
+  "translation": "Какво да върна на Яхве за всичките Му добрини към мен?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Какво"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "да върна"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "за всичките"
+    },
+    {
+      "surface": "תגמולוהי",
+      "gloss": "Му добрини"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "към мен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:55.602057328Z",
+  "model": "glm-5.3"
+}

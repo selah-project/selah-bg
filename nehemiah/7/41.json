@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Синовете на Пашхур: хиляда двеста четиридесет и седем.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "Пашхур"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляда"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двеста"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четиридесет"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "и седем"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:52.973952039Z",
+  "model": "glm-5.3"
+}

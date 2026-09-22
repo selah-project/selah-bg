@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 10:11",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Рече в сърцето си: забравил е Ел, скрил е лицето си, никога няма да види.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "в сърцето си"
+    },
+    {
+      "surface": "שכח",
+      "gloss": "забравил е"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "הסתיר",
+      "gloss": "скрил е"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицето си"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ще види"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "никога"
+    }
+  ],
+  "timestamp": "2026-09-22T14:51:28.887276050Z",
+  "model": "glm-5.3"
+}

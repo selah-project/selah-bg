@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "ezra 2:56",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синове на Яала, синове на Даркон, синове на Гидел.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "Яала"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "Даркон"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "Гидел"
+    }
+  ],
+  "timestamp": "2026-09-22T15:49:10.517522335Z",
+  "model": "glm-5.3"
+}

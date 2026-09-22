@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 6:30",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Сребро отхвърлено — така ги нарекоха, защото Яхве ги отхвърли.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "Сребро"
+    },
+    {
+      "surface": "נמאס",
+      "gloss": "отхвърлено"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "нарекоха"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ги"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "מאס",
+      "gloss": "отхвърли"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ги"
+    }
+  ],
+  "timestamp": "2026-09-22T13:48:03.892608940Z",
+  "model": "glm-5.3"
+}

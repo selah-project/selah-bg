@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "Ето, аз съм Яхве, Елохим на всяка плът — от мене ли ще бъде wunderbar всяко нещо?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на всяка"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плът"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "от мене ли"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "ще бъде wunderbar"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяко"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "нещо"
+    }
+  ],
+  "timestamp": "2026-09-22T14:00:59.010690599Z",
+  "model": "glm-5.3"
+}

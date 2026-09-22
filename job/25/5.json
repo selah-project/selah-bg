@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 25:5",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Ето, дори луната не свети, и звездите не са чисти в очите му.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ето"
+    },
+    {
+      "surface": "עד",
+      "gloss": "дори"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "луната"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יאהיל",
+      "gloss": "свети"
+    },
+    {
+      "surface": "וכוכבים",
+      "gloss": "и звездите"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "זכו",
+      "gloss": "са чисти"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в очите му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:29:11.264098587Z",
+  "model": "glm-5.3"
+}

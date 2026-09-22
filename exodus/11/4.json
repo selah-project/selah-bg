@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 11:4",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И рече Моше: така каза Яхве: на половината на нощта аз излизам всред Мицраим.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כחצת",
+      "gloss": "на половината"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "на нощта"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "יוצא",
+      "gloss": "излизам"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "всред"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    }
+  ],
+  "timestamp": "2026-09-22T11:17:52.750504530Z",
+  "model": "glm-5.3"
+}

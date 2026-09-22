@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 6:6",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "а избрах Йерусалим, Името ми да бъде там, и избрах Давид да бъде над народа ми Израел.",
+  "tokens": [
+    {
+      "surface": "ואבחר",
+      "gloss": "а избрах"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "Йерусалим"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "да бъде"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Името ми"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ואבחר",
+      "gloss": "и избрах"
+    },
+    {
+      "surface": "בדויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "да бъде"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народа ми"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T16:05:05.948100594Z",
+  "model": "glm-5.3"
+}

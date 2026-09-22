@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 122:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 122,
+  "translation": "Заради братята ми и приятелите ми ще кажа сега: мир нa ⟨теб⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "Заради"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "братята ми"
+    },
+    {
+      "surface": "ורעי",
+      "gloss": "и приятелите ми"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "ще кажа"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сега"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "בך",
+      "gloss": "вътре в ⟨теб⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:09.445129563Z",
+  "model": "glm-5.3"
+}

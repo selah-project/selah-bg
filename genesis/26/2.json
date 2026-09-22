@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 26:2",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И се яви Яхве на него и каза: не слизай в Мицраим; живей в земята, за която ще ти кажа.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И се яви"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "слизай"
+    },
+    {
+      "surface": "מצרימה",
+      "gloss": "в Мицраим"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "живей"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "за която"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ще ти кажа"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "на теб"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:14.931665670Z",
+  "model": "glm-5.3"
+}

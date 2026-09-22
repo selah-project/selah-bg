@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Има път прав пред човека, а краят му — пътища на смъртта.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Има"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "път"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прав"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човека"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "а краят му"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "пътища"
+    },
+    {
+      "surface": "מות",
+      "gloss": "на смъртта"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:56.723906881Z",
+  "model": "glm-5.3"
+}

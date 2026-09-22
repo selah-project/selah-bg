@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 36:22",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "Ето, Ел въздига със силата си — кой е като Него, ⟨учител⟩?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ישגיב",
+      "gloss": "въздига"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "със силата си"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "е като Него"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "⟨учител⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T15:31:33.846653527Z",
+  "model": "glm-5.3"
+}

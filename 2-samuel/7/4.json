@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 7:4",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И биде в нощта та, и биде словото на Яхве към Натан, казвайки:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И биде"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "в нощта"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "та"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T12:50:30.175134400Z",
+  "model": "glm-5.3"
+}

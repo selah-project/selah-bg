@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "През всичките дни на посвещението му свят е той на Яхве.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "През всичките"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "на посвещението му"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свят"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е той"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:47:09.798623304Z",
+  "model": "glm-5.3"
+}

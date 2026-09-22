@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 26:22",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Синовете на Йехиели: Зетам и Йоел, брат му, над съкровищниците на дома на Яхве.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "יחיאלי",
+      "gloss": "на Йехиели"
+    },
+    {
+      "surface": "זתם",
+      "gloss": "Зетам"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "и Йоел"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брат му"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "אצרות",
+      "gloss": "съкровищниците"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T16:03:57.867645186Z",
+  "model": "glm-5.3"
+}

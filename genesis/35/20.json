@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 35:20",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "И постави Яаков ⟨Яков⟩ стълб над гроба ѝ; той е стълбът на гроба на Рахел до ден днешен.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "И постави"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "стълб"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "קברתה",
+      "gloss": "гроба ѝ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той е"
+    },
+    {
+      "surface": "מצבת",
+      "gloss": "стълбът"
+    },
+    {
+      "surface": "קברת",
+      "gloss": "гроба"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "днешния ден"
+    }
+  ],
+  "timestamp": "2026-09-22T11:07:23.460982776Z",
+  "model": "glm-5.3"
+}

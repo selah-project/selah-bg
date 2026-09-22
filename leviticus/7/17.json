@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "А остатъкът от месото на жертвата — на третия ден в огън да се изгори.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "а остатъкът"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "от месото"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "на жертвата"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "на ден"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третия"
+    },
+    {
+      "surface": "באש",
+      "gloss": "в огън"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "да се изгори"
+    }
+  ],
+  "timestamp": "2026-09-22T11:33:20.443422582Z",
+  "model": "glm-5.3"
+}

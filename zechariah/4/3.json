@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 4:3",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И две маслини върху нея — една отдясно на съда, и една отляво на него.",
+  "tokens": [
+    {
+      "surface": "ושנים",
+      "gloss": "и две"
+    },
+    {
+      "surface": "זיתים",
+      "gloss": "маслини"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "върху нея"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "една"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "отдясно"
+    },
+    {
+      "surface": "הגלה",
+      "gloss": "на съда"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "и една"
+    },
+    {
+      "surface": "על",
+      "gloss": "отляво на"
+    },
+    {
+      "surface": "שמאלה",
+      "gloss": "него"
+    }
+  ],
+  "timestamp": "2026-09-22T14:46:43.715221069Z",
+  "model": "glm-5.3"
+}

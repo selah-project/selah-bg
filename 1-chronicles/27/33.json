@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 27:33",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Ахитофел беше ⟨съветник⟩ на царя, а Хушай Архиецът — приятел на царя.",
+  "tokens": [
+    {
+      "surface": "ואחיתפל",
+      "gloss": "Ахитофел"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "съветник"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "на царя"
+    },
+    {
+      "surface": "וחושי",
+      "gloss": "а Хушай"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "Архиецът"
+    },
+    {
+      "surface": "רע",
+      "gloss": "приятел"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царя"
+    }
+  ],
+  "timestamp": "2026-09-22T16:03:51.376848210Z",
+  "model": "glm-5.3"
+}

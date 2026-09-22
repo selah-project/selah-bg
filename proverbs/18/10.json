@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 18:10",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Кула от сила ⟨е⟩ името на Яхве; в нея тича праведникът и се издига.",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "кула"
+    },
+    {
+      "surface": "עז",
+      "gloss": "от сила"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в нея"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "тича"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведникът"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "и се издига"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:32.419439330Z",
+  "model": "glm-5.3"
+}

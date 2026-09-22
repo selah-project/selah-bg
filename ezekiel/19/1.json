@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И ти, вдигни плач ⟨за⟩ князовете на Израел,",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "и ти"
+    },
+    {
+      "surface": "שא",
+      "gloss": "вдигни"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "плач"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨за⟩"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "князовете"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T14:18:17.116612756Z",
+  "model": "glm-5.3"
+}

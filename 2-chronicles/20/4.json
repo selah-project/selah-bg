@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И се събра Юда да иска ⟨помощ⟩ от Яхве; и от всички градове на Юда дойдоха да търсят ⟨את⟩ Яхве.",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "И се събра"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Юда"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "да иска"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "от Яхве"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "от всички"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "градове"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Юда"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дойдоха"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "да търсят"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T16:34:25.260609114Z",
+  "model": "glm-5.3"
+}

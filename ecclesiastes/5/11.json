@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Сладък е сънят на работника — дали ще яде малко или много; а ситостта на богатия не му позволява да спи.",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "сладък"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "сънят"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "на работника"
+    },
+    {
+      "surface": "אם",
+      "gloss": "дали"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "малко"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "или"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "много"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ще яде"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "а ситостта"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "на богатия"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "не"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "позволява"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "да спи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:32.293710898Z",
+  "model": "glm-5.3"
+}

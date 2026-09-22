@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-samuel 22:14",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Прогърмя Яхве от небесата, и Всевишният даде гласа си.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "прогърмя"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небесата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ועליון",
+      "gloss": "и Всевишният"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "гласа си"
+    }
+  ],
+  "timestamp": "2026-09-22T12:58:55.475200595Z",
+  "model": "glm-5.3"
+}

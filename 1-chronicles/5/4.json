@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 5:4",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Синове на Йоел: Шемая, синът му; Гог, синът му; Шими, синът му.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синове"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "на Йоел"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемая"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "Гог"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шими"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:40.583297988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "А синовете на Хела: Церет, Йицхар и Етнан.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синовете"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "Хела"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "Церет"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "Йицхар"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "и Етнан"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:40.424451433Z",
+  "model": "glm-5.3"
+}

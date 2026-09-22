@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Аз те познах в пустинята, в земя на изсушение.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "те познах"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустинята"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земя"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "на изсушение"
+    }
+  ],
+  "timestamp": "2026-09-22T14:35:01.886050149Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 15:45",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Екрон, градчетата ѝ и селата ѝ;",
+  "tokens": [
+    {
+      "surface": "עקרון",
+      "gloss": "Екрон"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "градчетата ѝ"
+    },
+    {
+      "surface": "וחצריה",
+      "gloss": "и селата ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T12:22:20.147175107Z",
+  "model": "glm-5.3"
+}

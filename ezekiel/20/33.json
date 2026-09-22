@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezekiel 20:33",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Жив съм Аз, oracle на Адонай Яхве: ако не с мощна ръка и с простряна мишца и с изляна ярост ще царувам над вас.",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "с ръка"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "мощна"
+    },
+    {
+      "surface": "ובזרוע",
+      "gloss": "и с мишца"
+    },
+    {
+      "surface": "נטויה",
+      "gloss": "простряна"
+    },
+    {
+      "surface": "ובחמה",
+      "gloss": "и с ярост"
+    },
+    {
+      "surface": "שפוכה",
+      "gloss": "изляна"
+    },
+    {
+      "surface": "אמלוך",
+      "gloss": "ще царувам"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "над вас"
+    }
+  ],
+  "timestamp": "2026-09-22T14:19:22.697556154Z",
+  "model": "glm-5.3"
+}

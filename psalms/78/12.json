@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 78:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 78,
+  "translation": "Пред бащите им стори чудо в земята Мицраим ⟨Египет⟩, в полето Цоан.",
+  "tokens": [
+    {
+      "surface": "נגד",
+      "gloss": "пред"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "бащите им"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "стори"
+    },
+    {
+      "surface": "פלא",
+      "gloss": "чудо"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "полето"
+    },
+    {
+      "surface": "צען",
+      "gloss": "Цоан"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:44.579779587Z",
+  "model": "glm-5.3"
+}

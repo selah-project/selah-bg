@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 2:6",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И рече Яхве на сатаната: ето, той е в ръката ти; само ⟨את⟩ душата му пази.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "השטן",
+      "gloss": "сатаната"
+    },
+    {
+      "surface": "הנו",
+      "gloss": "ето"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "в ръката ти"
+    },
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "душата му"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душата му"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "пази"
+    }
+  ],
+  "timestamp": "2026-09-22T15:23:51.528751769Z",
+  "model": "glm-5.3"
+}

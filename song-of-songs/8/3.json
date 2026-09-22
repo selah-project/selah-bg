@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Лявата му ръка е под главата ми, а дясната му ме прегръща.",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "Лявата му ръка"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главата ми"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "а дясната му"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "ме прегръща"
+    }
+  ],
+  "timestamp": "2026-09-22T15:35:45.110042180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И всичко, което няма перка и люспа, не яжте — нечисто е то за вас.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и всичко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "перка"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "и люспа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "яжте"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечисто"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-09-22T12:06:45.691997424Z",
+  "model": "glm-5.3"
+}

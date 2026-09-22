@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "За водача на хора. Мизмор на Давид.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "за водача на хора"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T14:53:54.292325325Z",
+  "model": "glm-5.3"
+}

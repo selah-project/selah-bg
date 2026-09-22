@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 1:12",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И рече Яхве към мен: добре си видял, защото бдя ⟨за⟩ словото си, да го извърша.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мен"
+    },
+    {
+      "surface": "היטבת",
+      "gloss": "добре си видял"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "да видиш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "שקד",
+      "gloss": "бдя"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨за⟩"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "словото си"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "да го извърша"
+    }
+  ],
+  "timestamp": "2026-09-22T16:25:23.445968100Z",
+  "model": "glm-5.3"
+}

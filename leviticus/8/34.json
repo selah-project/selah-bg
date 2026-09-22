@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 8:34",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Както се направи в този ден, заповяда Яхве да се прави, за да умилостиви за вас.",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "се направи"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповяда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "да се прави"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "да умилостиви"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-09-22T11:34:34.162459096Z",
+  "model": "glm-5.3"
+}

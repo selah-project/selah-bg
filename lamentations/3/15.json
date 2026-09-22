@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Насити ме с горчивки, напои ме с пелин.",
+  "tokens": [
+    {
+      "surface": "השביעני",
+      "gloss": "Насити ме"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "с горчивки"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "напои ме"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "с пелин"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:51.099657185Z",
+  "model": "glm-5.3"
+}

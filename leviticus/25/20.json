@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 25:20",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И ако кажете: какво ще ядем през годината седмата? Ето, не сеем и не събираме ⟨את⟩ добива ни.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "кажете"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ще ядем"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "през годината"
+    },
+    {
+      "surface": "השביעת",
+      "gloss": "седмата"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ето"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נזרע",
+      "gloss": "сеем"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נאסף",
+      "gloss": "събираме"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "добива ни"
+    },
+    {
+      "surface": "תבואתנו",
+      "gloss": "добива ни"
+    }
+  ],
+  "timestamp": "2026-09-22T11:42:25.071185739Z",
+  "model": "glm-5.3"
+}

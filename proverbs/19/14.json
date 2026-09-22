@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 19:14",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "Дом и богатство ⟨са⟩ наследство от бащи, а от Яхве — жена разумна.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "והון",
+      "gloss": "и богатство"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "наследство"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "бащи"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "а от Яхве"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "משכלת",
+      "gloss": "разумна"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:56.419890152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Добро ⟨е⟩ за мъжа, когато носи иго в младостта си.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Добро"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "за мъжа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когато"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "носи"
+    },
+    {
+      "surface": "על",
+      "gloss": "иго"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "в младостта си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:51.902960456Z",
+  "model": "glm-5.3"
+}

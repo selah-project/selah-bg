@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 18:2",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И взе Йитро, тестът на Моше, ⟨את⟩ Ципора, жената на Моше, след изпращането ѝ.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И взе"
+    },
+    {
+      "surface": "יתרו",
+      "gloss": "Йитро"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "тестът"
+    },
+    {
+      "surface": "משה",
+      "gloss": "на Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ципора"
+    },
+    {
+      "surface": "צפרה",
+      "gloss": "Ципора"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жената"
+    },
+    {
+      "surface": "משה",
+      "gloss": "на Моше"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "след"
+    },
+    {
+      "surface": "שלוחיה",
+      "gloss": "изпращането ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T11:21:11.996332774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Аз ⟨приказвам⟩: думата на устата на царя пази, и ради клетвата на Елохим.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устата"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на царя"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "пази"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и върху"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ради"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "клетвата"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "на Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:22.307012906Z",
+  "model": "glm-5.3"
+}

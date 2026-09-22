@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 42:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 42,
+  "translation": "Стана ми сълзата хляб денем и нощем, като ми казват целия ден: къде е твоят Елохим?",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "Стана"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "דמעתי",
+      "gloss": "сълзата"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляб"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "денем"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "и нощем"
+    },
+    {
+      "surface": "באמר",
+      "gloss": "като казват"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целия"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "איה",
+      "gloss": "къде е"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твоят Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T14:58:28.422129067Z",
+  "model": "glm-5.3"
+}

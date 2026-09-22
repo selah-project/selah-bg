@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "земя на пшеница и ечемик, и лоза, и смокиня, и нар — земя на маслиново масло и мед.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "на пшеница"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "и ечемик"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "и лоза"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "и смокиня"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "и нар"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "זית",
+      "gloss": "на маслина"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "масло"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "и мед"
+    }
+  ],
+  "timestamp": "2026-09-22T16:20:25.376758071Z",
+  "model": "glm-5.3"
+}

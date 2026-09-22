@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Дори срещу мен се разгневи Яхве заради вас, като каза: и ти няма да влезеш там.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "дори"
+    },
+    {
+      "surface": "בי",
+      "gloss": "срещу мен"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "се разгневи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "заради вас"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "като каза"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "няма"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "да влезеш"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    }
+  ],
+  "timestamp": "2026-09-22T12:01:17.330951793Z",
+  "model": "glm-5.3"
+}

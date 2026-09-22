@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 34:15",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Само на това ще се съгласиме с вас: ако бъдете като нас — да се обреже у вас всяко мъжко.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "на това"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "ще се съгласиме"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "с вас"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "бъдете"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "както нас"
+    },
+    {
+      "surface": "להמל",
+      "gloss": "да се обреже"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "у вас"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяко"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "мъжко"
+    }
+  ],
+  "timestamp": "2026-09-22T11:07:19.832907185Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 36:19",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "И казаха князете на Варух: иди, скрий се, ти и Ирмейаху, и никой да не знае къде сте.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и казаха"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "князете"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Варух"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "скрий се"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וירמיהו",
+      "gloss": "и Ирмейаху"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и никой"
+    },
+    {
+      "surface": "אל",
+      "gloss": "да не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знае"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "къде"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сте"
+    }
+  ],
+  "timestamp": "2026-09-22T14:03:09.036959696Z",
+  "model": "glm-5.3"
+}

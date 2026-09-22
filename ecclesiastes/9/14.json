@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 9:14",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Малък град и малко мъже в него; и дойде against него велик цар, и го обиколи, и издигна ⟨את⟩ него големи обсадни съоръжения.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "малък"
+    },
+    {
+      "surface": "ואנשים",
+      "gloss": "и мъже"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в него"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "малко"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "и дойде"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "против него"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "וסבב",
+      "gloss": "и обиколи"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ него",
+      "marks": " го"
+    },
+    {
+      "surface": "ובנה",
+      "gloss": "и издигна"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "срещу него"
+    },
+    {
+      "surface": "מצודים",
+      "gloss": "обсадни съоръжения"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "големи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:17.089707734Z",
+  "model": "glm-5.3"
+}

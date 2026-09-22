@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Вържи ги на пръстите си, напиши ги на плочата на сърцето си.",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "Вържи ги"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "пръстите си"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "напиши ги"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "плочата"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "на сърцето си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:16.480509082Z",
+  "model": "glm-5.3"
+}

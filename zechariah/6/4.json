@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И отговорих и казах на ангела, който говореше в мен: какви са тези, Адонай мой?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "и отговорих"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и казах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ангела"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "който говореше"
+    },
+    {
+      "surface": "בי",
+      "gloss": "в мен"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какви"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "са тези"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай мой"
+    }
+  ],
+  "timestamp": "2026-09-22T16:28:34.756607773Z",
+  "model": "glm-5.3"
+}

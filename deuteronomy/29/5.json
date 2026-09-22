@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 29:5",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Хляб не ядохте, и вино и силно питие не пихте — за да знаете, че аз съм Яхве, Елохим ваш.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "хляб"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אכלתם",
+      "gloss": "ядохте"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и вино"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "и силно питие"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שתיתם",
+      "gloss": "пихте"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "знаете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елохим ваш"
+    }
+  ],
+  "timestamp": "2026-09-22T12:13:02.893999208Z",
+  "model": "glm-5.3"
+}

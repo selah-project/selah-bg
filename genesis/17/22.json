@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 17:22",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И свърши да говори ⟨с⟩ ⟨את⟩ него, и се възнесе Елохим от Авраам.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "и свърши"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "да говори"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "и се възнесе"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "от"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    }
+  ],
+  "timestamp": "2026-09-22T10:59:03.809236922Z",
+  "model": "glm-5.3"
+}

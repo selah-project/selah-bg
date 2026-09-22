@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 89,
+  "translation": "Благословен е Яхве до вечността. Амин и амин.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "до вечността"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амин"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "и амин"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:08.433442139Z",
+  "model": "glm-5.3"
+}

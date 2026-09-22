@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 25:11",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Златни ябълки в сребърни обковки — слово, изговорено навремето си.",
+  "tokens": [
+    {
+      "surface": "תפוחי",
+      "gloss": "ябълки"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златни"
+    },
+    {
+      "surface": "במשכיות",
+      "gloss": "в обковки"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребърни"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "изговорено"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אפניו",
+      "gloss": "своето време"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:36.263595963Z",
+  "model": "glm-5.3"
+}

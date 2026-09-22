@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 23:8",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Ето, напред ще отида, а го няма; и назад — и не мога да го зърна.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "напред"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ще отида"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "а го няма"
+    },
+    {
+      "surface": "ואחור",
+      "gloss": "и назад"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אבין",
+      "gloss": "мога да зърна"
+    },
+    {
+      "surface": "לו",
+      "gloss": "го"
+    }
+  ],
+  "timestamp": "2026-09-22T15:28:24.891744995Z",
+  "model": "glm-5.3"
+}

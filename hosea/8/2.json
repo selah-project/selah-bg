@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "hosea 8:2",
+  "book": "hosea",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Към Мен ще викат: Боже мой, познахме Те, Израел!",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "към Мен"
+    },
+    {
+      "surface": "יזעקו",
+      "gloss": "ще викат"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Боже мой"
+    },
+    {
+      "surface": "ידענוך",
+      "gloss": "познахме Те"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T14:34:35.207460632Z",
+  "model": "glm-5.3"
+}

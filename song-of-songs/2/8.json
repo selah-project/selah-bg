@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Глас на моя възлюбен! Ето, той иде — скача по планините, подскача по хълмовете.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Глас"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "на моя възлюбен"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "זה",
+      "gloss": "той"
+    },
+    {
+      "surface": "בא",
+      "gloss": "иде"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "скача"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "планините"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "подскача"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "хълмовете"
+    }
+  ],
+  "timestamp": "2026-09-22T15:34:20.238849103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "И върху Азарияху, син на Одед, беше ⟨дух⟩ на Елохим.",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "и Азарияху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "на Одед"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "върху него"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "на Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T16:08:40.066074247Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 13:5",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И на Лот, който ходеше ⟨с⟩ Аврам ⟨את⟩, имаше дребен добитък, говеда и шатри.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "И на"
+    },
+    {
+      "surface": "ללוט",
+      "gloss": "Лот"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "който ходеше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврам"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "היה",
+      "gloss": "имаше"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "дребен добитък"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "и говеда"
+    },
+    {
+      "surface": "ואהלים",
+      "gloss": "и шатри"
+    }
+  ],
+  "timestamp": "2026-09-22T10:57:33.086324490Z",
+  "model": "glm-5.3"
+}

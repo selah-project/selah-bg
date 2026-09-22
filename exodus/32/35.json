@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "exodus 32:35",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "И порази Яхве ⟨את⟩ народа, задето направиха ⟨את⟩ телето, което направи Аарон.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "И порази"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народа"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "על",
+      "gloss": "задето"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨задето⟩"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направиха"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "телето"
+    },
+    {
+      "surface": "העגל",
+      "gloss": "телето"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    }
+  ],
+  "timestamp": "2026-09-22T11:27:02.327923854Z",
+  "model": "glm-5.3"
+}

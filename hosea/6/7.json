@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 6:7",
+  "book": "hosea",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "А те като Адам престъпиха завета; там ми изневериха.",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "А те"
+    },
+    {
+      "surface": "כאדם",
+      "gloss": "като Адам"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "престъпиха"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завета"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "изневериха"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ми"
+    }
+  ],
+  "timestamp": "2026-09-22T14:32:33.659139201Z",
+  "model": "glm-5.3"
+}

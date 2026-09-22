@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 30:1",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И биде слово от Яхве към мен, казвайки:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И биде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мен"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T14:23:53.304865188Z",
+  "model": "glm-5.3"
+}

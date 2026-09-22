@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Човек в лишение обича веселие; обича вино и масло — няма да забогатее.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "в лишение"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "обича"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "веселие"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "обича"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вино"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "и масло"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "щом забогатее"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:28.628441101Z",
+  "model": "glm-5.3"
+}

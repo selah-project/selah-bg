@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 7:45",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "един юнец, син на стадото, един овен, един агнец, син на една година, за всеизгаряне;",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "юнец"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "на стадото"
+    },
+    {
+      "surface": "איל",
+      "gloss": "овен"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "агнец"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "на една година"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "за всеизгаряне"
+    }
+  ],
+  "timestamp": "2026-09-22T11:47:19.913711900Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И рече му Яхве: мир тебе; не се бой, няма да умреш.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "се бой"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ще умреш"
+    }
+  ],
+  "timestamp": "2026-09-22T12:28:00.147146669Z",
+  "model": "glm-5.3"
+}

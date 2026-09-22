@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Престанаха старци от портата, младежи — от тяхната музика.",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "старци"
+    },
+    {
+      "surface": "משער",
+      "gloss": "от портата"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "престанаха"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "младежи"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "от тяхната музика"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:18.533686755Z",
+  "model": "glm-5.3"
+}

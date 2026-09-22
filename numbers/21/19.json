@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 21:19",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И от Матана — Нахалиел, и от Нахалиел — Бамот.",
+  "tokens": [
+    {
+      "surface": "וממתנה",
+      "gloss": "и от Матана"
+    },
+    {
+      "surface": "נחליאל",
+      "gloss": "Нахалиел"
+    },
+    {
+      "surface": "ומנחליאל",
+      "gloss": "и от Нахалиел"
+    },
+    {
+      "surface": "במות",
+      "gloss": "Бамот"
+    }
+  ],
+  "timestamp": "2026-09-22T11:53:34.555069326Z",
+  "model": "glm-5.3"
+}

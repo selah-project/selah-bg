@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "exodus 25:38",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И щипците ѝ и паничките ѝ — чисто злато.",
+  "tokens": [
+    {
+      "surface": "ומלקחיה",
+      "gloss": "и щипците ѝ"
+    },
+    {
+      "surface": "ומחתתיה",
+      "gloss": "и паничките ѝ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисто"
+    }
+  ],
+  "timestamp": "2026-09-22T11:23:44.270262877Z",
+  "model": "glm-5.3"
+}

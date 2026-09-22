@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 6:8",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "приготвя през лятото хляба си, събира през жътвата храната си.",
+  "tokens": [
+    {
+      "surface": "תכין",
+      "gloss": "приготвя"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "през лятото"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "хляба си"
+    },
+    {
+      "surface": "אגרה",
+      "gloss": "събира"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "през жътвата"
+    },
+    {
+      "surface": "מאכלה",
+      "gloss": "храната си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:46.258357127Z",
+  "model": "glm-5.3"
+}

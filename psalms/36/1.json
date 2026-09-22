@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 36:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "На водача. ⟨За⟩ слугата на Яхве, за Давид.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "на водача"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "за слугата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "за Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T14:56:46.310404626Z",
+  "model": "glm-5.3"
+}

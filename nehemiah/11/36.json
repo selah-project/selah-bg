@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 11:36",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И от левитите имаше отделения на Юда за Вениамин.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "и от"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитите"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "отделения"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Юда"
+    },
+    {
+      "surface": "לבנימין",
+      "gloss": "за Вениамин"
+    }
+  ],
+  "timestamp": "2026-09-22T15:55:06.957115695Z",
+  "model": "glm-5.3"
+}

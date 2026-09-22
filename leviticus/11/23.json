@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И всяко пълзящо крилато, което нему четири крака — мръсотия е за вас.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и всяко"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "пълзящо"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "крилато"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "крака"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "мръсотия"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-09-22T11:34:36.788151178Z",
+  "model": "glm-5.3"
+}

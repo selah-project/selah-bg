@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 36:5",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "и Оholивама роди ⟨את⟩ Йеиш, и ⟨את⟩ Йаалам, и ⟨את⟩ Корах; тези са синовете на Исав, които му се родиха в земята Кенаан.",
+  "tokens": [
+    {
+      "surface": "ואהליבמה",
+      "gloss": "и Оholивама"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йеиш"
+    },
+    {
+      "surface": "יעיש",
+      "gloss": "Йеиш"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Йаалам"
+    },
+    {
+      "surface": "יעלם",
+      "gloss": "Йаалам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Корах"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исав"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "му се родиха"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    }
+  ],
+  "timestamp": "2026-09-22T11:07:00.976180882Z",
+  "model": "glm-5.3"
+}

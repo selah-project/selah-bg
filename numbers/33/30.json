@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 33:30",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И тръгнаха от Хашмона и разпънаха стан в Мосerot — в Мосерот.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И тръгнаха"
+    },
+    {
+      "surface": "מחשמנה",
+      "gloss": "от Хашмона"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и разпънаха стан"
+    },
+    {
+      "surface": "במסרות",
+      "gloss": "в Мосерот"
+    }
+  ],
+  "timestamp": "2026-09-22T11:59:40.104232660Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "защото вашите очи видяха ⟨את⟩ цялото велико дело на Яхве, което той стори —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "вашите очи"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "видяха"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цялото велико дело"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялото"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "великото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "стори"
+    }
+  ],
+  "timestamp": "2026-09-22T12:05:50.153660220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 29:11",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И заколиш ⟨את⟩ бика пред Яхве, при входа на шатъра на срещата.",
+  "tokens": [
+    {
+      "surface": "ושחטת",
+      "gloss": "и заколиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "бика"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "бика"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "при входа"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатъра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на срещата"
+    }
+  ],
+  "timestamp": "2026-09-22T11:25:14.434466102Z",
+  "model": "glm-5.3"
+}

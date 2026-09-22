@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Защото сън идва при множество грижи, и гласът на глупака — при множество думи.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "בא",
+      "gloss": "идва"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "сън"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "при множество"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "грижи"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "и гласът"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "на глупака"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "при множество"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "думи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:22.255261611Z",
+  "model": "glm-5.3"
+}

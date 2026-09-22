@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Да даде бузата си на биещия го, да се насити с укор.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Да даде"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "на биещия го"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "буза"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "да се насити"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "с укор"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:52.415911564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И сега към вас ⟨е⟩ тази заповед, свещеници.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И сега"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "към вас"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "заповед"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "тази"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свещеници"
+    }
+  ],
+  "timestamp": "2026-09-22T14:48:56.236879338Z",
+  "model": "glm-5.3"
+}

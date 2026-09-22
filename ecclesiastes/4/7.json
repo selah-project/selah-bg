@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И се върнах аз и видях суета под слънцето.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "И се върнах"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "и видях"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "суета"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "слънцето"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:17.771365043Z",
+  "model": "glm-5.3"
+}

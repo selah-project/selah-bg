@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 38:27",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "И стана в часът на раждането ѝ — и ето, близнаци в утробата ѝ.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "в часът"
+    },
+    {
+      "surface": "לדתה",
+      "gloss": "на раждането ѝ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "תאומים",
+      "gloss": "близнаци"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "в утробата ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T11:08:47.844942697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 30:26",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Скачните зайци — народ не мощен, а поставят в скалата дома си.",
+  "tokens": [
+    {
+      "surface": "שפנים",
+      "gloss": "скачните зайци"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עצום",
+      "gloss": "мощен"
+    },
+    {
+      "surface": "וישימו",
+      "gloss": "а поставят"
+    },
+    {
+      "surface": "בסלע",
+      "gloss": "в скалата"
+    },
+    {
+      "surface": "ביתם",
+      "gloss": "дома си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:12.246423854Z",
+  "model": "glm-5.3"
+}

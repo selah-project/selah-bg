@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 15:7",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "На сините на Гершом Йоел началникът, и братята му — сто и тридесет.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "на сините"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Йоел"
+    },
+    {
+      "surface": "השר",
+      "gloss": "началникът"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и братята му"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "и тридесет"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:45.152160713Z",
+  "model": "glm-5.3"
+}

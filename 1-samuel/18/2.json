@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 18:2",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И го взел Саул в онзи ден и не му дал да се върне в дома на баща си.",
+  "tokens": [
+    {
+      "surface": "ויקחהו",
+      "gloss": "И го взел"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Саул"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в ден"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онзи"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "му дал"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "да се върне"
+    },
+    {
+      "surface": "בית",
+      "gloss": "в дома"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "на баща си"
+    }
+  ],
+  "timestamp": "2026-09-22T16:22:25.006357790Z",
+  "model": "glm-5.3"
+}

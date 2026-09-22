@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 44,
+  "translation": "Кой е образувал бог, и леял идол, който да не ползва?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "е образувал"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бог"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "и идол"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "леял"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "за да не"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "ползва"
+    }
+  ],
+  "timestamp": "2026-09-22T13:40:01.532825555Z",
+  "model": "glm-5.3"
+}

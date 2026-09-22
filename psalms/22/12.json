@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Не се отдалечавай от мен, защото беда ⟨е⟩ близо, защото няма помощник.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "се отдалечавай"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от мен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "беда"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "близо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "помощник"
+    }
+  ],
+  "timestamp": "2026-09-22T14:53:40.753099657Z",
+  "model": "glm-5.3"
+}

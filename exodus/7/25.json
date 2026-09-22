@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И се изпълниха седем дни, след като Яхве порази ⟨את⟩ реката.",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "и се изпълниха"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седем"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "след"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "порази"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "реката"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "реката"
+    }
+  ],
+  "timestamp": "2026-09-22T11:16:12.778554379Z",
+  "model": "glm-5.3"
+}

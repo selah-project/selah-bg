@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 18:8",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И повика царят на Израел един евнух и каза: Бързо ⟨докладай⟩ Миха ⟨Михей⟩, синът на Имла.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и повика"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "סריס",
+      "gloss": "евнух"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "бързо"
+    },
+    {
+      "surface": "מיכהו",
+      "gloss": "Миха"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синът"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "на Имла"
+    }
+  ],
+  "timestamp": "2026-09-22T16:08:33.546821019Z",
+  "model": "glm-5.3"
+}

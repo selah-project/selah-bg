@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Виж, аз давам пред вас днес благословение и проклятие —",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Виж"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "давам"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "пред вас"
+    },
+    {
+      "surface": "היום",
+      "gloss": "днес"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "благословение"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "и проклятие"
+    }
+  ],
+  "timestamp": "2026-09-22T12:05:30.145229598Z",
+  "model": "glm-5.3"
+}

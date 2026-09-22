@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 5:25",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Вода поиска, мляко даде тя; в купа на велможи приближи сирене.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "поиска"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "мляко"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "даде тя"
+    },
+    {
+      "surface": "בספל",
+      "gloss": "в купа"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "на велможи"
+    },
+    {
+      "surface": "הקריבה",
+      "gloss": "приближи"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "сирене"
+    }
+  ],
+  "timestamp": "2026-09-22T12:27:30.012631295Z",
+  "model": "glm-5.3"
+}

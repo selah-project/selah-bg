@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "И за племето на сыновете на Асер — княз Ахиуд, син на Шеломи.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "и за племето"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновете"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "на Асер"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "княз"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "Ахиуд"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "на Шеломи"
+    }
+  ],
+  "timestamp": "2026-09-22T16:19:30.020757371Z",
+  "model": "glm-5.3"
+}

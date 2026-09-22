@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 7:18",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И сестра му Хамолехет роди ⟨את⟩ Ишход, и ⟨את⟩ Авиезер, и ⟨את⟩ Махла.",
+  "tokens": [
+    {
+      "surface": "ואחתו",
+      "gloss": "И сестра му"
+    },
+    {
+      "surface": "המלכת",
+      "gloss": "Хамолехет"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ишход"
+    },
+    {
+      "surface": "אישהוד",
+      "gloss": "Ишход"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Авиезер"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Авиезер"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Махла"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "Махла"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:46.113435528Z",
+  "model": "glm-5.3"
+}

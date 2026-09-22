@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Глупакът прегръда ⟨את⟩ ръцете си и изяжда ⟨את⟩ плътта си.",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "Глупакът"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "прегръда"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ръцете си"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ръцете си"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "и изяжда"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "плътта си"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "плътта си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:17.767377830Z",
+  "model": "glm-5.3"
+}

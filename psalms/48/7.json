@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 48:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "Трепет ги обзе там — болка като ⟨на⟩ жена, която ражда.",
+  "tokens": [
+    {
+      "surface": "רעדה",
+      "gloss": "Трепет"
+    },
+    {
+      "surface": "אחזתם",
+      "gloss": "ги обзе"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "болка"
+    },
+    {
+      "surface": "כיולדה",
+      "gloss": "като жена, която ражда"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:18.053595562Z",
+  "model": "glm-5.3"
+}

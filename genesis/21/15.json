@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И свършиха водите от меха, и остави ⟨את⟩ детето под един от храстите.",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "и свършиха"
+    },
+    {
+      "surface": "המים",
+      "gloss": "водите"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "меха"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "и остави"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "детето"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "детето"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "от храстите"
+    }
+  ],
+  "timestamp": "2026-09-22T11:00:54.480530116Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И дойде при тях Йехошуа изведнъж — цяла нощ се изкачи от Гилгал.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И дойде"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "при тях"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йехошуа"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "изведнъж"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цяла"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "нощ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "се изкачи"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "Гилгал"
+    }
+  ],
+  "timestamp": "2026-09-22T12:19:43.643968777Z",
+  "model": "glm-5.3"
+}

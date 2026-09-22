@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Гордостта на човека ще го смири, а смирения дух ще получи слава.",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "Гордостта"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на човека"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "ще го смири"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "а смирения"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "ще получи"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:25.689323002Z",
+  "model": "glm-5.3"
+}

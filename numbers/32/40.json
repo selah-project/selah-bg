@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "И даде Моше ⟨את⟩ Галаад на Махир, син на Манасия, и той се засели в него.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И даде"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Галаад"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Галаад"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "на Махир"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "на Манасия"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и се засели"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в него"
+    }
+  ],
+  "timestamp": "2026-09-22T11:58:16.820596957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Ноаха, четвъртия, и Рафа, петия.",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "Ноаха"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "четвъртия"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "и Рафа"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "петия"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:45.777017440Z",
+  "model": "glm-5.3"
+}

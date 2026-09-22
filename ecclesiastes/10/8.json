@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Копаещ яма в нея ще падне, а рушащ ограда ще го ухапе змия.",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "копаещ"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "яма"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в нея"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ще падне"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "а рушащ"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ограда"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ще ухапе"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "змия"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:01.541827150Z",
+  "model": "glm-5.3"
+}

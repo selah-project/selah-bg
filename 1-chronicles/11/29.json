@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 11:29",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Сивхай хушатиеца, Илай ахохиеца.",
+  "tokens": [
+    {
+      "surface": "סבכי",
+      "gloss": "Сивхай"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "хушатиеца"
+    },
+    {
+      "surface": "עילי",
+      "gloss": "Илай"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "ахохиеца"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:44.881644854Z",
+  "model": "glm-5.3"
+}

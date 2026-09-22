@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 22:16",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И рече царят: смърт да умреш, Ахимелех, ти и целият дом на баща ти.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смърт"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "да умреш"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "Ахимелех"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и целият"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "на баща ти"
+    }
+  ],
+  "timestamp": "2026-09-22T12:45:51.472237941Z",
+  "model": "glm-5.3"
+}

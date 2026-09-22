@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 8:7",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "и Нааман, и Ахия, и Гера — той ги отведе ⟨в⟩ плен, и роди ⟨את⟩ Уза и ⟨את⟩ Ахихуд.",
+  "tokens": [
+    {
+      "surface": "ונעמן",
+      "gloss": "и Нааман"
+    },
+    {
+      "surface": "ואחיה",
+      "gloss": "и Ахия"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "и Гера"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "הגלם",
+      "gloss": "ги отведе ⟨в⟩ плен"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Уза"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "Уза"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Ахихуд"
+    },
+    {
+      "surface": "אחיחד",
+      "gloss": "Ахихуд"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:47.719940823Z",
+  "model": "glm-5.3"
+}

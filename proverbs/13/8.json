@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 13:8",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Откуп ⟨за⟩ душата на човека е богатството му, а бедният не слуша заплахата.",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "откуп"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душата"
+    },
+    {
+      "surface": "איש",
+      "gloss": "на човека"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "богатството му"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "а бедният"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слуша"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "заплахата"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:03.199191569Z",
+  "model": "glm-5.3"
+}

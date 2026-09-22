@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "Защото народ изгубен в съвети са те и няма в тях разум.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "изгубен"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "в съвети"
+    },
+    {
+      "surface": "המה",
+      "gloss": "са те"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "в тях"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "разум"
+    }
+  ],
+  "timestamp": "2026-09-22T12:14:44.047768742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "На врата си бяхме подгонени, изтощихме се — не ни бе даден покой.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "врата си"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "бяхме подгонени"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "изтощихме се"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "бе даден ⟨покой⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:18.885125872Z",
+  "model": "glm-5.3"
+}

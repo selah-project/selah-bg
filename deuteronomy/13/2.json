@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Кога стане посред тебе пророк или сънуващ сън, и даде на теб знак или чудо,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "стане"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "посред тебе"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "сънуващ"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "сън"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "на теб"
+    },
+    {
+      "surface": "אות",
+      "gloss": "знак"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "чудо"
+    }
+  ],
+  "timestamp": "2026-09-22T12:08:18.864496810Z",
+  "model": "glm-5.3"
+}

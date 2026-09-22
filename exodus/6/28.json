@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И биде в деня, в който рече Яхве на Моше в земята на Мицраим:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И биде"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "на Мицраим"
+    }
+  ],
+  "timestamp": "2026-09-22T11:15:07.862768136Z",
+  "model": "glm-5.3"
+}

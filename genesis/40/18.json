@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 40,
+  "translation": "И отговори Йосеф и каза: това е тълкуванието му: трите кошници — три дни са те.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и отговори"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "тълкуванието му"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "трите"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "кошници"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "הם",
+      "gloss": "са те"
+    }
+  ],
+  "timestamp": "2026-09-22T11:09:27.648502876Z",
+  "model": "glm-5.3"
+}

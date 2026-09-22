@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 76:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 76,
+  "translation": "От небесата изслуша ⟨се⟩ съд; земята се уплаши и утихна.",
+  "tokens": [
+    {
+      "surface": "משמים",
+      "gloss": "от небесата"
+    },
+    {
+      "surface": "השמעת",
+      "gloss": "изслуша ⟨се⟩"
+    },
+    {
+      "surface": "דין",
+      "gloss": "съд"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "се уплаши"
+    },
+    {
+      "surface": "ושקטה",
+      "gloss": "и утихна"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:55.927730336Z",
+  "model": "glm-5.3"
+}

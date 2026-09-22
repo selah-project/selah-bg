@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 20:14",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Лошо, лошо — казва купувачът; а като си отиде, тогава се хвали.",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "Лошо"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лошо"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "казва"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "купувачът"
+    },
+    {
+      "surface": "ואזל",
+      "gloss": "а като отиде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "си"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тогава"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "се хвали"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:10.167668809Z",
+  "model": "glm-5.3"
+}

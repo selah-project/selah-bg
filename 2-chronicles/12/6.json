@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 12:6",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И се смириха вождовете на Израел и царят, и казаха: праведен е Яхве.",
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "И се смириха"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "вождовете"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "и царят"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и казаха"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T16:07:05.155406378Z",
+  "model": "glm-5.3"
+}

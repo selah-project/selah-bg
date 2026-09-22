@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 106:20",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 106,
+  "translation": "И размениха ⟨את⟩ славата си за образ на вол, който яде трева.",
+  "tokens": [
+    {
+      "surface": "וימירו",
+      "gloss": "И размениха"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "славата"
+    },
+    {
+      "surface": "כבודם",
+      "gloss": "славата си"
+    },
+    {
+      "surface": "בתבנית",
+      "gloss": "за образ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "на вол"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ядащ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "трева"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:36.397807816Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 18:9",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И чу Тоу ⟨Мойсей не⟩ царят на Хамат, че порази Давид ⟨את⟩ цялото войско на Хададезер, царя на Цова.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И чу"
+    },
+    {
+      "surface": "תעו",
+      "gloss": "Тоу"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "порази"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цялото войско"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялото"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "войско"
+    },
+    {
+      "surface": "הדדעזר",
+      "gloss": "Хададезер"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Цова"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:02.151619981Z",
+  "model": "glm-5.3"
+}

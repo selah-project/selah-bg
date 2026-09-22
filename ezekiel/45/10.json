@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 45:10",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 45,
+  "translation": "Везни на правда, и ефа на правда, и бат на правда да бъдат вам.",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "везни"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правда"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "и ефа"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правда"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "и бат"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правда"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "да бъдат"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    }
+  ],
+  "timestamp": "2026-09-22T14:30:43.774743633Z",
+  "model": "glm-5.3"
+}

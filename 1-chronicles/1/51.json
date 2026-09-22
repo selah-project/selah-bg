@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И умря Хадад; и станаха князете на Едом: княз Тимна, княз Алва, княз Йетет.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умря"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Хадад"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "и станаха"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "князете"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "на Едом"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "княз"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "Тимна"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "княз"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "Алва"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "княз"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "Йетет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:55.389953416Z",
+  "model": "glm-5.3"
+}

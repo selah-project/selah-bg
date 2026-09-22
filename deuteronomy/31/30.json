@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 31:30",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "И говори Моше ⟨Мойсей⟩ в ушите на целия събор на Израил ⟨את⟩ думите на тази песен, докато ги довърши.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говори"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "в ушите"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целия"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "събор"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израил"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "думите"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "думите"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "на песента"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "тази"
+    },
+    {
+      "surface": "עד",
+      "gloss": "докато"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "ги довърши"
+    }
+  ],
+  "timestamp": "2026-09-22T12:14:03.156228851Z",
+  "model": "glm-5.3"
+}

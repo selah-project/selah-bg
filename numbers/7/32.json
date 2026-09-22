@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 7:32",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "една златна лъжица от десет сикъла, пълна с тамян.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "лъжица"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десет"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златна"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пълна"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "с тамян"
+    }
+  ],
+  "timestamp": "2026-09-22T11:47:03.830896282Z",
+  "model": "glm-5.3"
+}

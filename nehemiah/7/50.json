@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "синове на Реая, синове на Рецин, синове на Некода",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "на Реая"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "на Рецин"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "на Некода"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:53.080184328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 31:22",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Благословен ⟨е⟩ Яхве, защото удиви хеседа Си към мен в обсаден град.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "הפליא",
+      "gloss": "удиви"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседа Си"
+    },
+    {
+      "surface": "לי",
+      "gloss": "към мен"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "в град"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "обсаден"
+    }
+  ],
+  "timestamp": "2026-09-22T14:56:30.138295696Z",
+  "model": "glm-5.3"
+}

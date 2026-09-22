@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 27:20",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Проклет ⟨да бъде⟩ този, който ляга с жена на баща си, защото откри крило на баща си; и ще рече целият народ: амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Проклет"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ляга"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жена"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "на баща си"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "גלה",
+      "gloss": "откри"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "крило"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "на баща си"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и ще рече"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целият"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "амен"
+    }
+  ],
+  "timestamp": "2026-09-22T12:12:29.393341543Z",
+  "model": "glm-5.3"
+}

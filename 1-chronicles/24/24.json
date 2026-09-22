@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Синове на Узиил: Мика; за синовете на Мика — Шамур.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синове"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "на Узиил"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Мика"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "за синовете"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "на Мика"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "Шамур"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:49.657537693Z",
+  "model": "glm-5.3"
+}

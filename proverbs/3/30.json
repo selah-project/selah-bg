@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Не се съди с човек без причина, ако не ти е сторил зло.",
+  "tokens": [
+    {
+      "surface": "אַל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "се съди"
+    },
+    {
+      "surface": "עִם",
+      "gloss": "с"
+    },
+    {
+      "surface": "אָדָ֣ם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "חִנָּ֑ם",
+      "gloss": "без причина"
+    },
+    {
+      "surface": "אִם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לֹ֖א",
+      "gloss": "не"
+    },
+    {
+      "surface": "גְּמָלְךָ֣",
+      "gloss": "ти е сторил"
+    },
+    {
+      "surface": "רָעָֽה",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:33.208494939Z",
+  "model": "glm-5.3"
+}

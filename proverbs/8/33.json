@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Слушайте наказанието и бъдете мъдри, и не го отхвърляйте.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Слушайте"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "наказанието"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "и бъдете мъдри"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "го отхвърляйте"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:23.642611891Z",
+  "model": "glm-5.3"
+}

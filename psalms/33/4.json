@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 33:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "Защото прав е думата на Яхве и цялото му дело — във вярност.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прав"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "думата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и цялото"
+    },
+    {
+      "surface": "מעשהו",
+      "gloss": "негово дело"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "във вярност"
+    }
+  ],
+  "timestamp": "2026-09-22T14:56:50.778775129Z",
+  "model": "glm-5.3"
+}

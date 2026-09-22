@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 14:7",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Иди напротив ⟨от⟩ човек глупав, ⟨за да⟩ не познаеш устни на знание.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Иди"
+    },
+    {
+      "surface": "מנגד",
+      "gloss": "напротив ⟨от⟩"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупав"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "⟨за да⟩ не"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "познаеш"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "устни"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "на знание"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:30.363386494Z",
+  "model": "glm-5.3"
+}

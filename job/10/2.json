@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 10:2",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Ще кажа на Елоах: не ме осъждай; дай ми да узная защо ме съдиш.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Ще кажа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елоах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרשיעני",
+      "gloss": "ме осъждай"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "дай ми да узная"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "מה",
+      "gloss": "защо"
+    },
+    {
+      "surface": "תריבני",
+      "gloss": "ме съдиш"
+    }
+  ],
+  "timestamp": "2026-09-22T15:26:40.244244458Z",
+  "model": "glm-5.3"
+}

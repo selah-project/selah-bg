@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 10:1",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И това са родовете на сыновете на Ной: Шем, Хам и Яфет; и се родиха им синове след потопа.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И това"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "са родовете"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на синовете"
+    },
+    {
+      "surface": "נח",
+      "gloss": "на Ной"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хам"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "и Яфет"
+    },
+    {
+      "surface": "ויולדו",
+      "gloss": "и се родиха"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "след"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "потопа"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:25.523276162Z",
+  "model": "glm-5.3"
+}

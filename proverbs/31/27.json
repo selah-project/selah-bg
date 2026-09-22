@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Наблюдава пътищата на дома си, и хляб на мързел не яде.",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "Наблюдава"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "пътищата"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "на дома си"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "и хляб"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "на мързел"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "яде"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:58.442171515Z",
+  "model": "glm-5.3"
+}

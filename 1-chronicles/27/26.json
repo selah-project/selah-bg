@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "И над работниците на полето за обработване на земята — Езри, син на Келув.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "И над"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "работниците"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "на труда"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "на полето"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "за обработване"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "на земята"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "Езри"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "на Келув"
+    }
+  ],
+  "timestamp": "2026-09-22T16:03:57.246406425Z",
+  "model": "glm-5.3"
+}

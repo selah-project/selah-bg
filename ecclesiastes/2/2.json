@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "За смях казах: лудост ⟨е той⟩, а за радост: какво прави тя?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "За смях"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "казах"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "лудост"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "а за радост"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨е той⟩"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "прави"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:03.183741971Z",
+  "model": "glm-5.3"
+}

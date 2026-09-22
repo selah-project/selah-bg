@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 12:8",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И стана словото на Яхве към мен сутринта, казвайки:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мен"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "сутринта"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T14:14:25.479989556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 36:23",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "А тези са синовете на Шовал: Алван, и Манахат, и Евал, Шефо и Онам.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "А тези"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "на Шовал"
+    },
+    {
+      "surface": "עלון",
+      "gloss": "Алван"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "и Манахат"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "и Евал"
+    },
+    {
+      "surface": "שפו",
+      "gloss": "Шефо"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "и Онам"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:56.063233311Z",
+  "model": "glm-5.3"
+}

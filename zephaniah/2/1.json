@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Съберете се, и се съберете, о народ, не пожелан",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "Съберете се"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "и се съберете"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "о народ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "пожелан"
+    }
+  ],
+  "timestamp": "2026-09-22T14:44:53.878181462Z",
+  "model": "glm-5.3"
+}

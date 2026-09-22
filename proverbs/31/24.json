@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 31:24",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Плат от лен направи и продаде, и пояс даде на търговеца.",
+  "tokens": [
+    {
+      "surface": "סדין",
+      "gloss": "плат от лен"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "ותמכר",
+      "gloss": "и продаде"
+    },
+    {
+      "surface": "וחגור",
+      "gloss": "и пояс"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "даде"
+    },
+    {
+      "surface": "לכנעני",
+      "gloss": "на търговеца"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:25.261724335Z",
+  "model": "glm-5.3"
+}

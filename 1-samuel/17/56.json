@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И рече царят: попитай ти — син на кого е този момък?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "попитай"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מי",
+      "gloss": "на кого"
+    },
+    {
+      "surface": "זה",
+      "gloss": "този"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "момъкът"
+    }
+  ],
+  "timestamp": "2026-09-22T12:42:15.804807785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 20:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Да ти даде според сърцето ти и целия ти съвет да изпълни.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Да ти даде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "כלבבך",
+      "gloss": "според сърцето ти"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и целия"
+    },
+    {
+      "surface": "עצתך",
+      "gloss": "съвет ти"
+    },
+    {
+      "surface": "ימלא",
+      "gloss": "да изпълни"
+    }
+  ],
+  "timestamp": "2026-09-22T14:54:22.388727970Z",
+  "model": "glm-5.3"
+}

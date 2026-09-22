@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 13:24",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И даде Моше на племето Гад, на синовете Гад, за семействата им.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И даде"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "на племето"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на синовете"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "למשפחתם",
+      "gloss": "за семействата им"
+    }
+  ],
+  "timestamp": "2026-09-22T12:21:06.415939315Z",
+  "model": "glm-5.3"
+}

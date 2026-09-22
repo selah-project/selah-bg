@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 61:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 61,
+  "translation": "На водача ⟨на⟩ струнна игра, на Давид.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "на водача"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "נגינת",
+      "gloss": "струнна игра"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T15:02:24.682992048Z",
+  "model": "glm-5.3"
+}

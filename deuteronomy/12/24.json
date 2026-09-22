@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Не ще го ядеш; на земята ще го излееш като вода.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "ще го ядеш"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ще го излееш"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "като вода"
+    }
+  ],
+  "timestamp": "2026-09-22T12:06:55.605924921Z",
+  "model": "glm-5.3"
+}

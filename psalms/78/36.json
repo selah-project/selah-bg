@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 78:36",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 78,
+  "translation": "И Го мамеха с устата си, и с езика си лъжеха Нему.",
+  "tokens": [
+    {
+      "surface": "ויפתוהו",
+      "gloss": "И Го мамеха"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "с устата си"
+    },
+    {
+      "surface": "ובלשונם",
+      "gloss": "и с езика си"
+    },
+    {
+      "surface": "יכזבו",
+      "gloss": "лъжеха"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Нему"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:03.096862271Z",
+  "model": "glm-5.3"
+}

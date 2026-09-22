@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "и ще Ми бъдат народ, и аз ще им бъда Елохим.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "и ще бъдат"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ми"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "и аз"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ще бъда"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T14:01:10.390476273Z",
+  "model": "glm-5.3"
+}

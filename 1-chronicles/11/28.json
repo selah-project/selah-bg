@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Ира, син на Икеш текоеца, Авиезер анатотиеца.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "Ира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "на Икеш"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "текоеца"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "Авиезер"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "анатотиеца"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:22.696122102Z",
+  "model": "glm-5.3"
+}

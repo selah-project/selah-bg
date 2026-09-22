@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 29:11",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И целуна Яаков Рахел, и издигна ⟨את⟩ гласа си, и заплака.",
+  "tokens": [
+    {
+      "surface": "וישק",
+      "gloss": "и целуна"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "Рахел"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "и издигна"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гласа си"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "гласа си"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "и заплака"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:59.455831139Z",
+  "model": "glm-5.3"
+}

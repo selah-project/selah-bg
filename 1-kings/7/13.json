@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И царят Шломо прати и взе ⟨את⟩ Хирам ⟨Хирам⟩ от Цор.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "и прати"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и взе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хирам"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Хирам"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "от Цор"
+    }
+  ],
+  "timestamp": "2026-09-22T16:23:31.136669014Z",
+  "model": "glm-5.3"
+}

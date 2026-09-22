@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 31:17",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "и ядях залъка си сам, и сираче не ядеше от него;",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "и ядях"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "залъка си"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "сам"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ядеше"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "сираче"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "от него"
+    }
+  ],
+  "timestamp": "2026-09-22T15:30:58.813207793Z",
+  "model": "glm-5.3"
+}

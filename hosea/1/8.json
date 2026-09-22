@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 1:8",
+  "book": "hosea",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И отби Ло-Рухама, и зачена, и роди син.",
+  "tokens": [
+    {
+      "surface": "ותגמל",
+      "gloss": "и отбиваше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ло-Рухама"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ло-"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "Рухама"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "и зачена"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    }
+  ],
+  "timestamp": "2026-09-22T14:33:12.935059923Z",
+  "model": "glm-5.3"
+}

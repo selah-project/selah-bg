@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И говори Яхве към Моше, като рече:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "като рече"
+    }
+  ],
+  "timestamp": "2026-09-22T11:54:51.816025836Z",
+  "model": "glm-5.3"
+}

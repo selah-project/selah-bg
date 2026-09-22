@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И превъзхождаха водите над земята сто и петдесет дни.",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "и превъзхождаха"
+    },
+    {
+      "surface": "המים",
+      "gloss": "водите"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "петдесет"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "и сто"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дни"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:49.245740087Z",
+  "model": "glm-5.3"
+}

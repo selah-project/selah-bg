@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 5:21",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Върни ни, Яхве, при Тебе, и ще се върнем; обнови дните ни както някога.",
+  "tokens": [
+    {
+      "surface": "השיבנו",
+      "gloss": "Върни ни"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "при Тебе"
+    },
+    {
+      "surface": "ונשוב",
+      "gloss": "и ще се върнем"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "обнови"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "дните ни"
+    },
+    {
+      "surface": "כקדם",
+      "gloss": "както някога"
+    }
+  ],
+  "timestamp": "2026-09-22T16:32:21.546328895Z",
+  "model": "glm-5.3"
+}

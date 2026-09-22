@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 9:25",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И дните ми са по-леки от бегач — избягаха, не видяха добро.",
+  "tokens": [
+    {
+      "surface": "וימי",
+      "gloss": "и дните ми"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "са по-леки"
+    },
+    {
+      "surface": "מני",
+      "gloss": "от"
+    },
+    {
+      "surface": "רץ",
+      "gloss": "бегач"
+    },
+    {
+      "surface": "ברחו",
+      "gloss": "избяха"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "видяха"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добро"
+    }
+  ],
+  "timestamp": "2026-09-22T15:25:46.946678604Z",
+  "model": "glm-5.3"
+}

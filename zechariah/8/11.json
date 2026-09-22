@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 8:11",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "А сега не както в предишните дни ⟨съм⟩ Аз за останката от този народ — слово на Яхве Цеваот.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "А сега"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "както в дните"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "първите"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "за останката"
+    },
+    {
+      "surface": "העם",
+      "gloss": "от народа"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    }
+  ],
+  "timestamp": "2026-09-22T14:46:30.785355808Z",
+  "model": "glm-5.3"
+}

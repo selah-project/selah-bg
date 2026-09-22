@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 76:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 76,
+  "translation": "Познат ⟨е⟩ Елохим в Йехуда; в Израел велико ⟨е⟩ името Му.",
+  "tokens": [
+    {
+      "surface": "נודע",
+      "gloss": "Познат"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "в Йехуда"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Израел"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велико"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името Му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:14.918065732Z",
+  "model": "glm-5.3"
+}

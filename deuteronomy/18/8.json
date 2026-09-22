@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "дял като дял ще ядат — освен продажбите му по бащините домове.",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "дял"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "като дял"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ще ядат"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "освен"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "продажбите му"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "бащините домове"
+    }
+  ],
+  "timestamp": "2026-09-22T12:09:04.732067227Z",
+  "model": "glm-5.3"
+}

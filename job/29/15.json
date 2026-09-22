@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 29:15",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Очи бях за слепеца и крака за куция — аз.",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "очи"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "бях"
+    },
+    {
+      "surface": "לעור",
+      "gloss": "за слепеца"
+    },
+    {
+      "surface": "ורגלים",
+      "gloss": "и крака"
+    },
+    {
+      "surface": "לפסח",
+      "gloss": "за куция"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    }
+  ],
+  "timestamp": "2026-09-22T15:30:01.539056649Z",
+  "model": "glm-5.3"
+}

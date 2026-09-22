@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "ладанка златна една, десет сикъла, пълна с тамян:",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ладанка"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десет"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златна"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пълна"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "с тамян"
+    }
+  ],
+  "timestamp": "2026-09-22T11:46:38.003374979Z",
+  "model": "glm-5.3"
+}

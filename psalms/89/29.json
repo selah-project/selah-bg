@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 89:29",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 89,
+  "translation": "Завинаги ще пазя нему хеседа си, и заветът ми ⟨е⟩ верен нему.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "Завинаги"
+    },
+    {
+      "surface": "אשמור",
+      "gloss": "ще пазя"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "хеседа си"
+    },
+    {
+      "surface": "ובריתי",
+      "gloss": "и заветът ми"
+    },
+    {
+      "surface": "נאמנת",
+      "gloss": "верен"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:45.640321449Z",
+  "model": "glm-5.3"
+}

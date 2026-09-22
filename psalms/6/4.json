@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "и душата ми е смутена твърде много; а ти, Яхве, докога?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "и душата ми"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "е смутена"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "твърде много"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кога"
+    }
+  ],
+  "timestamp": "2026-09-22T14:50:26.027630848Z",
+  "model": "glm-5.3"
+}

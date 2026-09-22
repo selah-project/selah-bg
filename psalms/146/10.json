@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 146:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 146,
+  "translation": "Ще царува Яхве навеки, Елохим ⟨твой⟩, Цион, за род и род. Хвалете Ях!",
+  "tokens": [
+    {
+      "surface": "ימלך",
+      "gloss": "Ще царува"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "лעולם",
+      "gloss": "навеки"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим ⟨твой⟩"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "за род"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "и род"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Хвалете"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    }
+  ],
+  "timestamp": "2026-09-22T15:14:39.450277848Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "psalms 107:43",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 107,
+  "translation": "Кой е мъдър — да пази тези неща, и ще разберат хеседите на Яхве.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кой"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "е мъдър"
+    },
+    {
+      "surface": "וישמר",
+      "gloss": "да пази"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези неща"
+    },
+    {
+      "surface": "ויתבוננו",
+      "gloss": "и ще разберат"
+    },
+    {
+      "surface": "חסדי",
+      "gloss": "хеседите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:57.972209057Z",
+  "model": "glm-5.3"
+}

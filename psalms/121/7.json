@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 121:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 121,
+  "translation": "Яхве ще те пази от всяко зло, ще пази ⟨את⟩ твоята душа.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ישמרך",
+      "gloss": "ще те пази"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "от всяко"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ще пази"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "твоята душа"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "твоята душа"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:41.717826612Z",
+  "model": "glm-5.3"
+}

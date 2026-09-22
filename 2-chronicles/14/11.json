@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 14:11",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И порази Яхве ⟨את⟩ кушитите пред Аса и пред Юда, и побягнаха кушитите.",
+  "tokens": [
+    {
+      "surface": "ויגף",
+      "gloss": "И порази"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кушитите"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "кушитите"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "и пред"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Юда"
+    },
+    {
+      "surface": "וינסו",
+      "gloss": "и побягнаха"
+    },
+    {
+      "surface": "הכושים",
+      "gloss": "кушитите"
+    }
+  ],
+  "timestamp": "2026-09-22T16:08:37.358145454Z",
+  "model": "glm-5.3"
+}

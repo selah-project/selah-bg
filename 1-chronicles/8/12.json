@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 8:12",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И синовете на Елпаал: Евер, и Мишам, и Шемед — той построи ⟨את⟩ Оно и ⟨את⟩ Лод и дъщерите ѝ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синовете"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "на Елпаал"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Евер"
+    },
+    {
+      "surface": "ומשעם",
+      "gloss": "и Мишам"
+    },
+    {
+      "surface": "ושמד",
+      "gloss": "и Шемед"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "построи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Оно"
+    },
+    {
+      "surface": "אונו",
+      "gloss": "Оно"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Лод"
+    },
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "и дъщерите ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:28.360548636Z",
+  "model": "glm-5.3"
+}

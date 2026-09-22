@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 92,
+  "translation": "Човек глупав не знае и безумен не разбира ⟨את⟩ това:",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "בער",
+      "gloss": "глупав"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знае"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "и безумен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "разбира"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "това"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:05.224887986Z",
+  "model": "glm-5.3"
+}

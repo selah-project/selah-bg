@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "и Ахио, Шашак и Йеремот.",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "и Ахио"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "Шашак"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "и Йеремот"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:59.162665157Z",
+  "model": "glm-5.3"
+}

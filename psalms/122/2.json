@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 122:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 122,
+  "translation": "Стояха краката ни във портите ти, Йерусалим.",
+  "tokens": [
+    {
+      "surface": "עמדות",
+      "gloss": "Стояха"
+    },
+    {
+      "surface": "היו",
+      "gloss": "⟨са⟩"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "краката ни"
+    },
+    {
+      "surface": "בשעריך",
+      "gloss": "в портите ти"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерусалим"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:08.645980580Z",
+  "model": "glm-5.3"
+}

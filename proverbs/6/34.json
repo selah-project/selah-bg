@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Защото ревността ⟨е⟩ ярост на мъж, и не ще пощади в деня на отмъщението.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ревността"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ярост"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "на мъж"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "ще пощади"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "на отмъщението"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:42.667589232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Защото какво има мъдрият повече от глупавия? Какво има бедният, който знае да ходи пред живите?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "повече"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "мъдрият"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "глупавия"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "бедният"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знае"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "да ходи"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "пред"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живите"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:35.056864938Z",
+  "model": "glm-5.3"
+}

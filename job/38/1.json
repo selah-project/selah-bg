@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 38:1",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "И отговори Яхве ⟨את⟩ Иов от бурята и рече:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и отговори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Иов"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Иов"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "от"
+    },
+    {
+      "surface": "הסערה",
+      "gloss": "бурята"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-22T15:32:46.434927608Z",
+  "model": "glm-5.3"
+}

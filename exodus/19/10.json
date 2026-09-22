@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 19:10",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И рече Яхве на Моше: Иди при народа и освети ги днес и утре, и на перат дрехите си.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Иди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "וקדשתם",
+      "gloss": "и освети ги"
+    },
+    {
+      "surface": "היום",
+      "gloss": "днес"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "и утре"
+    },
+    {
+      "surface": "וכבסו",
+      "gloss": "и нека перат"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "дрехите си"
+    }
+  ],
+  "timestamp": "2026-09-22T11:19:51.193083434Z",
+  "model": "glm-5.3"
+}

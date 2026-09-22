@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 30:17",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И чу Елохим Лия, и тя заченна, и роди на Яков пети син.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И чу"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨към⟩"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лия"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "и заченна"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "на Яков"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "пети"
+    }
+  ],
+  "timestamp": "2026-09-22T11:04:34.334421855Z",
+  "model": "glm-5.3"
+}

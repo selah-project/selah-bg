@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "micah 2:6",
+  "book": "micah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Не капете — те капят; няма да капят на тези, няма да отстъпи срамът.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תטפו",
+      "gloss": "капете"
+    },
+    {
+      "surface": "יטיפון",
+      "gloss": "те капят"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יטפו",
+      "gloss": "ще капят"
+    },
+    {
+      "surface": "לאלה",
+      "gloss": "на тези"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יסג",
+      "gloss": "ще отстъпи"
+    },
+    {
+      "surface": "כלמות",
+      "gloss": "срамът"
+    }
+  ],
+  "timestamp": "2026-09-22T14:40:29.142652897Z",
+  "model": "glm-5.3"
+}

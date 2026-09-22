@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 52:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 52,
+  "translation": "На диригента. Поука на Давид,",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "на диригента"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "поука"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T15:00:48.030374496Z",
+  "model": "glm-5.3"
+}

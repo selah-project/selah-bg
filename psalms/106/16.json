@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 106:16",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 106,
+  "translation": "И завидяха на Моше в стана, на Ахарон, светия на Яхве.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "и завидяха"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "на Моше"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "в стана"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "на Ахарон"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "светия"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:17.486080933Z",
+  "model": "glm-5.3"
+}

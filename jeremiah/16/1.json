@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 16:1",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И бива слово от Яхве към мене, да каже:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И бива"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мене"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "да каже"
+    }
+  ],
+  "timestamp": "2026-09-22T16:42:36.393440537Z",
+  "model": "glm-5.3"
+}

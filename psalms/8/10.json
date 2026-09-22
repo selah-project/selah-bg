@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Яхве, Адонай наш, колко превъзходно ⟨е⟩ името Ти във цялата земя!",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "Адонай наш"
+    },
+    {
+      "surface": "מה",
+      "gloss": "колко"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "превъзходно"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "името Ти"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "във цялата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земя"
+    }
+  ],
+  "timestamp": "2026-09-22T14:51:18.701463193Z",
+  "model": "glm-5.3"
+}

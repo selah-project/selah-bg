@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 12:9",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И повече от това: Kohelet беше мъдър — още учеше ⟨את⟩ народа на знание, и послуша, и издирва, и нареди много притчи.",
+  "tokens": [
+    {
+      "surface": "ויתר",
+      "gloss": "И повече от това"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мъдър"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "още"
+    },
+    {
+      "surface": "למד",
+      "gloss": "учеше"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знание"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народа"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "ואזן",
+      "gloss": "и послуша"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "и издирва"
+    },
+    {
+      "surface": "תקן",
+      "gloss": "нареди"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "притчи"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "много"
+    }
+  ],
+  "timestamp": "2026-09-22T15:41:07.639431674Z",
+  "model": "glm-5.3"
+}

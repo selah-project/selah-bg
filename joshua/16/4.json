@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 16:4",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И наследиха синовете на Йосеф, Менаше и Ефраим.",
+  "tokens": [
+    {
+      "surface": "וינחלו",
+      "gloss": "и наследиха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "на Йосеф"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "ואפרים",
+      "gloss": "и Ефраим"
+    }
+  ],
+  "timestamp": "2026-09-22T12:22:45.350198381Z",
+  "model": "glm-5.3"
+}

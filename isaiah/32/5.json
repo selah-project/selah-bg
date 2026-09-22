@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "Невemade никога вече няма да бъде наричан щедър, и на скъперник няма да се каже „богат“.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ще бъде наричан"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "още"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "на безумец"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "щедър"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "и на скъперник"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ще се каже"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "богат"
+    }
+  ],
+  "timestamp": "2026-09-22T13:34:06.443354730Z",
+  "model": "glm-5.3"
+}

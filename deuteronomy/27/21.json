@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Проклет да е онзи, който ляга с всякакъв добитък; и ще рече целият народ: Амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Проклет"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ляга"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякакъв"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "добитък"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и ще рече"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целият"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    }
+  ],
+  "timestamp": "2026-09-22T12:12:28.526027389Z",
+  "model": "glm-5.3"
+}

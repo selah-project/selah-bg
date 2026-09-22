@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 25:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Пътищата Си, Яхве, яви ми, стъпките Си научи ме.",
+  "tokens": [
+    {
+      "surface": "דרכיך",
+      "gloss": "Пътищата Си"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הודיעני",
+      "gloss": "яви ми"
+    },
+    {
+      "surface": "ארחותיך",
+      "gloss": "стъпките Си"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "научи ме"
+    }
+  ],
+  "timestamp": "2026-09-22T14:54:56.279455043Z",
+  "model": "glm-5.3"
+}

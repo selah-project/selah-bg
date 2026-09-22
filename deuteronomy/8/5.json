@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 8:5",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И да познаеш със сърцето си, че както наказва човек ⟨את⟩ сина си, така Яхве, твоят Елохим, те наказва.",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "и да познаеш"
+    },
+    {
+      "surface": "עם",
+      "gloss": "със"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "сърцето си"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "ייסר",
+      "gloss": "наказва"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сина си"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сина си"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твоят Елохим"
+    },
+    {
+      "surface": "מיסרך",
+      "gloss": "те наказва"
+    }
+  ],
+  "timestamp": "2026-09-22T16:20:24.198737209Z",
+  "model": "glm-5.3"
+}

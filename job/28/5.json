@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 28:5",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Земя — от нея излиза хляб, и под нея ⟨е⟩ обърната като огън.",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "Земя"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "от нея"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "излиза"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляб"
+    },
+    {
+      "surface": "ותחתיה",
+      "gloss": "и под нея"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "⟨е⟩ обърната"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "като"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огън"
+    }
+  ],
+  "timestamp": "2026-09-22T15:29:46.324411654Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 3:2",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И до ръката му построиха мъжете на Йерихо, и до ръката му построи Закур, син на Имри.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "И до"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ръката му"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "построиха"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мъжете"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "на Йерихо"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и до"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ръката му"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "построи"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "Закур"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "на Имри"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:15.868960019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 140:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 140,
+  "translation": "Издърпай ме, Яхве, от човек лош, от мъж на насилия пази ме.",
+  "tokens": [
+    {
+      "surface": "חלצני",
+      "gloss": "издърпай ме"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מאדם",
+      "gloss": "от човек"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лош"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "от мъж"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "на насилия"
+    },
+    {
+      "surface": "תנצרני",
+      "gloss": "пази ме"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:07.898809747Z",
+  "model": "glm-5.3"
+}

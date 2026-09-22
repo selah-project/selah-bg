@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "amos 7:12",
+  "book": "amos",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И рече Амаций на Амос: Видецо, върви, бягай за себе си в земята Юдея, и яж там хляб, и там пророкувай.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Амаций"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "עמוס",
+      "gloss": "Амос"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "Видецо"
+    },
+    {
+      "surface": "לך",
+      "gloss": "върви"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "бягай"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за себе си"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Юдея"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "и яж"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляб"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "и там"
+    },
+    {
+      "surface": "תנבא",
+      "gloss": "пророкувай"
+    }
+  ],
+  "timestamp": "2026-09-22T14:38:47.513618893Z",
+  "model": "glm-5.3"
+}

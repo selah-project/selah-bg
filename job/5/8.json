@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Обаче аз ще потърся Ел, и към Елохим ще отправя думата си.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "обаче"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "ще потърся"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и към"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "ще отправя"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "думата си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:24:50.357716005Z",
+  "model": "glm-5.3"
+}

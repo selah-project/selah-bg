@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 9:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "А Яхве до века седи; приготви за съд престола Си.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "А Яхве"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "до века"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "седи"
+    },
+    {
+      "surface": "כונן",
+      "gloss": "приготви"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "за съд"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "престола Си"
+    }
+  ],
+  "timestamp": "2026-09-22T14:52:15.836183755Z",
+  "model": "glm-5.3"
+}

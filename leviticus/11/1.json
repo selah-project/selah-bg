@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 11:1",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И рече Яхве на Моше и на Ахарон, като им каза:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Ахарон"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "като каза"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-09-22T11:34:55.367286715Z",
+  "model": "glm-5.3"
+}

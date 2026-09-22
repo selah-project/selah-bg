@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 24:29",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "А Ривка ⟨имаше⟩ брат, и името му ⟨е⟩ Лаван; и Лаван изтича при човека навън, при извора.",
+  "tokens": [
+    {
+      "surface": "ולרבקה",
+      "gloss": "а Ривка"
+    },
+    {
+      "surface": "אח",
+      "gloss": "брат"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "и името му"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "וירץ",
+      "gloss": "и изтича"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човека"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "навън"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "העין",
+      "gloss": "извора"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:09.750939883Z",
+  "model": "glm-5.3"
+}

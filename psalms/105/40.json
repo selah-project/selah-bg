@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "psalms 105:40",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 105,
+  "translation": "Поискаха, и докара скариди, и с хляб от небето ги насити.",
+  "tokens": [
+    {
+      "surface": "שאל",
+      "gloss": "Поискаха"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и докара"
+    },
+    {
+      "surface": "שלו",
+      "gloss": "скариди"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "и с хляб"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "от небето"
+    },
+    {
+      "surface": "ישביעם",
+      "gloss": "ги насити"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:14.346730426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 7:9",
+  "book": "hosea",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Изядоха чужденци силата му, а той не знае; дори сивина посипа върху него, а той не знае.",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "Изядоха"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "чужденци"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "силата му"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а той"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знае"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дори"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "сивина"
+    },
+    {
+      "surface": "זרקה",
+      "gloss": "посипа"
+    },
+    {
+      "surface": "בו",
+      "gloss": "върху него"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а той"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знае"
+    }
+  ],
+  "timestamp": "2026-09-22T14:34:04.485949262Z",
+  "model": "glm-5.3"
+}

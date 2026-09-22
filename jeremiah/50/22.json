@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 50,
+  "translation": "Глас на война ⟨е⟩ в земята и съкрушение голямо.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "на война"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "и съкрушение"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голямо"
+    }
+  ],
+  "timestamp": "2026-09-22T14:07:50.814958030Z",
+  "model": "glm-5.3"
+}

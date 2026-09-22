@@ -1,0 +1,88 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 36:2",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "Исав взе ⟨את⟩ жените си от дъщерите на Кенаан: ⟨את⟩ Ада, дъщеря на Ейлон хетееца, и ⟨את⟩ Оholibama, дъщеря на Ана, дъщеря на Цивеон хивееца.",
+  "tokens": [
+    {
+      "surface": "עשו",
+      "gloss": "Исав"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "взе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жените си"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "жените си"
+    },
+    {
+      "surface": "מבנות",
+      "gloss": "от дъщерите"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "на Кенаан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ада"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ада"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщеря"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "на Ейлон"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "хетееца"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Оholibama"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Оholibama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщеря"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "на Ана"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщеря"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "на Цивеон"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "хивееца"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:41.725155524Z",
+  "model": "glm-5.3"
+}

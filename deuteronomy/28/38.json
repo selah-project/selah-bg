@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 28:38",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Много семе ще изнесеш на полето, а малко ще събереш, защото скакалецът ще го изяде.",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "семе"
+    },
+    {
+      "surface": "רב",
+      "gloss": "много"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "ще изнесеш"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "на полето"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "а малко"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "ще събереш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "יחסלנו",
+      "gloss": "ще го изяде"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "скакалецът"
+    }
+  ],
+  "timestamp": "2026-09-22T12:12:36.841358136Z",
+  "model": "glm-5.3"
+}

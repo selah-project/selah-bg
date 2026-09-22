@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Синовете на Закай, седемстотин и шестдесет.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "на Закай"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седем"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "и шестдесет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:45.475997566Z",
+  "model": "glm-5.3"
+}

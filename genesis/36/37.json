@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 36:37",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "И умря Самла, и царува вместо него Шаул от Реховот ⟨на⟩ реката.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умря"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Самла"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и царува"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "вместо него"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "от Реховот"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "реката"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:36.472670274Z",
+  "model": "glm-5.3"
+}

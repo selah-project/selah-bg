@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 10:24",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И Арпахшад роди ⟨את⟩ Шелах, и Шелах роди ⟨את⟩ Евер.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "И Арпахшад"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шелах"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Шелах"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "и Шелах"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Евер"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Евер"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:51.672034757Z",
+  "model": "glm-5.3"
+}

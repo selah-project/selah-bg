@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Яхве ще царува навеки и вовек.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ще царува"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "навеки"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и вовек"
+    }
+  ],
+  "timestamp": "2026-09-22T11:18:57.293919371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "и Шевуел, син на Гершом, син на Моше ⟨Мойсей⟩, началник над съкровищниците.",
+  "tokens": [
+    {
+      "surface": "ושבאל",
+      "gloss": "и Шевуел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше ⟨Мойсей⟩"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "началник"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "האצרות",
+      "gloss": "съкровищниците"
+    }
+  ],
+  "timestamp": "2026-09-22T16:03:57.868024944Z",
+  "model": "glm-5.3"
+}

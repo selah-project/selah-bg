@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 18:33",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Ел, който ме препаша със сила, и направи пътя ми съвършен.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "המאזרני",
+      "gloss": "който ме препаша"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "със сила"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и направи"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "съвършен"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "пътя ми"
+    }
+  ],
+  "timestamp": "2026-09-22T14:53:37.162909921Z",
+  "model": "glm-5.3"
+}

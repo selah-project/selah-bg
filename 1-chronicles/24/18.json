@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 24:18",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "За Делаия двадесет и третия, за Маазия двадесет и четвъртия.",
+  "tokens": [
+    {
+      "surface": "לדליהו",
+      "gloss": "за Делаия"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадесет"
+    },
+    {
+      "surface": "למעזיהו",
+      "gloss": "за Маазия"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четири"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадесет"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:54.005597677Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И се засели Израел в земята на еморейците.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И се засели"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "на еморейците"
+    }
+  ],
+  "timestamp": "2026-09-22T11:53:56.082300685Z",
+  "model": "glm-5.3"
+}

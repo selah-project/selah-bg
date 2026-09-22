@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 34:24",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "И за племето на сыновете на Ефраим — княз Кемуел, син на Шифтан.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "и за племето"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновете"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраим"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "княз"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Кемуел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שפטן",
+      "gloss": "Шифтан"
+    }
+  ],
+  "timestamp": "2026-09-22T11:59:54.773977434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Да не го владееш с жестокост, а да се боиш от Елохим ⟨бога⟩ си.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תרדה",
+      "gloss": "владееш"
+    },
+    {
+      "surface": "בו",
+      "gloss": "го"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "с жестокост"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "а да се боиш"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "от Елохим ⟨бога⟩ си"
+    }
+  ],
+  "timestamp": "2026-09-22T11:41:54.581681304Z",
+  "model": "glm-5.3"
+}

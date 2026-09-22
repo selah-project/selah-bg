@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Или син забоде, или дъщеря забоде — според тази присъда да му се направи.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "забоде"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщеря"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "забоде"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "според присъдата"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "тази"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "да се направи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    }
+  ],
+  "timestamp": "2026-09-22T11:23:07.584918193Z",
+  "model": "glm-5.3"
+}

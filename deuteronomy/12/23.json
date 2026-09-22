@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Само стой твърд да не ядеш кръвта, защото кръвта, тя ⟨е⟩ душата; и не ще ядеш душата заедно с месото.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "стой твърд"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "да не"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ядеш"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кръвта"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кръвта"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "душата"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ще ядеш"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "душата"
+    },
+    {
+      "surface": "עם",
+      "gloss": "заедно с"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "месото"
+    }
+  ],
+  "timestamp": "2026-09-22T12:06:55.605814143Z",
+  "model": "glm-5.3"
+}

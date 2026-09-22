@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 40,
+  "translation": "И постави ⟨את⟩ завесата на входа на Мишкана.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "И постави"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "завесата"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "завесата"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "на входа"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "на Мишкана"
+    }
+  ],
+  "timestamp": "2026-09-22T16:17:20.543361999Z",
+  "model": "glm-5.3"
+}

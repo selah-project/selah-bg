@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 72:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 72,
+  "translation": "Ще съди народа ти в правда и бедните ти в съд.",
+  "tokens": [
+    {
+      "surface": "ידין",
+      "gloss": "Ще съди"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "народа ти"
+    },
+    {
+      "surface": "בצדק",
+      "gloss": "в правда"
+    },
+    {
+      "surface": "וענייך",
+      "gloss": "и бедните ти"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "в съд"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:36.654768807Z",
+  "model": "glm-5.3"
+}

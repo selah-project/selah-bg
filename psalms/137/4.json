@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 137,
+  "translation": "Как да пеем ⟨את⟩ песента на Яхве върху чужда земя?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "как"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "да пеем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "песента"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песента"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "земя"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "чужда"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:53.206107522Z",
+  "model": "glm-5.3"
+}

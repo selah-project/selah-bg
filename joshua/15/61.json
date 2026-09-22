@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "В пустинята: Бет-ха-Арава, Мидин и Секака.",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "в пустинята"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ха-Арава"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мидин"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "и Секака"
+    }
+  ],
+  "timestamp": "2026-09-22T12:22:19.269452499Z",
+  "model": "glm-5.3"
+}

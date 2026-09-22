@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И дойде царят и Аман да пият с Естер царицата.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и дойде"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "и Аман"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "да пият"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естер"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "царицата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:42:23.523162412Z",
+  "model": "glm-5.3"
+}

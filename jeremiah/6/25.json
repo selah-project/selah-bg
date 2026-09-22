@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Не излизай ⟨в⟩ полето и ⟨по⟩ пътя не ходи, защото меч ⟨има⟩ врагът, ужас от всички страни.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "излизай"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "полето"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "и ⟨по⟩ пътя"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ходи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "на врага"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "ужас"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "от всички страни"
+    }
+  ],
+  "timestamp": "2026-09-22T16:25:02.826231154Z",
+  "model": "glm-5.3"
+}

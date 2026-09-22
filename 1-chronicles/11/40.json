@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Ира ятиреца, Гарев ятиреца.",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "Ира"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ятиреца"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "Гарев"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ятиреца"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:10.383327714Z",
+  "model": "glm-5.3"
+}

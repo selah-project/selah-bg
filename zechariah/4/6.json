@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 4:6",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И отговори и ми рече, казвайки: Това е словото на Яхве към Зоровавел, казвайки: Не със сила и не с мощ, а с моя Дух, рече Яхве Цеваот.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и отговори"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "זרבבל",
+      "gloss": "Зоровавел"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בחיל",
+      "gloss": "със сила"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "с мощ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "а"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "ברוחי",
+      "gloss": "с моя Дух"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    }
+  ],
+  "timestamp": "2026-09-22T14:46:47.961801235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 26:4",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "⟨את⟩ кого изявил си ⟨тези⟩ думи, и чий дъх излезе от теб?",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кого"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "изявил си"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "⟨тези⟩ думи"
+    },
+    {
+      "surface": "ונשמת",
+      "gloss": "и чий дъх"
+    },
+    {
+      "surface": "מי",
+      "gloss": "чий"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "излезе"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "от теб"
+    }
+  ],
+  "timestamp": "2026-09-22T15:29:20.249373359Z",
+  "model": "glm-5.3"
+}

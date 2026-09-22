@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 31:15",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "И стана още нощем, и даде плячка на дома си, и дял на слугините си.",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "בעוד",
+      "gloss": "още"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "нощем"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "плячка"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "на дома си"
+    },
+    {
+      "surface": "וחק",
+      "gloss": "и дял"
+    },
+    {
+      "surface": "לנערתיה",
+      "gloss": "на слугините си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:57.995144719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 34:13",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Кой е човекът, който желае живот, обича дни, да вижда добро?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "човекът"
+    },
+    {
+      "surface": "החפץ",
+      "gloss": "който желае"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живот"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "обича"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "да вижда"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    }
+  ],
+  "timestamp": "2026-09-22T14:56:31.605159543Z",
+  "model": "glm-5.3"
+}

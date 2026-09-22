@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 7:24",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И сега, синове, чуйте мен и внимайте в думите на устата ми.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "и сега"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чуйте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "и внимайте"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "в думите"
+    },
+    {
+      "surface": "פי",
+      "gloss": "на устата ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:06.615083214Z",
+  "model": "glm-5.3"
+}

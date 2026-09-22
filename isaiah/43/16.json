@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 43,
+  "translation": "Thus says Yahweh, who gives in the sea a way, and in mighty waters a path:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "thus"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "says"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "who gives"
+    },
+    {
+      "surface": "בים",
+      "gloss": "in the sea"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "a way"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "and in waters"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "mighty"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "a path"
+    }
+  ],
+  "timestamp": "2026-09-22T13:38:12.177728049Z",
+  "model": "glm-5.3"
+}

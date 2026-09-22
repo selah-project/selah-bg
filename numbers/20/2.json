@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И нямаше вода за общността, и се събраха срещу Моше и срещу Аарон.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и нямаше"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨имаше⟩"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "за общността"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "и се събраха"
+    },
+    {
+      "surface": "על",
+      "gloss": "срещу"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и срещу"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    }
+  ],
+  "timestamp": "2026-09-22T11:54:16.877293679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 24:21",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "За Рехавя: за синовете на Рехавя — главата Ишия.",
+  "tokens": [
+    {
+      "surface": "לרחביהו",
+      "gloss": "За Рехавя"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "за синовете"
+    },
+    {
+      "surface": "רחביהו",
+      "gloss": "на Рехавя"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "главата"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "Ишия"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:49.655574642Z",
+  "model": "glm-5.3"
+}

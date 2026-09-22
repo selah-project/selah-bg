@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 120:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 120,
+  "translation": "Аз съм ⟨за⟩ мира, а когато говоря, те ⟨са⟩ за война.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "⟨за⟩ мира"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "а когато"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "המה",
+      "gloss": "те"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "за война"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:27.987270353Z",
+  "model": "glm-5.3"
+}

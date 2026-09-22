@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "И ⟨място⟩ ще има за тебе вън от стана, и ще излезеш навън там навън.",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "и ⟨място⟩"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ще има"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за тебе"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "вън от"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "и ще излезеш"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "там"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "навън"
+    }
+  ],
+  "timestamp": "2026-09-22T12:11:20.857414517Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Кото връзване на камък в прашка — така е онзи, който дава чест на глупак.",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "Като връзване"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камък"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "в прашка"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "дава"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "на глупак"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "чест"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:37.981294022Z",
+  "model": "glm-5.3"
+}

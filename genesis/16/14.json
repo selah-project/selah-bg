@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 16:14",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Затова нарекоха кладенеца Беер-Лахай-Рои; ето, той е между Кадеш и Баред.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "כן",
+      "gloss": "това"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "нарекоха"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "кладенеца"
+    },
+    {
+      "surface": "באר",
+      "gloss": "кладенец"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "на Живия"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Рои"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кадеш"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и между"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "Баред"
+    }
+  ],
+  "timestamp": "2026-09-22T10:58:49.719970710Z",
+  "model": "glm-5.3"
+}

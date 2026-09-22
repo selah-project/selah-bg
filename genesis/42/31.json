@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 42,
+  "translation": "И му казахме: верни сме ние, не бяхме съгледници.",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "и казахме"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "верни"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ние"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "бяхме"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "съгледници"
+    }
+  ],
+  "timestamp": "2026-09-22T11:11:16.778453532Z",
+  "model": "glm-5.3"
+}

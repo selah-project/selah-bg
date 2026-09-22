@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Защото ⟨את⟩ онези, които ⟨са⟩ тук с нас, стоящи днес пред Яхве, Елохим нашия, и ⟨את⟩ онези, които ⟨са⟩ ги няма тук с нас днес.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "онези"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "са"
+    },
+    {
+      "surface": "פה",
+      "gloss": "тук"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "с нас"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "стоящи"
+    },
+    {
+      "surface": "היום",
+      "gloss": "днес"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохим нашия"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "онези"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ги няма"
+    },
+    {
+      "surface": "פה",
+      "gloss": "тук"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "с нас"
+    },
+    {
+      "surface": "היום",
+      "gloss": "днес"
+    }
+  ],
+  "timestamp": "2026-09-22T12:13:34.437071141Z",
+  "model": "glm-5.3"
+}

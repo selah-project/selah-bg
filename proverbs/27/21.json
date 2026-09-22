@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 27:21",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Тигел за среброто и пещ за златото, и човек — според похвалата си.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "Тигел"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "за среброто"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "и пещ"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "за златото"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и човек"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "според"
+    },
+    {
+      "surface": "מהללו",
+      "gloss": "похвалата си"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:48.941767521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Кой не е знаел измежду всички тези, че ръката на Яхве направи това?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "е знаел"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "измежду всички"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ръката"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това"
+    }
+  ],
+  "timestamp": "2026-09-22T15:26:00.754813227Z",
+  "model": "glm-5.3"
+}

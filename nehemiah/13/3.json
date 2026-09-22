@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 13:3",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И стана, когато чуха ⟨את⟩ Тората, че отделиха цялата смес от Израел.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И стана"
+    },
+    {
+      "surface": "כשמעם",
+      "gloss": "когато чуха"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Тората"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тората"
+    },
+    {
+      "surface": "ויבדילו",
+      "gloss": "че отделиха"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялата"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "смес"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "от Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:03.590205559Z",
+  "model": "glm-5.3"
+}

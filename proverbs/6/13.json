@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 6:13",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Мига с очите си, говори с нозете си, показва с пръстите си;",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "мига"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "с очите си"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "говори"
+    },
+    {
+      "surface": "ברגלו",
+      "gloss": "с нозете си"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "показва"
+    },
+    {
+      "surface": "באצבעתיו",
+      "gloss": "с пръстите си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:52.325924253Z",
+  "model": "glm-5.3"
+}

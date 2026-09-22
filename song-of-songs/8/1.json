@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 8:1",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Кой би ти дал да си като брат ми, кърмест от гърдите на майка ми! Намеря ли те навън, ще те целуна, и не ще ме презрат.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кой"
+    },
+    {
+      "surface": "יתנך",
+      "gloss": "би ти дал"
+    },
+    {
+      "surface": "кאח",
+      "gloss": "като брат"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "сучещ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "гърдите"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "на майка ми"
+    },
+    {
+      "surface": "אמצאך",
+      "gloss": "ще те намеря"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "навън"
+    },
+    {
+      "surface": "אשקך",
+      "gloss": "ще те целуна"
+    },
+    {
+      "surface": "גם",
+      "gloss": "също"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "ще презрат"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ме"
+    }
+  ],
+  "timestamp": "2026-09-22T15:35:45.106260457Z",
+  "model": "glm-5.3"
+}

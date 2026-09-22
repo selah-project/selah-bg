@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Не яж никаква мерзост.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "яж"
+    },
+    {
+      "surface": "כל",
+      "gloss": "никаква"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "мерзост"
+    }
+  ],
+  "timestamp": "2026-09-22T12:06:36.736735721Z",
+  "model": "glm-5.3"
+}

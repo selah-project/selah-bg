@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 46:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 46,
+  "translation": "Яхве Цеваот е с нас, висока крепост за нас е Елохим на Яков — села",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "е с нас"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "висока крепост"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "за нас"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "села"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:04.505174458Z",
+  "model": "glm-5.3"
+}

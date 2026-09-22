@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Синовете на Елифаз: Теман и Омар, Цефи и Гаам, Кеназ, и Тимна, и Амалек.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "на Елифаз"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Теман"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "и Омар"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "Цефи"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "и Гаам"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Кеназ"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "и Тимна"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "и Амалек"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:46.316803612Z",
+  "model": "glm-5.3"
+}

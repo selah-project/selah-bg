@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 42:10",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 42,
+  "translation": "И му казаха: не, господарю мой, а слугите ти са дошли да купят храна.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и казаха"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господарю мой"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "а слугите ти"
+    },
+    {
+      "surface": "באו",
+      "gloss": "са дошли"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "да купят"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "храна"
+    }
+  ],
+  "timestamp": "2026-09-22T11:10:12.152748646Z",
+  "model": "glm-5.3"
+}

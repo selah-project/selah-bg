@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Дължина на дни е в дясната ѝ ръка, в лявата ѝ — богатство и слава.",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "Дължина"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "на дни"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "в дясната ѝ ръка"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "в лявата ѝ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "и слава"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:06.543555823Z",
+  "model": "glm-5.3"
+}

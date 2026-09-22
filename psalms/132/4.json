@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 132,
+  "translation": "ако дам сън на очите си, на клепачите си — дремка,",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "дам"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "сън"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "на очите си"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "на клепачите си"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "дремка"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:31.728736504Z",
+  "model": "glm-5.3"
+}

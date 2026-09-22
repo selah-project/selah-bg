@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Ето, ден иде за Яхве, и ще бъде разделена плячката ти всред тебе.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "בא",
+      "gloss": "иде"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Яхве"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "и ще бъде разделена"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "плячката ти"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "всред тебе"
+    }
+  ],
+  "timestamp": "2026-09-22T14:48:27.673431005Z",
+  "model": "glm-5.3"
+}

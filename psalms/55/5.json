@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 55:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 55,
+  "translation": "Сърцето ми се мята в мен, и ужасите на смъртта паднаха върху ме.",
+  "tokens": [
+    {
+      "surface": "לבי",
+      "gloss": "сърцето ми"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "се мята"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "в мен"
+    },
+    {
+      "surface": "ואימות",
+      "gloss": "и ужасите"
+    },
+    {
+      "surface": "מות",
+      "gloss": "на смъртта"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "паднаха"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "върху ме"
+    }
+  ],
+  "timestamp": "2026-09-22T15:00:38.023847794Z",
+  "model": "glm-5.3"
+}

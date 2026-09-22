@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 109,
+  "translation": "Да бъдат синовете му сираци, и жената му вдовица.",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "Да бъдат"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синовете му"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "сираци"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "и жената му"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "вдовица"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:28.198682752Z",
+  "model": "glm-5.3"
+}

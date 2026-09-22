@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 2:15",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Адин — четиристотин петдесет и четири.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "Адин"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "петдесет"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "и четири"
+    }
+  ],
+  "timestamp": "2026-09-22T15:48:17.733757381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 122,
+  "translation": "Заради дома на Яхве, нашия Елохим, ще търся доброто ти.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "заради"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "нашия Елохим"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "ще търся"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "доброто"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:07.088466626Z",
+  "model": "glm-5.3"
+}

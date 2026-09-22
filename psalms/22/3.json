@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 22:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Елохим мой, зовя денем, а не отговаряш; и нощем, и няма тишина за мен.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мой"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "зовя"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "денем"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "отговаряш"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "и нощем"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "тишина"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мен"
+    }
+  ],
+  "timestamp": "2026-09-22T14:54:14.408081920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И тези са думите, които Яхве говори към Израил и към Юда.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И тези"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "думите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израил"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и към"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Юда"
+    }
+  ],
+  "timestamp": "2026-09-22T14:00:07.130194645Z",
+  "model": "glm-5.3"
+}

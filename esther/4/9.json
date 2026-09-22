@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И дойде Хатах и съобщи на Естер ⟨את⟩ думите на Мардохей.",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "и дойде"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Хатах"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "и съобщи"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "на Естер"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "думите"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "думите"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "на Мардохей"
+    }
+  ],
+  "timestamp": "2026-09-22T15:41:14.310044683Z",
+  "model": "glm-5.3"
+}

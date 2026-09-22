@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 3:12",
+  "book": "zephaniah",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И ще оставя в средата ти народ смирен и беден, и ще се уповават в името на Яхве.",
+  "tokens": [
+    {
+      "surface": "והשארתי",
+      "gloss": "И ще оставя"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "в средата ти"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "смирен"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "и беден"
+    },
+    {
+      "surface": "וחסו",
+      "gloss": "и ще се уповават"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "в името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:44:09.088708002Z",
+  "model": "glm-5.3"
+}

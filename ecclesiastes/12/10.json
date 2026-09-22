@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Kohelet търсеше да намери думи на наслада, и написаното — право, думи на истина.",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "търсеше"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Kohelet"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "да намери"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "думи"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "наслада"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "и написаното"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "право"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "думи"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истина"
+    }
+  ],
+  "timestamp": "2026-09-22T15:41:07.641926188Z",
+  "model": "glm-5.3"
+}

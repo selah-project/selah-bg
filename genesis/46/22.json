@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 46,
+  "translation": "Това са синовете на Рахил, които се родиха на Яков: всички души — четиринадесет.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Това"
+    },
+    {
+      "surface": "בני",
+      "gloss": "са синовете"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "на Рахел"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "се родиха"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "на Яков"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "души"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четири"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надесет"
+    }
+  ],
+  "timestamp": "2026-09-22T11:11:30.163223669Z",
+  "model": "glm-5.3"
+}

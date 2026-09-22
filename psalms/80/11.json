@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 80:11",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 80,
+  "translation": "Покриха планините сянката ѝ, а клоните ѝ — кедри на Ел.",
+  "tokens": [
+    {
+      "surface": "כסו",
+      "gloss": "покриха"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "планините"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "сянката ѝ"
+    },
+    {
+      "surface": "וענפיה",
+      "gloss": "а клоните ѝ"
+    },
+    {
+      "surface": "ארזי",
+      "gloss": "кедри на"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:20.361797095Z",
+  "model": "glm-5.3"
+}

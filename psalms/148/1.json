@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 148:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 148,
+  "translation": "Хвалете Ях, хвалете ⟨את⟩ Яхве от небесата, хвалете Го във висините!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Хвалете"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "хвалете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесата"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "хвалете Го"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "във висините"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:10.659105094Z",
+  "model": "glm-5.3"
+}

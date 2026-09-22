@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 9:13",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И рече: какви са тези градове, които ми даде, братко мой? И ги нарече земя Кавул, до този ден.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какви"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "градове"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "даде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "братко мой"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "И нарече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ги"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "כבול",
+      "gloss": "Кавул"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "този ден"
+    },
+    {
+      "surface": "הזה",
+      "gloss": " този"
+    }
+  ],
+  "timestamp": "2026-09-22T13:06:07.673469147Z",
+  "model": "glm-5.3"
+}

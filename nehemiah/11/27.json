@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 11:27",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "и в Хацар-Шуал, и в Беер-Шева и в селата ѝ.",
+  "tokens": [
+    {
+      "surface": "ובחצר",
+      "gloss": "и в Хацар"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Шуал"
+    },
+    {
+      "surface": "ובבאר",
+      "gloss": "и в Беер"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "и в селата ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T15:54:59.465727116Z",
+  "model": "glm-5.3"
+}

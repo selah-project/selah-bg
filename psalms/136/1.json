@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 136:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 136,
+  "translation": "Благодарете на Яхве, защото е добър, защото навеки е хеседът Му.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "Благодарете"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добър"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навеки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседът Му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:14:06.120606443Z",
+  "model": "glm-5.3"
+}

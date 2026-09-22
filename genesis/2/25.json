@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 2:25",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И бяха двамата голи, човекът и ⟨жена⟩му, и не се срамуваха.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И бяха"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "двамата"
+    },
+    {
+      "surface": "ערומים",
+      "gloss": "голи"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човекът"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "и жена му"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יתבששו",
+      "gloss": "се срамуваха"
+    }
+  ],
+  "timestamp": "2026-09-22T10:53:50.269319804Z",
+  "model": "glm-5.3"
+}

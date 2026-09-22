@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-chronicles 25:25",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И живя Амацяху, син на Йоаш, цар на Юда, след смъртта на Йоаш, син на Йоахаз, цар на Израил, петнадесет години.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "и живя"
+    },
+    {
+      "surface": "אמציהו",
+      "gloss": "Амацяху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаш"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Юда"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "след"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смъртта"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаш"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יהואחז",
+      "gloss": "Йоахаз"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израил"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "надесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    }
+  ],
+  "timestamp": "2026-09-22T16:11:17.372275328Z",
+  "model": "glm-5.3"
+}

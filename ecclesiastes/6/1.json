@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Има зло, което видях под слънцето, и то е тежко върху човека:",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видях"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "слънцето"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "и тежко"
+    },
+    {
+      "surface": "היא",
+      "gloss": "то"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човека"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:35.609262662Z",
+  "model": "glm-5.3"
+}

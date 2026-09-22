@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И ще намериш благоволение и добър разум в очите на Елохим и човека.",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "и ще намериш"
+    },
+    {
+      "surface": "חן",
+      "gloss": "благоволение"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "и разум"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добър"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очите на"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "и човек"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:25.408911837Z",
+  "model": "glm-5.3"
+}

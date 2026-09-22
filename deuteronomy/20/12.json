@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "А ако не сключи мир с тебе, а поведе с тебе война, ще я обсадиш.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "сключи мир"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тебе"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "а поведе"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тебе"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "война"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "ще я обсадиш"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "я"
+    }
+  ],
+  "timestamp": "2026-09-22T12:08:58.315756936Z",
+  "model": "glm-5.3"
+}

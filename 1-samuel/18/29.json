@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 18:29",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И продължи Шаул да се бои още повече от Давид; и беше Шаул враг ⟨את⟩ Давид през всички дни.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "и продължи"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "לרא",
+      "gloss": "да се бои"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "от"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "още"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "איב",
+      "gloss": "враг"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давид"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дни"
+    }
+  ],
+  "timestamp": "2026-09-22T12:41:56.474408422Z",
+  "model": "glm-5.3"
+}

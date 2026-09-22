@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 18:15",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И каза Моше на тъста си: защото идва при мен народът да пита Елохим.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И каза"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לחתנו",
+      "gloss": "на тъста си"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "идва"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "при мен"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народът"
+    },
+    {
+      "surface": "לדרש",
+      "gloss": "да пита"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T11:20:30.913317787Z",
+  "model": "glm-5.3"
+}

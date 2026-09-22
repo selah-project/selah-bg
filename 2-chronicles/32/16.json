@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 32:16",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "И още говориха слугите му срещу Яхве Елохим и срещу Хизкияу, слугата Му.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "И още"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "говориха"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "слугите му"
+    },
+    {
+      "surface": "על",
+      "gloss": "срещу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и срещу"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хизкияу"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "слугата Му"
+    }
+  ],
+  "timestamp": "2026-09-22T16:13:10.864815030Z",
+  "model": "glm-5.3"
+}

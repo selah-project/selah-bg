@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 82,
+  "translation": "Аз казах: богове сте вие, и синове на Всевишния — всички вие.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "казах"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богове"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сте вие"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синове"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "на Всевишния"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "всички вие"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:18.703433888Z",
+  "model": "glm-5.3"
+}

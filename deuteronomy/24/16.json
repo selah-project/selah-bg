@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 24:16",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Бащи да не се умъртват за синове, и синове да не се умъртват за бащи: всеки за своя грях ще се умъртва.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "да се умъртват"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "бащи"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    },
+    {
+      "surface": "ובנים",
+      "gloss": "и синове"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "да се умъртват"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "бащи"
+    },
+    {
+      "surface": "איש",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "בחטאו",
+      "gloss": "за своя грях"
+    },
+    {
+      "surface": "יומתו",
+      "gloss": "ще се умъртва"
+    }
+  ],
+  "timestamp": "2026-09-22T12:11:53.184776168Z",
+  "model": "glm-5.3"
+}

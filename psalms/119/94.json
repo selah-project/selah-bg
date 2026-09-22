@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 94,
+  "ref": "psalms 119:94",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Твой съм аз — спаси ме, защото Твоите повели потърсих.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Твой"
+    },
+    {
+      "surface": "אני",
+      "gloss": "съм аз"
+    },
+    {
+      "surface": "הושיעני",
+      "gloss": "спаси ме"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "פקודיך",
+      "gloss": "Твоите повели"
+    },
+    {
+      "surface": "דרשתי",
+      "gloss": "потърсих"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:51.792159118Z",
+  "model": "glm-5.3"
+}

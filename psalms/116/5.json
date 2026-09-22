@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 116:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 116,
+  "translation": "Милостив ⟨е⟩ Яхве и праведен, и Елохим наш милее.",
+  "tokens": [
+    {
+      "surface": "חנון",
+      "gloss": "Милостив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "и праведен"
+    },
+    {
+      "surface": "ואלהינו",
+      "gloss": "и Елохим наш"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "милее"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:25.466327544Z",
+  "model": "glm-5.3"
+}

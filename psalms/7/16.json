@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Яма изкопа и я издълба, и падна в рова, който направи.",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "яма"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "изкопа"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "и я издълба"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "и падна"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "в рова"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "направи"
+    }
+  ],
+  "timestamp": "2026-09-22T14:50:01.954586694Z",
+  "model": "glm-5.3"
+}

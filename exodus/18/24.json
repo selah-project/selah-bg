@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И послуша Моше гласа на тестя си и стори всичко, което той каза.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и послуша"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "гласа"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "на тестя си"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и стори"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    }
+  ],
+  "timestamp": "2026-09-22T11:20:42.656876025Z",
+  "model": "glm-5.3"
+}

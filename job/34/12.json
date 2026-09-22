@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 34:12",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Да, наистина, Ел не ще върши зло, и Шаддай не ще изкриви съда.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "да"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "наистина"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ירשיע",
+      "gloss": "ще върши зло"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "и Шаддай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעות",
+      "gloss": "ще изкриви"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "съда"
+    }
+  ],
+  "timestamp": "2026-09-22T15:31:29.970066536Z",
+  "model": "glm-5.3"
+}

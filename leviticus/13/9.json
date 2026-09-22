@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Удар на цараат щом ⟨се⟩ появи у човек, ще бъде доведен при свещеника.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "удар"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "на цараат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "щом"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "се появи"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "у човек"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "и ще бъде доведен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свещеника"
+    }
+  ],
+  "timestamp": "2026-09-22T11:36:05.938726454Z",
+  "model": "glm-5.3"
+}

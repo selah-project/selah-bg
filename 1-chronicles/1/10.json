@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И Куш роди ⟨את⟩ Нимрод; той започна да бъде мощен на земята.",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "И Куш"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нимрод"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "Нимрод"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "החל",
+      "gloss": "започна"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "да бъде"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "мощен"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земята"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:41.576497175Z",
+  "model": "glm-5.3"
+}

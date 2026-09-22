@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "царят на Македа — един; царят на Бет Ел — един;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "Македа"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    }
+  ],
+  "timestamp": "2026-09-22T12:20:29.502538433Z",
+  "model": "glm-5.3"
+}

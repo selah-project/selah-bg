@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Аз ⟨съм⟩ мъжът, който видя нещастието си под ⟨the⟩ тоягата на гнева Му.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "мъжът"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видя"
+    },
+    {
+      "surface": "עני",
+      "gloss": "нещастието си"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "под тоягата"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "на гнева Му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:47.485892381Z",
+  "model": "glm-5.3"
+}

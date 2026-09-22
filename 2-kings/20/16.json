@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 20:16",
+  "book": "2-kings",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И рече Йешаяху на Хизкияу: чуй словото на Яхве.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Йешаяху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкияу"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чуй"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T13:23:00.450468017Z",
+  "model": "glm-5.3"
+}

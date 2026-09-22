@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 110:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 110,
+  "translation": "Адонай при дясната ти ръка смазва царе в деня на гнева Си.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "дясната ти ръка"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "смазва"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "на гнева Си"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "царе"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:29.426130762Z",
+  "model": "glm-5.3"
+}

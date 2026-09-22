@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 46:15",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 46,
+  "translation": "Защо бяха пометени силните ти? Не устояха, защото Яхве ги повали.",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "Защо"
+    },
+    {
+      "surface": "נסחף",
+      "gloss": "бяха пометени"
+    },
+    {
+      "surface": "אביריך",
+      "gloss": "силните ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "устояха"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "ги повали"
+    }
+  ],
+  "timestamp": "2026-09-22T16:26:25.859906967Z",
+  "model": "glm-5.3"
+}

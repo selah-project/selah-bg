@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Певците: синовете на Асаф — сто двадесет и осем.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "певците"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асаф"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и осем"
+    }
+  ],
+  "timestamp": "2026-09-22T15:49:16.114389634Z",
+  "model": "glm-5.3"
+}

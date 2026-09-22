@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Рана и безчестие ще намери, и безчестието му не ще се изтрие.",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "рана"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "и безчестие"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ще намери"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "и безчестието му"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "ще се изтрие"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:42.667265281Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Кой е той, що каза, и стана, когато Адонай не е заповядал?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "זה",
+      "gloss": "той"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "езаповядал"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:57.070826800Z",
+  "model": "glm-5.3"
+}

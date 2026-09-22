@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 16:27",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Величие и слава ⟨са⟩ пред него, сила и радост в мястото му.",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "величие"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "и слава"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пред него"
+    },
+    {
+      "surface": "עז",
+      "gloss": "сила"
+    },
+    {
+      "surface": "וחדוה",
+      "gloss": "и радост"
+    },
+    {
+      "surface": "במקמו",
+      "gloss": "в мястото му"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:56.640720854Z",
+  "model": "glm-5.3"
+}

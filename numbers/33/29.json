@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 33:29",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И тръгнаха от Митка и разпънаха стан в Хашмона.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И тръгнаха"
+    },
+    {
+      "surface": "ממתקה",
+      "gloss": "от Митка"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и разпънаха стан"
+    },
+    {
+      "surface": "בחשמנה",
+      "gloss": "в Хашмона"
+    }
+  ],
+  "timestamp": "2026-09-22T11:59:40.104003072Z",
+  "model": "glm-5.3"
+}

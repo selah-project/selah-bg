@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 2:8",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "и да ми приготвят дърва в изобилие, защото домът, който аз строя, е велик и чуден.",
+  "tokens": [
+    {
+      "surface": "ולהכין",
+      "gloss": "и да приготвят"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "дърва"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "в изобилие"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "домът"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "строя"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "והפלא",
+      "gloss": "и чуден"
+    }
+  ],
+  "timestamp": "2026-09-22T16:06:00.004661270Z",
+  "model": "glm-5.3"
+}

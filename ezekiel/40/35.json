@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 40:35",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 40,
+  "translation": "И ме заведе при северната порта, и измери ⟨я⟩ като ⟨тези⟩ мерки.",
+  "tokens": [
+    {
+      "surface": "ויביאני",
+      "gloss": "И ме заведе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "שער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "северната"
+    },
+    {
+      "surface": "ומדד",
+      "gloss": "и измери"
+    },
+    {
+      "surface": "כמדות",
+      "gloss": "като мерки"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨тези⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T14:29:05.998930973Z",
+  "model": "glm-5.3"
+}

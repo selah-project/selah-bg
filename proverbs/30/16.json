@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Шеол и затворена утроба, земя, ненаситна с вода, и огън, който не каза: Достатъчно.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "и затворена"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "утроба"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "се насити"
+    },
+    {
+      "surface": "מים",
+      "gloss": "с вода"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "и огън"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "каза"
+    },
+    {
+      "surface": "הון",
+      "gloss": "Достатъчно"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:41.533844562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 8:1",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Не вика ли мъдростта, и разумът не дава ли гласа си?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мъдростта"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "вика ли"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "и разумът"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "дава ли"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "гласа си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:22.800221994Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 20:7",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И той се подигра с ⟨את⟩ Израил, и го порази Йонатан, син на Шимеа, брат на Давид.",
+  "tokens": [
+    {
+      "surface": "ויחרף",
+      "gloss": "И той се подигра"
+    },
+    {
+      "surface": "את",
+      "gloss": "с ⟨את⟩",
+      "marks": "Израил"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израил"
+    },
+    {
+      "surface": "ויכהו",
+      "gloss": "и го порази"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Шимеа"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:07.551778056Z",
+  "model": "glm-5.3"
+}

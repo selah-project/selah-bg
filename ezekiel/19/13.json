@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 19:13",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И сега е пресадена в пустиня, в земя суха и жадна.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "и сега"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "пресадена"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустиня"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земя"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "суха"
+    },
+    {
+      "surface": "וצמא",
+      "gloss": "и жадна"
+    }
+  ],
+  "timestamp": "2026-09-22T14:18:14.112728639Z",
+  "model": "glm-5.3"
+}

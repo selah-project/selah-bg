@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 13:7",
+  "book": "hosea",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И ще им бъда като лъв; като леопард на пътя ще дебна.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "и ще им бъда"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "като"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "лъв"
+    },
+    {
+      "surface": "כנמר",
+      "gloss": "като леопард"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пътя"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ще дебна"
+    }
+  ],
+  "timestamp": "2026-09-22T14:35:01.886667946Z",
+  "model": "glm-5.3"
+}

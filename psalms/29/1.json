@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Псалом на Давид. Дайте на Яхве, синове на Ел, дайте на Яхве слава и мощ!",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "дайте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "на Ел"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "дайте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "и мощ"
+    }
+  ],
+  "timestamp": "2026-09-22T14:55:14.182141674Z",
+  "model": "glm-5.3"
+}

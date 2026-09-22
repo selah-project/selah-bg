@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синове на Нециах, синове на Хатифа.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "Нециах"
+    },
+    {
+      "surface": "бני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "Хатифа"
+    }
+  ],
+  "timestamp": "2026-09-22T15:49:10.517216404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 3:12",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Защо ме посрещнаха колена? И защо гърди — та да суча?",
+  "tokens": [
+    {
+      "surface": "מדוע",
+      "gloss": "защо"
+    },
+    {
+      "surface": "קדמוני",
+      "gloss": "ме посрещнаха"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "колена"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и защо"
+    },
+    {
+      "surface": "שדים",
+      "gloss": "гърди"
+    },
+    {
+      "surface": "כי",
+      "gloss": "та"
+    },
+    {
+      "surface": "אינק",
+      "gloss": "да суча"
+    }
+  ],
+  "timestamp": "2026-09-22T15:23:10.623604934Z",
+  "model": "glm-5.3"
+}

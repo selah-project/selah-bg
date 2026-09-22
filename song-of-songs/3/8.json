@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 3:8",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Всички държащи меч, научени за война — всеки с меча си на бедрото си, от страх през нощите.",
+  "tokens": [
+    {
+      "surface": "כלם",
+      "gloss": "Всички"
+    },
+    {
+      "surface": "אחזי",
+      "gloss": "държащи"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "מלמדי",
+      "gloss": "научени"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "за война"
+    },
+    {
+      "surface": "איש",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "с меча си"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ירכו",
+      "gloss": "бедрото си"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "от страх"
+    },
+    {
+      "surface": "בלילות",
+      "gloss": "през нощите"
+    }
+  ],
+  "timestamp": "2026-09-22T15:34:24.700331971Z",
+  "model": "glm-5.3"
+}

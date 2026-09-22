@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 3:11",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Пътищата ми отклони и ме разкъса, постави ме опустял.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "Пътищата ми"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "отклони"
+    },
+    {
+      "surface": "ויפשחני",
+      "gloss": "и ме разкъса"
+    },
+    {
+      "surface": "שמני",
+      "gloss": "постави ме"
+    },
+    {
+      "surface": "שמם",
+      "gloss": "опустял"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:37.673328916Z",
+  "model": "glm-5.3"
+}

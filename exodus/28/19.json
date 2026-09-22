@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "И третият ред: яхинт, агат и аметист.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "И редът"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третият"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "яхинт"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "агат"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "и аметист"
+    }
+  ],
+  "timestamp": "2026-09-22T11:24:53.613916575Z",
+  "model": "glm-5.3"
+}

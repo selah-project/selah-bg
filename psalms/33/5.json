@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 33:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "Обича правда и съд; от хеседа на Яхве е пълна цялата земя.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "Обича"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "правда"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "и съд"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "от хеседа ⟨на⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "е пълна"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    }
+  ],
+  "timestamp": "2026-09-22T14:56:36.024435774Z",
+  "model": "glm-5.3"
+}

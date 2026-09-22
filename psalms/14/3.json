@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Всички се отвърнаха, заедно се поквариха; няма правещ добро, няма даже един.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "Всички"
+    },
+    {
+      "surface": "סר",
+      "gloss": "се отвърнаха"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заедно"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "се поквариха"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "правещ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "גם",
+      "gloss": "даже"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    }
+  ],
+  "timestamp": "2026-09-22T14:52:38.130060387Z",
+  "model": "glm-5.3"
+}

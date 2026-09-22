@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 115:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 115,
+  "translation": "Уста имат, но не говорят; очи имат, но не виждат:",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "уста"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "говорят"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "очи"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "виждат"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:41.796177457Z",
+  "model": "glm-5.3"
+}

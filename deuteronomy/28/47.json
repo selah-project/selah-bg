@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 28:47",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Защото не служи на ⟨את⟩ Яхве, твоя Елохим, с радост и с добро сърце — от изобилието на всичко.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨което⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "служи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твоя Елохим"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "с радост"
+    },
+    {
+      "surface": "ובטוב",
+      "gloss": "и с добро"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "сърце"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "от изобилието"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на всичко"
+    }
+  ],
+  "timestamp": "2026-09-22T12:13:17.047614713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 29:15",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Защото казахте: „Яхве ни вдигна пророци във Вавилон.“",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אמרתם",
+      "gloss": "казахте"
+    },
+    {
+      "surface": "הקים",
+      "gloss": "вдигна"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "пророци"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "във Вавилон"
+    }
+  ],
+  "timestamp": "2026-09-22T14:00:38.997880044Z",
+  "model": "glm-5.3"
+}

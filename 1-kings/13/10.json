@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И тръгна по друг път, и не се върна по пътя, по който беше дошъл във Вейтел.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И тръгна"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "по път"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "друг"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שב",
+      "gloss": "се върна"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "по пътя"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "по който"
+    },
+    {
+      "surface": "בא",
+      "gloss": "беше дошъл"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в него"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Вейт"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ел"
+    }
+  ],
+  "timestamp": "2026-09-22T13:07:15.803201158Z",
+  "model": "glm-5.3"
+}

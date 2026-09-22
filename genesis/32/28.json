@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "И рече ⟨му⟩: какво е името ти? А той рече: Яаков.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "е името ти"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "А той рече"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    }
+  ],
+  "timestamp": "2026-09-22T11:05:06.762177140Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "и види ⟨את⟩ меча идващ върху земята, и затръби с шофар, и предупреди ⟨את⟩ народа —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "и види"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "меча"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "меча"
+    },
+    {
+      "surface": "באה",
+      "gloss": "идващ"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "и затръби"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "с шофар"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "и предупреди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народа"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    }
+  ],
+  "timestamp": "2026-09-22T14:24:48.904770423Z",
+  "model": "glm-5.3"
+}

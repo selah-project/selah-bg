@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 26:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Защото хеседът ти ⟨е⟩ пред очите ми, и ходих в истината ти.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседът ти"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "пред"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очите ми"
+    },
+    {
+      "surface": "והתהלכתי",
+      "gloss": "и ходих"
+    },
+    {
+      "surface": "באמתך",
+      "gloss": "в истината ти"
+    }
+  ],
+  "timestamp": "2026-09-22T14:55:23.286073096Z",
+  "model": "glm-5.3"
+}

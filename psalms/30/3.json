@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 30:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Яхве, Елохим мой, викнах към Теб и Ти ме изцели.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мой"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "виках"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "към Теб"
+    },
+    {
+      "surface": "ותרפאני",
+      "gloss": "и Ти ме изцели"
+    }
+  ],
+  "timestamp": "2026-09-22T14:55:20.236863079Z",
+  "model": "glm-5.3"
+}

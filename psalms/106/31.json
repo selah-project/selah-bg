@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 106:31",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 106,
+  "translation": "И бе вменена нему за правда, за род и род, до вечност.",
+  "tokens": [
+    {
+      "surface": "ותחשב",
+      "gloss": "и бе вменена"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "לצדקה",
+      "gloss": "за правда"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "за род"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "и род"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечност"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:38.554841149Z",
+  "model": "glm-5.3"
+}

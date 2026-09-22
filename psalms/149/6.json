@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 149:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 149,
+  "translation": "Възхвала на Ел в гърлата им, и меч двуостър в ръцете им.",
+  "tokens": [
+    {
+      "surface": "רוממות",
+      "gloss": "възхвала"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "בגרונם",
+      "gloss": "в гърлата им"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "и меч"
+    },
+    {
+      "surface": "פיפיות",
+      "gloss": "двуостър"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "в ръцете им"
+    }
+  ],
+  "timestamp": "2026-09-22T15:14:53.649790341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "И отиде Моше и говори ⟨את⟩ думите тези към целия Израел.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И отиде"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "думите"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "думите"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целия"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T12:15:16.745618552Z",
+  "model": "glm-5.3"
+}

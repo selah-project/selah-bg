@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И рече Яхве на Моше ⟨Мойсей⟩ и на Аарон, казвайки:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше ⟨Мойсей⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T11:45:02.828223355Z",
+  "model": "glm-5.3"
+}

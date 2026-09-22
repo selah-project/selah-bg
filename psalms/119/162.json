@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Радвам се на словото Си ⟨Ти⟩, като намиращ голяма плячка.",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "Радвам се"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "словото ⟨Ти⟩"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "като намиращ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "плячка"
+    },
+    {
+      "surface": "רב",
+      "gloss": "голяма"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:55.676269034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 2:34",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Йерихон, триста четиридесет и пет.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "на Йерихон"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четиридесет"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "и пет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:47:58.555877621Z",
+  "model": "glm-5.3"
+}

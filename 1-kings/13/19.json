@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И се върна с ⟨את⟩ него, и ядя хляб в дома му, и пи вода.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и се върна"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "с ⟨את⟩ него",
+      "marks": "него"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "и ядя"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляб"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "в дома му"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "и пи"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    }
+  ],
+  "timestamp": "2026-09-22T16:23:23.567089312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-samuel 14:23",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И Яхве избави в онзи ден ⟨את⟩ Израил; а битката премина ⟨את⟩ Бет Авен.",
+  "tokens": [
+    {
+      "surface": "ויושע",
+      "gloss": "и избави"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онзи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израил"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израил"
+    },
+    {
+      "surface": "והמלחמה",
+      "gloss": "а битката"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "премина"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бет Авен"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "און",
+      "gloss": "Авен"
+    }
+  ],
+  "timestamp": "2026-09-22T12:40:20.489691605Z",
+  "model": "glm-5.3"
+}

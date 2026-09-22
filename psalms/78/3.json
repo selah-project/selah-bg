@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 78:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 78,
+  "translation": "което чухме и узнахме, и бащите ни разказаха нам.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "чухме"
+    },
+    {
+      "surface": "ונדעם",
+      "gloss": "и узнахме"
+    },
+    {
+      "surface": "ואבותינו",
+      "gloss": "и бащите ни"
+    },
+    {
+      "surface": "ספרו",
+      "gloss": "разказаха"
+    },
+    {
+      "surface": "лנу",
+      "gloss": "нам"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:45.673027340Z",
+  "model": "glm-5.3"
+}

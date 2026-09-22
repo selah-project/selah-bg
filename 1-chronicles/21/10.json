@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 21:10",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Иди и говори на Давид, казвайки: така каза Яхве: три ⟨неща⟩ аз прострих върху теб; избери си едно от тях, и ще го върша на теб.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Иди"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "три"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "прострих"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "върху теб"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "избери"
+    },
+    {
+      "surface": "לך",
+      "gloss": "си"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "едно"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "от тях"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "и ще го върша"
+    },
+    {
+      "surface": "לך",
+      "gloss": "на теб"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:40.590346062Z",
+  "model": "glm-5.3"
+}

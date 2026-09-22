@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И синовете на Сеир: Лотан, и Шовал, и Цивеон, и Ана, и Дишон, и Ецер, и Дишан.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синовете"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "на Сеир"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотан"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "и Шовал"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "и Цивеон"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "и Ана"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "и Дишон"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "и Ецер"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "и Дишан"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:24.124805462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-samuel 17:29",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И Давид каза: Какво сторих сега? Нали това е само дума?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "сторих"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сега"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "нали"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дума"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    }
+  ],
+  "timestamp": "2026-09-22T16:22:09.069771188Z",
+  "model": "glm-5.3"
+}

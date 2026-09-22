@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 128,
+  "translation": "И виж синове на синовете ти; мир върху Израел.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "и виж"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "на синовете ти"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:40.033834612Z",
+  "model": "glm-5.3"
+}

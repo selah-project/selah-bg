@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 130,
+  "translation": "Защото при тебе ⟨е⟩ прошката, за да бъдеш почитан.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "при тебе"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "прошката"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "будеш почитан"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:47.782996384Z",
+  "model": "glm-5.3"
+}

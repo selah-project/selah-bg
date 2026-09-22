@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Окото ми се пролива и няма да утихне, защото няма прекъсване.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "окото ми"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "се пролива"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "да утихне"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "защото няма"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "прекъсване"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:38.953694047Z",
+  "model": "glm-5.3"
+}

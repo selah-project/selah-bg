@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 56,
+  "translation": "Денят, когато се боя, аз на теб ще уповавам.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "Денят"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "се боя"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "на теб"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ще уповавам"
+    }
+  ],
+  "timestamp": "2026-09-22T15:01:01.014386971Z",
+  "model": "glm-5.3"
+}

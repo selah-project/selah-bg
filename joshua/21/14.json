@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 21:14",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "и ⟨את⟩ Ятир и пасището ѝ, и ⟨את⟩ Ещемоа и пасището ѝ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Ятир"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Ятир"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "пасището ѝ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "пасището ѝ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Ещемоа"
+    },
+    {
+      "surface": "אשתמע",
+      "gloss": "Ещемоа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "пасището ѝ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "пасището ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T12:24:13.090412812Z",
+  "model": "glm-5.3"
+}

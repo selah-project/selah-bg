@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 24:12",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Мъки я умориха, и от нея не излиза многото ѝ ръжда; в огън ръждата ѝ.",
+  "tokens": [
+    {
+      "surface": "תאנים",
+      "gloss": "мъки"
+    },
+    {
+      "surface": "הלאת",
+      "gloss": "я умориха"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "излиза"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "от нея"
+    },
+    {
+      "surface": "רבת",
+      "gloss": "многото"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "ръжда ѝ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "в огън"
+    },
+    {
+      "surface": "חלאתה",
+      "gloss": "ръждата ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T14:20:22.089597198Z",
+  "model": "glm-5.3"
+}

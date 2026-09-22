@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 22:2",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "На Ел ли е изгода мъжът, че мъдрият ⟨е⟩ изгода за него?",
+  "tokens": [
+    {
+      "surface": "הלאל",
+      "gloss": "дали на Ел"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "е изгода"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мъжът"
+    },
+    {
+      "surface": "кי",
+      "gloss": "че"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "е изгода"
+    },
+    {
+      "surface": "עלימו",
+      "gloss": "за него"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "мъдрият"
+    }
+  ],
+  "timestamp": "2026-09-22T15:28:58.501251880Z",
+  "model": "glm-5.3"
+}

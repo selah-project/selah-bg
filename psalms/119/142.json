@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 142,
+  "ref": "psalms 119:142",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Правдата ти ⟨е⟩ правда вовеки, и Тората ти ⟨е⟩ истина.",
+  "tokens": [
+    {
+      "surface": "צדקתך",
+      "gloss": "правдата ти"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правда"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "вовеки"
+    },
+    {
+      "surface": "ותורתך",
+      "gloss": "и Тората ти"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истина"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:02.203829703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Той построи ⟨את⟩ горната врата на дома на Яхве, и на стената на Опел построи много.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Той"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "построи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "горната врата"
+    },
+    {
+      "surface": "שער",
+      "gloss": "врата"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "горната"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "и на стената на"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "Опел"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "построи"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "много"
+    }
+  ],
+  "timestamp": "2026-09-22T16:10:57.281156034Z",
+  "model": "glm-5.3"
+}

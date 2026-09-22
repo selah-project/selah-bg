@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И бяха синовете на Рам, първородния на Йерахмеел: Маац и Ямин и Екер.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И бяха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете на"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Рам"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "първородния"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "на Йерахмеел"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "Маац"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "и Ямин"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "и Екер"
+    }
+  ],
+  "timestamp": "2026-09-22T16:33:16.642615415Z",
+  "model": "glm-5.3"
+}

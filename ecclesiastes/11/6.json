@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Сутрин посей ⟨את⟩ семето си, а вечер не оставяй ръката си ⟨да почива⟩, защото не знаеш къде ще сполучи това или това, или и двете еднакво добри.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "Сутрин"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "посей"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "семето си"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "семето си"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "а вечер"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "оставяй"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ръката си"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "не"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знаеш"
+    },
+    {
+      "surface": "אי",
+      "gloss": "къде"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "ще сполучи"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "това"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "или"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "и двете"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "еднакво"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "добри"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:28.602083602Z",
+  "model": "glm-5.3"
+}

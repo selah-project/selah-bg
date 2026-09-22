@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Думи на Лемуил, царя — бреме, което го поучи майка му.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Думи"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "Лемуил"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "משא",
+      "gloss": "бреме"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "поучи го"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "майка му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:23:17.431557972Z",
+  "model": "glm-5.3"
+}

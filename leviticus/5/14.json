@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 5:14",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И говори Яхве на Моше, казвайки:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T11:32:32.303431039Z",
+  "model": "glm-5.3"
+}

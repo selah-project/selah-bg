@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "За племето на Иссахар — Йигал, син на Йосеф.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "за племето"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "на Иссахар"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "Йигал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "на Йосеф"
+    }
+  ],
+  "timestamp": "2026-09-22T11:49:43.024557173Z",
+  "model": "glm-5.3"
+}

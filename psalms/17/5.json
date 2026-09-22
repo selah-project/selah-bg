@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 17:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "Стъпките ми се държат в пъtekite ти — ⟨че⟩ не се препъват ходилата ми.",
+  "tokens": [
+    {
+      "surface": "תמך",
+      "gloss": "се държат"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "стъпките ми"
+    },
+    {
+      "surface": "במעגלותיך",
+      "gloss": "в пъtekите ти"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "נמוטו",
+      "gloss": "се препъват"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ходилата ми"
+    }
+  ],
+  "timestamp": "2026-09-22T14:52:31.092331834Z",
+  "model": "glm-5.3"
+}

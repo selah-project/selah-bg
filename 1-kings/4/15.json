@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 4:15",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Ахимаац в Нафтали; също той взе ⟨את⟩ Басмат, дъщеря на Шеломо, за жена.",
+  "tokens": [
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ахимаац"
+    },
+    {
+      "surface": "בנפתלי",
+      "gloss": "в Нафтали"
+    },
+    {
+      "surface": "גם",
+      "gloss": "също"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "взе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Басмат"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Басмат"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщеря"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жена"
+    }
+  ],
+  "timestamp": "2026-09-22T13:00:40.413157830Z",
+  "model": "glm-5.3"
+}

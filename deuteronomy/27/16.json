@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Проклет да е онзи, който омаловожава баща си и майка си; и ще каже целият народ: Амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Проклет"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "омаловожава"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "баща си"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "и майка си"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и ще каже"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целият"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    }
+  ],
+  "timestamp": "2026-09-22T16:20:46.063347045Z",
+  "model": "glm-5.3"
+}

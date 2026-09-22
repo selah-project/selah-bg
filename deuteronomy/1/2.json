@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Единадесет дни ⟨път⟩ от Хорев по пътя на планината Сеир до Кадеш Барнеа.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "Един"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надесет"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дни"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "от Хорев"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "по пътя"
+    },
+    {
+      "surface": "הר",
+      "gloss": "на планината"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кадеш"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "Барнеа"
+    }
+  ],
+  "timestamp": "2026-09-22T12:02:06.059711287Z",
+  "model": "glm-5.3"
+}

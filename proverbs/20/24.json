@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "От Яхве ⟨са⟩ стъпките на мъжа, и човек — как да разбере пътя си?",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "От Яхве"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "стъпките"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "на мъжа"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "и човек"
+    },
+    {
+      "surface": "מה",
+      "gloss": "как"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "да разбере"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "пътя си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:00.960625274Z",
+  "model": "glm-5.3"
+}

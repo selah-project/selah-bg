@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 14:8",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И рече царят на жената: иди в дома си, а аз ще заповядам за теб.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "иди"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "в дома си"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а аз"
+    },
+    {
+      "surface": "אצוה",
+      "gloss": "ще заповядам"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "за теб"
+    }
+  ],
+  "timestamp": "2026-09-22T12:53:06.468168783Z",
+  "model": "glm-5.3"
+}

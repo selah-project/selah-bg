@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 21:6",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "А Леви и Вениамин не преброи сред тях, защото бе гнусно словото на царя ⟨את⟩ Йоав.",
+  "tokens": [
+    {
+      "surface": "ולוי",
+      "gloss": "А Леви"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "и Вениамин"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "преброи"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "сред тях"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "бе гнусно"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царя"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йоав"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:13.621891561Z",
+  "model": "glm-5.3"
+}

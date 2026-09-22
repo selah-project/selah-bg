@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 11:17",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Мъж, отплащащ на душата си хесед, а който вреди на плътта си — жесток.",
+  "tokens": [
+    {
+      "surface": "גמל",
+      "gloss": "отплащащ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "на душата си"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "ועכר",
+      "gloss": "а който вреди"
+    },
+    {
+      "surface": "שארו",
+      "gloss": "на плътта си"
+    },
+    {
+      "surface": "אכזרי",
+      "gloss": "жесток"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:06.358764521Z",
+  "model": "glm-5.3"
+}

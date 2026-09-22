@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 20:22",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Не казвай: „Ще отплатя зло“; надявай се на Яхве, и Той ще те спаси.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "казвай"
+    },
+    {
+      "surface": "אשלמה",
+      "gloss": "Ще отплатя"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "קוה",
+      "gloss": "надявай се"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "וישע",
+      "gloss": "и ще спаси"
+    },
+    {
+      "surface": "לך",
+      "gloss": "тебе"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:00.957906412Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 24:7",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Жали ново вино, повехна лозата, въздишат всички веселите по сърце.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Жали"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "ново вино"
+    },
+    {
+      "surface": "אמללה",
+      "gloss": "повехна"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "лозата"
+    },
+    {
+      "surface": "נאנחו",
+      "gloss": "въздишат"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "שמחי",
+      "gloss": "веселите"
+    },
+    {
+      "surface": "לב",
+      "gloss": "по сърце"
+    }
+  ],
+  "timestamp": "2026-09-22T13:32:09.280409122Z",
+  "model": "glm-5.3"
+}

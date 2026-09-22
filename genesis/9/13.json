@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "⟨את⟩ лъка Си дадох в облака, и ще бъде за знак на завет между Мен и земята.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лъка Си"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "лъка Си"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дадох"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "в облака"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "и ще бъде"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "за знак"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "на завет"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "между Мен"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и между"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:10.120156721Z",
+  "model": "glm-5.3"
+}

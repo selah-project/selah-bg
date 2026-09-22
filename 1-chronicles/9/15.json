@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И Бакбакар, Хереш и Галал, и Матаня син на Мика, син на Зихри, син на Асаф.",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "И Бакбакар"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Хереш"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "и Галал"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "и Матаня"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "на Мика"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "на Зихри"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "на Асаф"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:27.905155336Z",
+  "model": "glm-5.3"
+}

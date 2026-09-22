@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 38:17",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "И рече: Аз ще пратя козле от стадото. А тя рече: Ако дадеш залог, докато го пратиш.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "אשלח",
+      "gloss": "ще пратя"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "козле"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "от козите"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "стадото"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "А тя рече"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "дадеш"
+    },
+    {
+      "surface": "ערבון",
+      "gloss": "залог"
+    },
+    {
+      "surface": "עד",
+      "gloss": "докато"
+    },
+    {
+      "surface": "שלחך",
+      "gloss": "го пратиш"
+    }
+  ],
+  "timestamp": "2026-09-22T11:09:09.553629482Z",
+  "model": "glm-5.3"
+}

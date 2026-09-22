@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "Глас на писък от Хоронаим: опустошение и голямо съкрушение.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "на писък"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "от Хоронаим"
+    },
+    {
+      "surface": "שד",
+      "gloss": "опустошение"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "и съкрушение"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голямо"
+    }
+  ],
+  "timestamp": "2026-09-22T14:07:12.778265204Z",
+  "model": "glm-5.3"
+}

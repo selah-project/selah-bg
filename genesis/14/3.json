@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Всички тези се събраха при долината на Сидим, тя ⟨е⟩ Соленото море.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всички"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "се събраха"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "долината"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "на Сидим"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "ים",
+      "gloss": "море"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Соленото"
+    }
+  ],
+  "timestamp": "2026-09-22T10:57:56.282558952Z",
+  "model": "glm-5.3"
+}

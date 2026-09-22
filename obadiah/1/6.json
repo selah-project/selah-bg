@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "obadiah 1:6",
+  "book": "obadiah",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Как беше потърсен Есав, разкрити бяха тайните му!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Как"
+    },
+    {
+      "surface": "נחפשו",
+      "gloss": "беше потърсен"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "נבעו",
+      "gloss": "разкрити бяха"
+    },
+    {
+      "surface": "מצפניו",
+      "gloss": "тайните му"
+    }
+  ],
+  "timestamp": "2026-09-22T14:38:35.265682854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Оцем шестия, Давид седмия.",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "Оцем"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шестия"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "седмия"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:54.412105239Z",
+  "model": "glm-5.3"
+}

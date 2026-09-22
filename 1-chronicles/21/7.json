@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 21:7",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И бе зло в очите на Елохим за това нещо, и порази ⟨את⟩ Израел.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "И бе зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очите"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "нещото"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "това"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "и порази"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:13.622048647Z",
+  "model": "glm-5.3"
+}

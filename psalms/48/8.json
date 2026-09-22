@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "С източен вятър Ти разбиваш корабите на Таршиш.",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "С вятър"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "източен"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "разбиваш"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "корабите"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Таршиш"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:18.055040555Z",
+  "model": "glm-5.3"
+}

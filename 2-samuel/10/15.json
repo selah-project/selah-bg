@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 10:15",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И видя Арам, че бе победен пред Израел, и се събраха заедно.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И видя"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "бе победен"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраел"
+    },
+    {
+      "surface": "ויאספו",
+      "gloss": "и се събраха"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "заедно"
+    }
+  ],
+  "timestamp": "2026-09-22T16:22:35.663872054Z",
+  "model": "glm-5.3"
+}

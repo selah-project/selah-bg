@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И рече ми: кой си ти? А аз му отговорих: амалекитянин съм.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "а аз му отговорих"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "амалекитянин"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "съм"
+    }
+  ],
+  "timestamp": "2026-09-22T12:48:17.156365872Z",
+  "model": "glm-5.3"
+}

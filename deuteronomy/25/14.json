@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Нека няма за теб в дома ти ефа и ефа, голяма и малка.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "нека няма"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за теб"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "в дома ти"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ефа"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "и ефа"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "голяма"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "и малка"
+    }
+  ],
+  "timestamp": "2026-09-22T12:11:03.826541949Z",
+  "model": "glm-5.3"
+}

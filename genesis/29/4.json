@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 29:4",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И каза им Яаков: братя мои, откъде сте? А те казаха: от Харан сме ние.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "братя мои"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "откъде"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "сте"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и казаха"
+    },
+    {
+      "surface": "מחרן",
+      "gloss": "от Харан"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ние"
+    }
+  ],
+  "timestamp": "2026-09-22T16:15:22.726966679Z",
+  "model": "glm-5.3"
+}

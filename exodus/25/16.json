@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И ще положиш в ковчега ⟨את⟩ свидетелството, което ще ти дам.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "и ще положиш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свидетелството"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "свидетелството"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ще дам"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-22T11:23:52.521906651Z",
+  "model": "glm-5.3"
+}

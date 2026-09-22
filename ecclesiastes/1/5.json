@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И изгря слънцето, и залезе слънцето, и към мястото си се стреми ⟨да⟩ изгрява ⟨отново⟩ — то ⟨е⟩ там.",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "и изгря"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "слънцето"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "и залезе"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "слънцето"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и към"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "мястото си"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "се стреми"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "⟨да⟩ изгрява"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:53.858801054Z",
+  "model": "glm-5.3"
+}

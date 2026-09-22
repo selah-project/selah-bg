@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 20:26",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И ще бъдете свети за Мен, защото свят съм Аз, Яхве; и отделих ⟨את⟩ вас от народите, да бъдат Мои.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "и ще бъдете"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за Мен"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "свети"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "свят"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואבדל",
+      "gloss": "и отделих"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "вас"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "да бъдат"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мои"
+    }
+  ],
+  "timestamp": "2026-09-22T11:39:43.379257795Z",
+  "model": "glm-5.3"
+}

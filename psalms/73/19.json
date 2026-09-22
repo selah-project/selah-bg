@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 73:19",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 73,
+  "translation": "Как станаха за опустошение — в миг! Изчезнаха, свършиха се от ужаси.",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Как"
+    },
+    {
+      "surface": "היו",
+      "gloss": "станаха"
+    },
+    {
+      "surface": "לשמה",
+      "gloss": "за опустошение"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "в миг"
+    },
+    {
+      "surface": "ספו",
+      "gloss": "Изчезнаха"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "свършиха се"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "בלהות",
+      "gloss": "ужаси"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:57.738371172Z",
+  "model": "glm-5.3"
+}

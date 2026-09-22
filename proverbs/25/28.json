@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Град разбит, без стена — такъв е човек, който няма обуздание за духа си.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "разбит"
+    },
+    {
+      "surface": "אין",
+      "gloss": "без"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "стена"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "обуздание"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "за духа си"
+    }
+  ],
+  "timestamp": "2026-09-22T16:43:35.450758457Z",
+  "model": "glm-5.3"
+}

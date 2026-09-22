@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 80:15",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 80,
+  "translation": "Елохим Цеваот, върни Се, моля, погледни от небето и виж, и посети тази лоза —",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "върни Се"
+    },
+    {
+      "surface": "נא",
+      "gloss": "моля"
+    },
+    {
+      "surface": "הבט",
+      "gloss": "погледни"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "от небето"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и виж"
+    },
+    {
+      "surface": "ופקד",
+      "gloss": "и посети"
+    },
+    {
+      "surface": "גפן",
+      "gloss": "лоза"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "тази"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:33.342694563Z",
+  "model": "glm-5.3"
+}

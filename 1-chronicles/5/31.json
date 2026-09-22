@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И Авишуа роди ⟨את⟩ Буки, и Буки роди ⟨את⟩ Узи.",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "И Авишуа"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Буки"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Буки"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "и Буки"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Узи"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Узи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:45.904986279Z",
+  "model": "glm-5.3"
+}

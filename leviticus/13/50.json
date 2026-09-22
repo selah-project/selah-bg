@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И ще види свещеникът ⟨את⟩ удара, и ще затвори ⟨את⟩ удара седем дни.",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "И ще види"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свещеникът"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "удара"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "удара"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "и ще затвори"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "удара"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "удара"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седем"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    }
+  ],
+  "timestamp": "2026-09-22T11:36:41.431640902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Хурай от потоците Гаашски, Авиел араватиеца.",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "Хурай"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "от потоците"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Гааш"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "Авиел"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "араватиеца"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:44.882185401Z",
+  "model": "glm-5.3"
+}

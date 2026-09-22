@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И ще заповяда свещеникът, и ще заколи ⟨את⟩ птицата едната в съд глинен, над вода жива.",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "и ще заповяда"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свещеникът"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "и ще заколи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "птицата"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "птицата"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "едната"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "съд"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "глинен"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жива"
+    }
+  ],
+  "timestamp": "2026-09-22T11:37:22.421037073Z",
+  "model": "glm-5.3"
+}

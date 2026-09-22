@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И отиде мъж от дома Леви и взе ⟨את⟩ дъщерята на Леви.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И отиде"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "от дома"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и взе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дъщерята на Леви"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщерята"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "на Леви"
+    }
+  ],
+  "timestamp": "2026-09-22T11:14:21.218278615Z",
+  "model": "glm-5.3"
+}

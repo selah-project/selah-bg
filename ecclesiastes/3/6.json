@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Време да търсиш и време да губиш; време да пазиш и време да изхвърляш.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "да търсиш"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и време"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "да губиш"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "да пазиш"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и време"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "да изхвърляш"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:31.006353860Z",
+  "model": "glm-5.3"
+}

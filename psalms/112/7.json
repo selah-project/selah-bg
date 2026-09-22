@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 112,
+  "translation": "От лоши вест не ще се бои; утвърдено ⟨е⟩ сърцето му, доверено в Яхве.",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "От вест"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "лоша"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ще се бои"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "утвърдено"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "сърцето му"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "доверено"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "в Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:29.196844374Z",
+  "model": "glm-5.3"
+}

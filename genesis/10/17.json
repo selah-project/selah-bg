@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "и ⟨את⟩ хивееца, и ⟨את⟩ аркееца, и ⟨את⟩ синееца",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "хивееца"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "хивееца"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "аркееца"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "аркееца"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "синееца"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "синееца"
+    }
+  ],
+  "timestamp": "2026-09-22T16:15:02.967148187Z",
+  "model": "glm-5.3"
+}

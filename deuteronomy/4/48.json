@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "От Ароер, който е на брега на потока Арнон, и до планината Сион — тя е Хермон.",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "От Ароер"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "брега"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "на потока"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "Арнон"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "הר",
+      "gloss": "планината"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "Сион"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "Хермон"
+    }
+  ],
+  "timestamp": "2026-09-22T12:03:40.354527886Z",
+  "model": "glm-5.3"
+}

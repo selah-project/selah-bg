@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "isaiah 24:17",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Ужас и яма и примамка ⟨са⟩ върху тебе, жителу на земята.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ужас"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "и яма"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "и примамка"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "върху тебе"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "жителу"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земята"
+    }
+  ],
+  "timestamp": "2026-09-22T13:32:33.859663509Z",
+  "model": "glm-5.3"
+}

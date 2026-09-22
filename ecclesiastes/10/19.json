@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 10:19",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "За смях правят гощавка, и вино весели живота, а среброто отговаря ⟨את⟩ на всичко.",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "за смях"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "правят"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "гощавка"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и вино"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "весели"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живота"
+    },
+    {
+      "surface": "והכסף",
+      "gloss": "а среброто"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "отговаря"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "на всичко"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "на всичко"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:49.717352755Z",
+  "model": "glm-5.3"
+}

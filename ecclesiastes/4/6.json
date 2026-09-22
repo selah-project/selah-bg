@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "По-добра ⟨е⟩ пълна длан спокойствие, от пълни двете шепи труд и мъка на духа.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "По-добра"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "пълна"
+    },
+    {
+      "surface": "כף",
+      "gloss": "длан"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "спокойствие"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "от пълни"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "двете шепи"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "труд"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "и мъка"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "на духа"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:17.769940445Z",
+  "model": "glm-5.3"
+}

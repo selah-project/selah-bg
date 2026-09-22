@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Слушащо ухо и виждащо око — Яхве е направил и двете.",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "ухо"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "слушащо"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "и око"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "виждащо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "е направил"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "двете"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:45.465801654Z",
+  "model": "glm-5.3"
+}

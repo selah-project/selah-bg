@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "hosea 7:15",
+  "book": "hosea",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "А Аз наказах, укрепих мишците им, а срещу Мене кроят зло.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А Аз"
+    },
+    {
+      "surface": "יסרתי",
+      "gloss": "наказах"
+    },
+    {
+      "surface": "חזקתי",
+      "gloss": "укрепих"
+    },
+    {
+      "surface": "זרועתם",
+      "gloss": "мишците им"
+    },
+    {
+      "surface": "ואלי",
+      "gloss": "а срещу Мене"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "кроят"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-09-22T16:27:44.446722689Z",
+  "model": "glm-5.3"
+}

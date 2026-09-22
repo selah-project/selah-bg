@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Един козел, козите — един, за жертва за грях.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "козел"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "козите"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за жертва за грях"
+    }
+  ],
+  "timestamp": "2026-09-22T11:48:27.044967751Z",
+  "model": "glm-5.3"
+}

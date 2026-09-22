@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Не дружи с ⟨את⟩ гневлив човек и при човек на ярост не влизай.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "дружи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гневлив човек"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "притежател на"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гняв"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "на ярост"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "тבוא",
+      "gloss": "влизай"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:42.983690226Z",
+  "model": "glm-5.3"
+}

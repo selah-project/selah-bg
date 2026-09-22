@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 20:26",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Мъдър пресява цар ⟨⟩ нечестивите и връща върху тях колелото.",
+  "tokens": [
+    {
+      "surface": "מזרה",
+      "gloss": "пресява"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивите"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мъдър"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и връща"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "върху тях"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "колелото"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:08.380323730Z",
+  "model": "glm-5.3"
+}

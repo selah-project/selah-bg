@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 22:13",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И ти каза: какво знае Ел? през плътен мрак ли ще съди?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "и ти каза"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знае"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "הבעד",
+      "gloss": "през"
+    },
+    {
+      "surface": "ערפל",
+      "gloss": "плътен мрак"
+    },
+    {
+      "surface": "ישפוט",
+      "gloss": "ли ще съди"
+    }
+  ],
+  "timestamp": "2026-09-22T15:28:45.112089780Z",
+  "model": "glm-5.3"
+}

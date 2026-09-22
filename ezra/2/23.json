@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Мъжете на Анатот — сто двадесет и осем.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Мъжете"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "Анатот"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и осем"
+    }
+  ],
+  "timestamp": "2026-09-22T15:47:58.369957003Z",
+  "model": "glm-5.3"
+}

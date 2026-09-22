@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 105,
+  "translation": "И странствуваха от народ към народ, от царство към ⟨друг⟩ народ.",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "и странствуваха"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "от народ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "от царство"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "друг"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:24.051298303Z",
+  "model": "glm-5.3"
+}

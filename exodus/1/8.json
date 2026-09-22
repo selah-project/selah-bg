@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И стана нов цар над Мицраим, който не знаеше ⟨את⟩ Йосеф.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "И стана"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нов"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знаеше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йосеф"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    }
+  ],
+  "timestamp": "2026-09-22T11:13:07.717110241Z",
+  "model": "glm-5.3"
+}

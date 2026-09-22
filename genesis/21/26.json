@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И рече Авимелех: не знаех кой стори ⟨את⟩ словото това; и ти дори не ми съобщи, и аз дори не чух освен днес.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знаех"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "стори"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "словото"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "това"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и дори"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "съобщи"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и дори"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "чух"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "освен"
+    },
+    {
+      "surface": "היום",
+      "gloss": "днес"
+    }
+  ],
+  "timestamp": "2026-09-22T11:00:25.354833385Z",
+  "model": "glm-5.3"
+}

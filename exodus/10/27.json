@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 10:27",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И укрепи Яхве ⟨את⟩ сърцето на фараона, и той не пожела да ги пусне.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "И укрепи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сърцето"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърцето"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "на фараона"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "пожела"
+    },
+    {
+      "surface": "לשלחם",
+      "gloss": "да ги пусне"
+    }
+  ],
+  "timestamp": "2026-09-22T11:16:36.097020166Z",
+  "model": "glm-5.3"
+}

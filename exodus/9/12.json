@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 9:12",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И закрепи Яхве ⟨את⟩ сърцето на фараона, и не послуша тях — както беше говорил Яхве на Моше.",
+  "tokens": [
+    {
+      "surface": "ויחזק",
+      "gloss": "и закрепи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сърцето"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърцето"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "на фараона"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послуша"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "тях"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "беше говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-09-22T11:16:12.428134276Z",
+  "model": "glm-5.3"
+}

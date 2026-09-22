@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "Няма мир, каза Яхве, за нечестивите.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "за нечестивите"
+    }
+  ],
+  "timestamp": "2026-09-22T13:39:27.388268076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 17:1",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И говори Яхве на Моше, казвайки:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T11:52:40.721475021Z",
+  "model": "glm-5.3"
+}

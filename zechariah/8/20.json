@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Така каза Яхве Цеваот: още ⟨ще стане⟩, че ще дойдат народи и жители на много градове.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "עד",
+      "gloss": "още"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "че"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ще дойдат"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "и жители"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "градове"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "много"
+    }
+  ],
+  "timestamp": "2026-09-22T16:29:00.460401906Z",
+  "model": "glm-5.3"
+}

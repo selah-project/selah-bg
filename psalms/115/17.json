@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 115,
+  "translation": "Не мъртвите ще славят Ях, нито всички, които слизат в безмълвието.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "мъртвите"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "ще славят"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "нито"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "които слизат"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "в безмълвието"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:53.498368428Z",
+  "model": "glm-5.3"
+}

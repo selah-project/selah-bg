@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "judges 20:41",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И ⟨мъжете⟩ Израилеви се обърнаха, и се уплаши мъжът Benjaminин, защото видя, че го е сполетяло злото.",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "и мъжете"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израилеви"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "се обърнаха"
+    },
+    {
+      "surface": "ויבהל",
+      "gloss": "и се уплаши"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъжът"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Benjaminин"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видя"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "נגעה",
+      "gloss": "сполетя"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "го"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "злото"
+    }
+  ],
+  "timestamp": "2026-09-22T12:34:57.152099592Z",
+  "model": "glm-5.3"
+}

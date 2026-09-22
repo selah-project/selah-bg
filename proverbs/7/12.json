@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 7:12",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Ту отвън, ту по площадите, и до всеки ъгъл дебне.",
+  "tokens": [
+    {
+      "surface": "פעם",
+      "gloss": "ту"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "отвън"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "ту"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "по площадите"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "и до"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ъгъл"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "дебне"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:53.599472746Z",
+  "model": "glm-5.3"
+}

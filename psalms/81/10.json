@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 81,
+  "translation": "Да не ⟨би⟩ ти чужд Ел, и да не се поклониш на чужд Ел.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Да не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "⟨би⟩"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "чужд Ел"
+    },
+    {
+      "surface": "זר",
+      "gloss": "чужд"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "се поклониш"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "на чужд Ел"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "чужд"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:18.365784473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 34:35",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Йов не със знание говори, и думите му — не с разсъдък.",
+  "tokens": [
+    {
+      "surface": "איוב",
+      "gloss": "Йов"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "със знание"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "ודבריו",
+      "gloss": "и думите му"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בהשכיל",
+      "gloss": "с разсъдък"
+    }
+  ],
+  "timestamp": "2026-09-22T15:31:46.717058660Z",
+  "model": "glm-5.3"
+}

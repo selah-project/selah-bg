@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 34:5",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "И слезе Яхве в облака, и застана с него там, и призова ⟨в⟩ името Яхве.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "и слезе"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "в облака"
+    },
+    {
+      "surface": "ויתיצב",
+      "gloss": "и застана"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с него"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и призова"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "⟨в⟩ името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:27:51.375779792Z",
+  "model": "glm-5.3"
+}

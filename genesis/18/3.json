@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 18:3",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И рече: Адонай, ако намеря благоволение в очите ти, не преминавай, моля, от слугата си.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "נא",
+      "gloss": "моля"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "намеря"
+    },
+    {
+      "surface": "חן",
+      "gloss": "благоволение"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "в очите ти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "נא",
+      "gloss": "моля"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "преминавай"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "от"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слугата си"
+    }
+  ],
+  "timestamp": "2026-09-22T10:59:19.051808057Z",
+  "model": "glm-5.3"
+}

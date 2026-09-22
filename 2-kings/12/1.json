@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Син на седем години ⟨беше⟩ Йехоаш, когато се възцари.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седем"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "Йехоаш"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "в царуването си"
+    }
+  ],
+  "timestamp": "2026-09-22T13:18:52.291261733Z",
+  "model": "glm-5.3"
+}

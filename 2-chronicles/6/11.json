@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И поставих там ⟨את⟩ ковчега, в който ⟨е⟩ заветът на Яхве, който Той сключи със синовете на Израил.",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "И поставих"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчега"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "в който"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "заветът"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "сключи"
+    },
+    {
+      "surface": "עם",
+      "gloss": "със"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израил"
+    }
+  ],
+  "timestamp": "2026-09-22T16:44:12.495919201Z",
+  "model": "glm-5.3"
+}

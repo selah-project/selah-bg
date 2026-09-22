@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Гласът Яхве ⟨е⟩ ⟨с⟩ мощ, гласът Яхве ⟨е⟩ ⟨в⟩ великолепие!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "гласът"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "⟨с⟩ мощ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "гласът"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "⟨в⟩ великолепие"
+    }
+  ],
+  "timestamp": "2026-09-22T14:55:14.182729994Z",
+  "model": "glm-5.3"
+}

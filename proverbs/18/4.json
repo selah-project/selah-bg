@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Дълбоки води са думите от устата на човек, поток, който блика — извор на мъдрост.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "дълбоки"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "думите"
+    },
+    {
+      "surface": "פי",
+      "gloss": "от устата"
+    },
+    {
+      "surface": "איש",
+      "gloss": "на човек"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "поток"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "който блика"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "извор"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "на мъдрост"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:35.570553052Z",
+  "model": "glm-5.3"
+}

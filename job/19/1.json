@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 19:1",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И отговори Ийов и рече:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И отговори"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-22T15:27:40.841825541Z",
+  "model": "glm-5.3"
+}

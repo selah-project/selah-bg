@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "и ⟨את⟩ Хадорам, и ⟨את⟩ Узал, и ⟨את⟩ Дикла",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Хадорам"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "Хадорам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Узал"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "Узал"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Дикла"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "Дикла"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:20.277537444Z",
+  "model": "glm-5.3"
+}

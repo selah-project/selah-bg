@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 42:13",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 42,
+  "translation": "И бяха му седем сина и три дъщери.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И бяха"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "שבענה",
+      "gloss": "седем"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сина"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "и три"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дъщери"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:52.625802520Z",
+  "model": "glm-5.3"
+}

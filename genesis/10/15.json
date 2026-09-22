@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И Ханаан роди ⟨את⟩ Сидон, първородния си, и ⟨את⟩ Хет.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "И Ханаан"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сидон"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "Сидон"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "първородния си"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Хет"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хет"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:54.840450527Z",
+  "model": "glm-5.3"
+}

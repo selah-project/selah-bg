@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 5:1",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И пя Девора, и Барак, синът на Авиноам, в онзи ден, като каза:",
+  "tokens": [
+    {
+      "surface": "ותשר",
+      "gloss": "и пя"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "Девора"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "и Барак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синът"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "на Авиноам"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онзи"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T12:27:25.116592615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Каква полза има човек от целия си труд, с който се труди под слънцето?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Каква"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "полза"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "има човек"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "от целия"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "си труд"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "се труди"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "слънцето"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:36.033172935Z",
+  "model": "glm-5.3"
+}

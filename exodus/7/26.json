@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 7:26",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И рече Яхве на Моше: влез при фараона и кажи му: така рече Яхве: пусни ⟨את⟩ народа Ми, и ще Ми служат.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בא",
+      "gloss": "влез"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараона"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и кажи"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "пусни"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народа Ми"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народа Ми"
+    },
+    {
+      "surface": "ויעבדני",
+      "gloss": "и ще Ми служат"
+    }
+  ],
+  "timestamp": "2026-09-22T11:16:12.778868061Z",
+  "model": "glm-5.3"
+}

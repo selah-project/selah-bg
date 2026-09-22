@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Нетанел четвъртия, Радай петия.",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетанел"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "четвъртия"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "Радай"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "петия"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:54.411967920Z",
+  "model": "glm-5.3"
+}

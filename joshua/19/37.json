@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "и Кедеш, и Едреи, и Ен Хацор",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "и Кедеш"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "и Едреи"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "и Ен"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Хацор"
+    }
+  ],
+  "timestamp": "2026-09-22T12:23:18.231877691Z",
+  "model": "glm-5.3"
+}

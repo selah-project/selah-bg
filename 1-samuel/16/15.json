@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 16:15",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И казаха слугите на Шаул към него: ето, моля, зъл дух на Елохим те ужасява.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И казаха"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слугите"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "към него"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "נא",
+      "gloss": "моля"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зъл"
+    },
+    {
+      "surface": "מבעתך",
+      "gloss": "те ужасява"
+    }
+  ],
+  "timestamp": "2026-09-22T12:41:23.068971360Z",
+  "model": "glm-5.3"
+}

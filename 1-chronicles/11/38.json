@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Йоел братът на Натан, Мивхар синът на хагуреца.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Йоел"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "братът"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "Мивхар"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синът"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "хагуреца"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:10.383088488Z",
+  "model": "glm-5.3"
+}

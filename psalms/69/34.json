@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 69:34",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 69,
+  "translation": "Защото Яхве слуша бедните и ⟨את⟩ затворниците си не презира.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слуша"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "אביונים",
+      "gloss": "бедните"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "затворниците си"
+    },
+    {
+      "surface": "אסיריו",
+      "gloss": "затворниците си"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "презира"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:03.850958764Z",
+  "model": "glm-5.3"
+}

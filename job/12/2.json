@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 12:2",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Наистина, вие сте ⟨народът⟩, и с вас ще умре мъдростта.",
+  "tokens": [
+    {
+      "surface": "אמנם",
+      "gloss": "Наистина"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "и с вас"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ще умре"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мъдростта"
+    }
+  ],
+  "timestamp": "2026-09-22T15:26:24.018616911Z",
+  "model": "glm-5.3"
+}

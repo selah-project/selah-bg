@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И се родиха нему седем сина и три дъщери.",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "И се родиха"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "седем"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сина"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "и три"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дъщери"
+    }
+  ],
+  "timestamp": "2026-09-22T15:23:57.178812061Z",
+  "model": "glm-5.3"
+}

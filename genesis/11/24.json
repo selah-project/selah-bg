@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 11:24",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И живя Нахор девет и двадесет години, и роди ⟨את⟩ Терах.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "и живя"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахор"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "девет"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Терах"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терах"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:53.973004465Z",
+  "model": "glm-5.3"
+}

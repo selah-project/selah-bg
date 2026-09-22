@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И един козел за грях:",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "козел"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "на козите"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за грях"
+    }
+  ],
+  "timestamp": "2026-09-22T11:46:56.269827129Z",
+  "model": "glm-5.3"
+}

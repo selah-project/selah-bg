@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 39,
+  "translation": "И вторият ред: нефек, сапфир и яспис.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "и редът"
+    },
+    {
+      "surface": "השני",
+      "gloss": "вторият"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "нефек"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "сапфир"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "и яспис"
+    }
+  ],
+  "timestamp": "2026-09-22T11:29:35.947765342Z",
+  "model": "glm-5.3"
+}

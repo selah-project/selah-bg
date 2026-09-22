@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 5:6",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Защото не излиза от пръст нещастие, и от земя не пониква труд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "излиза"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "от пръст"
+    },
+    {
+      "surface": "און",
+      "gloss": "несчастие"
+    },
+    {
+      "surface": "ומאדמה",
+      "gloss": "и от земя"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "пониква"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "труд"
+    }
+  ],
+  "timestamp": "2026-09-22T15:24:50.354311664Z",
+  "model": "glm-5.3"
+}

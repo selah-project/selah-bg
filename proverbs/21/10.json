@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 21:10",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Душа на нечестив желае зло; не се оглежда с милост в очите му ближният му.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "Душа"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "на нечестив"
+    },
+    {
+      "surface": "אותה",
+      "gloss": "желае"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "се оглежда с милост"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в очите му"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ближният му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:55.614990997Z",
+  "model": "glm-5.3"
+}

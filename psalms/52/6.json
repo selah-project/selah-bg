@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 52,
+  "translation": "Обичаш всички поглъщащи думи, езико на измамата.",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "Обичаш"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "думи"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "поглъщащи"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "езико"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "на измамата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:01:12.685022433Z",
+  "model": "glm-5.3"
+}

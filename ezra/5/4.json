@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 5:4",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Тогава така им казахме ⟨ние⟩: кои са имената на мъжете, които строят тази сграда?",
+  "tokens": [
+    {
+      "surface": "אדין",
+      "gloss": "тогава"
+    },
+    {
+      "surface": "כנמא",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמרנא",
+      "gloss": "казахме"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מן",
+      "gloss": "кои"
+    },
+    {
+      "surface": "אנון",
+      "gloss": "са"
+    },
+    {
+      "surface": "שמהת",
+      "gloss": "имената"
+    },
+    {
+      "surface": "גבריא",
+      "gloss": "на мъжете"
+    },
+    {
+      "surface": "די",
+      "gloss": "които"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "тази"
+    },
+    {
+      "surface": "בנינא",
+      "gloss": "сграда"
+    },
+    {
+      "surface": "בנין",
+      "gloss": "строят"
+    }
+  ],
+  "timestamp": "2026-09-22T15:50:30.432772318Z",
+  "model": "glm-5.3"
+}

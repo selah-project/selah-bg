@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 2:20",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "за да ходиш в пътя на добрите и пътищата на праведните да пазиш.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ходиш"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "в пътя"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "на добрите"
+    },
+    {
+      "surface": "וארחות",
+      "gloss": "и пътищата"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "на праведните"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "да пазиш"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:22.545897991Z",
+  "model": "glm-5.3"
+}

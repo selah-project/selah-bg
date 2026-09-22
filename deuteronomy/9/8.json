@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 9:8",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И в Хорев разгневихте ⟨את⟩ Яхве, и Яхве се разгневи срещу вас да изтреби ⟨את⟩ вас.",
+  "tokens": [
+    {
+      "surface": "ובחרב",
+      "gloss": "и в Хорев"
+    },
+    {
+      "surface": "הקצפתם",
+      "gloss": "разгневихте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויתאנף",
+      "gloss": "и се разгневи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "срещу вас"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "да изтреби"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "вас"
+    }
+  ],
+  "timestamp": "2026-09-22T12:05:50.636695030Z",
+  "model": "glm-5.3"
+}

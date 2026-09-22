@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Не предавай роб на господаря му, който се избави при тебе от господаря си.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "предавай"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "роб"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "господаря му"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "се избави"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "при тебе"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "от"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "господаря си"
+    }
+  ],
+  "timestamp": "2026-09-22T12:11:20.857989499Z",
+  "model": "glm-5.3"
+}

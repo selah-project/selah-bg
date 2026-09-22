@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И тръгнаха от Цалмона и опънаха ⟨стан⟩ във Фунон.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И тръгнаха"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "от Цалмона"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и опънаха ⟨стан⟩"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "във Фунон"
+    }
+  ],
+  "timestamp": "2026-09-22T11:59:51.682770081Z",
+  "model": "glm-5.3"
+}

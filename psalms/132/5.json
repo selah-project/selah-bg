@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 132:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 132,
+  "translation": "Докато намеря място за Яхве, Мишкани за Силния на Яков.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "докато"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "намеря"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "място"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Яхве"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "Мишкани"
+    },
+    {
+      "surface": "לאביר",
+      "gloss": "за Силния"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "на Яков"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:15.102415232Z",
+  "model": "glm-5.3"
+}

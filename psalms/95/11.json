@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 95:11",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 95,
+  "translation": "за които се заклех в гнева Си: няма да влязат в покоя Ми.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "за които"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "се заклех"
+    },
+    {
+      "surface": "באפי",
+      "gloss": "в гнева Си"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יבאון",
+      "gloss": "влязат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "מנוחתי",
+      "gloss": "покоя Ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:32.466845934Z",
+  "model": "glm-5.3"
+}

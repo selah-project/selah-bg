@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И обърнах се аз да отчайвам ⟨את⟩ сърцето си върху целия труд, който се трудих под слънцето.",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "и обърнах се"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "да отчайвам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сърцето си"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "сърцето си"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целия"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "труд"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "който се трудих"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "слънцето"
+    }
+  ],
+  "timestamp": "2026-09-22T16:32:32.154065689Z",
+  "model": "glm-5.3"
+}

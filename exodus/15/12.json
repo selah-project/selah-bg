@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 15:12",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Простря дясната си ръка — погълна ги земята.",
+  "tokens": [
+    {
+      "surface": "נטית",
+      "gloss": "простря"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "дясната си ръка"
+    },
+    {
+      "surface": "תבלעמו",
+      "gloss": "погълна ги"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земята"
+    }
+  ],
+  "timestamp": "2026-09-22T11:17:31.503185135Z",
+  "model": "glm-5.3"
+}

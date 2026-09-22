@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "А ⟨את⟩ месото и ⟨את⟩ кожата изгори в огън, вън от стана.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "а ⟨את⟩",
+      "marks": "месото"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "месото"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "кожата"
+    },
+    {
+      "surface": "העור",
+      "gloss": "кожата"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "изгори"
+    },
+    {
+      "surface": "באש",
+      "gloss": "в огън"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "вън"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "от стана"
+    }
+  ],
+  "timestamp": "2026-09-22T11:34:19.393140304Z",
+  "model": "glm-5.3"
+}

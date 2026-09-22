@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Защото кой е приобщен към всички живи — има надежда; защото живо куче ⟨е⟩ по-добро от мъртъв лъв.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "е приобщен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живи"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "надежда"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "за куче"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "е по-добро"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "мъртъв лъв"
+    },
+    {
+      "surface": "המת",
+      "gloss": "мъртъв"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:46.728366326Z",
+  "model": "glm-5.3"
+}

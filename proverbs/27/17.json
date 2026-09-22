@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Желязо с желязо се изостря, и човек ⟨изостря⟩ лицето на ближния си.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "желязо"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "с желязо"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "се изостря"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и човек"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "изостря"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "на ближния си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:10.389008708Z",
+  "model": "glm-5.3"
+}

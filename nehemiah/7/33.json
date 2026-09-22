@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Мъжете на другия Нево, петдесет и двама.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "мъжете"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Нево"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "другия"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "петдесет"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и двама"
+    }
+  ],
+  "timestamp": "2026-09-22T16:44:05.891523635Z",
+  "model": "glm-5.3"
+}

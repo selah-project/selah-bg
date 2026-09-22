@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 26:27",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Който копае яма, в нея ще падне; и който търкаля камък, към него ще се върне.",
+  "tokens": [
+    {
+      "surface": "כרה",
+      "gloss": "копае"
+    },
+    {
+      "surface": "שחת",
+      "gloss": "яма"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в нея"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ще падне"
+    },
+    {
+      "surface": "וגולל",
+      "gloss": "и който търкаля"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камък"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "към него"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ще се върне"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:33.210906052Z",
+  "model": "glm-5.3"
+}

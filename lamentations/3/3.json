@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Да, само против мен се обръща Той, обръща ⟨the⟩ ръката Си целия ден.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Да, само"
+    },
+    {
+      "surface": "בי",
+      "gloss": "против мен"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "се обръща"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "обръща"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ръката Си"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целия"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:47.489314742Z",
+  "model": "glm-5.3"
+}

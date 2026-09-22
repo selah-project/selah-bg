@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "да изопачи човек в делото му — Адонай не видя.",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "да изопачи"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "в делото му"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "видя"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:52.478280140Z",
+  "model": "glm-5.3"
+}

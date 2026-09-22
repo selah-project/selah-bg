@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Йоел главният, и Шафам вторият, и Яанай и Шафат в Башан.",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "Йоел"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "главният"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "и Шафам"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "вторият"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "и Яанай"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "и Шафат"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "в Башан"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:37.451084163Z",
+  "model": "glm-5.3"
+}

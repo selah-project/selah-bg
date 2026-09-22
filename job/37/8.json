@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 37:8",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "И влиза животно в засада⟨та си⟩, и в жилищата си се settling — наляга.",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "И влиза"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "животно"
+    },
+    {
+      "surface": "бמו",
+      "gloss": "в"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "засада"
+    },
+    {
+      "surface": "ובמעונתיה",
+      "gloss": "и в жилищата си"
+    },
+    {
+      "surface": "תשכן",
+      "gloss": "наляга"
+    }
+  ],
+  "timestamp": "2026-09-22T15:32:15.500841882Z",
+  "model": "glm-5.3"
+}

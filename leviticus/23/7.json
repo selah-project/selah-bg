@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 23:7",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "В първия ден свято събрание ще бъде за вас; всяка работа за служене да не вършите.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В деня"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "първия"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "събрание"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свято"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ще бъде"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяка"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "работа"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "за служене"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "да вършите"
+    }
+  ],
+  "timestamp": "2026-09-22T11:40:39.848532188Z",
+  "model": "glm-5.3"
+}

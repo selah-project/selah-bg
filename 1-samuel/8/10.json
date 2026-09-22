@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 8:10",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И каза Шмуел ⟨את⟩ всички думи на Яхве на народа, искащите от него ⟨את⟩ цар.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И каза"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всички думи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "думи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "השאלים",
+      "gloss": "искащите"
+    },
+    {
+      "surface": "מאתו",
+      "gloss": "от ⟨את⟩ него",
+      "marks": "цар"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    }
+  ],
+  "timestamp": "2026-09-22T12:37:17.888044594Z",
+  "model": "glm-5.3"
+}

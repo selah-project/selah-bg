@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Отвори, Ливан, вратите си, и огън ще изяде кедрите ти.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Отвори"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Ливан"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "вратите си"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "и ще изяде"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огън"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "кедрите ти"
+    }
+  ],
+  "timestamp": "2026-09-22T14:47:55.673340128Z",
+  "model": "glm-5.3"
+}

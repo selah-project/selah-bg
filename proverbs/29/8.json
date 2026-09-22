@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 29:8",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Мъже на присмех разпалват ⟨един⟩ град, а мъдрите отклоняват гняв.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "мъже"
+    },
+    {
+      "surface": "לצון",
+      "gloss": "на присмех"
+    },
+    {
+      "surface": "יפיחו",
+      "gloss": "разпалват"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "град"
+    },
+    {
+      "surface": "וחכמים",
+      "gloss": "а мъдрите"
+    },
+    {
+      "surface": "ישיבו",
+      "gloss": "отклоняват"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гняв"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:19.527198245Z",
+  "model": "glm-5.3"
+}

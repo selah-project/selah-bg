@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 3:4",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И рече на мене: човешки сине, върви, влез към дома на Израел и говори с Моите думи към тях.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "на мене"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човешки"
+    },
+    {
+      "surface": "לך",
+      "gloss": "върви"
+    },
+    {
+      "surface": "בא",
+      "gloss": "влез"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "בדברי",
+      "gloss": "с Моите думи"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "към тях"
+    }
+  ],
+  "timestamp": "2026-09-22T16:43:21.597975653Z",
+  "model": "glm-5.3"
+}

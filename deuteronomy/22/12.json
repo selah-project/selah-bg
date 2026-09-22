@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Ресни направи си на четирите края на покривалото си, с което се покриваш.",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "ресни"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "לך",
+      "gloss": "си"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четирите"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "края"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "покривалото си"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "се покриваш"
+    },
+    {
+      "surface": "בה",
+      "gloss": "с него"
+    }
+  ],
+  "timestamp": "2026-09-22T12:09:25.464951611Z",
+  "model": "glm-5.3"
+}

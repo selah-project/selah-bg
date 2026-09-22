@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 2:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Седящият в небесата ще се смее, Адонай ще им се присмива.",
+  "tokens": [
+    {
+      "surface": "יושב",
+      "gloss": "Седящият"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "в небесата"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ще се смее"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ילעג",
+      "gloss": "ще им се присмива"
+    },
+    {
+      "surface": "למו",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-09-22T14:50:37.439825244Z",
+  "model": "glm-5.3"
+}

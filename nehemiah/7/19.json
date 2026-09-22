@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Синовете на Бигвай — две хиляди шестдесет и седем.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "на Бигвай"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "две хиляди"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "шестдесет"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "и седем"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:53.857450676Z",
+  "model": "glm-5.3"
+}

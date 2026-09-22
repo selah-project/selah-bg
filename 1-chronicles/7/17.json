@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И синовете на Улам: Бедан. Това ⟨са⟩ синовете на Гилад, син на Махир, син на Менаше.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синовете"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "на Улам"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "Бедан"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Това"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "на Гилад"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "на Махир"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "на Менаше"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:46.113142868Z",
+  "model": "glm-5.3"
+}

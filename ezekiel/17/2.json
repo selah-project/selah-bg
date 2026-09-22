@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "Сине човешки, задай гатанка и изрече притча към дома Израилев.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човешки"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "задай"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "гатанка"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "и изрече"
+    },
+    {
+      "surface": "משל",
+      "gloss": "притча"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израилев"
+    }
+  ],
+  "timestamp": "2026-09-22T14:17:24.133612178Z",
+  "model": "glm-5.3"
+}

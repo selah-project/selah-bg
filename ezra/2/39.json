@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Харим: хиляда и седемнадесет.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "Харим"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляда"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "и седем"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надесет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:48:20.768961913Z",
+  "model": "glm-5.3"
+}

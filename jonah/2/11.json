@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jonah 2:11",
+  "book": "jonah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И рече Яхве на рибата, и повърна тя ⟨את⟩ Йона на сушата.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לדג",
+      "gloss": "на рибата"
+    },
+    {
+      "surface": "ויקא",
+      "gloss": "и повърна"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йона"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йона"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "היבשה",
+      "gloss": "сушата"
+    }
+  ],
+  "timestamp": "2026-09-22T14:39:30.387262290Z",
+  "model": "glm-5.3"
+}

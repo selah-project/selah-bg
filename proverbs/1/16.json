@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 1:16",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "защото нозете им към злото тичат и бързат да пролят кръв.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "רגליהם",
+      "gloss": "нозете им"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "към злото"
+    },
+    {
+      "surface": "ירוצו",
+      "gloss": "тичат"
+    },
+    {
+      "surface": "וימהרו",
+      "gloss": "и бързат"
+    },
+    {
+      "surface": "לשפך",
+      "gloss": "да пролят"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кръв"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:36.206704419Z",
+  "model": "glm-5.3"
+}

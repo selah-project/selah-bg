@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 24:9",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Затова така каза Адонай Яхве: горко на града на кръвта! и аз ще направя кладата голяма.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "затова"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "горко"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "на града"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "на кръвта"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "אגדיל",
+      "gloss": "ще направя голяма"
+    },
+    {
+      "surface": "המדורה",
+      "gloss": "кладата"
+    }
+  ],
+  "timestamp": "2026-09-22T14:20:22.084302585Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 28:3",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Мъж беден, а притискащ бедните — дъжд поройен, и няма хляб.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "רש",
+      "gloss": "беден"
+    },
+    {
+      "surface": "ועשק",
+      "gloss": "а притискащ"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "бедните"
+    },
+    {
+      "surface": "מטר",
+      "gloss": "дъжд"
+    },
+    {
+      "surface": "סחף",
+      "gloss": "поройен"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляб"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:30.953246991Z",
+  "model": "glm-5.3"
+}

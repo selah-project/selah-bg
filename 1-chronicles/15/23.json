@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 15:23",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "и Верехя и Елкана — вратари за ковчега.",
+  "tokens": [
+    {
+      "surface": "וברכיה",
+      "gloss": "и Верехя"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "и Елкана"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "вратари"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "за ковчега"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:45.465328188Z",
+  "model": "glm-5.3"
+}

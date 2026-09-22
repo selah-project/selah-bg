@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 1:27",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "За този юноша се помолих, и Яхве ми даде ⟨את⟩ молбата ми, която поисках от Него.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "за"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "юноша"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    },
+    {
+      "surface": "התפללתי",
+      "gloss": "се помолих"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "молбата ми"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "молбата ми"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "поисках"
+    },
+    {
+      "surface": "מעמו",
+      "gloss": "от Него"
+    }
+  ],
+  "timestamp": "2026-09-22T16:21:54.903713789Z",
+  "model": "glm-5.3"
+}

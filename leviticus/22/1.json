@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И говори Яхве на Моше, като каже:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "като каже"
+    }
+  ],
+  "timestamp": "2026-09-22T11:40:19.479742239Z",
+  "model": "glm-5.3"
+}

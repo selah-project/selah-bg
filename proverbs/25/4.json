@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Отстрани шлаката от среброто, и излезе съд за ⟨пречиствателя⟩.",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "Отстрани"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "шлаката"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "от среброто"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и излезе"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "за ⟨пречиствателя⟩"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "съд"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:30.706106208Z",
+  "model": "glm-5.3"
+}

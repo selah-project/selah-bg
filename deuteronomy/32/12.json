@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "Яхве сам го водеше, и нямаше с него чужд бог.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "сам"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "го водеше"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и нямаше"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с него"
+    },
+    {
+      "surface": "אל",
+      "gloss": "бог"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "чужд"
+    }
+  ],
+  "timestamp": "2026-09-22T12:14:20.507653687Z",
+  "model": "glm-5.3"
+}

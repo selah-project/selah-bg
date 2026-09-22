@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 19:46",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "и Мей-Яркон, и ха-Ракон, с границата срещу Яфо",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "и Мей"
+    },
+    {
+      "surface": "הירקון",
+      "gloss": "Яркон"
+    },
+    {
+      "surface": "והרקון",
+      "gloss": "и ха-Ракон"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "границата"
+    },
+    {
+      "surface": "מול",
+      "gloss": "срещу"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "Яфо"
+    }
+  ],
+  "timestamp": "2026-09-22T12:23:43.087636511Z",
+  "model": "glm-5.3"
+}

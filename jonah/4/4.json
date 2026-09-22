@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И рече Яхве: добре ли пламна ⟨гневът⟩ в тебе?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и-рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "добре-ли"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "пламна"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨в⟩-тебе"
+    }
+  ],
+  "timestamp": "2026-09-22T14:40:18.889355179Z",
+  "model": "glm-5.3"
+}

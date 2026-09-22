@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Всички ръце ще отслабнат, и всички колена ще отидат ⟨като⟩ води.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "ръце"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ще отслабнат"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всички"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "колена"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "ще отидат"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    }
+  ],
+  "timestamp": "2026-09-22T14:12:34.008028234Z",
+  "model": "glm-5.3"
+}

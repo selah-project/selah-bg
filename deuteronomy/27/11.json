@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "И заповяда Моше ⟨Мойсей⟩ ⟨את⟩ народа в тоя ден, казвайки:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "И заповяда"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше ⟨Мойсей⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": " народа"
+    },
+    {
+      "surface": "העם",
+      "gloss": " народа"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в тоя ден"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": ""
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T12:11:27.343839411Z",
+  "model": "glm-5.3"
+}

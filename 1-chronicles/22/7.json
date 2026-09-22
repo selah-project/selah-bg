@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 22:7",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И рече Давид на Шломо, сина си: Аз — беше с сърцето ми да построя дом за името на Яхве, Елохим мой.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "на Шломо"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "сърцето ми"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "да построя"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "за името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мой"
+    }
+  ],
+  "timestamp": "2026-09-22T16:03:43.189247564Z",
+  "model": "glm-5.3"
+}

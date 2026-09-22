@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Не бъди прекалено праведен, и не се показвай премъдър твърде много — защо да се погубиш?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бъди"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведен"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "прекалено"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "се показвай премъдър"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "твърде много"
+    },
+    {
+      "surface": "למה",
+      "gloss": "защо"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "да се погубиш"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:42.751559192Z",
+  "model": "glm-5.3"
+}

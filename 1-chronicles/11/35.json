@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Ахиам, син на Сахар Харарееца, Елифал, син на Ур,",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "Ахиам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "на Сахар"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "Харарееца"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "Елифал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אור",
+      "gloss": "на Ур"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:31.975106134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Защото също много пъти знае сърцето ти, че и ти си проклинал други.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "גם",
+      "gloss": "също"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "пъти"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "много"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знае"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "сърцето ти"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "че"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "את",
+      "gloss": "ти"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "си проклинал"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "други"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:09.493071409Z",
+  "model": "glm-5.3"
+}

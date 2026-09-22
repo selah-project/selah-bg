@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "И отговори Елиху ⟨Мойсей не — Елиху⟩ и рече:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и отговори"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Елиху"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-22T15:31:48.786898303Z",
+  "model": "glm-5.3"
+}

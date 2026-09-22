@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "В ушите на глупака не говори, защото ще презре разумните ти думи.",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "в ушите на"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупака"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "יבוז",
+      "gloss": "ще презре"
+    },
+    {
+      "surface": "לשכל",
+      "gloss": "разумните"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "твои думи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:58.776249971Z",
+  "model": "glm-5.3"
+}

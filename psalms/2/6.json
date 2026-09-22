@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "А Аз помазах Царя Си върху Цион, светия Ми планина.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а Аз"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "помазах"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Царя Си"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "הר",
+      "gloss": "планина"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "светия Ми"
+    }
+  ],
+  "timestamp": "2026-09-22T16:28:30.257836268Z",
+  "model": "glm-5.3"
+}

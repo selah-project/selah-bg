@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 1:20",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И Йоктан роди ⟨את⟩ Алмодад, и ⟨את⟩ Шелеф, и ⟨את⟩ Хацармавет, и ⟨את⟩ Ярах.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "и Йоктан"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Алмодад"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Алмодад"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Шелеф"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Шелеф"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Хацармавет"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Хацармавет"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Ярах"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Ярах"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:46.976837545Z",
+  "model": "glm-5.3"
+}

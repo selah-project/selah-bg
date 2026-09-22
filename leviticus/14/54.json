@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Това е Тора за всяка plague на цараат и за нетек:",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Това"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "за всяка"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "поражение"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "на цараат"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "и за нетек"
+    }
+  ],
+  "timestamp": "2026-09-22T11:36:45.850869234Z",
+  "model": "glm-5.3"
+}

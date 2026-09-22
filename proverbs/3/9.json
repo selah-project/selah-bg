@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Почитай ⟨את⟩ Яхве от имота си и от първините на всичките си приходи.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Почитай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "от имота си"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "и от първините"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на всичките"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "приходи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:57.365224255Z",
+  "model": "glm-5.3"
+}

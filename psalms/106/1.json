@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 106:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 106,
+  "translation": "Хвалете Ях, благодарете на Яхве, че ⟨е⟩ добър, че навеки ⟨е⟩ хеседът Му.",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Хвалете"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "הודו",
+      "gloss": "благодарете"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добър"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навеки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседът Му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:38.954057311Z",
+  "model": "glm-5.3"
+}

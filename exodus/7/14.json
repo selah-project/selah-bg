@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 7:14",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И рече Яхве на Моше: тежко ⟨е⟩ сърцето на фараона, отказва се да пусне народа.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "тежко"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърцето"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "на фараона"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "отказва се"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "да пусне"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    }
+  ],
+  "timestamp": "2026-09-22T11:15:15.206187660Z",
+  "model": "glm-5.3"
+}

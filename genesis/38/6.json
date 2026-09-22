@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 38:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "И взе Ехуда ⟨Юда⟩ жена за Ер, първородния си; а името ѝ — Тамар.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "и взе"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Ехуда"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "לער",
+      "gloss": "за Ер"
+    },
+    {
+      "surface": "בכורו",
+      "gloss": "първородния си"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "а името ѝ"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "Тамар"
+    }
+  ],
+  "timestamp": "2026-09-22T11:08:34.185741952Z",
+  "model": "glm-5.3"
+}

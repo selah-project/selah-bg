@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "За Якин двадесет и първия, за Гамул двадесет и втория.",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "за Якин"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "едно"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадесет"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "за Гамул"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "две"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадесет"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:54.004003698Z",
+  "model": "glm-5.3"
+}

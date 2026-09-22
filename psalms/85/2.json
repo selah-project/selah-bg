@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 85:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 85,
+  "translation": "Благоволи Яхве ⟨א⟩ земята ти, върна ⟨плена⟩ на Яков.",
+  "tokens": [
+    {
+      "surface": "רצית",
+      "gloss": "благоволи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "земята ти"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "върна"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "⟨плена⟩"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:21.601152847Z",
+  "model": "glm-5.3"
+}

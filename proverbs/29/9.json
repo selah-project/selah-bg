@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 29:9",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Мъдър човек се съди с ⟨את⟩ безумен човек, и той бушува, и се смее, и няма покой.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мъдър"
+    },
+    {
+      "surface": "נשפט",
+      "gloss": "се съди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "безумен човек"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "безумен"
+    },
+    {
+      "surface": "ורגז",
+      "gloss": "и бушува"
+    },
+    {
+      "surface": "ושחק",
+      "gloss": "и се смее"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "покой"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:48.963171404Z",
+  "model": "glm-5.3"
+}

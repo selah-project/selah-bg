@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Всеки мъжки сред свещениците да яде ⟨את⟩ нея; свето на светини е тя.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "мъжки"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "сред свещениците"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "да яде"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ нея",
+      "marks": "нея"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свято"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "на светини"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е тя"
+    }
+  ],
+  "timestamp": "2026-09-22T11:32:12.735126194Z",
+  "model": "glm-5.3"
+}

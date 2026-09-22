@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синове на Закай — седемстотин и шестдесет.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "Закай"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седем"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "и шестдесет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:48:04.009996439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "С душите си внасяме хляба си пред лицето на меча на пустинята.",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "с душите си"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "внасяме"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "хляба си"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "пред лицето на"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меча"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "на пустинята"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:20.674595214Z",
+  "model": "glm-5.3"
+}

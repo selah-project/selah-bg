@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И отговорихте ⟨את⟩ мен и казахте: добро е нещото, което си говорил да се прави.",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "И отговорихте"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ мен",
+      "marks": "мен"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "и казахте"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "е нещото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "си говорил"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да се прави"
+    }
+  ],
+  "timestamp": "2026-09-22T12:02:32.302429480Z",
+  "model": "glm-5.3"
+}

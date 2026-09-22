@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "За Махли: Елеазар; и нямаше той синове.",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "за Махли"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Елеазар"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "имаше"
+    },
+    {
+      "surface": "לו",
+      "gloss": "той"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:50.726133347Z",
+  "model": "glm-5.3"
+}

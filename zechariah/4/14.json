@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 4:14",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И рече: Това са двамата синове на маслото, които стоят при господаря на цялата земя.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Това са"
+    },
+    {
+      "surface": "שני",
+      "gloss": "двамата"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "היצהר",
+      "gloss": "на маслото"
+    },
+    {
+      "surface": "העמדים",
+      "gloss": "които стоят"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "господаря"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялатa"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земя"
+    }
+  ],
+  "timestamp": "2026-09-22T14:45:42.020570789Z",
+  "model": "glm-5.3"
+}

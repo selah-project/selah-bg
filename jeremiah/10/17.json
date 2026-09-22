@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 10:17",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Събери от земята багажа си, ти, която живееш в обсадата.",
+  "tokens": [
+    {
+      "surface": "אספי",
+      "gloss": "събери"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "от земята"
+    },
+    {
+      "surface": "כנעתך",
+      "gloss": "багажа си"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ти, която живееш"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "в обсадата"
+    }
+  ],
+  "timestamp": "2026-09-22T13:51:52.909394916Z",
+  "model": "glm-5.3"
+}

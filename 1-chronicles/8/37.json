@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И Моца роди ⟨את⟩ Бинеа; Рафа беше синът му, Елеаса синът му, Ацел синът му.",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "И Моца"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бинеа"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "Бинеа"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "Рафа"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Елеаса"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "Ацел"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:15.305913322Z",
+  "model": "glm-5.3"
+}

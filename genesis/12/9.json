@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И тръгна Аврам, вървейки и напредвайки към юга.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "и тръгна"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "вървейки"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "и напредвайки"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "към юга"
+    }
+  ],
+  "timestamp": "2026-09-22T10:57:32.382864743Z",
+  "model": "glm-5.3"
+}

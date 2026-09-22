@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 20:7",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Ето, всички вие сте синове на Израел — дайте за себе си дума и съвет тук.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "всички вие"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "дайте"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за себе си"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дума"
+    },
+    {
+      "surface": "ועצה",
+      "gloss": "и съвет"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "тук"
+    }
+  ],
+  "timestamp": "2026-09-22T12:34:58.032522640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 15:19",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "на тях сами бе дадена земята, и чужденец не мина сред тях.",
+  "tokens": [
+    {
+      "surface": "להם",
+      "gloss": "на тях"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "сами"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "бе дадена"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "мина"
+    },
+    {
+      "surface": "זר",
+      "gloss": "чужденец"
+    },
+    {
+      "surface": "בתוכם",
+      "gloss": "сред тях"
+    }
+  ],
+  "timestamp": "2026-09-22T15:27:38.696807836Z",
+  "model": "glm-5.3"
+}

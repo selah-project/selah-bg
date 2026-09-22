@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "И за племето на сыновете на Дан — княз Буки, син на Йогли.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "и за племето"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновете"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "княз"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "Буки"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "Йогли"
+    }
+  ],
+  "timestamp": "2026-09-22T11:59:54.773608220Z",
+  "model": "glm-5.3"
+}

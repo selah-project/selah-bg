@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "и ⟨את⟩ Босмат, дъщеря на Ишмаел, сестра на Неваот.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Босмат"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "Босмат"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщеря"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "на Ишмаел"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "сестра"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "на Неваот"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:41.725308838Z",
+  "model": "glm-5.3"
+}

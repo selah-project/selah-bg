@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Защото казва: не са ли владетелите ми всички заедно царе?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "казва"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "не са ли"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "владетелите ми"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "всички заедно"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "царе"
+    }
+  ],
+  "timestamp": "2026-09-22T13:28:34.804776999Z",
+  "model": "glm-5.3"
+}

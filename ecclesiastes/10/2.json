@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Сърцето на мъдрия ⟨е⟩ към дясната му ⟨страна⟩, а сърцето на глупака — към лявата му.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "сърцето"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "на мъдрия"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "към дясната му"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "а сърцето"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "на глупака"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "към лявата му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:56.895317321Z",
+  "model": "glm-5.3"
+}

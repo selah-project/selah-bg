@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Бремя за Вавилон, което видя Ишаяху, син на Амоц.",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Бремя"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "за Вавилон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "видя"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ишаяху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "на Амоц"
+    }
+  ],
+  "timestamp": "2026-09-22T13:29:00.538092087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И синовете на Надав: Селед и Апаим; и Селед умря без синове.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синовете"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "на Надав"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Селед"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "и Апаим"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умря"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "Селед"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:00.369900685Z",
+  "model": "glm-5.3"
+}

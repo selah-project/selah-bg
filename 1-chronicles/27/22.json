@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 27:22",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "За Дан — Азарел, син на Йерхам. Тези са князете на племената на Израил.",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "за Дан"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "Азарел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "на Йерхам"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Тези"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "князете на"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "племената"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израил"
+    }
+  ],
+  "timestamp": "2026-09-22T16:04:11.619866935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "и мършояда, и ⟨את⟩ сокола, и ветрушката по нейния вид;",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "и мършояда"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сокола"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "сокола"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "и ветрушката"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "по нейния вид"
+    }
+  ],
+  "timestamp": "2026-09-22T12:06:45.644441401Z",
+  "model": "glm-5.3"
+}

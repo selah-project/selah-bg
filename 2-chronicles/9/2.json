@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 9:2",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И Шеломо ѝ обясни ⟨את⟩ всичките ѝ думи; и не остана скрита от Шеломо дума, която да не ѝ е обяснил.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "И обясни"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ѝ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всичките"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичките"
+    },
+    {
+      "surface": "דבריה",
+      "gloss": "ѝ думи"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "остана скрита"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дума"
+    },
+    {
+      "surface": "משלמה",
+      "gloss": "от Шеломо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "е обяснил"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T16:07:25.481605188Z",
+  "model": "glm-5.3"
+}

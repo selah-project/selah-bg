@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 91,
+  "translation": "Не ще те сполети зло и беля не ще се приближи до шатъра ти.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "ще те сполети"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "теб"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "и беля"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "ще се приближи"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "до шатъра ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:26.683724451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 23:6",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Не яж ⟨את⟩ хляба на лоши очи, и не пожелавай лакомствата му.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תלחם",
+      "gloss": "яж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "хляба"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляба"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лоши"
+    },
+    {
+      "surface": "עין",
+      "gloss": "очи"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "пожелавай"
+    },
+    {
+      "surface": "למטעמתיו",
+      "gloss": "лакомствата му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:56.135120374Z",
+  "model": "glm-5.3"
+}

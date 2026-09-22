@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 33:56",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И ще бъде: както си намислил ⟨да сторя⟩ на тях, ще сторя на вас.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и ще бъде"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "си намислил"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "⟨да сторя⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "на тях"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ще сторя"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "на вас"
+    }
+  ],
+  "timestamp": "2026-09-22T16:19:10.689847694Z",
+  "model": "glm-5.3"
+}

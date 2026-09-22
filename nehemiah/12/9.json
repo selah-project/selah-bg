@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 12:9",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "и Бакбукия и Уни, братята им, срещу тях по стражите",
+  "tokens": [
+    {
+      "surface": "ובקבקיה",
+      "gloss": "и Бакбукия"
+    },
+    {
+      "surface": "וענו",
+      "gloss": "и Уни"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "братята им"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "срещу тях"
+    },
+    {
+      "surface": "למשמרות",
+      "gloss": "по стражите"
+    }
+  ],
+  "timestamp": "2026-09-22T15:55:16.027636562Z",
+  "model": "glm-5.3"
+}

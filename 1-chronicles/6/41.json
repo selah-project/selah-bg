@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "а ⟨את⟩ полето на града и ⟨את⟩ селата му дадоха на Калев, син на Йефне.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "полето"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "полето"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "на града"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "селата му"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "селата му"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "дадоха"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "на Калев"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "на Йефне"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:28.970075385Z",
+  "model": "glm-5.3"
+}

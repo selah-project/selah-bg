@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 12:10",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "и Йешуа роди ⟨את⟩ Йояким, и Йояким роди ⟨את⟩ Елиашив, и Елиашив ⟨את⟩ Йояда",
+  "tokens": [
+    {
+      "surface": "וישוע",
+      "gloss": "и Йешуа"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йояким"
+    },
+    {
+      "surface": "יויקים",
+      "gloss": "Йояким"
+    },
+    {
+      "surface": "ויויקים",
+      "gloss": "и Йояким"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елиашив"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "Елиашив"
+    },
+    {
+      "surface": "ואלישיב",
+      "gloss": "и Елиашив"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йояда"
+    },
+    {
+      "surface": "יוידע",
+      "gloss": "Йояда"
+    }
+  ],
+  "timestamp": "2026-09-22T15:55:16.028344532Z",
+  "model": "glm-5.3"
+}

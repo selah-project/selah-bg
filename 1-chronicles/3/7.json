@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "и Нога, и Нефег, и Яфия —",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "и Нога"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "и Нефег"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "и Яфия"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:20.772843188Z",
+  "model": "glm-5.3"
+}

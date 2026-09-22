@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 41,
+  "translation": "И стана във втория ден от умъртвяването на ⟨את⟩ Гедалия — и човек не зна.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И стана"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "השני",
+      "gloss": "втория"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "от умъртвяването"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гедалия"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "на Гедалия"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и човек"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зна"
+    }
+  ],
+  "timestamp": "2026-09-22T14:04:41.476953812Z",
+  "model": "glm-5.3"
+}

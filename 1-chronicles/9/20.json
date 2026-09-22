@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 9:20",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И Пинехас, син на Елеазар, ⟨бе⟩ предводител над тях отпреди; Яхве ⟨бе⟩ с него.",
+  "tokens": [
+    {
+      "surface": "ופינחס",
+      "gloss": "И Пинехас"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "на Елеазар"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "предводител"
+    },
+    {
+      "surface": "היה",
+      "gloss": "бе"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над тях"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "отпреди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с него"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:02.354995917Z",
+  "model": "glm-5.3"
+}

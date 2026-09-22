@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И рече: слуга на Авраам съм аз.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "слуга"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    }
+  ],
+  "timestamp": "2026-09-22T11:02:10.511193891Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 48:15",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "Аз, аз говорих; даже го повиках, докарах го, и пътят му успя.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорих"
+    },
+    {
+      "surface": "אף",
+      "gloss": "даже"
+    },
+    {
+      "surface": "קראתיו",
+      "gloss": "го повиках"
+    },
+    {
+      "surface": "הביאתיו",
+      "gloss": "докарах го"
+    },
+    {
+      "surface": "והצליח",
+      "gloss": "и успя"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "пътят му"
+    }
+  ],
+  "timestamp": "2026-09-22T13:39:43.699179758Z",
+  "model": "glm-5.3"
+}

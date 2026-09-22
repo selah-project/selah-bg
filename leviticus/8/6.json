@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 8:6",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И приближи Моше ⟨את⟩ Аарон и ⟨את⟩ синовете му, и ⟨את⟩ ги измия с водата.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "И приближи"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аарон"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "синовете му"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синовете му"
+    },
+    {
+      "surface": "וירחץ",
+      "gloss": "и измия"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ги"
+    },
+    {
+      "surface": "במים",
+      "gloss": "с водата"
+    }
+  ],
+  "timestamp": "2026-09-22T11:35:17.221263750Z",
+  "model": "glm-5.3"
+}

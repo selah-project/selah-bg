@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И рече Валаам на Елохим: Валак, син Ципор, цар на Моав, прати при мене:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Валаам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Валак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "Ципор"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "на Моав"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "прати"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "при мене"
+    }
+  ],
+  "timestamp": "2026-09-22T11:54:17.271292747Z",
+  "model": "glm-5.3"
+}

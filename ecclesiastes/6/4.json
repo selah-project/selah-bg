@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Защото в суета идва и в тъмнина отива, и в тъмнина името му ще бъде покрито.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "в суета"
+    },
+    {
+      "surface": "בא",
+      "gloss": "идва"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "и в тъмнина"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "отива"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "и в тъмнина"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името му"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ще бъде покрито"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:35.616333478Z",
+  "model": "glm-5.3"
+}

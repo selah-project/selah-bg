@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И рече жената на змея: от плода на дърветата на градината ядем.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "змея"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "от плода"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "на дърветата"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "на градината"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ядем"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:28.945984247Z",
+  "model": "glm-5.3"
+}

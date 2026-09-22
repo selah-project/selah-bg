@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 13:10",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И ще пазиш ⟨את⟩ наредбата тази за времето ѝ, от дни на дни.",
+  "tokens": [
+    {
+      "surface": "ושמרת",
+      "gloss": "И ще пазиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "наредбата"
+    },
+    {
+      "surface": "החקה",
+      "gloss": "наредбата"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "тази"
+    },
+    {
+      "surface": "למועדה",
+      "gloss": "за времето ѝ"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "от дни"
+    },
+    {
+      "surface": "ימימה",
+      "gloss": "на дни"
+    }
+  ],
+  "timestamp": "2026-09-22T11:18:22.006077722Z",
+  "model": "glm-5.3"
+}

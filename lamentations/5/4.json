@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Сребро платихме за водата си, дървата ни идват с цена.",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "водата си"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "Сребро"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "платихме за"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "дървата ни"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "с цена"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "идват"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:26.652397618Z",
+  "model": "glm-5.3"
+}

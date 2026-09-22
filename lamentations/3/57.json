@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Наближи ⟨си⟩ в деня, ⟨в който⟩ те призовах; ти каза: не се бой.",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "Наближи"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "те призовах"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "каза"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "се бой"
+    }
+  ],
+  "timestamp": "2026-09-22T15:37:03.656789822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 20:7",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И осветете се, и бъдете свети, защото аз ⟨съм⟩ Яхве, Елохим ваш.",
+  "tokens": [
+    {
+      "surface": "והתקדשתם",
+      "gloss": "и осветете се"
+    },
+    {
+      "surface": "והייתם",
+      "gloss": "и бъдете"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "свети"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елохим ваш"
+    }
+  ],
+  "timestamp": "2026-09-22T11:40:18.116697442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 24:26",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И мъжът се поклони и падна ничком пред Яхве.",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "и се поклони"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "мъжът"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "и падна ничком"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "пред Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T16:15:28.560704225Z",
+  "model": "glm-5.3"
+}

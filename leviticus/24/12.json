@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 24:12",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И оставиха него под стража, за да им се изясни по устата на Яхве.",
+  "tokens": [
+    {
+      "surface": "ויניחהו",
+      "gloss": "и оставиха него"
+    },
+    {
+      "surface": "במשמר",
+      "gloss": "под стража"
+    },
+    {
+      "surface": "לפרש",
+      "gloss": "за да се изясни"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:41:54.501292140Z",
+  "model": "glm-5.3"
+}

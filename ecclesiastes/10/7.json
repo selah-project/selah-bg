@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Видях слуги на коне, а князе ходещи като слуги по земята.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "видях"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "слуги"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "коне"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "а князе"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ходещи"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "като слуги"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:01.539959653Z",
+  "model": "glm-5.3"
+}

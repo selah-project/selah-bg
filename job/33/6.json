@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 33:6",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "Ето, аз като теб ⟨съм⟩ пред Ел; от глина съм издялан — и аз.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ето"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "כפיך",
+      "gloss": "като теб"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "пред Ел"
+    },
+    {
+      "surface": "מחמר",
+      "gloss": "от глина"
+    },
+    {
+      "surface": "קרצתי",
+      "gloss": "съм издялан"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    }
+  ],
+  "timestamp": "2026-09-22T15:31:14.334083949Z",
+  "model": "glm-5.3"
+}

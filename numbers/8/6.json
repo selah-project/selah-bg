@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 8:6",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Вземи ⟨את⟩ левитите изсред синовете на Израил и ⟨את⟩ ги очисти.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "вземи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "левитите"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитите"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "изсред"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израил"
+    },
+    {
+      "surface": "וטהרת",
+      "gloss": "и очисти"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ги"
+    }
+  ],
+  "timestamp": "2026-09-22T11:48:48.856354217Z",
+  "model": "glm-5.3"
+}

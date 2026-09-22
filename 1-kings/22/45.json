@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-kings 22:45",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И Йехошафат се помири с царя на Израел.",
+  "tokens": [
+    {
+      "surface": "וישלם",
+      "gloss": "и се помири"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Йехошафат"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T13:12:43.708257052Z",
+  "model": "glm-5.3"
+}

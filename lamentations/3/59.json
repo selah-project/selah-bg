@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Видя, Яхве, насилието над мен; разсъди делото ми.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Видя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "насилието над мен"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "разсъди"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "делото ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:37:03.659616318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 3:1",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Синко, моята Тора не забравяй, и моите заповеди да пази сърцето ти.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синко"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "моята Тора"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "забравяй"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "и моите заповеди"
+    },
+    {
+      "surface": "יצצר",
+      "gloss": "да пази"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "сърцето ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:25.408312830Z",
+  "model": "glm-5.3"
+}

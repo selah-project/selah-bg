@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И се развали земята пред Елохим, и се напълни земята насилие.",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "И се развали"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "и се напълни"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насилие"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:30.615719604Z",
+  "model": "glm-5.3"
+}

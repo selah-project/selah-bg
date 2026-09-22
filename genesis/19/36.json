@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И зачеха двете дъщери на Лот от баща им.",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "и зачеха"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "двете"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дъщери"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лот"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "от баща им"
+    }
+  ],
+  "timestamp": "2026-09-22T11:00:31.509707865Z",
+  "model": "glm-5.3"
+}

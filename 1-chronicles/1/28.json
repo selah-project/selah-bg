@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Синовете на Авраам: Ицхак и Ишмаел.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "на Авраам"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "и Ишмаел"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:31.371447193Z",
+  "model": "glm-5.3"
+}

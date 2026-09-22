@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И отговори Яхве ⟨את⟩ ангела, говорещия в мен — думи добри, думи утешителни.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И отговори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ангела"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ангела"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "говорещия"
+    },
+    {
+      "surface": "בי",
+      "gloss": "в мен"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "думи"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "добри"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "думи"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "утешителни"
+    }
+  ],
+  "timestamp": "2026-09-22T14:46:07.003376997Z",
+  "model": "glm-5.3"
+}

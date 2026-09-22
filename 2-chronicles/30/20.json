@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 30:20",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И чу Яхве Хизкияу и изцери ⟨את⟩ народа.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И чу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Хизкияу"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "⟨към⟩ Хизкияу"
+    },
+    {
+      "surface": "וירפא",
+      "gloss": "и изцери"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народа"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    }
+  ],
+  "timestamp": "2026-09-22T16:12:56.725141192Z",
+  "model": "glm-5.3"
+}

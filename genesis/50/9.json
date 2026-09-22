@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 50,
+  "translation": "И възлязоха с него и колесници, и конници, и бе лагерът тежък ⟨много⟩.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и възлязоха"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с него"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "колесници"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "конници"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и бе"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "лагерът"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "тежък"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "⟨много⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T11:13:36.238211015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Което беше слово на Яхве към Ирмияху за ⟨сухотите⟩:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "Което"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмияху"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "⟨сухотите⟩"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "⟨сухотите⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T13:53:03.011815507Z",
+  "model": "glm-5.3"
+}

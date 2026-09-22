@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 73,
+  "translation": "А аз съм винаги с Теб; Ти хвана дясната ми ръка.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а аз"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "винаги"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с Теб"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "хвана"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ръка"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "дясната ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:52.265888978Z",
+  "model": "glm-5.3"
+}

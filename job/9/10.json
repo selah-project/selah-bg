@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 9:10",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Прави велики дела без изследване, и чудеса без число.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "прави"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "велики дела"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "изследване"
+    },
+    {
+      "surface": "ונפלאות",
+      "gloss": "и чудеса"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "число"
+    }
+  ],
+  "timestamp": "2026-09-22T15:24:17.375186242Z",
+  "model": "glm-5.3"
+}

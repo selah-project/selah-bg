@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 7:56",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "една златна длан от десет сикъла, пълна с тамян.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "длан"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десет"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златна"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пълна"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "с тамян"
+    }
+  ],
+  "timestamp": "2026-09-22T11:47:10.348981756Z",
+  "model": "glm-5.3"
+}

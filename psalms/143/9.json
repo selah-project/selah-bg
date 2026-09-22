@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 143:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 143,
+  "translation": "Избави ме от враговете ми, Яхве; при тебе се покрих.",
+  "tokens": [
+    {
+      "surface": "הצילני",
+      "gloss": "Избави ме"
+    },
+    {
+      "surface": "מאיבי",
+      "gloss": "от враговете ми"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "при тебе"
+    },
+    {
+      "surface": "כסתי",
+      "gloss": "се покрих"
+    }
+  ],
+  "timestamp": "2026-09-22T15:14:26.197074371Z",
+  "model": "glm-5.3"
+}

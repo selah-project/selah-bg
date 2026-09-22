@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Цялостен бъди с Яхве, твоя Елохим.",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "цялостен"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "бъди"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твоя Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T12:09:36.550391744Z",
+  "model": "glm-5.3"
+}

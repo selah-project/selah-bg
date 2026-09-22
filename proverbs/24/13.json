@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Яж, сине мой, мед, защото е добър, и питият мед е сладък на небцето ти.",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "яж"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сине мой"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "мед"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добър"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "и питият мед"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "сладък"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "небцето ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:51.262479699Z",
+  "model": "glm-5.3"
+}

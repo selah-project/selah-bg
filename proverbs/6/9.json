@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Дока, мързеливцо, ще лежиш? Кога ще станеш от съня си?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "дока"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "мързеливцо"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ще лежиш"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ще станеш"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "от съня си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:47.386651603Z",
+  "model": "glm-5.3"
+}

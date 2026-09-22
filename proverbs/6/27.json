@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 6:27",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Ще вземе ли човек огън в пазвата си, а дрехите му да не изгорят?",
+  "tokens": [
+    {
+      "surface": "היחתה",
+      "gloss": "Ще вземе ли"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огън"
+    },
+    {
+      "surface": "בחיקו",
+      "gloss": "в пазвата си"
+    },
+    {
+      "surface": "ובגדיו",
+      "gloss": "а дрехите му"
+    },
+    {
+      "surface": "לא",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תשרפנה",
+      "gloss": "изгорят"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:03.922291834Z",
+  "model": "glm-5.3"
+}

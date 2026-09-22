@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "В онзи ден ⟨то⟩ ще се изяде; не оставяйте от него до сутринта: Аз съм Яхве.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В деня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онзи"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ще се изяде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "оставяйте"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "от него"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "сутринта"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:40:36.014739933Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И синовете на Брия: Хевер и Малкиел — той е баща на Бирзот.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синовете на"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Брия"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "Хевер"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "и Малкиел"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "баща на"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "Бирзот"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:57.971648407Z",
+  "model": "glm-5.3"
+}

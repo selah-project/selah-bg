@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Изпрати слугините си — вика върху върховете на височините на града:",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "Изпрати"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "слугините си"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "вика"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "върховете"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "на височините"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "на града"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:31.602902486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 24:20",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "А за останалите синове на Леви: за синете на Амрам — Шувael, за синете на Шувael — Йехдияу.",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "а за синовете"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "на Леви"
+    },
+    {
+      "surface": "הנותרים",
+      "gloss": "оставащите"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "за синовете"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "на Амрам"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "Шувael"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "за синовете"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "на Шувael"
+    },
+    {
+      "surface": "יחדיהו",
+      "gloss": "Йехдияу"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:54.007187605Z",
+  "model": "glm-5.3"
+}

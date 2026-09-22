@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Вика му ще чуе ли Ел, когато дойде върху него беда?",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "вика му"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ще чуе ли"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когато"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "дойде"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "върху него"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "беда"
+    }
+  ],
+  "timestamp": "2026-09-22T15:29:37.857380605Z",
+  "model": "glm-5.3"
+}

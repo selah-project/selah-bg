@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "В тъмнини ме настани като мъртвите отпреди вечни ⟨времена⟩.",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "В тъмнини"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "ме настани"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "като мъртвите"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "отпреди вечни"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:45.971157558Z",
+  "model": "glm-5.3"
+}

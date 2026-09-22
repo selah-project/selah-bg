@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Синовете на Моше: Гершом и Елиезер.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "משה",
+      "gloss": "на Моше"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "и Елиезер"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:56.919045095Z",
+  "model": "glm-5.3"
+}

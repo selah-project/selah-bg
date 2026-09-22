@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 105:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 105,
+  "translation": "което сряза ⟨את⟩ Авраам и клетвата си към Ицхак:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "сряза"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авраам"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "и клетвата си"
+    },
+    {
+      "surface": "לישחק",
+      "gloss": "към Ицхак"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:26.946414868Z",
+  "model": "glm-5.3"
+}

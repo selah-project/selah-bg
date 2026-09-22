@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И сега, ти, Яхве, ти ⟨си⟩ Елохимът, и ти говори за слугата си това добро;",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И сега"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨си⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохимът"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "и ти говори"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слугата си"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "това добро"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "това"
+    }
+  ],
+  "timestamp": "2026-09-22T16:01:52.191190625Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 28:2",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Така каза Яхве Цеваот, Елохим на Израел, казвайки: Счупих ⟨את⟩ ярема на царя на Вавилон.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    },
+    {
+      "surface": "שברתי",
+      "gloss": "Счупих"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ярема"
+    },
+    {
+      "surface": "על",
+      "gloss": "ярема"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    }
+  ],
+  "timestamp": "2026-09-22T14:00:39.907855125Z",
+  "model": "glm-5.3"
+}

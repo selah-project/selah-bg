@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 32:29",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "Дано бяха мъдри, разбираха това, съзираха какво ги чака накрая.",
+  "tokens": [
+    {
+      "surface": "לו",
+      "gloss": "Дано"
+    },
+    {
+      "surface": "חכמו",
+      "gloss": "бяха мъдри"
+    },
+    {
+      "surface": "ישכילו",
+      "gloss": "разбираха"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "съзираха"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "какво ги чака накрая"
+    }
+  ],
+  "timestamp": "2026-09-22T12:14:57.029788388Z",
+  "model": "glm-5.3"
+}

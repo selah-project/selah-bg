@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Мъжете на Нетофа — петдесет и шест.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Мъжете"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "Нетофа"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "петдесет"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "и шест"
+    }
+  ],
+  "timestamp": "2026-09-22T15:47:58.368882474Z",
+  "model": "glm-5.3"
+}

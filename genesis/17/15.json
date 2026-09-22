@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 17:15",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И рече Елохим на Авраам: Сарай, жената ти — не наричай ⟨את⟩ името ѝ Сарай, защото Сара е името ѝ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Сарай"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "жената ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "наричай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "името ѝ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "името ѝ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Сарай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "името ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T10:59:14.540123822Z",
+  "model": "glm-5.3"
+}

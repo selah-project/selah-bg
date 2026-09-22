@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "И се върна при братята си и рече: Детето го няма; а аз накъде да отида?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и се върна"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "братята си"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "детето"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "го няма"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а аз"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "накъде"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "בא",
+      "gloss": "да отида"
+    }
+  ],
+  "timestamp": "2026-09-22T11:08:32.841643669Z",
+  "model": "glm-5.3"
+}

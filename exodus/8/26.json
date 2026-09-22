@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 8:26",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И излезе Моше ⟨от⟩ присъствието на фараона и се помоли към Яхве.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И излезе"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "от присъствието"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараона"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "и се помоли"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:16:46.013329241Z",
+  "model": "glm-5.3"
+}

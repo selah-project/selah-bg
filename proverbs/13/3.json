@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 13:3",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Пази устата си — пази душата си; разтварящ устните си — разорение за него.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "Пази"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "устата си"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "пази"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душата си"
+    },
+    {
+      "surface": "פשק",
+      "gloss": "разтварящ"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "устните си"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "разорение"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за него"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:32.499359516Z",
+  "model": "glm-5.3"
+}

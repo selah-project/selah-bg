@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "И се помоли Хизкияу на Яхве, думайки:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "и се помоли"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкияу"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "думайки"
+    }
+  ],
+  "timestamp": "2026-09-22T13:36:45.518360977Z",
+  "model": "glm-5.3"
+}

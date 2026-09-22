@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И ни доведе до това място, и ни даде ⟨את⟩ тази земя, земя, течаща с мляко и мед.",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "и ни доведе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "мястото"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "това"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "тази земя"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "тази"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "течеща"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "с мляко"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "и мед"
+    }
+  ],
+  "timestamp": "2026-09-22T12:11:26.990335407Z",
+  "model": "glm-5.3"
+}

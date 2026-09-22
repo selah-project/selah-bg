@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И живя Маалалел пет години и шестдесет години, и роди ⟨את⟩ Йеред.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "и живя"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Маалалел"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "и шестдесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йеред"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "Йеред"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:59.007691579Z",
+  "model": "glm-5.3"
+}

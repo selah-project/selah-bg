@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 107:16",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 107,
+  "translation": "Защото Той строши порти от мед и резета от желязо отсече.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "строши"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "порти"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "от мед"
+    },
+    {
+      "surface": "ובריחי",
+      "gloss": "и резета от"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "желязо"
+    },
+    {
+      "surface": "גדע",
+      "gloss": "отсече"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:49.378126518Z",
+  "model": "glm-5.3"
+}

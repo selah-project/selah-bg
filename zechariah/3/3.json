@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "А Йехошуа беше облечен в нечисти дрехи и стоеше пред ангела.",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "а Йехошуа"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "облечен"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "в дрехи"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "нечисти"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "и стоеше"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ангела"
+    }
+  ],
+  "timestamp": "2026-09-22T14:47:00.991374222Z",
+  "model": "glm-5.3"
+}

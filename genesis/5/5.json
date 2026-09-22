@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 5:5",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И бяха всички дни на Адам, които живя, деветстотин и тридесет години, и умря.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И бяха"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на Адам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живя"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "деветстотин"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "⟨сто­единици⟩"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "и тридесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умря"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:43.532791137Z",
+  "model": "glm-5.3"
+}

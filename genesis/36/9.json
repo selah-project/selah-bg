@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "И това са родовете на Исав, баща на Едом, в планината Сеир.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И това"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "родовете"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исав"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "баща на"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "в планината"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:35.092069436Z",
+  "model": "glm-5.3"
+}

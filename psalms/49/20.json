@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 49,
+  "translation": "Ще дойде до поколението на бащите си; до вечност няма да видят светлина.",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "ще дойде"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "דור",
+      "gloss": "поколението"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "на бащите си"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "вечност"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ще видят"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светлина"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:32.452026743Z",
+  "model": "glm-5.3"
+}

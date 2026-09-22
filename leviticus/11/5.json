@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И ⟨את⟩ скалния заек — защото изважда преживяно, но копито не разделя — нечист е той за вас.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "скалния заек"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "скалния заек"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "изважда"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "преживяно"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "и копито"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "разделя"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечист"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-09-22T11:34:53.285572024Z",
+  "model": "glm-5.3"
+}

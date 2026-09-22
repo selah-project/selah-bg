@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "Аин, Римон, и Етер, и Ашан — градове четири, и селата им",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "Аин"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "Римон"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "и Етер"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "и Ашан"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "градове"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "и селата им"
+    }
+  ],
+  "timestamp": "2026-09-22T12:23:09.944341403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Не отговаряй на глупец според глупостта му, да не станеш като него и ти.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תען",
+      "gloss": "отговаряй"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "на глупец"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "според глупостта му"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "станеш като"
+    },
+    {
+      "surface": "לו",
+      "gloss": "него"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:36.621041863Z",
+  "model": "glm-5.3"
+}

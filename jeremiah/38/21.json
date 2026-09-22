@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "И ако ти откажеш да излезеш, това е словото, което ми показа Яхве:",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "откажеш"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "да излезеш"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ми показа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:04:50.193515193Z",
+  "model": "glm-5.3"
+}

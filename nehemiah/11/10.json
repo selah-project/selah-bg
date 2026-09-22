@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "От свещениците: Йедая син на Йоярив, Яхин;",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "От"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свещениците"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Йедая"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "на Йоярив"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "Яхин"
+    }
+  ],
+  "timestamp": "2026-09-22T15:55:20.946399395Z",
+  "model": "glm-5.3"
+}

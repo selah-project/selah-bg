@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "Защото името на Яхве ще провъзглася; дайте величие на Елохима ни!",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ще провъзглася"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "дайте"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "величие"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "на Елохима ни"
+    }
+  ],
+  "timestamp": "2026-09-22T12:15:17.798504328Z",
+  "model": "glm-5.3"
+}

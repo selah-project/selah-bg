@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 118:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 118,
+  "translation": "От теснотата повиках Ях — Ях ми отговори ⟨в⟩ простора.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "המצר",
+      "gloss": "теснотата"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "повиках"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "ענני",
+      "gloss": "ми отговори"
+    },
+    {
+      "surface": "במרחב",
+      "gloss": "⟨в⟩ простора"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:54.991706315Z",
+  "model": "glm-5.3"
+}

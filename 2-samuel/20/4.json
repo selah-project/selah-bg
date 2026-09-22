@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 20:4",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И рече царят на Амаса: „Свикай ми ⟨את⟩ мъжете на Юда за три дни, а ти тук остани.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Амаса"
+    },
+    {
+      "surface": "הזעק",
+      "gloss": "свикай"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мъжете на Юда"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъжете"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Юда"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "за три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "פה",
+      "gloss": "тук"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "остани"
+    }
+  ],
+  "timestamp": "2026-09-22T12:56:43.384930942Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-samuel 22:15",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И прати стрели и ги разпръсна, мълния — и ги смути.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "и прати"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "стрели"
+    },
+    {
+      "surface": "ויפיצם",
+      "gloss": "и ги разпръсна"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "мълния"
+    },
+    {
+      "surface": "ויהמם",
+      "gloss": "и ги смути"
+    }
+  ],
+  "timestamp": "2026-09-22T12:58:55.475403500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "и ⟨את⟩ Бейт Цур, и ⟨את⟩ Сохо, и ⟨את⟩ Адулам,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Бейт Цур"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бейт"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Цур"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Сохо"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "Сохо"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Адулам"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "Адулам"
+    }
+  ],
+  "timestamp": "2026-09-22T16:06:16.074346724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Увиснали са краката на куция, и притча в устата на глупаци.",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "Увиснали са"
+    },
+    {
+      "surface": "שקим",
+      "gloss": "краката"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "на куция"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "и притча"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "в устата"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "на глупаци"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:37.979967489Z",
+  "model": "glm-5.3"
+}

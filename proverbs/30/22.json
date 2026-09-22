@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 30:22",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "под раб, когато царува, и под безумен, когато се насища с хляб,",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "раб"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когато"
+    },
+    {
+      "surface": "ימלוך",
+      "gloss": "царува"
+    },
+    {
+      "surface": "ונבל",
+      "gloss": "и безумен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когато"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "се насища"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляб"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:37.715633012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 40,
+  "translation": "Тогава рекох: ето, дошъл съм — в свитъка на книгата е написано за мен.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тогава"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "рекох"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "дошъл съм"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "в свитъка"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "на книгата"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "написано"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "за мен"
+    }
+  ],
+  "timestamp": "2026-09-22T14:58:42.313881153Z",
+  "model": "glm-5.3"
+}

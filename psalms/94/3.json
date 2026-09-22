@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 94,
+  "translation": "Докога, Яхве, нечестивите — докога нечестивите ще ликуват?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "До-"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до-"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивите"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "ще ликуват"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:07.534027173Z",
+  "model": "glm-5.3"
+}

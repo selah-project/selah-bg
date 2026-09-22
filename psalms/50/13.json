@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 50:13",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 50,
+  "translation": "Ще ям ли плът на бикове, и кръв на козли ще пия?",
+  "tokens": [
+    {
+      "surface": "האוכל",
+      "gloss": "Ще ям ли"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плът"
+    },
+    {
+      "surface": "אבירים",
+      "gloss": "на бикове"
+    },
+    {
+      "surface": "ודם",
+      "gloss": "и кръв"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "на козли"
+    },
+    {
+      "surface": "אשתה",
+      "gloss": "ще пия"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:21.916868253Z",
+  "model": "glm-5.3"
+}

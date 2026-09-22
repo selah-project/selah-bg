@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 16:11",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Търсете Яхве и Неговата сила; търсете Неговото лице непрестанно",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Търсете"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "и Неговата сила"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "търсете"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "Неговото лице"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "непрестанно"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:26.006198024Z",
+  "model": "glm-5.3"
+}

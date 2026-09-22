@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 23:8",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Как да прокълна — не е проклел Ел; и как да се гневя — не се е гневил Яхве.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "как"
+    },
+    {
+      "surface": "אקב",
+      "gloss": "да прокълна"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "קבה",
+      "gloss": "е проклел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и как"
+    },
+    {
+      "surface": "אזעם",
+      "gloss": "да се гневя"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "се е гневил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:55:30.610879377Z",
+  "model": "glm-5.3"
+}

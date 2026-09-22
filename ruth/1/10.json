@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ruth 1:10",
+  "book": "ruth",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И казаха ѝ: Ние с ⟨את⟩ тебе ще се върнем към народа ти.",
+  "tokens": [
+    {
+      "surface": "ותאמרנה",
+      "gloss": "И казаха"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ѝ"
+    },
+    {
+      "surface": "כי",
+      "gloss": " че"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "с ⟨את⟩ тебе",
+      "marks": "тебе"
+    },
+    {
+      "surface": "נשוב",
+      "gloss": "ще се върнем"
+    },
+    {
+      "surface": "לעמך",
+      "gloss": "към народа ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:35:27.190243006Z",
+  "model": "glm-5.3"
+}

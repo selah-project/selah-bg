@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Пет завеси да бъдат съединени една с друга, и пет завеси съединени една с друга.",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "завеси"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "да бъдат"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "съединени"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "една"
+    },
+    {
+      "surface": "אל",
+      "gloss": "с"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "друга"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "и пет"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "завеси"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "съединени"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "една"
+    },
+    {
+      "surface": "אל",
+      "gloss": "с"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "друга"
+    }
+  ],
+  "timestamp": "2026-09-22T11:24:24.816106352Z",
+  "model": "glm-5.3"
+}

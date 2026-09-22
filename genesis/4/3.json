@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 4:3",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И стана в края на дните, че Каин донесе от плода на земята дар на Яхве.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И стана"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "в края"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "на дните"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "донесе"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каин"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "от плода"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "на земята"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "дар"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:01.097774188Z",
+  "model": "glm-5.3"
+}

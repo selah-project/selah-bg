@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 89:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 89,
+  "translation": "Ел, страшен в съвета на светиите, велик и грозен над всички наоколо му.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "נערץ",
+      "gloss": "страшен"
+    },
+    {
+      "surface": "בסוד",
+      "gloss": "в съвета"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "на светиите"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "велик"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "и грозен"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "סביביו",
+      "gloss": "наоколо му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:34.263104647Z",
+  "model": "glm-5.3"
+}

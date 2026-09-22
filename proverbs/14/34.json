@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 14:34",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Правдата въздига народ, а милостта на племената — грях ⟨е⟩.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "правдата"
+    },
+    {
+      "surface": "תרומם",
+      "gloss": "въздига"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "а милостта"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "на племената"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "грях"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:51.148586025Z",
+  "model": "glm-5.3"
+}

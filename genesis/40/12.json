@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 40,
+  "translation": "И му каза Йосеф: това ⟨е⟩ тълкуването му: трите клонки — три дни са те.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И каза"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "тълкуването му"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "трите"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "клонки"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "הם",
+      "gloss": "са те"
+    }
+  ],
+  "timestamp": "2026-09-22T11:08:51.209119603Z",
+  "model": "glm-5.3"
+}

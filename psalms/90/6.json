@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 90,
+  "translation": "В утринта цъфти и отминава; привечер повяхва и изсъхва.",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "в утринта"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "цъфти"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "и отминава"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "привечер"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "повяхва"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "и изсъхва"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:47.720227269Z",
+  "model": "glm-5.3"
+}

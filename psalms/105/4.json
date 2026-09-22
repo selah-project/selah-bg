@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 105:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 105,
+  "translation": "Търсете Яхве и силата му, търсете лицето му непрестанно.",
+  "tokens": [
+    {
+      "surface": "דרשו",
+      "gloss": "Търсете"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ועזו",
+      "gloss": "и силата му"
+    },
+    {
+      "surface": "בקשו",
+      "gloss": "търсете"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицето му"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "непрестанно"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:48.152392647Z",
+  "model": "glm-5.3"
+}

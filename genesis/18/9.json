@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 18:9",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И казаха нему: къде е Сара, жена ти? А той рече: ето, в шатрата.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И казаха"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "איה",
+      "gloss": "къде"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "жена ти"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "а той рече"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "в шатрата"
+    }
+  ],
+  "timestamp": "2026-09-22T10:58:55.023602288Z",
+  "model": "glm-5.3"
+}

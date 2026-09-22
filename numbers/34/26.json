@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 34:26",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "и за племето на сыновете на Иссахар — княз Палтиел, син на Азан.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "и за племето"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "на Иссахар"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "княз"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "Палтиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזן",
+      "gloss": "на Азан"
+    }
+  ],
+  "timestamp": "2026-09-22T16:19:43.598969835Z",
+  "model": "glm-5.3"
+}

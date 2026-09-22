@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 44,
+  "translation": "А сега слушай, Яков, слугата ми, и Израел, когото избрах в него.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слушай"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слугата ми"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "и Израел"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "избрах"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в него"
+    }
+  ],
+  "timestamp": "2026-09-22T13:39:17.761474054Z",
+  "model": "glm-5.3"
+}

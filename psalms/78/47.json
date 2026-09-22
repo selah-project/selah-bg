@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 78:47",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 78,
+  "translation": "Уби с града лозите им, и черниците им — с ледени бури.",
+  "tokens": [
+    {
+      "surface": "יהרג",
+      "gloss": "Уби"
+    },
+    {
+      "surface": "בברד",
+      "gloss": "с града"
+    },
+    {
+      "surface": "גפנם",
+      "gloss": "лозите им"
+    },
+    {
+      "surface": "ושקמותם",
+      "gloss": "и черниците им"
+    },
+    {
+      "surface": "בחנמל",
+      "gloss": "с ледени бури"
+    }
+  ],
+  "timestamp": "2026-09-22T16:29:30.936504458Z",
+  "model": "glm-5.3"
+}

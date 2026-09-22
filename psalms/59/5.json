@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 59:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 59,
+  "translation": "Без вина тичат и се приготвят; събуди се да ме срещнеш и виж.",
+  "tokens": [
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "עון",
+      "gloss": "вина"
+    },
+    {
+      "surface": "ירוצון",
+      "gloss": "тичат"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "и се приготвят"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "събуди се"
+    },
+    {
+      "surface": "לקראתי",
+      "gloss": "да ме срещнеш"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и виж"
+    }
+  ],
+  "timestamp": "2026-09-22T15:01:12.494339292Z",
+  "model": "glm-5.3"
+}

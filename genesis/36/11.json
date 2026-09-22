@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "И бяха синовете на Елифаз: Теман, Омар, Цефо, Гаатам и Кеназ.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И бяха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Елифаз"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Теман"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "Омар"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "Цефо"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "и Гаатам"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "и Кеназ"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:35.092490332Z",
+  "model": "glm-5.3"
+}

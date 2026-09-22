@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Овце и говеда, всички тях, и даже зверовете на полето,",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "овце"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "и говеда"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "всички тях"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и даже"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "зверовете"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "на полето"
+    }
+  ],
+  "timestamp": "2026-09-22T14:51:31.094558502Z",
+  "model": "glm-5.3"
+}

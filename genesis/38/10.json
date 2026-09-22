@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "И било зло в очите на Яхве това, което направи, и умори и ⟨את⟩ него.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "и било зло"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умори"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него"
+    }
+  ],
+  "timestamp": "2026-09-22T11:08:59.946614680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 15:20",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Син мъдър зарадва баща, а глупав човек презира майка си.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Син"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мъдър"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "зарадва"
+    },
+    {
+      "surface": "אב",
+      "gloss": "баща"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "а глупав"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "בוזה",
+      "gloss": "презира"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "майка си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:22.098665285Z",
+  "model": "glm-5.3"
+}

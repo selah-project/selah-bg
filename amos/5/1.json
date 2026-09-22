@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Чуйте ⟨את⟩ словото това, което аз издигам над вас — плач, дом Израилев.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Чуйте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "словото"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "това"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "издигам"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "над вас"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "плач"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израилев"
+    }
+  ],
+  "timestamp": "2026-09-22T14:39:10.555924979Z",
+  "model": "glm-5.3"
+}

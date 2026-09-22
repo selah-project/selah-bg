@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 11:4",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Затова пророкувай срещу тях; пророкувай, човешки сине.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "затова"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "пророкувай"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "срещу тях"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "пророкувай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "човешки сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човешки сине"
+    }
+  ],
+  "timestamp": "2026-09-22T14:15:46.783420407Z",
+  "model": "glm-5.3"
+}

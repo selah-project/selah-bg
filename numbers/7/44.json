@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 7:44",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Една златна паница от десет сикъла, пълна с тамян.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "паница"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десет"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златна"
+    },
+    {
+      "surface": "мелáה",
+      "gloss": "пълна"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "тамян"
+    }
+  ],
+  "timestamp": "2026-09-22T11:47:04.611774537Z",
+  "model": "glm-5.3"
+}

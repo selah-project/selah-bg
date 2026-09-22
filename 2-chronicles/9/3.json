@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И видя царицата на Шева ⟨את⟩ мъдростта на Шеломо и дома, който бе построил.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "И видя"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "царицата"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "на Шева"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мъдростта"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "мъдростта"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "на Шеломо"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "и дома"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "бе построил"
+    }
+  ],
+  "timestamp": "2026-09-22T16:07:25.481768071Z",
+  "model": "glm-5.3"
+}

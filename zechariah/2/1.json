@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И вдигнах ⟨את⟩ очите си и видях, и ето — четири рога.",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "и вдигнах"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "очите си"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очите си"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "и видях"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "рога"
+    }
+  ],
+  "timestamp": "2026-09-22T14:46:37.450837933Z",
+  "model": "glm-5.3"
+}

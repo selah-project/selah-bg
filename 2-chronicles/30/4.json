@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И угода думата в очите на царя и в очите на целия сбор.",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "и угода"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "думата"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очите"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царя"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "и в очите"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целия"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "сбор"
+    }
+  ],
+  "timestamp": "2026-09-22T16:12:48.416131432Z",
+  "model": "glm-5.3"
+}

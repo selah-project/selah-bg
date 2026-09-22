@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 15:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Не клевети с езика си, не върши зло на ближния си, и не вдига укор върху близкия си.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "клевети"
+    },
+    {
+      "surface": "על",
+      "gloss": "с"
+    },
+    {
+      "surface": "לשנו",
+      "gloss": "езика си"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "върши"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "на ближния си"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "וחרפה",
+      "gloss": "и укор"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "вдига"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "קרבו",
+      "gloss": "близкия си"
+    }
+  ],
+  "timestamp": "2026-09-22T14:52:45.365580380Z",
+  "model": "glm-5.3"
+}

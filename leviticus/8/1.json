@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 8:1",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И рече Яхве на Моше, като каза:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "като каза"
+    }
+  ],
+  "timestamp": "2026-09-22T11:33:41.451131621Z",
+  "model": "glm-5.3"
+}

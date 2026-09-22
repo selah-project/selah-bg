@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 32:3",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "Атарот, и Дивон, и Яазер, и Nimra, и Хешбон, и Елеале, и Севам, и Nevo, и Беон —",
+  "tokens": [
+    {
+      "surface": "עטרות",
+      "gloss": "Атарот"
+    },
+    {
+      "surface": "ודיבן",
+      "gloss": "и Дивон"
+    },
+    {
+      "surface": "ויעזר",
+      "gloss": "и Яазер"
+    },
+    {
+      "surface": "ונמרה",
+      "gloss": "и Nimra"
+    },
+    {
+      "surface": "וחשבון",
+      "gloss": "и Хешбон"
+    },
+    {
+      "surface": "וואלעלה",
+      "gloss": "и Елеале"
+    },
+    {
+      "surface": "ושבם",
+      "gloss": "и Севам"
+    },
+    {
+      "surface": "ונבו",
+      "gloss": "и Nevo"
+    },
+    {
+      "surface": "ובען",
+      "gloss": "и Беон"
+    }
+  ],
+  "timestamp": "2026-09-22T11:58:57.146578925Z",
+  "model": "glm-5.3"
+}

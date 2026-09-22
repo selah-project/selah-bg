@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 28:16",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "И се събуди Яаков ⟨Яков⟩ от съня си и рече: наистина Яхве е на това място, а аз не знаех.",
+  "tokens": [
+    {
+      "surface": "וייקץ",
+      "gloss": "и се събуди"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "משנתו",
+      "gloss": "от съня си"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אכן",
+      "gloss": "наистина"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "на мястото"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "това"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "а аз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знаех"
+    }
+  ],
+  "timestamp": "2026-09-22T11:04:33.883606745Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Без волове яслата ⟨е⟩ чиста, а много добив ⟨идва⟩ със силата на вола.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "без"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "волове"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "яслата"
+    },
+    {
+      "surface": "בר",
+      "gloss": "чиста"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "а много"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "добив"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "със силата"
+    },
+    {
+      "surface": "שור",
+      "gloss": "на вола"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:28.659069913Z",
+  "model": "glm-5.3"
+}

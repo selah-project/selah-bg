@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 5:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "На водача — по нехилот, псалом на Давид.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "На водача"
+    },
+    {
+      "surface": "אל",
+      "gloss": "по"
+    },
+    {
+      "surface": "הנחילות",
+      "gloss": "нехилот"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T14:50:07.105070940Z",
+  "model": "glm-5.3"
+}

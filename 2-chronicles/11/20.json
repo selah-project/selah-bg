@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 11:20",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И след нея взе ⟨את⟩ Мааха, дъщеря на Авшалом, и му роди ⟨את⟩ Авия, и ⟨את⟩ Атай, и ⟨את⟩ Зиза, и ⟨את⟩ Шломит.",
+  "tokens": [
+    {
+      "surface": "ואחריה",
+      "gloss": "и след нея"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "взе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мааха"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщеря"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "на Авшалом"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авия"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авия"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Атай"
+    },
+    {
+      "surface": "עתי",
+      "gloss": "Атай"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Зиза"
+    },
+    {
+      "surface": "זיזא",
+      "gloss": "Зиза"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Шломит"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Шломит"
+    }
+  ],
+  "timestamp": "2026-09-22T16:07:04.822969144Z",
+  "model": "glm-5.3"
+}

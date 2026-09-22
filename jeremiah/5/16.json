@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Колчанът му е като отворен гроб — всички те са юнаци.",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "колчанът му"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "като гроб"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "отворен"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "всички те"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "юнаци"
+    }
+  ],
+  "timestamp": "2026-09-22T13:49:52.535557002Z",
+  "model": "glm-5.3"
+}

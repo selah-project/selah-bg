@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 2:11",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Рефаимите се броят и те като енакимите, а моавиците ги наричат емими.",
+  "tokens": [
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаимите"
+    },
+    {
+      "surface": "יחשבו",
+      "gloss": "се броят"
+    },
+    {
+      "surface": "אף",
+      "gloss": "и"
+    },
+    {
+      "surface": "הם",
+      "gloss": "те"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "като енакимите"
+    },
+    {
+      "surface": "והמאבים",
+      "gloss": "а моавиците"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "наричат"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ги"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "емими"
+    }
+  ],
+  "timestamp": "2026-09-22T12:01:03.892958384Z",
+  "model": "glm-5.3"
+}

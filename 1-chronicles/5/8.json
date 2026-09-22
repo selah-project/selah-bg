@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И Бела, син на Азаз, син на Шема, син на Йоел — той ⟨бе⟩ жител ⟨от⟩ Ароер ⟨до⟩ Нево и Баал Меон.",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "И Бела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "на Азаз"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "на Шема"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "на Йоел"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "⟨бе⟩ жител"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "⟨от⟩ Ароер"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "⟨до⟩"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Нево"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "и Баал"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Меон"
+    }
+  ],
+  "timestamp": "2026-09-22T16:33:09.073754277Z",
+  "model": "glm-5.3"
+}

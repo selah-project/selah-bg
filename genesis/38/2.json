@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 38:2",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "И видя там Йехуда дъщеря на ⟨един⟩ ханаанец на име Шуа, и я взе, и влезе при нея.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И видя"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуда"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщеря"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨един⟩"
+    },
+    {
+      "surface": "כנעני",
+      "gloss": "ханаанец"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "на име"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "Шуа"
+    },
+    {
+      "surface": "ויקחה",
+      "gloss": "и я взе"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и влезе"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "при нея"
+    }
+  ],
+  "timestamp": "2026-09-22T11:08:50.860421377Z",
+  "model": "glm-5.3"
+}

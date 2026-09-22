@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Затова разумният ще мълчи в онова време, защото зло време е то.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "затова"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "разумният"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "в онова време"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "онова"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ще мълчи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "היא",
+      "gloss": "е то"
+    }
+  ],
+  "timestamp": "2026-09-22T14:39:09.481395081Z",
+  "model": "glm-5.3"
+}

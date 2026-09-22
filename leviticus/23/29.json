@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 23:29",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Защото всяка душа, която не се смири в самия този ден, ще бъде отсечена от народа си.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяка"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "се смири"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "в самия"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ще бъде отсечена"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "от народа си"
+    }
+  ],
+  "timestamp": "2026-09-22T11:41:36.833668177Z",
+  "model": "glm-5.3"
+}

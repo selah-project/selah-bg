@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И ако ти се боиш да слезеш — слез ти и Пура, момъкът ти, към стана.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "се боиш"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "да слезеш"
+    },
+    {
+      "surface": "רד",
+      "gloss": "слез"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "и Пура"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "момъкът ти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "стана"
+    }
+  ],
+  "timestamp": "2026-09-22T12:28:05.571714074Z",
+  "model": "glm-5.3"
+}

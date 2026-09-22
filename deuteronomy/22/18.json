@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 22:18",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И старейнините на онзи град ще вземат ⟨את⟩ мъжа и ще накажат ⟨את⟩ него.",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "И ще вземат"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "старейнините"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "на града"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онзи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мъжа"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "мъжа"
+    },
+    {
+      "surface": "ויסרו",
+      "gloss": "и ще накажат"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него"
+    }
+  ],
+  "timestamp": "2026-09-22T12:11:06.660462435Z",
+  "model": "glm-5.3"
+}

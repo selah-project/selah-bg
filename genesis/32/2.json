@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "А Яаков вървеше по пътя си, и го срещнаха пратеници на Елохим.",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "а Яаков"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "вървеше"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "по пътя си"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "и го срещнаха"
+    },
+    {
+      "surface": "בו",
+      "gloss": "го"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "пратеници"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "на Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T11:05:53.984690322Z",
+  "model": "glm-5.3"
+}

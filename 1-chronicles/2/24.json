@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 2:24",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И след смъртта на Хецрон в Калев-Ефрата жената на Хецрон Авия му роди ⟨את⟩ Ашхур, бащата на Текоа.",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "И след"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смъртта"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрон"
+    },
+    {
+      "surface": "בכלב",
+      "gloss": "в Калев"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Ефрата"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "жената"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "на Хецрон"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авия"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "му роди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ашхур"
+    },
+    {
+      "surface": "אשחור",
+      "gloss": "Ашхур"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "бащата"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "Текоа"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:23.677775592Z",
+  "model": "glm-5.3"
+}

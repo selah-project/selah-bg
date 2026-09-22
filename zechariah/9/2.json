@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И също Хамат ще бъде очертан в нея; Цор и Цидон, защото ⟨беше⟩ много мъдра.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "И също"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "ще бъде очертан"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в нея"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цор"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "и Цидон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мъдра"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "много"
+    }
+  ],
+  "timestamp": "2026-09-22T14:47:09.610105450Z",
+  "model": "glm-5.3"
+}

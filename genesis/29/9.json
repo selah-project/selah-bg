@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 29:9",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Още говореше той с тях, и Рахел дойде с овцете на баща си, защото пастирка беше тя.",
+  "tokens": [
+    {
+      "surface": "עודנו",
+      "gloss": "още"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "говореше"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "с тях"
+    },
+    {
+      "surface": "ורחל",
+      "gloss": "и Рахел"
+    },
+    {
+      "surface": "באה",
+      "gloss": "дойде"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "овцете"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "на баща си"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "пастирка"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тя"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:59.455124220Z",
+  "model": "glm-5.3"
+}

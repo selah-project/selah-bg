@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И бяха синовете на Ной, излезлите от ковчега: Шем, и Хам, и Яфет; а Хам — той ⟨е⟩ баща на Ханаан.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И бяха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "נח",
+      "gloss": "на Ной"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "излезлите"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "и Хам"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "и Яфет"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "а Хам"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "баща"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "на Ханаан"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:32.404820911Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Затова цар Дарий ⟨Дарий⟩ подписа писмото и забраната.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "затова"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "поради"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "това"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "цар"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "⟨Дарий⟩ Дарий"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "подписа"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "писмото"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "и забраната"
+    }
+  ],
+  "timestamp": "2026-09-22T15:46:13.952181491Z",
+  "model": "glm-5.3"
+}

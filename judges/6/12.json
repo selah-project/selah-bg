@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 6:12",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И яви се нему ангелът на Яхве и рече нему: Яхве ⟨е⟩ с тебе, могъщи юначе!",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И се яви"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ангелът"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "с тебе"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "могъщи"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "юначе"
+    }
+  ],
+  "timestamp": "2026-09-22T12:27:30.384781176Z",
+  "model": "glm-5.3"
+}

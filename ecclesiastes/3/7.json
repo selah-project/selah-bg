@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Време да дереш и време да шиеш; време да мълчиш и време да говориш.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "да дереш"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и време"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "да шиеш"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "да мълчиш"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и време"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "да говориш"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:31.007942180Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Не казвай: какво беше ⟨това⟩, че предишните дни бяха по-добри от тези? защото не от мъдрост питаш за това.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "казвай"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "че дните"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "предишните"
+    },
+    {
+      "surface": "היו",
+      "gloss": "бяха"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "по-добри"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "от тези"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "от мъдрост"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "питаш"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:54.478663799Z",
+  "model": "glm-5.3"
+}

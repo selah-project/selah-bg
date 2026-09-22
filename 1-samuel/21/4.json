@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И сега какво има под ръката ти? пет хляба дай в ръката ми, или каквото се намери.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "и сега"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ръката ти"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляба"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "дай"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "в ръката ми"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "каквото се намери"
+    }
+  ],
+  "timestamp": "2026-09-22T12:44:08.379248169Z",
+  "model": "glm-5.3"
+}

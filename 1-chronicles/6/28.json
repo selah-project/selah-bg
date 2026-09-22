@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "син Яхат, син Гершом, син Леви.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Яхат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "Леви"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:36.635701469Z",
+  "model": "glm-5.3"
+}

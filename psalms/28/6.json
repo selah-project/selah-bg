@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 28:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Благословен Яхве, защото чу гласа на моленията ми.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чу"
+    },
+    {
+      "surface": "קול",
+      "gloss": "гласа"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "на моленията ми"
+    }
+  ],
+  "timestamp": "2026-09-22T14:55:21.417095880Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И се обърна Паро, и влезе в дома си, и не постави сърцето си дори и към това.",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "И се обърна"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и влезе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "дома си"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שת",
+      "gloss": "постави"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "сърцето си"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дори и"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "към това"
+    }
+  ],
+  "timestamp": "2026-09-22T11:14:50.424087425Z",
+  "model": "glm-5.3"
+}

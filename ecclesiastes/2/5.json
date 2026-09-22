@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Направих си градини и паркове, и насадих в тях дърво от всеки плод.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Направих"
+    },
+    {
+      "surface": "לי",
+      "gloss": "си"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "градини"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "и паркове"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "и насадих"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "в тях"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дърво"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "плод"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:06.153648152Z",
+  "model": "glm-5.3"
+}

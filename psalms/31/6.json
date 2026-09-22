@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "В ръката ти поверявам духа си; откупи ⟨את⟩ ме, Яхве, Ел на верността.",
+  "tokens": [
+    {
+      "surface": "בידך",
+      "gloss": "В ръката ти"
+    },
+    {
+      "surface": "אפקיד",
+      "gloss": "поверявам"
+    },
+    {
+      "surface": "רוחי",
+      "gloss": "духа си"
+    },
+    {
+      "surface": "פדיתה",
+      "gloss": "откупи"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ме",
+      "marks": "мен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "на верността"
+    }
+  ],
+  "timestamp": "2026-09-22T14:55:35.250777176Z",
+  "model": "glm-5.3"
+}

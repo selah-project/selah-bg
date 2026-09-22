@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Сенаа, три хиляди и шестстотин тридесет.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "на Сенаа"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "хиляди"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "и шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "и тридесет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:47:58.557309210Z",
+  "model": "glm-5.3"
+}

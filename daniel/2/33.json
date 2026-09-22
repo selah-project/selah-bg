@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Бедрата му от желязо, краката му — част от желязо и част от глина.",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "Бедрата му"
+    },
+    {
+      "surface": "די",
+      "gloss": "от"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "желязо"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "краката му"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "част"
+    },
+    {
+      "surface": "די",
+      "gloss": "от"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "желязо"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "и част"
+    },
+    {
+      "surface": "די",
+      "gloss": "от"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "глина"
+    }
+  ],
+  "timestamp": "2026-09-22T15:44:17.559378202Z",
+  "model": "glm-5.3"
+}

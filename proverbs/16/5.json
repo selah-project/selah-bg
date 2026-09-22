@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Мерзост за Яхве е всяко възвишено сърце; ръка в ръка — няма да бъде ⟨оправдан⟩.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "мерзост"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "за Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяко"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "възвишено"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърце"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ръка"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "в ръка"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "няма да бъде оправдан"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:54.765703464Z",
+  "model": "glm-5.3"
+}

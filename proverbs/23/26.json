@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 23:26",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Дай, сине ми, сърцето си на мен, и очите ти да благоволят в пътищата ми.",
+  "tokens": [
+    {
+      "surface": "תנה",
+      "gloss": "дай"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сине ми"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "сърцето си"
+    },
+    {
+      "surface": "לי",
+      "gloss": "на мен"
+    },
+    {
+      "surface": "ועיניך",
+      "gloss": "и очите ти"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "пътищата ми"
+    },
+    {
+      "surface": "תרצנה",
+      "gloss": "да благоволят"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:11.183732529Z",
+  "model": "glm-5.3"
+}

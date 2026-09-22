@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 25:18",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Виж нещастта ми и труда ми, и прости всички ми грехове.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "виж"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "нещастта ми"
+    },
+    {
+      "surface": "ועמלי",
+      "gloss": "и труда ми"
+    },
+    {
+      "surface": "ושא",
+      "gloss": "и прости"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "חטאותי",
+      "gloss": "ми грехове"
+    }
+  ],
+  "timestamp": "2026-09-22T14:54:45.202677907Z",
+  "model": "glm-5.3"
+}

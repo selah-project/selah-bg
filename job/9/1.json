@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 9:1",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И отговори Ийов ⟨Мов⟩ и каза:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и отговори"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов ⟨Мов⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    }
+  ],
+  "timestamp": "2026-09-22T15:25:06.683686371Z",
+  "model": "glm-5.3"
+}

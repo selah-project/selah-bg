@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 23:1",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "И рече Вилаам на Балак: Построй ми тук седем жертвеника и приготви ми тук седем юнеца и седем овни.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Вилаам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "Построй"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "тук"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "седем"
+    },
+    {
+      "surface": "מזבחת",
+      "gloss": "жертвеника"
+    },
+    {
+      "surface": "והכן",
+      "gloss": "и приготви"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בזה",
+      "gloss": "тук"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "седем"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "юнеца"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "и седем"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "овни"
+    }
+  ],
+  "timestamp": "2026-09-22T11:55:52.843285168Z",
+  "model": "glm-5.3"
+}

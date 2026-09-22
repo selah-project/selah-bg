@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 3:12",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Амация неговият син, Азария неговият син, Йотам неговият син.",
+  "tokens": [
+    {
+      "surface": "אמציהו",
+      "gloss": "Амация"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "неговият син"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азария"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "неговият син"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "Йотам"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "неговият син"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:18.799454960Z",
+  "model": "glm-5.3"
+}

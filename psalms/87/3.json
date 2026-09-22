@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 87:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 87,
+  "translation": "Славни неща се говорят за теб, градо на Елохим. Села.",
+  "tokens": [
+    {
+      "surface": "נכבדות",
+      "gloss": "Славни неща"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "се говорят"
+    },
+    {
+      "surface": "בך",
+      "gloss": "за теб"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "градо"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:32.308939503Z",
+  "model": "glm-5.3"
+}

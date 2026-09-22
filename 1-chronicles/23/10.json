@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "И синовете на Шими: Яхат, Зина, и Иеуш, и Берия. Това са синовете на Шими, четирима.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синовете"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шими"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Яхат"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "Зина"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "и Иеуш"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "и Берия"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "това"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шими"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четирима"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:42.909018010Z",
+  "model": "glm-5.3"
+}

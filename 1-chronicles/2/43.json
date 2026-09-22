@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И синовете на Хеврон: Корах, и Тапуах, и Рекем, и Шама.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синовете"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "на Хеврон"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "и Тапуах"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "и Рекем"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "и Шама"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:31.476443560Z",
+  "model": "glm-5.3"
+}

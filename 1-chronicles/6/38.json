@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Цадок, синът му, Ахимаац, синът му.",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ахимаац"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:32.973609469Z",
+  "model": "glm-5.3"
+}

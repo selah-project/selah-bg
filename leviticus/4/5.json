@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И вземе помазаният свещеник от кръвта на бика и внесе ⟨את⟩ него в шатъра на срещата.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "И вземе"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свещеникът"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "помазаният"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "от кръвта"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "на бика"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "и внесе"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатъра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на срещата"
+    }
+  ],
+  "timestamp": "2026-09-22T11:33:58.054164821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 23:12",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "И чу Аталия ⟨את⟩ гласа на народа, тичащия и славещия ⟨את⟩ царя, и дойде при народа в дома на Яхве.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "И чу"
+    },
+    {
+      "surface": "עתליהו",
+      "gloss": "Аталия"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гласа"
+    },
+    {
+      "surface": "קול",
+      "gloss": "гласа"
+    },
+    {
+      "surface": "העם",
+      "gloss": "на народа"
+    },
+    {
+      "surface": "הרצים",
+      "gloss": "тичащия"
+    },
+    {
+      "surface": "והמהללים",
+      "gloss": "и славещия"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "царя"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "и дойде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "בית",
+      "gloss": "в дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T16:10:08.693460427Z",
+  "model": "glm-5.3"
+}

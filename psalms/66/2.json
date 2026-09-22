@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 66,
+  "translation": "Пейте ⟨за⟩ славата на името Му; дайте слава на похвалата Му.",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "пейте"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славата"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името Му"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "дайте"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "похвалата Му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:02:00.238357662Z",
+  "model": "glm-5.3"
+}

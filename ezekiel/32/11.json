@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "Защото така каза Адонай Яхве: мечът на царя на Вавилон ще дойде върху теб.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мечът"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на царя"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "на Вавилон"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "ще дойде върху теб"
+    }
+  ],
+  "timestamp": "2026-09-22T14:24:37.506023935Z",
+  "model": "glm-5.3"
+}

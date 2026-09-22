@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И направи им пир, и ядоха, и пиха.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И направи"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "пир"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "и ядоха"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "и пиха"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:05.150173295Z",
+  "model": "glm-5.3"
+}

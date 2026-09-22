@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "И ще бъдат в тебе за знак и за чудо, и във твоето потомство до вечност.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "и ще бъдат"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в тебе"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "за знак"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "и за чудо"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "и във твоето потомство"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечност"
+    }
+  ],
+  "timestamp": "2026-09-22T12:13:17.047252206Z",
+  "model": "glm-5.3"
+}

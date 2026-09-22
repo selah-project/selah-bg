@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 73:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 73,
+  "translation": "Затова ги огърля гордост, насилие ги покрива като дреха за тях.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "затова"
+    },
+    {
+      "surface": "ענקתמו",
+      "gloss": "ги огърля"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "гордост"
+    },
+    {
+      "surface": "יעטף",
+      "gloss": "покрива"
+    },
+    {
+      "surface": "שית",
+      "gloss": "като дреха"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насилие"
+    },
+    {
+      "surface": "למו",
+      "gloss": "за тях"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:02.350857153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И Атай роди ⟨את⟩ Натан, и Натан роди ⟨את⟩ Завад.",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "И Атай"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Натан"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "и Натан"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Завад"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "Завад"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:58.114026344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 15:50",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "и Анав, и Ещемоа, и Аним:",
+  "tokens": [
+    {
+      "surface": "וענב",
+      "gloss": "и Анав"
+    },
+    {
+      "surface": "ואשתמה",
+      "gloss": "и Ещемоа"
+    },
+    {
+      "surface": "וענים",
+      "gloss": "и Аним"
+    }
+  ],
+  "timestamp": "2026-09-22T12:22:19.628165Z",
+  "model": "glm-5.3"
+}

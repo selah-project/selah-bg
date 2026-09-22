@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Всичко, което няма перка и люспи във водите — гнус е то за вас.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "перка"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "и люспи"
+    },
+    {
+      "surface": "במים",
+      "gloss": "във водите"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "гнус"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-09-22T11:34:30.920668579Z",
+  "model": "glm-5.3"
+}

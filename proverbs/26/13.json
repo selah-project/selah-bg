@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Рече мързеливият: лъв ⟨има⟩ на пътя, лъв ⟨стои⟩ сред улиците.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "мързеливият"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "лъв"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на пътя"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "лъв"
+    },
+    {
+      "surface": "בין",
+      "gloss": "сред"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "улиците"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:21.290961175Z",
+  "model": "glm-5.3"
+}

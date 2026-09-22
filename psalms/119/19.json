@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Пришълец съм ⟨на⟩ земята — не скривай от мен заповедите си.",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "Пришълец"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "съм"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земята"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "скривай"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от мен"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "заповедите си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:25.023027804Z",
+  "model": "glm-5.3"
+}

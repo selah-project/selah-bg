@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Спасява души свидетел на истината, а който издишва лъжи ⟨е⟩ измама.",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "Спасява"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "души"
+    },
+    {
+      "surface": "עד",
+      "gloss": "свидетел"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "на истината"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "а който издишва"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "лъжи"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "измама"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:44.757681989Z",
+  "model": "glm-5.3"
+}

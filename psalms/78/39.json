@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 78:39",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 78,
+  "translation": "и помнеше, че плът са те, дух, който минава и не се връща",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "и помнеше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плът"
+    },
+    {
+      "surface": "המה",
+      "gloss": "са те"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "който минава"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "се връща"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:56.241577883Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 6:8",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И ще ги вържеш като знак върху ръката си, и ще бъдат като наустници между очите ти.",
+  "tokens": [
+    {
+      "surface": "וקשרתם",
+      "gloss": "и ще ги вържеш"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "като знак"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ръката си"
+    },
+    {
+      "surface": "והיו",
+      "gloss": "и ще бъдат"
+    },
+    {
+      "surface": "לטטפת",
+      "gloss": "като наустници"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "очите ти"
+    }
+  ],
+  "timestamp": "2026-09-22T12:02:54.798208020Z",
+  "model": "glm-5.3"
+}

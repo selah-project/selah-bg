@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "и Ханания, и Елам, и Антотия;",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "и Ханания"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "и Елам"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "и Антотия"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:20.020134205Z",
+  "model": "glm-5.3"
+}

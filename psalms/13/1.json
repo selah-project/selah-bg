@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "На диригента. Мизмор на Давид.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "на диригента"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T14:52:17.249601225Z",
+  "model": "glm-5.3"
+}

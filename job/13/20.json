@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 13:20",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Само две ⟨неща⟩ не ми прави, тогава от лицето ти няма да се скрия.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Само"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "две"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "ми прави"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "с мен"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тогава"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "от лицето ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "няма"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "да се скрия"
+    }
+  ],
+  "timestamp": "2026-09-22T15:26:19.831110293Z",
+  "model": "glm-5.3"
+}

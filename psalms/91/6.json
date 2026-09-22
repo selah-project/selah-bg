@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 91:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 91,
+  "translation": "от мор лутаещ в мрак, от губеж опустошаващ на пладнине.",
+  "tokens": [
+    {
+      "surface": "מדבר",
+      "gloss": "от мор"
+    },
+    {
+      "surface": "באפל",
+      "gloss": "в мрак"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "лутаещ"
+    },
+    {
+      "surface": "מקטב",
+      "gloss": "от губеж"
+    },
+    {
+      "surface": "ישוד",
+      "gloss": "опустошаващ"
+    },
+    {
+      "surface": "צהרים",
+      "gloss": "на пладнине"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:53.960129078Z",
+  "model": "glm-5.3"
+}

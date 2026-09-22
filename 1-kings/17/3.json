@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-kings 17:3",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "Иди оттук и се обърни на изток, и се скрий в потока Керит, който е пред Йордан.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Иди"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "оттук"
+    },
+    {
+      "surface": "ופנית",
+      "gloss": "и се обърни"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨си⟩"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "на изток"
+    },
+    {
+      "surface": "ונסתרת",
+      "gloss": "и се скрий"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "в потока"
+    },
+    {
+      "surface": "כרית",
+      "gloss": "Керит"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "על",
+      "gloss": "е"
+    },
+    {
+      "surface": "פני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Йордан"
+    }
+  ],
+  "timestamp": "2026-09-22T13:09:03.870707921Z",
+  "model": "glm-5.3"
+}

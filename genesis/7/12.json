@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И бил дъждът върху земята четиридесет дни и четиридесет нощи.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И бил"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "дъждът"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четиридесет"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дни"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "и четиридесет"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "нощи"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:28.646633156Z",
+  "model": "glm-5.3"
+}

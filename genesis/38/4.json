@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 38:4",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "И зачене още, и роди син, и нарече ⟨את⟩ името му Онан.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "И зачене"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "още"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "и нарече"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "името му"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името му"
+    },
+    {
+      "surface": "אונן",
+      "gloss": "Онан"
+    }
+  ],
+  "timestamp": "2026-09-22T11:08:50.863246610Z",
+  "model": "glm-5.3"
+}

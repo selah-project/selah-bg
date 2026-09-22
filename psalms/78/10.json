@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 78:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 78,
+  "translation": "Не опазиха завета на Елохим и в Тора Му отказаха да ходят.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "опазиха"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завета"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "и в Тора Му"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "отказаха"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "да ходят"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:44.579474286Z",
+  "model": "glm-5.3"
+}

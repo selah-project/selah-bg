@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "joshua 15:59",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "и Маара, и Бет-Ано, и Елтекон — градове шест, и селата им",
+  "tokens": [
+    {
+      "surface": "ומערת",
+      "gloss": "и Маара"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и Бет-Ано"
+    },
+    {
+      "surface": "ענות",
+      "gloss": ""
+    },
+    {
+      "surface": "ואלתקן",
+      "gloss": "и Елтекон"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "градове"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "и селата им"
+    }
+  ],
+  "timestamp": "2026-09-22T12:22:18.072929962Z",
+  "model": "glm-5.3"
+}

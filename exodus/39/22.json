@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 39,
+  "translation": "И направи ⟨את⟩ мантията на ефода — тъкано платно, изцяло синя.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И направи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мантията"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "мантията"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "на ефода"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "платно"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "тъкано"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "изцяло"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "синя"
+    }
+  ],
+  "timestamp": "2026-09-22T11:30:35.975354658Z",
+  "model": "glm-5.3"
+}

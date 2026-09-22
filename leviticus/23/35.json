@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "В първия день — свето събрание; всяка работа на служене не да вършите.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В день"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "първия"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "събрание"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свято"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяка"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "работа"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "на служене"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "да вършите"
+    }
+  ],
+  "timestamp": "2026-09-22T11:41:17.114159412Z",
+  "model": "glm-5.3"
+}

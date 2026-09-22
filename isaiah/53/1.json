@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 53:1",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 53,
+  "translation": "Кой повярва на ⟨чутото⟩ от нас? И ръката на Яхве на кого се откри?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кой"
+    },
+    {
+      "surface": "האמין",
+      "gloss": "повярва"
+    },
+    {
+      "surface": "לשמעתנו",
+      "gloss": "на нашето чуване"
+    },
+    {
+      "surface": "וזרוע",
+      "gloss": "и ръката"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "נגלתה",
+      "gloss": "се откри"
+    }
+  ],
+  "timestamp": "2026-09-22T13:43:04.054288384Z",
+  "model": "glm-5.3"
+}

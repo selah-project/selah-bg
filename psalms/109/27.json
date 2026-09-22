@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 109,
+  "translation": "И ще знаят, че твоя ⟨е⟩ ръката — ти, Яхве, си я извършил.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "и ще знаят"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "твоя ръката"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "си я извършил"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:09.680624101Z",
+  "model": "glm-5.3"
+}

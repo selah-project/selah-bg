@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Отговори додът ми и ми рече: Стани, дойко моя, хубавице моя, и ела, върви!",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Отговори"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "додът ми"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "Стани"
+    },
+    {
+      "surface": "לך",
+      "gloss": "дойко"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "моя"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "хубавице моя"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "и ела"
+    },
+    {
+      "surface": "לך",
+      "gloss": "върви"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:52.980914123Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 44,
+  "translation": "Ти ⟨си⟩ моят цар, Елохим; заповядай избавления Яков.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "си"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "моят цар"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповядай"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "избавления"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    }
+  ],
+  "timestamp": "2026-09-22T14:58:33.847992143Z",
+  "model": "glm-5.3"
+}

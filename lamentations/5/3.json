@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Сираци станахме, без баща; майките ни са като вдовици.",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "Сираци"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "станахме"
+    },
+    {
+      "surface": "אין",
+      "gloss": "без"
+    },
+    {
+      "surface": "אב",
+      "gloss": "баща"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "майките ни"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "като вдовици"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:26.651057604Z",
+  "model": "glm-5.3"
+}

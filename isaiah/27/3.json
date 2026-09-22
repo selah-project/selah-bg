@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 27:3",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Аз, Яхве, я пазя; на мигове я поя; да не я посети ⟨нищо⟩ — нощем и денем я пазя.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "я пазя"
+    },
+    {
+      "surface": "לרגעים",
+      "gloss": "на мигове"
+    },
+    {
+      "surface": "אשקנה",
+      "gloss": "я поя"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "יפקד",
+      "gloss": "посети"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "нея"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "нощем"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "и денем"
+    },
+    {
+      "surface": "אצרנה",
+      "gloss": "я пазя"
+    }
+  ],
+  "timestamp": "2026-09-22T13:32:57.078856819Z",
+  "model": "glm-5.3"
+}

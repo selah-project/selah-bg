@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 8:22",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Балсам ли няма в Гилеад, лечител ли няма там? Защо не се издигна изцеление на дъщерята на народа ми?",
+  "tokens": [
+    {
+      "surface": "הצרי",
+      "gloss": "балсам"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "в Гилеад"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ли"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "лечител"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защо"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "защо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "се издигна"
+    },
+    {
+      "surface": "ארכת",
+      "gloss": "изцеление"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщерята"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "на народа ми"
+    }
+  ],
+  "timestamp": "2026-09-22T13:50:25.999712788Z",
+  "model": "glm-5.3"
+}

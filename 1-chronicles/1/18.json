@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И Арпахшад роди ⟨את⟩ Шелах, и Шелах роди ⟨את⟩ Евер.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "и Арпахшад"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шелах"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Шелах"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "и Шелах"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Евер"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Евер"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:46.976450034Z",
+  "model": "glm-5.3"
+}

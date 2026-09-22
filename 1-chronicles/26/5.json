@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 26:5",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Амиил шестия, Исахар седмия, Пеултай осмия, защото го благослови Елохим.",
+  "tokens": [
+    {
+      "surface": "עמיאל",
+      "gloss": "Амиил"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шестия"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "Исахар"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седмия"
+    },
+    {
+      "surface": "פעלתי",
+      "gloss": "Пеултай"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "осмия"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "ברכו",
+      "gloss": "благослови"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T16:03:27.678182085Z",
+  "model": "glm-5.3"
+}

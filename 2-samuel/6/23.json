@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "А на Михал, дъщерята на Шаул, не ѝ се роди дете до деня на смъртта ѝ.",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "А на Михал"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщерята"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "на Шаул"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "имаше"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ѝ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "дете"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "יום",
+      "gloss": "деня"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "на смъртта ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T12:49:52.558722003Z",
+  "model": "glm-5.3"
+}

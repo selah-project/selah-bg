@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 41,
+  "translation": "На водача ⟨на хора⟩. Мизмор на Давид.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "на водача"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T14:58:09.492190852Z",
+  "model": "glm-5.3"
+}

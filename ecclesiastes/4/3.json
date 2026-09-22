@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И по-добър от двамата им ⟨е⟩ онзи, който още не е бил, който не е видял ⟨את⟩ злото дело, което се върши под слънцето.",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "и по-добър"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "от двамата им"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "онзи, който още не е бил"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "още"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "е бил"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "е видял"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "злото дело"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "делото"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "злото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "се върши"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "слънцето"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:13.604783096Z",
+  "model": "glm-5.3"
+}

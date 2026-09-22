@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 16:1",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И отиде Шимшон ⟨в⟩ Аза, и видя там жена блудница, и влезе при нея.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И отиде"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "Шимшон"
+    },
+    {
+      "surface": "עזתה",
+      "gloss": "⟨в⟩ Аза"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и видя"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "блудница"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и влезе"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "при нея"
+    }
+  ],
+  "timestamp": "2026-09-22T16:21:26.463439984Z",
+  "model": "glm-5.3"
+}

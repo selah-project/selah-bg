@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 106:25",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 106,
+  "translation": "И зароптаха в шатрите си, не послушаха гласа на Яхве.",
+  "tokens": [
+    {
+      "surface": "וירגנו",
+      "gloss": "и зароптаха"
+    },
+    {
+      "surface": "באהליהם",
+      "gloss": "в шатрите си"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "послушаха"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "гласа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:40.361876132Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 24:32",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И видях аз, положих в сърцето си: видях, приех наставление.",
+  "tokens": [
+    {
+      "surface": "ואחזה",
+      "gloss": "и видях"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    },
+    {
+      "surface": "אשית",
+      "gloss": "положих"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "в сърцето си"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видях"
+    },
+    {
+      "surface": "לקחתי",
+      "gloss": "приех"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "наставление"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:08.870721518Z",
+  "model": "glm-5.3"
+}

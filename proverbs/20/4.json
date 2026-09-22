@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 20:4",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Заради зимата мързеливият не оре — ще проси в жътва, и няма нищо.",
+  "tokens": [
+    {
+      "surface": "מחרף",
+      "gloss": "заради зимата"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "мързеливият"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחרש",
+      "gloss": "оре"
+    },
+    {
+      "surface": "ישאל",
+      "gloss": "ще проси"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "в жътва"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и няма нищо"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:10.359002744Z",
+  "model": "glm-5.3"
+}

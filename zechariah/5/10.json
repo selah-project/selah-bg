@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И казах на ангела, който говореше в мен: накъде те отнасят ⟨את⟩ ефата?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и казах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ангела"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "който говореше"
+    },
+    {
+      "surface": "בי",
+      "gloss": "в мен"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "накъде"
+    },
+    {
+      "surface": "המה",
+      "gloss": "те"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "отнасят"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ефата"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ефата"
+    }
+  ],
+  "timestamp": "2026-09-22T14:45:59.425789155Z",
+  "model": "glm-5.3"
+}

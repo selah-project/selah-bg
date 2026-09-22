@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Не презират крадеца, когато краде, за да насити душата си, понеже огладнява.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "презират"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "крадеца"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когато"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "краде"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "за да насити"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душата си"
+    },
+    {
+      "surface": "כי",
+      "gloss": "понеже"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "огладнява"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:12.708581468Z",
+  "model": "glm-5.3"
+}

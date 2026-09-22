@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 2:8",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И взе си черпък да се чеше с него, и той седеше сред пепелта.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И взе"
+    },
+    {
+      "surface": "לו",
+      "gloss": "си"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "черпък"
+    },
+    {
+      "surface": "להתגרד",
+      "gloss": "да се чеше"
+    },
+    {
+      "surface": "בו",
+      "gloss": "с него"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и той"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "седеше"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "сред"
+    },
+    {
+      "surface": "האפר",
+      "gloss": "пепелта"
+    }
+  ],
+  "timestamp": "2026-09-22T15:23:51.531562620Z",
+  "model": "glm-5.3"
+}

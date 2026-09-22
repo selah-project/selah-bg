@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И Даниил беше до първата година на Кир ⟨мелека⟩.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниил"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "годината"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "първата"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "на Кир"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "цар"
+    }
+  ],
+  "timestamp": "2026-09-22T15:42:01.824183071Z",
+  "model": "glm-5.3"
+}

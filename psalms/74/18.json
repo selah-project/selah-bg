@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 74:18",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 74,
+  "translation": "Помни това: враг наскърби Яхве и безумен народ похули името Ти.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Помни"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "враг"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "наскърби"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "и народ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "безумен"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "похули"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "името Ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:26.593428575Z",
+  "model": "glm-5.3"
+}

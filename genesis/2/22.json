@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 2:22",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И съгради Яхве Елохим ⟨את⟩ реброто, което взе от човека, за жена, и я доведе при човека.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "и съгради"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "реброто"
+    },
+    {
+      "surface": "הצלע",
+      "gloss": "реброто"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "взе"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жена"
+    },
+    {
+      "surface": "ויבאה",
+      "gloss": "и я доведе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човека"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:19.242310315Z",
+  "model": "glm-5.3"
+}

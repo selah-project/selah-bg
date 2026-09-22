@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 9:28",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И изваждаха коне от Мицраим за Шеломо и от всички земи.",
+  "tokens": [
+    {
+      "surface": "ומוציאים",
+      "gloss": "И изваждаха"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "коне"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "от Мицраим"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "за Шеломо"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "и от всички"
+    },
+    {
+      "surface": "הארצות",
+      "gloss": "земи"
+    }
+  ],
+  "timestamp": "2026-09-22T16:06:58.573019424Z",
+  "model": "glm-5.3"
+}

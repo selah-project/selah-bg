@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 21:29",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И рече Авимелех на Авраам: какво ⟨са⟩ тези седем агнета, които постави настрана?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седем"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "агнета"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "постави"
+    },
+    {
+      "surface": "לבדנה",
+      "gloss": "настрана"
+    }
+  ],
+  "timestamp": "2026-09-22T11:00:43.362281607Z",
+  "model": "glm-5.3"
+}

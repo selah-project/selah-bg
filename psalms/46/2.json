@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 46:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 46,
+  "translation": "Елохим ⟨е⟩ за нас прибежище и сила, помощ в бедите, намерена твърде.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "за нас"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "прибежище"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "и сила"
+    },
+    {
+      "surface": "עזרה",
+      "gloss": "помощ"
+    },
+    {
+      "surface": "בצרות",
+      "gloss": "в бедите"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "намерена"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "твърде"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:18.286856319Z",
+  "model": "glm-5.3"
+}

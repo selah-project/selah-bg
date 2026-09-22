@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И се покори човекът, и се смили мъжът — и не ги пощади ⟨ти⟩.",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "и се покори"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човекът"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "и се смили"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъжът"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "пощади"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ги"
+    }
+  ],
+  "timestamp": "2026-09-22T13:24:14.264418427Z",
+  "model": "glm-5.3"
+}

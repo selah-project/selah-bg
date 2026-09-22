@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 12:19",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Защо рече: сестра ми ⟨е⟩ тя, и взех ⟨את⟩ нея на мен за жена? А сега, ето жена ти — вземи ⟨я⟩ и върви.",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "защо"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "сестра ми"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "ואקח",
+      "gloss": "и взех"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ нея",
+      "marks": "на мен"
+    },
+    {
+      "surface": "לי",
+      "gloss": "на мен"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жена"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "жена ти"
+    },
+    {
+      "surface": "קח",
+      "gloss": "вземи"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "и върви"
+    }
+  ],
+  "timestamp": "2026-09-22T10:57:32.800905001Z",
+  "model": "glm-5.3"
+}

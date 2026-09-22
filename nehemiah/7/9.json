@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 7:9",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Синовете на Шефатя: триста седемдесет и двама.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатя"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "сто(ти)"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "седемдесет"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и два"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:27.413924382Z",
+  "model": "glm-5.3"
+}

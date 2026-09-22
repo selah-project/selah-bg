@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "да изкриви правото на човек пред лицето на Всевишния.",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "да изкриви"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правото"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "на човек"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "пред"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето на"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Всевишния"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:52.476261074Z",
+  "model": "glm-5.3"
+}

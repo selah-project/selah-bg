@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 36:5",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "И заповяда Ирмияху ⟨את⟩ Барух, като рече: аз съм задържан, не мога да вляза в дома на Яхве.",
+  "tokens": [
+    {
+      "surface": "ויצוה",
+      "gloss": "и заповяда"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмияху"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Барух"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барух"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "като рече"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "съм задържан"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "мога"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "да вляза"
+    },
+    {
+      "surface": "בית",
+      "gloss": "в дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:02:33.167797367Z",
+  "model": "glm-5.3"
+}

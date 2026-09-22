@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И отиде Валаам с Валак, и дойдоха в Кирят-Хуцот.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И отиде"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Валаам"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Валак"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и дойдоха"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кирят"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "Хуцот"
+    }
+  ],
+  "timestamp": "2026-09-22T11:54:55.896463139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Виж ⟨את⟩ делото на Елохим, защото кой ще може да изправи ⟨את⟩ онова, което ⟨Той⟩ изкриви?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "виж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "делото"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "делото"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ще може"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "да изправи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "онова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "изкриви го"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:42.728287027Z",
+  "model": "glm-5.3"
+}

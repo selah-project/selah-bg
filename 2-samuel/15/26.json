@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 15:26",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "А ако така каже: не благоволих в теб — ето ме, нека ми стори както е добро в очите му.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "А ако"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "каже"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חפצתי",
+      "gloss": "благоволих"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в теб"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ето ме"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "нека стори"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "е добро"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в очите му"
+    }
+  ],
+  "timestamp": "2026-09-22T12:55:21.282492114Z",
+  "model": "glm-5.3"
+}

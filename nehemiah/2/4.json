@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И рече ми царят: за какво ⟨то⟩ търсиш? И се помолих към Елохим на небесата.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "търсиш"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "и се помолих"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "на небесата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:52:25.535625146Z",
+  "model": "glm-5.3"
+}

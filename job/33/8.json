@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 33:8",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "Наистина ти каза в ушите ми, и глас на думи чух.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "наистина"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "каза"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "в ушите ми"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "и глас"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "на думи"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "чух"
+    }
+  ],
+  "timestamp": "2026-09-22T15:31:14.334550247Z",
+  "model": "glm-5.3"
+}

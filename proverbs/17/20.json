@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "Изкривено сърце не ще намери добро, и превратният в езика си ще падне в зло.",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "изкривено"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърце"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ще намери"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "и превратният"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "в езика си"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ще падне"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "в зло"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:11.030114075Z",
+  "model": "glm-5.3"
+}

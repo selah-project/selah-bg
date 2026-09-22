@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Владетел, който слуша лъжливи думи — всички му слуги са нечестивци.",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "Владетел"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "слуша"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "דבר",
+      "gloss": "думи"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лъжливи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "му слуги"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "са нечестивци"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:48.965339872Z",
+  "model": "glm-5.3"
+}

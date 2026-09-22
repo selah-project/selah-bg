@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 89:36",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 89,
+  "translation": "Еднъж се заклех в святостта Си: няма да излъжа Давид.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "еднъж"
+    },
+    {
+      "surface": "נשבעתי",
+      "gloss": "се заклех"
+    },
+    {
+      "surface": "בקדשי",
+      "gloss": "в святостта Си"
+    },
+    {
+      "surface": "אם",
+      "gloss": "сигурно"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אכזב",
+      "gloss": "щe излъжа"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:42.665919285Z",
+  "model": "glm-5.3"
+}

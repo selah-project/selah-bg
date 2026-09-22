@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 25:4",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И чу Давид в пустинята, че Навал стриже ⟨את⟩ стадото си.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И чу"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустинята"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "גזז",
+      "gloss": "стриже"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "Навал"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стадото си"
+    },
+    {
+      "surface": "צאנו",
+      "gloss": "стадото си"
+    }
+  ],
+  "timestamp": "2026-09-22T12:45:32.775006406Z",
+  "model": "glm-5.3"
+}

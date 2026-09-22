@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 15:6",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "На сините на Мерари Ашая началникът, и братята му — двеста и двадесет.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "на сините"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерари"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "Ашая"
+    },
+    {
+      "surface": "השר",
+      "gloss": "началникът"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и братята му"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двеста"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадесет"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:45.151981695Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И говори Яхве на Аарон, казвайки:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T11:35:01.465826061Z",
+  "model": "glm-5.3"
+}

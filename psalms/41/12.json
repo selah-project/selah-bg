@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 41:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 41,
+  "translation": "По това познах, че благоволи в мен, че врагът ми не ликува над мен.",
+  "tokens": [
+    {
+      "surface": "בזאת",
+      "gloss": "По това"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "познах"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "חפצת",
+      "gloss": "благоволи"
+    },
+    {
+      "surface": "בי",
+      "gloss": "в мен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יריע",
+      "gloss": "ликува"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "врагът ми"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "над мен"
+    }
+  ],
+  "timestamp": "2026-09-22T14:58:13.520610408Z",
+  "model": "glm-5.3"
+}

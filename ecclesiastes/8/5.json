@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Пазещият заповед не ще познае лошо нещо, и време и право знае сърцето на мъдрия.",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "Пазещият"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "заповед"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ще познае"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "нещо"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лошо"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и време"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "и право"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знае"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърцето"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "на мъдрия"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:34.113166297Z",
+  "model": "glm-5.3"
+}

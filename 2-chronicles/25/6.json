@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И нае от Израел сто хиляди силни юнаци за сто таланта сребро.",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "И нае"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "от Израел"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляда"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "силни"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "юнаци"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "за сто"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "таланта"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    }
+  ],
+  "timestamp": "2026-09-22T16:11:18.663442893Z",
+  "model": "glm-5.3"
+}

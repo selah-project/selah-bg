@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 139:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 139,
+  "translation": "и там ръката ти ще ме води, и десницата ти ще ме държи.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ръката ти"
+    },
+    {
+      "surface": "תנחני",
+      "gloss": "ще ме води"
+    },
+    {
+      "surface": "ותאחזני",
+      "gloss": "и ще ме държи"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "десницата ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:14:04.418346467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И това е Тората на жертвата на мира, която ще се принесе на Яхве.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "и това"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тората"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жертвата"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "на мира"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ще се принесе"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:32:56.433785041Z",
+  "model": "glm-5.3"
+}

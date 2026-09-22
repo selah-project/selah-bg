@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 32:4",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "И сърцето на прибързаните ще проумее да познае, и езикът на prevenите ще побърза да говори ясно.",
+  "tokens": [
+    {
+      "surface": "ולבב",
+      "gloss": "и сърцето"
+    },
+    {
+      "surface": "נמהרים",
+      "gloss": "на прибързаните"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ще проумее"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "да познае"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "и езикът"
+    },
+    {
+      "surface": "עלגים",
+      "gloss": "на prevenite"
+    },
+    {
+      "surface": "תמהר",
+      "gloss": "ще побърза"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "да говори"
+    },
+    {
+      "surface": "צחות",
+      "gloss": "ясно"
+    }
+  ],
+  "timestamp": "2026-09-22T13:34:34.339745555Z",
+  "model": "glm-5.3"
+}

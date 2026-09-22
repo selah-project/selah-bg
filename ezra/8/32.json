@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 8:32",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И пристигнахме в Йерусалим и седяхме там три дни.",
+  "tokens": [
+    {
+      "surface": "ונבוא",
+      "gloss": "И пристигнахме"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "в Йерусалим"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "и седяхме"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    }
+  ],
+  "timestamp": "2026-09-22T15:51:38.245618161Z",
+  "model": "glm-5.3"
+}

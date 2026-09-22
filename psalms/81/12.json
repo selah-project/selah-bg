@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 81:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 81,
+  "translation": "И не послуша народът мой гласа ми, и Израел не пожела мене.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "послуша"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народът мой"
+    },
+    {
+      "surface": "לקולי",
+      "gloss": "гласа ми"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "и Израел"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבה",
+      "gloss": "пожела"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мене"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:18.366058063Z",
+  "model": "glm-5.3"
+}

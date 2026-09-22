@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И излезе Давид оттам и седна в укрепленията на Ен Геди.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и излезе"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оттам"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и седна"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "в укрепленията"
+    },
+    {
+      "surface": "עין",
+      "gloss": "Ен"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Геди"
+    }
+  ],
+  "timestamp": "2026-09-22T12:45:08.950166111Z",
+  "model": "glm-5.3"
+}

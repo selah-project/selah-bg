@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "На Салай — Калай; на Амок — Евер.",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "на Салай"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "Калай"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "на Амок"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Евер"
+    }
+  ],
+  "timestamp": "2026-09-22T15:55:19.626831827Z",
+  "model": "glm-5.3"
+}

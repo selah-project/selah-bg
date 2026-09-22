@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "Изкривих се, приведох се твърде много, целия ден ходех почернял.",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "изкривих се"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "приведох се"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "крайност"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целия"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "почернял"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "ходех"
+    }
+  ],
+  "timestamp": "2026-09-22T16:29:20.720887276Z",
+  "model": "glm-5.3"
+}

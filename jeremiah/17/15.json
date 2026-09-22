@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "Ето, те казват на мен: „Къде е словото на Яхве? Нека дойде сега.“",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "המה",
+      "gloss": "те"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "казват"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "на мен"
+    },
+    {
+      "surface": "איה",
+      "gloss": "Къде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "да дойде"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сега"
+    }
+  ],
+  "timestamp": "2026-09-22T13:55:02.673850320Z",
+  "model": "glm-5.3"
+}

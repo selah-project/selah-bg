@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 36:29",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "Тези са вождовете на хорейте: вожд Лотан, вожд Шовал, вожд Цивеон, вожд Ана.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Тези"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "вождовете"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "на хорейте"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "вожд"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "Лотан"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "вожд"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "Шовал"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "вожд"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "Цивеон"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "вожд"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Ана"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:56.878680556Z",
+  "model": "glm-5.3"
+}

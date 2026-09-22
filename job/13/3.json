@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 13:3",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Но аз към Ел Шаддай ще говоря, и със Ел да споря желая.",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "но"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Ел Шаддай"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ще говоря"
+    },
+    {
+      "surface": "והוכח",
+      "gloss": "и да споря"
+    },
+    {
+      "surface": "אל",
+      "gloss": "със"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "желая"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:52.816772475Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 20:13",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И всичкият Йеуда ⟨ бе⟩ стоен пред Яхве — също децата им, жените им и синовете им.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "И всичкият"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йеуда"
+    },
+    {
+      "surface": "עמדים",
+      "gloss": "стоен"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "גם",
+      "gloss": "също"
+    },
+    {
+      "surface": "טפם",
+      "gloss": "децата им"
+    },
+    {
+      "surface": "נשיהם",
+      "gloss": "жените им"
+    },
+    {
+      "surface": "ובניהם",
+      "gloss": "и синовете им"
+    }
+  ],
+  "timestamp": "2026-09-22T16:34:19.595588714Z",
+  "model": "glm-5.3"
+}

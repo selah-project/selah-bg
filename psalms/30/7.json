@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 30:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "А аз казах в спокойството си: няма да се поколебая довека.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А аз"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "казах"
+    },
+    {
+      "surface": "בשלוי",
+      "gloss": "в спокойството си"
+    },
+    {
+      "surface": "בל",
+      "gloss": "няма"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "да се поколебая"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "довека"
+    }
+  ],
+  "timestamp": "2026-09-22T14:55:24.132133192Z",
+  "model": "glm-5.3"
+}

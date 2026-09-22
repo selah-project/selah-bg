@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И сладък е светлината, и добре е за очите да видят ⟨את⟩ слънцето.",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "И сладък"
+    },
+    {
+      "surface": "האור",
+      "gloss": "светлината"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "и добре"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "за очите"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "да видят"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слънцето"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "слънцето"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:28.604195774Z",
+  "model": "glm-5.3"
+}

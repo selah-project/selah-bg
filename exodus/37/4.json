@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "И направи пръти от акациево дърво и ги обкова ⟨את⟩ със злато.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и направи"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "пръти"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "дърво"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "акациево"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "и ги обкова"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "тях"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    }
+  ],
+  "timestamp": "2026-09-22T11:29:11.303442961Z",
+  "model": "glm-5.3"
+}

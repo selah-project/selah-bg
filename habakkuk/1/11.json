@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 1:11",
+  "book": "habakkuk",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Тогава вятър премина и отмина, и се провини — този, чиято сила му ⟨е⟩ бог.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тогава"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "премина"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "вятър"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "и отмина"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "и се провини"
+    },
+    {
+      "surface": "זו",
+      "gloss": "— този, чиято"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "силата му"
+    },
+    {
+      "surface": "לאלהו",
+      "gloss": "за бог"
+    }
+  ],
+  "timestamp": "2026-09-22T14:42:11.995095128Z",
+  "model": "glm-5.3"
+}

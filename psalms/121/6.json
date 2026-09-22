@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 121,
+  "translation": "Денем слънцето не ще те порази, а луната — нощем.",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "Денем"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "слънцето"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "ще те порази"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "а луната"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "нощем"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:41.717651925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 27:18",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "За Йеуда — Елиху, ⟨един⟩ от братята на Давид; за Иссахар — Омри, син на Михаел.",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "за Йеуда"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Елиху"
+    },
+    {
+      "surface": "מאחי",
+      "gloss": "от братята"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "ליששכר",
+      "gloss": "за Иссахар"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "Омри"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "на Михаел"
+    }
+  ],
+  "timestamp": "2026-09-22T16:03:55.430133806Z",
+  "model": "glm-5.3"
+}

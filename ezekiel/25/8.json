@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 25:8",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Така рече Адонай Яхве: понеже каза Моав и Сеир: ето, като всички народи ⟨е⟩ домът на Юда;",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יען",
+      "gloss": "понеже"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "ושעיר",
+      "gloss": "и Сеир"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "като всички"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домът"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Юда"
+    }
+  ],
+  "timestamp": "2026-09-22T14:21:48.961368137Z",
+  "model": "glm-5.3"
+}

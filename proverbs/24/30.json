@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Покрай полето на мързелив човек минах и покрай лозето на човек, лишен от разум.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "покрай"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "полето"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "мързелив"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "минах"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и покрай"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "лозето"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "лишен"
+    },
+    {
+      "surface": "לב",
+      "gloss": "от разум"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:08.866952716Z",
+  "model": "glm-5.3"
+}

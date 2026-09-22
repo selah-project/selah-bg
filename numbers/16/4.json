@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И чу Моше, и падна на лицето си.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и чу"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "и падна"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицето си"
+    }
+  ],
+  "timestamp": "2026-09-22T11:52:30.440627736Z",
+  "model": "glm-5.3"
+}

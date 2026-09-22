@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 25:8",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И издъхна, и умря Авраам в добра старост, стар и сит, и се събра към народа си.",
+  "tokens": [
+    {
+      "surface": "ויגוע",
+      "gloss": "и издъхна"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умря"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "в старост"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "стар"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и сит"
+    },
+    {
+      "surface": "ויאסף",
+      "gloss": "и се събра"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "עמיו",
+      "gloss": "народа си"
+    }
+  ],
+  "timestamp": "2026-09-22T11:02:22.057175326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Само ⟨את⟩ кръвта му няма да ядеш; на земята ще я излееш като вода.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Само"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "кръвта му"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "кръвта му"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ще ядеш"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ще я излееш"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "като вода"
+    }
+  ],
+  "timestamp": "2026-09-22T12:06:33.459346113Z",
+  "model": "glm-5.3"
+}

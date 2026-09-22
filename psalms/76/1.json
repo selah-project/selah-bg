@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 76:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 76,
+  "translation": "Към водача, на струнни ⟨инструменти⟩. Мизмор на Асаф, песен.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "Към водача"
+    },
+    {
+      "surface": "בנגינת",
+      "gloss": "на струнни"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "Мизмор"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "на Асаф"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:14.917836215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 41,
+  "translation": "⟨את⟩ всяко високо вижда той; той е цар над всички синове на гордостта.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всяко високо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяко"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "високо"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "вижда"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "на гордостта"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:29.787076144Z",
+  "model": "glm-5.3"
+}

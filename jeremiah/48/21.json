@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "И съд дойде върху земята на равнината — върху Холон и върху Яхаца, и върху Мофаат.",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "и съд"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дойде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "върху"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "на равнината"
+    },
+    {
+      "surface": "אל",
+      "gloss": "върху"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "Холон"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и върху"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "Яхац"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и върху"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "Мофаат"
+    }
+  ],
+  "timestamp": "2026-09-22T14:07:06.250107439Z",
+  "model": "glm-5.3"
+}

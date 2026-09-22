@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "За племето Дан — Амиел, син на Гемали.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "за племето"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "Амиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "Гемали"
+    }
+  ],
+  "timestamp": "2026-09-22T11:49:41.923012053Z",
+  "model": "glm-5.3"
+}

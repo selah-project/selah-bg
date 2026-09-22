@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И синовете на Яда, брат на Шамай: Йетер и Йонатан; и Йетер умря без синове.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синовете"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "на Яда"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "на Шамай"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Йетер"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "и Йонатан"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умря"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Йетер"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:00.370210876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 2:6",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Разчупена на парчета ⟨את⟩ нея, и ще полееш върху нея масло — минха той ⟨е⟩.",
+  "tokens": [
+    {
+      "surface": "פתות",
+      "gloss": "Разчупена"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ нея"
+    },
+    {
+      "surface": "פתים",
+      "gloss": "на парчета"
+    },
+    {
+      "surface": "ויצקת",
+      "gloss": "и ще полееш"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "върху нея"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "масло"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минха"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    }
+  ],
+  "timestamp": "2026-09-22T11:30:46.785713146Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И рече Бат-Шева: „Добре; аз ще говоря за теб към царя.“",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Бат"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "Добре"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ще говоря"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "за теб"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-09-22T13:02:03.964430713Z",
+  "model": "glm-5.3"
+}

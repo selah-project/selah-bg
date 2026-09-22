@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Защото с присмиващи устни и с чужд език ще говори ⟨към⟩ този народ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "с присмиващи"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "устни"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "и с чужд"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "език"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ще говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨към⟩"
+    },
+    {
+      "surface": "העם",
+      "gloss": "този народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    }
+  ],
+  "timestamp": "2026-09-22T13:32:51.594398355Z",
+  "model": "glm-5.3"
+}

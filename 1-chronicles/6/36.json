@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Буки, синът му, Узи, синът му, Зерахия, синът му.",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "Буки"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Узи"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Зерахия"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:34.706503622Z",
+  "model": "glm-5.3"
+}

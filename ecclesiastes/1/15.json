@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Изкривеното не може да се изправи, а липсващото не може да се изброи.",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "Изкривеното"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "може"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "да се изправи"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "а липсващото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "може"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "да се изброи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:36.313152895Z",
+  "model": "glm-5.3"
+}

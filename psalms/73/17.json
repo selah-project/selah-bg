@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 73:17",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 73,
+  "translation": "Докато дойда в светилищата на Ел, ще разбера края им.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "Докато"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "дойда"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "светилищата"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "אבינה",
+      "gloss": "ще разбера"
+    },
+    {
+      "surface": "לאחריתם",
+      "gloss": "края им"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:57.737967037Z",
+  "model": "glm-5.3"
+}

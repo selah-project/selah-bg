@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Сребро от шлака, покрито върху гърне — устни пламтящи и сърце зло.",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "Сребро"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "от шлака"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "покрито"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "гърне"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "устни"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "пламтящи"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "и сърце"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:40.500456422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И бяха преброените им осем хиляди и петстотин и осемдесет.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И бяха"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "преброените им"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "осем"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "хиляди"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "и пет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "и осемдесет"
+    }
+  ],
+  "timestamp": "2026-09-22T11:46:48.562506490Z",
+  "model": "glm-5.3"
+}

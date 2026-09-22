@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 118,
+  "translation": "От ⟨את⟩ Яхве стана това; тя е чудна в очите ни.",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "от ⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "чудна"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "в очите ни"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:12.361992025Z",
+  "model": "glm-5.3"
+}

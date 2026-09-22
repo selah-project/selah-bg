@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И прославих аз ⟨את⟩ мъртвите, които вече умряха, повече от живите, които те са живи до сега.",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "и прославих"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мъртвите"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "мъртвите"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "които вече"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "умряха"
+    },
+    {
+      "surface": "מן",
+      "gloss": "повече от"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "המה",
+      "gloss": "те"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живи"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "до сега"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:13.602333075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Защото не Ел, когото желае беззаконието, си ти — злото няма да гостува при тебе.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "желае"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "беззаконието"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "ще гостува при тебе"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злото"
+    }
+  ],
+  "timestamp": "2026-09-22T14:50:01.420437022Z",
+  "model": "glm-5.3"
+}

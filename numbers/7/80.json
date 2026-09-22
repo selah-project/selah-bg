@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 80,
+  "ref": "numbers 7:80",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "една златна кадилница от десет шекела, пълна с тамян.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": " kadilnica"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десет"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златна"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пълна"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "с тамян"
+    }
+  ],
+  "timestamp": "2026-09-22T11:48:28.820561136Z",
+  "model": "glm-5.3"
+}

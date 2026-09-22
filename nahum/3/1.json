@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Ой на града на кръвта! Изцяло лъжа, грабеж пълен — не отстъпва плячката.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ой"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кръв"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "изцяло"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "лъжа"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "грабеж"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пълен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "отстъпва"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "плячка"
+    }
+  ],
+  "timestamp": "2026-09-22T14:42:49.030208428Z",
+  "model": "glm-5.3"
+}

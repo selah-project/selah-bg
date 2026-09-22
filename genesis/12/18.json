@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И повика фараонът Аврама и каза: какво това стори на мен? Защо не ми обяви, че жена ти е тя?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И повика"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараонът"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "Аврама"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "стори"
+    },
+    {
+      "surface": "לי",
+      "gloss": "на мен"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Защо"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "обяви"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "жена ти"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е тя"
+    }
+  ],
+  "timestamp": "2026-09-22T16:42:10.546244374Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 51:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 51,
+  "translation": "при идването при него на Натан пророка, когато влезе при Бат Шева.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "при идването"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "при него"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророка"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "когато"
+    },
+    {
+      "surface": "בא",
+      "gloss": "влезе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "בת",
+      "gloss": "Бат"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    }
+  ],
+  "timestamp": "2026-09-22T15:00:34.917415639Z",
+  "model": "glm-5.3"
+}

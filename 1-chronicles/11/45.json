@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Йедиеел, син на Шимри, и Йоха, брат му, титееца;",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "Йедиеел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син на"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "Шимри"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "и Йоха"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брат му"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "титееца"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:24.329465534Z",
+  "model": "glm-5.3"
+}

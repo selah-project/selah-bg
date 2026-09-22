@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Синовете на Цофах: Суах, и Харнефер, и Шуал, и Бери, и Имра.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "на Цофах"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "Суах"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "и Харнефер"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "и Шуал"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "и Бери"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "и Имра"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:42.668695563Z",
+  "model": "glm-5.3"
+}

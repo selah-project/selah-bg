@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 9:16",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Така беше постоянно: облакът покриваше го, и видение на огън нощем.",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "постоянно"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "облакът"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "покриваше го"
+    },
+    {
+      "surface": "ומראה",
+      "gloss": "и видение"
+    },
+    {
+      "surface": "אש",
+      "gloss": "на огън"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "нощем"
+    }
+  ],
+  "timestamp": "2026-09-22T11:49:34.904080826Z",
+  "model": "glm-5.3"
+}

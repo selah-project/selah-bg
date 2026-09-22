@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 20:10",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Когато се приближиш до град, за да воюваш против него, ще го повикаш към мир.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "когато"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "се приближиш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "за да воюваш"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "против него"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "ще повикаш"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "него"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "към мир"
+    }
+  ],
+  "timestamp": "2026-09-22T12:08:58.315420203Z",
+  "model": "glm-5.3"
+}

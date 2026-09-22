@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "И че се вслуша Яков в баща си и в майка си, и отиде в Падан-Арам.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и се вслуша"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "баща си"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и в"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "майка си"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "в Падан"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "Арам"
+    }
+  ],
+  "timestamp": "2026-09-22T11:04:03.283385909Z",
+  "model": "glm-5.3"
+}

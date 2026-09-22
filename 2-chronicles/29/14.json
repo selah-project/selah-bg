@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 29:14",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И от синовете на Хеман — Йехиел и Шими; и от синовете на Йедутун — Шемая и Узиил.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "и от"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "на Хеман"
+    },
+    {
+      "surface": "יחואל",
+      "gloss": "Йехиел"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "и Шими"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и от"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ידותון",
+      "gloss": "на Йедутун"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемая"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "и Узиил"
+    }
+  ],
+  "timestamp": "2026-09-22T16:12:01.059318680Z",
+  "model": "glm-5.3"
+}

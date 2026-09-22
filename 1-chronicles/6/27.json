@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "син Ейтан, син Зима, син Шими.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "Ейтан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "Зима"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шими"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:36.635588317Z",
+  "model": "glm-5.3"
+}

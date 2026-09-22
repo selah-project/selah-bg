@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 15:11",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Шеол и Авадон ⟨са⟩ пред Яхве — още повече сърцата на човешките синове.",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ואבדון",
+      "gloss": "и Авадон"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אף",
+      "gloss": "още повече"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨сърцата⟩"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "сърцата"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на синовете"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на човека"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:48.128298761Z",
+  "model": "glm-5.3"
+}

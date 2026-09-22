@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 4:13",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И рече: ах, Адонай, прати, моля, чрез ръката на оногова, когото ще пратиш.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ах"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "прати"
+    },
+    {
+      "surface": "נא",
+      "gloss": "моля"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "чрез ръката"
+    },
+    {
+      "surface": "תשלח",
+      "gloss": "ще пратиш"
+    }
+  ],
+  "timestamp": "2026-09-22T11:15:19.953173988Z",
+  "model": "glm-5.3"
+}

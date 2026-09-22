@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 1:9",
+  "book": "hosea",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И рече: наречи името му Ло-Ами, защото вие не сте ⟨моят⟩ народ, и аз няма да бъда ⟨вит⟩ за вас.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "наречи"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името му"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Ло"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ами"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "⟨моят⟩ народ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "и аз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "няма"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "да бъда"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-09-22T14:31:49.068952670Z",
+  "model": "glm-5.3"
+}

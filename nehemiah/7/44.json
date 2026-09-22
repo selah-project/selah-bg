@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Певците: синовете на Асаф — сто четиридесет и осем.",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "певците"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асаф"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четиридесет"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и осем"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:52.979076582Z",
+  "model": "glm-5.3"
+}

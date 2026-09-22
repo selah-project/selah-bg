@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 10:18",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И излезе от фараона и се помоли към Яхве.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И излезе"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "от"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараона"
+    },
+    {
+      "surface": "ויעתר",
+      "gloss": "и се помоли"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:17:34.451855850Z",
+  "model": "glm-5.3"
+}

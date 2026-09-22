@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "И погреба ⟨את⟩ него в долината, в земята Моав, срещу Бет Пеор; и не позна човек ⟨את⟩ гроба му до този ден.",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "и погреба"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него (Моше)"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "в долината"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "מול",
+      "gloss": "срещу"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "Пеор"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "позна"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гроба му"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "гроба му"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": " този ден"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    }
+  ],
+  "timestamp": "2026-09-22T12:15:45.461163869Z",
+  "model": "glm-5.3"
+}

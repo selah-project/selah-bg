@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 4:37",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "и Зиза син на Шифи, син на Алон, син на Ядая, син на Шимри, син на Шемая.",
+  "tokens": [
+    {
+      "surface": "וזיזא",
+      "gloss": "и Зиза"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שפעי",
+      "gloss": "на Шифи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אלון",
+      "gloss": "на Алон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "на Ядая"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "на Шимри"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "на Шемая"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:41.956177900Z",
+  "model": "glm-5.3"
+}

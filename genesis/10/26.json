@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 10:26",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И Йоктан роди ⟨את⟩ Алмодад, и ⟨את⟩ Шалеф, и ⟨את⟩ Хацармавет, и ⟨את⟩ Ярах.",
+  "tokens": [
+    {
+      "surface": "ויקטן",
+      "gloss": "И Йоктан"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Алмодад"
+    },
+    {
+      "surface": "אלמודד",
+      "gloss": "Алмодад"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Шалеф"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "Шалеф"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Хацармавет"
+    },
+    {
+      "surface": "חצרמות",
+      "gloss": "Хацармавет"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Ярах"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "Ярах"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:53.559551442Z",
+  "model": "glm-5.3"
+}

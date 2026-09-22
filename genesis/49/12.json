@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 49,
+  "translation": "Почернели от вино са очите, и бели от мляко — зъбите.",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "Почернели"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "очите"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "от вино"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "и бели"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "зъбите"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "от мляко"
+    }
+  ],
+  "timestamp": "2026-09-22T11:13:15.998996228Z",
+  "model": "glm-5.3"
+}

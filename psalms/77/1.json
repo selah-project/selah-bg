@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 77:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 77,
+  "translation": "За директора, върху Идитун, на Асаф, мизмор.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "за директора"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "ידיתון",
+      "gloss": "Идитун"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "на Асаф"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:35.140429921Z",
+  "model": "glm-5.3"
+}

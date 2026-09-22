@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "haggai 1:5",
+  "book": "haggai",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "А сега така каза Яхве Цеваот: сложете сърцето си върху пътищата си!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "сложете"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "сърцето си"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "пътищата си"
+    }
+  ],
+  "timestamp": "2026-09-22T14:45:05.514527429Z",
+  "model": "glm-5.3"
+}

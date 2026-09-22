@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 34:1",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "И отговори Елиху ⟨Мойсей-не⟩ и каза:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и отговори"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "Елиху"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    }
+  ],
+  "timestamp": "2026-09-22T15:31:57.084825685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Не бъди много нечестив и не бъди безумен — защо да умреш не във твоето време?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "бъди нечестив"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "много"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бъди"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "безумен"
+    },
+    {
+      "surface": "למה",
+      "gloss": "защо"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "да умреш"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "не в"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "твоето време"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:52.007281770Z",
+  "model": "glm-5.3"
+}

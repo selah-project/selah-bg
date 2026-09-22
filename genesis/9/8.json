@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 9:8",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И рече Елохим на Ноах ⟨Ноа⟩ и на синовете му с ⟨את⟩ него, ⟨и каза⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ноах ⟨Ноа⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синовете му"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨и каза⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:26.969074669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 3:23",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И синовете на Неария: Елиоенай и Хизкия, и Азрикам — три.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "и синовете"
+    },
+    {
+      "surface": "נעריה",
+      "gloss": "Неария"
+    },
+    {
+      "surface": "אליועיני",
+      "gloss": "Елиоенай"
+    },
+    {
+      "surface": "וחזקיה",
+      "gloss": "и Хизкия"
+    },
+    {
+      "surface": "ועזריקם",
+      "gloss": "и Азрикам"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:22.626693032Z",
+  "model": "glm-5.3"
+}

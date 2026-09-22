@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 126,
+  "ref": "psalms 119:126",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Време е за Яхве да действа — разстроиха Твоята Тора.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да действа"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Яхве"
+    },
+    {
+      "surface": "הפרו",
+      "gloss": "разстроиха"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Твоята Тора"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:19.505795760Z",
+  "model": "glm-5.3"
+}

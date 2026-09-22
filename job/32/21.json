@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 32:21",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "Не ще вдигна, моля, лице на човек, и на човек не ще лаская.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "נא",
+      "gloss": "моля"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ще вдигна"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лице"
+    },
+    {
+      "surface": "איש",
+      "gloss": "на човек"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אכנה",
+      "gloss": "ще лаская"
+    }
+  ],
+  "timestamp": "2026-09-22T15:30:17.266271101Z",
+  "model": "glm-5.3"
+}

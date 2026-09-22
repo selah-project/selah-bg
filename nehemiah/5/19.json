@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 5:19",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Спомни си за мен, моя Елохим, за добро, всичко което направих за този народ.",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "спомни си"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мен"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "моя Елохим"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "за добро"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "направих"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    }
+  ],
+  "timestamp": "2026-09-22T16:33:02.479303498Z",
+  "model": "glm-5.3"
+}

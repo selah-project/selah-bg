@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Желязо от пръст се взема, и камък се топи в мед.",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "желязо"
+    },
+    {
+      "surface": "мעפר",
+      "gloss": "от пръст"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "се взема"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "и камък"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "се топи"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "в мед"
+    }
+  ],
+  "timestamp": "2026-09-22T15:30:04.050833682Z",
+  "model": "glm-5.3"
+}

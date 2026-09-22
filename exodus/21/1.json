@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И тези ⟨са⟩ правилата, които да поставиш пред тях.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "и тези"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "правилата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "да поставиш"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "пред тях"
+    }
+  ],
+  "timestamp": "2026-09-22T11:23:10.785363534Z",
+  "model": "glm-5.3"
+}

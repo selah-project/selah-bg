@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Не бъди мъдър в очите си; бой се ⟨от⟩ ⟨את⟩ Яхве и се отклонявай от злото.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бъди"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мъдър"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "в очите си"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "бой се"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "и се отклонявай"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "от злото"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:08.994593094Z",
+  "model": "glm-5.3"
+}

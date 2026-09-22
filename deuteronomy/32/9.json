@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "Защото дялът на Яхве е народът му; Яаков е въжето на наследството му.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "дялът"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народът му"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "въжето"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "наследството му"
+    }
+  ],
+  "timestamp": "2026-09-22T12:14:20.506469219Z",
+  "model": "glm-5.3"
+}

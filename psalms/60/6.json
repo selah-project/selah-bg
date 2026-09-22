@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 60:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 60,
+  "translation": "Даде на боящите те знаме, да се вдига заради истината. Села.",
+  "tokens": [
+    {
+      "surface": "נתתה",
+      "gloss": "даде"
+    },
+    {
+      "surface": "ליראיך",
+      "gloss": "на боящите те"
+    },
+    {
+      "surface": "נס",
+      "gloss": "знаме"
+    },
+    {
+      "surface": "להתנוסס",
+      "gloss": "да се вдига"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "заради"
+    },
+    {
+      "surface": "קשט",
+      "gloss": "истината"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-22T15:02:30.405670155Z",
+  "model": "glm-5.3"
+}

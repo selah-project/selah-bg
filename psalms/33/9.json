@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "Защото ⟨той⟩ каза — и стана; ⟨той⟩ заповяда — и застана.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨той⟩"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨той⟩"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповяда"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и застана"
+    }
+  ],
+  "timestamp": "2026-09-22T14:56:09.795941185Z",
+  "model": "glm-5.3"
+}

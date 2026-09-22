@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 36:25",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "И тези са синовете на Анай: Дишон и Оholivama, дъщерята на Анай.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И тези"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "на Анай"
+    },
+    {
+      "surface": "דשן",
+      "gloss": "Дишон"
+    },
+    {
+      "surface": "ואהליבמה",
+      "gloss": "и Оholivama"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщерята"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "на Анай"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:26.392014110Z",
+  "model": "glm-5.3"
+}

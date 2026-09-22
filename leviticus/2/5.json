@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 2:5",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И ако минха върху тигана ⟨е⟩ приносът ти — фино брашно, смесено с маслото, безквасно да бъде.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "минха"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "המחבת",
+      "gloss": "тигана"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "приносът ти"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "фino брашно"
+    },
+    {
+      "surface": "בלולה",
+      "gloss": "смесено"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "с маслото"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "безквасно"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "да бъде"
+    }
+  ],
+  "timestamp": "2026-09-22T11:30:46.784367197Z",
+  "model": "glm-5.3"
+}

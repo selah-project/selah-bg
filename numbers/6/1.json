@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И рече Яхве на Моше, ⟨казвайки⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨казвайки⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T11:47:41.579825176Z",
+  "model": "glm-5.3"
+}

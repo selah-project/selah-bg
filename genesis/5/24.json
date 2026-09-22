@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И ходеше Ханох с ⟨את⟩ Елохима, и го нямаше, защото Елохим го взе ⟨את⟩ него.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "И ходеше"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханох"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елохима"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохима"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "и го нямаше"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "взе"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:15.148304259Z",
+  "model": "glm-5.3"
+}

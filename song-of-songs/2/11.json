@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Защото ето, зимата мина, дъждът отмина, замина си.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "зимата"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "мина"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "дъждът"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "отмина"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "замина"
+    },
+    {
+      "surface": "לו",
+      "gloss": "си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:52.982678457Z",
+  "model": "glm-5.3"
+}

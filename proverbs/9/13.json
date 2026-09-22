@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 9:13",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Жена на глупостта — викаща, простодушие, ⟨и⟩ не знае нищо.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "жена"
+    },
+    {
+      "surface": "כסילות",
+      "gloss": "на глупостта"
+    },
+    {
+      "surface": "המיה",
+      "gloss": "викаща"
+    },
+    {
+      "surface": "פתיות",
+      "gloss": "простодушие"
+    },
+    {
+      "surface": "ובל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ידעה",
+      "gloss": "знае"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нищо"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:24.486427015Z",
+  "model": "glm-5.3"
+}

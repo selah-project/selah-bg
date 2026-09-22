@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 10:14",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Мъдрите укриват знание, а устата на безразсъдния — погибел близка.",
+  "tokens": [
+    {
+      "surface": "חכמים",
+      "gloss": "Мъдрите"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "укриват"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знание"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "а устата"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "безразсъдния"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "погибел"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "близка"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:38.928058725Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 15:13",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "защото обръщаш към Ел духа си и изкарваш от устата си думи?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "обръщаш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "רוחך",
+      "gloss": "духа си"
+    },
+    {
+      "surface": "והצאת",
+      "gloss": "и изкарваш"
+    },
+    {
+      "surface": "מפיך",
+      "gloss": "от устата си"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "думи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:26:53.062613173Z",
+  "model": "glm-5.3"
+}

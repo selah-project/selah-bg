@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 24:26",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "в онзи ден беглецът ще дойде при тебе да накара ушите да чуят.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онзи"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ще дойде"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "беглецът"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "при тебе"
+    },
+    {
+      "surface": "להשמעות",
+      "gloss": "да накара да чуят"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "ушите"
+    }
+  ],
+  "timestamp": "2026-09-22T14:20:38.919306572Z",
+  "model": "glm-5.3"
+}

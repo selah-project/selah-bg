@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 49,
+  "translation": "Чуйте това, всички народи; нахнете ухо, всички жителиите на свят⟨а⟩.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "чуйте"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "нахнете ухо"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жителиите"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "на свят"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:29.534862134Z",
+  "model": "glm-5.3"
+}

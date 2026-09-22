@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 38:26",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "а ти кажи им: Излагам молбата си пред царя — да не ме върне в дома на Йехонатан, да умра там.",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "а кажеш"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מפיל",
+      "gloss": "Излагам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "תחנתי",
+      "gloss": "молбата си"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "да не"
+    },
+    {
+      "surface": "השיבני",
+      "gloss": "ме върне"
+    },
+    {
+      "surface": "בית",
+      "gloss": "в дома"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йехонатан"
+    },
+    {
+      "surface": "למות",
+      "gloss": "да умра"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    }
+  ],
+  "timestamp": "2026-09-22T14:03:51.604521203Z",
+  "model": "glm-5.3"
+}

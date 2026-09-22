@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 147:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 147,
+  "translation": "Дава на скота храната му, на враните, които зоват.",
+  "tokens": [
+    {
+      "surface": "נותן",
+      "gloss": "Дава"
+    },
+    {
+      "surface": "לבהמה",
+      "gloss": "на скота"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "храната му"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "⟨на малките⟩"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "на враните"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "зоват"
+    }
+  ],
+  "timestamp": "2026-09-22T15:14:54.690756257Z",
+  "model": "glm-5.3"
+}

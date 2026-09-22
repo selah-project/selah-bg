@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И било след поражението —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И било"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "след"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "поражението"
+    }
+  ],
+  "timestamp": "2026-09-22T11:54:38.663348413Z",
+  "model": "glm-5.3"
+}

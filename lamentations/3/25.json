@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Добър е Яхве към онези, които Го чакат, към душата, която Го търси.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Добър"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "към онези, които"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "към душата"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "която Го търси"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:51.899267787Z",
+  "model": "glm-5.3"
+}

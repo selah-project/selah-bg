@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 8:19",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И ще поставя разлика между народа Ми и народа ти — утре ще бъде този знак.",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "и ще поставя"
+    },
+    {
+      "surface": "פדת",
+      "gloss": "разлика"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народа Ми"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и между"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "народа ти"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "утре"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ще бъде"
+    },
+    {
+      "surface": "האת",
+      "gloss": "знакът"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    }
+  ],
+  "timestamp": "2026-09-22T11:16:28.352780538Z",
+  "model": "glm-5.3"
+}

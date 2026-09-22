@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И бива в края на три дни, и минават надзирателите сред стана.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и бива"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "в края"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "на три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "и минават"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "надзирателите"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "сред"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "стана"
+    }
+  ],
+  "timestamp": "2026-09-22T12:17:06.456635449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 3:16",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "А Ели повика ⟨את⟩ Шмуел и рече: Шмуел, синко мой! А той рече: ето ме.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "А повика"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ели"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шмуел"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуел"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуел"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синко мой"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "А рече"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ето ме"
+    }
+  ],
+  "timestamp": "2026-09-22T12:36:56.269011026Z",
+  "model": "glm-5.3"
+}

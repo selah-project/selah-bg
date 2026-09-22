@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 17:17",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И от Вениамин: юнак силен Елиада, и с него носещи лък и щит двеста хиляди.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "и от"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Вениамин"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "юнак"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "силен"
+    },
+    {
+      "surface": "אלידע",
+      "gloss": "Елиада"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "и с него"
+    },
+    {
+      "surface": "נשקי",
+      "gloss": "носещи"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лък"
+    },
+    {
+      "surface": "ומגן",
+      "gloss": "и щит"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двеста"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляди"
+    }
+  ],
+  "timestamp": "2026-09-22T16:08:00.445145816Z",
+  "model": "glm-5.3"
+}

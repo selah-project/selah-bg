@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 9:2",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "тогава се явил Яхве на Шеломо втори път, както се явил на него в Гивон.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и се явил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "втори път"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "се явил"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "בגבעון",
+      "gloss": "в Гивон"
+    }
+  ],
+  "timestamp": "2026-09-22T13:05:26.501407032Z",
+  "model": "glm-5.3"
+}

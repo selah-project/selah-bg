@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 14:5",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И рече ѝ царят: какво ти е? А тя рече: наистина вдовица съм аз, и умря мъжът ми.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ѝ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "а тя рече"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "наистина"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "вдовица"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умря"
+    },
+    {
+      "surface": "אישי",
+      "gloss": "мъжът ми"
+    }
+  ],
+  "timestamp": "2026-09-22T12:53:06.467204754Z",
+  "model": "glm-5.3"
+}

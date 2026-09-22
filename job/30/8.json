@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Синове на безумци, дори синове без име — бяха премазани от земята.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "на безумци"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дори"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "бяха премазани"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    }
+  ],
+  "timestamp": "2026-09-22T15:30:40.663732565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 105:17",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 105,
+  "translation": "Прати пред тях човек — за роб беше продаден Йосеф.",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "прати"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "пред тях"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "за роб"
+    },
+    {
+      "surface": "נמכר",
+      "gloss": "беше продаден"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:34.170084230Z",
+  "model": "glm-5.3"
+}

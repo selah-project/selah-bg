@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "psalms 78:33",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 78,
+  "translation": "И свърши той в суета дните им, и годините им в трепет.",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "И свърши той"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "в суета"
+    },
+    {
+      "surface": "ימיהם",
+      "gloss": "дните им"
+    },
+    {
+      "surface": "ושנותם",
+      "gloss": "и годините им"
+    },
+    {
+      "surface": "בבהלה",
+      "gloss": "в трепет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:03.096247408Z",
+  "model": "glm-5.3"
+}

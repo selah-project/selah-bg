@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "А труповете ви — вие — ще паднат в тази пустиня.",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "а труповете ви"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ще паднат"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустиня"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "тази"
+    }
+  ],
+  "timestamp": "2026-09-22T11:50:40.624775281Z",
+  "model": "glm-5.3"
+}

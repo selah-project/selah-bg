@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 22:11",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Или тъмнина — не виждаш, и изобилие от води те покрива.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "тъмнина"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "виждаш"
+    },
+    {
+      "surface": "ושפעת",
+      "gloss": "и изобилие"
+    },
+    {
+      "surface": "מים",
+      "gloss": "от води"
+    },
+    {
+      "surface": "תכסך",
+      "gloss": "те покрива"
+    }
+  ],
+  "timestamp": "2026-09-22T15:28:13.725904293Z",
+  "model": "glm-5.3"
+}

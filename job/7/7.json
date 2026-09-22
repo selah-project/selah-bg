@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 7:7",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Помни, че дъх ⟨е⟩ животът ми; окото ми няма да се върне да види добро.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Помни"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дъх"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "животът ми"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "щ⟨е⟩ се върне"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "окото ми"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "да види"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    }
+  ],
+  "timestamp": "2026-09-22T15:24:33.109573595Z",
+  "model": "glm-5.3"
+}

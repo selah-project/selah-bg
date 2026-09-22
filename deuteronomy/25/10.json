@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "и ще се нарече името му в Израил: дом на събуздиреца на сандала.",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "и ще се нарече"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името му"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Израил"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "на събуздиреца"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "на сандала"
+    }
+  ],
+  "timestamp": "2026-09-22T12:10:55.644856900Z",
+  "model": "glm-5.3"
+}

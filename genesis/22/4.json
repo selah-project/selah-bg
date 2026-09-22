@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 22:4",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "На третия ден Авраам вдигна ⟨את⟩ очите си и видя ⟨את⟩ мястото отдалеч.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "На деня"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третия"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "и вдигна"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "очите му"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "очите си"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и видя"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мястото"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "мястото"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "отдалеч"
+    }
+  ],
+  "timestamp": "2026-09-22T11:01:33.205851038Z",
+  "model": "glm-5.3"
+}

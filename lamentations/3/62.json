@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "lamentations 3:62",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Устните на въстаналите против мене и шепненето им върху мене — целия ден.",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "устните"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "на въстаналите"
+    },
+    {
+      "surface": "והגיונם",
+      "gloss": "и шепненето им"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "върху мене"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целия"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:37.188589271Z",
+  "model": "glm-5.3"
+}

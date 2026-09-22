@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И князът на дома на бащата на гершонците ⟨бе⟩ Елиасаф, син на Лаел.",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "И князът"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домът"
+    },
+    {
+      "surface": "אב",
+      "gloss": "на бащата"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "на гершонците"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Елиасаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "на Лаел"
+    }
+  ],
+  "timestamp": "2026-09-22T11:45:21.621762596Z",
+  "model": "glm-5.3"
+}

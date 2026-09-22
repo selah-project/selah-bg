@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 22:17",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И рече Яхве на Моше, да каже:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "да каже"
+    }
+  ],
+  "timestamp": "2026-09-22T11:39:41.620383318Z",
+  "model": "glm-5.3"
+}

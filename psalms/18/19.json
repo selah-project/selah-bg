@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 18:19",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Изпревариха ме в деня на бедата ми, и Яхве беше опора за мен.",
+  "tokens": [
+    {
+      "surface": "יקדמוני",
+      "gloss": "Изпревариха ме"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "אידי",
+      "gloss": "на бедата ми"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "למשען",
+      "gloss": "опора"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мен"
+    }
+  ],
+  "timestamp": "2026-09-22T14:53:26.686698456Z",
+  "model": "glm-5.3"
+}

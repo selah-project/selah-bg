@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И избягаха беротейците в Гитaim — Гитаим, и бяха там преселници до този ден.",
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "И избягаха"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "беротейците"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "в Гитаим"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "и бяха"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "преселници"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "деня"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    }
+  ],
+  "timestamp": "2026-09-22T12:49:10.764336305Z",
+  "model": "glm-5.3"
+}

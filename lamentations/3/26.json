@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Добро ⟨е⟩ да чака и да мълчи за спасението на Яхве.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Добро"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "и да чака"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "и да мълчи"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "за спасението"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:51.901145133Z",
+  "model": "glm-5.3"
+}

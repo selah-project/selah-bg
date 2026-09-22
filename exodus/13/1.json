@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 13:1",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И рече Яхве на Моше, като каза:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "като каза"
+    }
+  ],
+  "timestamp": "2026-09-22T11:19:01.218440601Z",
+  "model": "glm-5.3"
+}

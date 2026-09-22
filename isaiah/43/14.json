@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 43:14",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 43,
+  "translation": "Thus says Yahweh, your Redeemer, the Holy One of Israel: for your sake I sent to Babylon, and I brought down all the bars, and the Chaldeans ⟨in⟩ the ships of their shouting.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "thus"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "says"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "גאלכם",
+      "gloss": "your Redeemer"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "the Holy One"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Israel"
+    },
+    {
+      "surface": "למענכם",
+      "gloss": "for your sake"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "I sent"
+    },
+    {
+      "surface": "בבלה",
+      "gloss": "to Babylon"
+    },
+    {
+      "surface": "והורדתי",
+      "gloss": "and I brought down"
+    },
+    {
+      "surface": "בריחים",
+      "gloss": "bars"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "all of them"
+    },
+    {
+      "surface": "וכשדים",
+      "gloss": "and the Chaldeans"
+    },
+    {
+      "surface": "באניות",
+      "gloss": "⟨in⟩ ships"
+    },
+    {
+      "surface": "רנתם",
+      "gloss": "of their shouting"
+    }
+  ],
+  "timestamp": "2026-09-22T13:38:12.177396067Z",
+  "model": "glm-5.3"
+}

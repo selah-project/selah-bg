@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Целек амонееца, Нахарай беротеца, носещият оръжията на Йоав, син на Цруя.",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "Целек"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "амонееца"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "Нахарай"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "беротеца"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "носещият"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "оръжията"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Цруя"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:10.383221896Z",
+  "model": "glm-5.3"
+}

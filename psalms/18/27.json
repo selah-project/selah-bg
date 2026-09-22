@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "С чист се показваш чист, а с изкривен се превиваш.",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "чист"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "се показваш чист"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "а с"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "изкривен"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "се превиваш"
+    }
+  ],
+  "timestamp": "2026-09-22T14:53:51.061153561Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И дойде Моше и Аарон пред лицето на шатъра на срещата.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И дойде"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "и Аарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "пред"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатъра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на срещата"
+    }
+  ],
+  "timestamp": "2026-09-22T11:52:00.485563382Z",
+  "model": "glm-5.3"
+}

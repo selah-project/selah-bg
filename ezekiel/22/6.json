@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 22:6",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Ето, князете на Израел, всеки със силата си, бяха в теб, за да проливат кръв.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "князете"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    },
+    {
+      "surface": "אישׁ",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "לזרעו",
+      "gloss": "със силата си"
+    },
+    {
+      "surface": "היו",
+      "gloss": "бяха"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в теб"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "שפך",
+      "gloss": "проливат"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кръв"
+    }
+  ],
+  "timestamp": "2026-09-22T14:18:49.953989454Z",
+  "model": "glm-5.3"
+}

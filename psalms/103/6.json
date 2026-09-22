@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 103:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 103,
+  "translation": "Яхве върши правди и съдби за всички потиснати.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "върши"
+    },
+    {
+      "surface": "צדקות",
+      "gloss": "правди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "и съдби"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "за всички"
+    },
+    {
+      "surface": "עשוקים",
+      "gloss": "потиснати"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:39.575865722Z",
+  "model": "glm-5.3"
+}

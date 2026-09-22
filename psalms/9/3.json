@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 9:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Ще се радвам и ще ликувам в Теб, ще пея името Ти, Всевишний.",
+  "tokens": [
+    {
+      "surface": "אשמחה",
+      "gloss": "ще се радвам"
+    },
+    {
+      "surface": "ואעלצה",
+      "gloss": "и ще ликувам"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в Теб"
+    },
+    {
+      "surface": "אזמרה",
+      "gloss": "ще пея"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "името Ти"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Всевишний"
+    }
+  ],
+  "timestamp": "2026-09-22T14:52:42.200795007Z",
+  "model": "glm-5.3"
+}

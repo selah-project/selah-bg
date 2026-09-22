@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И Келув, братът на Шуха, роди ⟨את⟩ Мехир; той ⟨е⟩ баща на Ещон.",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "И Келув"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "братът на"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "Шуха"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мехир"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "Мехир"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "баща на"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "Ещон"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:58.666165567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И рече царят на Содом на Аврам: дай ми душите, а имота вземи за себе си.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "на Содом"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "תן",
+      "gloss": "дай"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "душите"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "а имота"
+    },
+    {
+      "surface": "קח",
+      "gloss": "вземи"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за себе си"
+    }
+  ],
+  "timestamp": "2026-09-22T10:58:07.588127581Z",
+  "model": "glm-5.3"
+}

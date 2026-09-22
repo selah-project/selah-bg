@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "numbers 7:38",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Една златна шепа от десет ⟨шекела⟩, пълна с кадене.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "шепа"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десет"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златна"
+    },
+    {
+      "surface": "мלאה",
+      "gloss": "пълна"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "с кадене"
+    }
+  ],
+  "timestamp": "2026-09-22T11:46:35.446894809Z",
+  "model": "glm-5.3"
+}

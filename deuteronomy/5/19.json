@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И не кради.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "кради"
+    }
+  ],
+  "timestamp": "2026-09-22T12:02:42.249566834Z",
+  "model": "glm-5.3"
+}

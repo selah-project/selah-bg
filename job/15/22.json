@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 15:22",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Не вярва да се върне от тъмнината, и причакван е той пред меча.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "вярва"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "да се върне"
+    },
+    {
+      "surface": "מני",
+      "gloss": "от"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "тъмнината"
+    },
+    {
+      "surface": "וצפו",
+      "gloss": "и причакван"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "пред"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меча"
+    }
+  ],
+  "timestamp": "2026-09-22T15:27:41.956400175Z",
+  "model": "glm-5.3"
+}

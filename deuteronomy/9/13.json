@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И рече Яхве към мен, казвайки: видях ⟨את⟩ този народ, и ето — народ твърдоврат е той.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мен"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видях"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "този народ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "твърдоврат"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "⟨врат⟩"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    }
+  ],
+  "timestamp": "2026-09-22T12:05:57.224044447Z",
+  "model": "glm-5.3"
+}

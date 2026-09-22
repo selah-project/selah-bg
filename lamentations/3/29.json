@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Да положи в пръстта устата си — може би има надежда.",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "Да положи"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "в пръстта"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "устата си"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "може би"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "надежда"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:52.414408667Z",
+  "model": "glm-5.3"
+}

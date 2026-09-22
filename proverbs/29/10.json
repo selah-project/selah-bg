@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 29:10",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Кървави хора мразят непорочния, а правите търсят душата му.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "хора"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кървави"
+    },
+    {
+      "surface": "ישנאו",
+      "gloss": "мразят"
+    },
+    {
+      "surface": "תם",
+      "gloss": "непорочния"
+    },
+    {
+      "surface": "וישרים",
+      "gloss": "а правите"
+    },
+    {
+      "surface": "יבקשו",
+      "gloss": "търсят"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душата му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:48.964123697Z",
+  "model": "glm-5.3"
+}

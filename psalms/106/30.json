@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 106:30",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 106,
+  "translation": "Застана Пинхас и се помоли, и морът беше спрян.",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "застана"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пинхас"
+    },
+    {
+      "surface": "ויפלל",
+      "gloss": "и се помоли"
+    },
+    {
+      "surface": "ותעצר",
+      "gloss": "и беше спрян"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "морът"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:38.554546674Z",
+  "model": "glm-5.3"
+}

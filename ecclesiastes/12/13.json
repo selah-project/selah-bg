@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 12:13",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Край на словото — всичко ⟨е⟩ чуто: ⟨את⟩ Елохим бой се и ⟨את⟩ заповедите Му пази, защото това ⟨е⟩ целият човек.",
+  "tokens": [
+    {
+      "surface": "סוף",
+      "gloss": "Край"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "на словото"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "чуто"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елохим"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "бой се"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "заповедите Му"
+    },
+    {
+      "surface": "מצותיו",
+      "gloss": "заповедите Му"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "пази"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целият"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човек"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:45.558829803Z",
+  "model": "glm-5.3"
+}

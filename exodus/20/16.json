@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Не отговаряй срещу ближния си свидетелство лъжливо.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "отговаряй"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "срещу ближния си"
+    },
+    {
+      "surface": "עד",
+      "gloss": "свидетелство"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лъжливо"
+    }
+  ],
+  "timestamp": "2026-09-22T16:16:32.682970895Z",
+  "model": "glm-5.3"
+}

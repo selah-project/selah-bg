@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Шумна е тя и инатлива; в дома си краката ѝ не се задържат.",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "шумна"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "и инатлива"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "в дома си"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "се задържат"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "краката ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:53.599330678Z",
+  "model": "glm-5.3"
+}

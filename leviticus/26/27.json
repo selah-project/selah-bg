@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 26:27",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И ако и в това не Ме послушате, а ходите със Мне в съпротивление,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "в това"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "Ме послушате"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ме"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "а ходите"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "със Мне"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "в съпротивление"
+    }
+  ],
+  "timestamp": "2026-09-22T11:44:04.753716946Z",
+  "model": "glm-5.3"
+}

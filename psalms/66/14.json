@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 66,
+  "translation": "които изговориха устните ми, и говори устата ми в бедата ми.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "изговориха"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "устните ми"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устата ми"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "в бедата"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:02:02.556431675Z",
+  "model": "glm-5.3"
+}

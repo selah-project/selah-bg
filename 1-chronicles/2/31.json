@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И синовете на Апаим: Исии; и синовете на Исии: Шешан; и синовете на Шешан: Ахлай.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синовете"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "на Апаим"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "Исии"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синовете"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "на Исии"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "Шешан"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синовете"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "на Шешан"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "Ахлай"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:00.370061334Z",
+  "model": "glm-5.3"
+}

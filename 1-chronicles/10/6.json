@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И умря Шаул, и тримата му синове, и целият му дом — заедно умряха.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и умря"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "и тримата"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синовете му"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и целият"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заедно"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "умряха"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:06.767886978Z",
+  "model": "glm-5.3"
+}

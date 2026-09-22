@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Дойде надменност, и дойде срам; и ⟨с⟩ ⟨את⟩ смирените — мъдрост.",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "дойде"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "надменност"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и дойде"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "срам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "смирените"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "смирените"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мъдрост"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:13.957030950Z",
+  "model": "glm-5.3"
+}

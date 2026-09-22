@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "княз Кеназ, княз Теман, княз Мивцар.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "княз"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Кеназ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "княз"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Теман"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "княз"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "Мивцар"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:26.208668138Z",
+  "model": "glm-5.3"
+}

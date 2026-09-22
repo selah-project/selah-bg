@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Когато вземе мъж жена, и влезе при нея, и я намрази,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "когато"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "вземе"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "и влезе"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "при нея"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "и я намрази"
+    }
+  ],
+  "timestamp": "2026-09-22T12:10:53.482702957Z",
+  "model": "glm-5.3"
+}

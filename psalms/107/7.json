@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 107,
+  "translation": "И ги поведе по прав път да ходят ⟨към⟩ ⟨⟨град⟩⟩ ⟨на⟩ ⟨обиталище⟩.",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "и ги поведе"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "по път"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "прав"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "да ходят"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "на обиталище"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:50.310574368Z",
+  "model": "glm-5.3"
+}

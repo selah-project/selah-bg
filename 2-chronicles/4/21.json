@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 4:21",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "и цветята, и светилниците, и щипците — злато ⟨те бяха⟩, изцяло злато,",
+  "tokens": [
+    {
+      "surface": "והפרח",
+      "gloss": "и цветята"
+    },
+    {
+      "surface": "והנרות",
+      "gloss": "и светилниците"
+    },
+    {
+      "surface": "והמלקחים",
+      "gloss": "и щипците"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨те бяха⟩"
+    },
+    {
+      "surface": "מכלות",
+      "gloss": "изцяло"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    }
+  ],
+  "timestamp": "2026-09-22T16:04:53.113990637Z",
+  "model": "glm-5.3"
+}

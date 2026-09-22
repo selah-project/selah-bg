@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 14:17",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Кратък на гняв върши глупост, а човек на коварни замисли се мрази.",
+  "tokens": [
+    {
+      "surface": "קצר",
+      "gloss": "кратък"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "на гняв"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "върши"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "глупост"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "а човек"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "на коварни замисли"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "се мрази"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:33.618884666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 38:15",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "И станах като човек, който не чува, и няма в устата му обяснения.",
+  "tokens": [
+    {
+      "surface": "ואהי",
+      "gloss": "И станах"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "като човек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чува"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "в устата му"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "обяснения"
+    }
+  ],
+  "timestamp": "2026-09-22T14:58:03.660567422Z",
+  "model": "glm-5.3"
+}

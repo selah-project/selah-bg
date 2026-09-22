@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 34:25",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "и за племето на сыновете на Звулун — княз Елицафан, син на Парнах.",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "и за племето"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "на Звулун"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "княз"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "Елицафан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פרנך",
+      "gloss": "на Парнах"
+    }
+  ],
+  "timestamp": "2026-09-22T16:19:43.598738083Z",
+  "model": "glm-5.3"
+}

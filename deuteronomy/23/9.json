@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Синове, които се родят на тях, трето поколение, ще влизат ⟨за тях⟩ в събранието на Яхве.",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "се родят"
+    },
+    {
+      "surface": "להם",
+      "gloss": "на тях"
+    },
+    {
+      "surface": "דור",
+      "gloss": "поколение"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "трето"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ще влизат"
+    },
+    {
+      "surface": "להם",
+      "gloss": "за тях"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "в събранието"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T12:10:55.422256345Z",
+  "model": "glm-5.3"
+}

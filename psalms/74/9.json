@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 74:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 74,
+  "translation": "Знаците си не видяхме; няма вече пророк, ни ⟨את⟩ нас има такъв, който да знае докога.",
+  "tokens": [
+    {
+      "surface": "אותתינו",
+      "gloss": "знаците си"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראינו",
+      "gloss": "видяхме"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "вече"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "порок"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ни"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ нас",
+      "marks": "с нас"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знаещ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מה",
+      "gloss": "кога"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:18.968678967Z",
+  "model": "glm-5.3"
+}

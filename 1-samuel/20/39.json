@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-samuel 20:39",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "А момчето не знаеше нищо; само Йонатан и Давид знаеха ⟨את⟩ работата.",
+  "tokens": [
+    {
+      "surface": "והנער",
+      "gloss": "А момчето"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знаеше"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "нищо"
+    },
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "ודוד",
+      "gloss": "и Давид"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знаеха"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "работата"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "работата"
+    }
+  ],
+  "timestamp": "2026-09-22T12:43:32.610184474Z",
+  "model": "glm-5.3"
+}

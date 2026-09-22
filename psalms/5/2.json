@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Вслушай се в думите ми, Яхве, разбери шепота ми.",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "думите ми"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "Вслушай се"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "разбери"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "шепота ми"
+    }
+  ],
+  "timestamp": "2026-09-22T14:50:07.106721561Z",
+  "model": "glm-5.3"
+}

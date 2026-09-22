@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Ние прегрешихме и се разбунтувахме — ти не прости.",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "Ние"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "прегрешихме"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "и се разбунтувахме"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "прости"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:45.811384757Z",
+  "model": "glm-5.3"
+}

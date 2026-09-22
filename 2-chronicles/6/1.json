@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Тогава Шеломо ⟨Соломон⟩ рече: Яхве е казал ⟨да⟩ обитава в мрака ⟨облак⟩.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тогава"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо ⟨Соломон⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "⟨да⟩ обитава"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "в мрака ⟨облак⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T16:05:52.492973606Z",
+  "model": "glm-5.3"
+}

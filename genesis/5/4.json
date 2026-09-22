@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 5:4",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И бяха дните на Адам след раждането на ⟨את⟩ Шет осемстотин години, и роди синове и дъщери.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И бяха"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дните"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на Адам"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "след"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "раждането на"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шет"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Шет"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "осем"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и дъщери"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:08.424761315Z",
+  "model": "glm-5.3"
+}

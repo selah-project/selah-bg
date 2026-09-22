@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 11:18",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Нечестивият върши дело на лъжа, а който сее правда — отплата на истина.",
+  "tokens": [
+    {
+      "surface": "רשע",
+      "gloss": "нечестивият"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "върши"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "дело"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "на лъжа"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "а който сее"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "правда"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "отплата"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "на истина"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:06.360386647Z",
+  "model": "glm-5.3"
+}

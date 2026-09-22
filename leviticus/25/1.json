@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И говори Яхве на Моше в планината Синай, като рече:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "в планината"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "като рече"
+    }
+  ],
+  "timestamp": "2026-09-22T11:42:22.629130587Z",
+  "model": "glm-5.3"
+}

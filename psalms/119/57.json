@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "psalms 119:57",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Дялът ми ⟨е⟩ Яхве; казах да пазя Твоите думи.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "дялът ми"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "казах"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "да пазя"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "Твоите думи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:24.289514379Z",
+  "model": "glm-5.3"
+}

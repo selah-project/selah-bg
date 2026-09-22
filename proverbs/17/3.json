@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 17:3",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "Мелница за среброто и пещ за златото, а изпитвач на сърца — Яхве.",
+  "tokens": [
+    {
+      "surface": "מצרף",
+      "gloss": "Мелница"
+    },
+    {
+      "surface": "לכסף",
+      "gloss": "за среброто"
+    },
+    {
+      "surface": "וכור",
+      "gloss": "и пещ"
+    },
+    {
+      "surface": "לזהב",
+      "gloss": "за златото"
+    },
+    {
+      "surface": "ובחן",
+      "gloss": "а изпитвач"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "на сърца"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:30.676675312Z",
+  "model": "glm-5.3"
+}

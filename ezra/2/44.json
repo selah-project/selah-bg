@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Керос, синовете Сиаха, синовете на Падон.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "Керос"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "Сиаха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "Падон"
+    }
+  ],
+  "timestamp": "2026-09-22T15:49:16.115704228Z",
+  "model": "glm-5.3"
+}

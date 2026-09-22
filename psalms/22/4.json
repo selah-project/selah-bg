@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 22:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "А ти ⟨си⟩ свят, седящ на славословията на Израел.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "свят"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "седящ"
+    },
+    {
+      "surface": "תהלות",
+      "gloss": "на славословията"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T14:54:14.408219588Z",
+  "model": "glm-5.3"
+}

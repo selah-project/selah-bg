@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 25:2",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Слава на Елохим ⟨е⟩ да скрие дело, и слава на царе — да изследват дело.",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "Слава"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "да скрие"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дело"
+    },
+    {
+      "surface": "וכבד",
+      "gloss": "и слава"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "на царе"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "да изследват"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дело"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:30.701988381Z",
+  "model": "glm-5.3"
+}

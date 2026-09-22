@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И рече Яхве: ето, място ⟨при мен⟩, и ти ще застанеш ⟨отгоре⟩ на скалата.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "място"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ мен",
+      "marks": "при мен"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "и ще застанеш"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "скалата"
+    }
+  ],
+  "timestamp": "2026-09-22T11:27:02.589682182Z",
+  "model": "glm-5.3"
+}

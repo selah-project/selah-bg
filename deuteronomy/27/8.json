@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "И ще напишеш върху камъните ⟨את⟩ всички думи на тази Тора, ясно обяснени.",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "и ще напишеш"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "камъните"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всички думи на тази Тора"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "думи"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "на тази Тора"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "тази"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ясно"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "обяснени"
+    }
+  ],
+  "timestamp": "2026-09-22T16:20:16.765501783Z",
+  "model": "glm-5.3"
+}

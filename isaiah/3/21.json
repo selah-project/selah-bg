@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Пръстените за печат и обеците за ноздрите",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "печатните пръстени"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "и обеците"
+    },
+    {
+      "surface": "האף",
+      "gloss": "за ноздрите"
+    }
+  ],
+  "timestamp": "2026-09-22T13:25:59.825904835Z",
+  "model": "glm-5.3"
+}

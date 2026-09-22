@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 33:51",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "Говори към синовете на Израел и кажи им: когато преминавате ⟨את⟩ Йорден към земята Ханаан,",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и кажи"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когато"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "преминавате"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йорден"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Йорден"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Ханаан"
+    }
+  ],
+  "timestamp": "2026-09-22T12:00:02.492355960Z",
+  "model": "glm-5.3"
+}

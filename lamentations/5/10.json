@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Кожата ни като пещ почерня пред лицето на жегите на глада.",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "кожата ни"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "като пещ"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "почерня"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "пред лицето на"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "жегите"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "на глада"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:20.676023025Z",
+  "model": "glm-5.3"
+}

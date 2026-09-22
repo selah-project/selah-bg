@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "И рече Яаков на Ривка, майка си: Ето, Исав, брат ми, ⟨е⟩ космат човек, а аз ⟨съм⟩ гладък човек.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ривка"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "майка си"
+    },
+    {
+      "surface": "הן",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исав"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат ми"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "שער",
+      "gloss": "космат"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "а аз"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "гладък"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:29.584705308Z",
+  "model": "glm-5.3"
+}

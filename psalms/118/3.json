@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 118,
+  "translation": "Нека кажат сега домът на Аарон: защото завинаги ⟨е⟩ хеседът Му.",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "Нека кажат"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сега"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домът"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "на Аарон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "завинаги"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседът Му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:06.235011842Z",
+  "model": "glm-5.3"
+}

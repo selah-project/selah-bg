@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 19:9",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И заповяда им, като рече: така правете в страх от Яхве, с вярност и с цяло сърце.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "и заповяда"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "като рече"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "правете"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "в страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "от Яхве"
+    },
+    {
+      "surface": "באמונה",
+      "gloss": "с вярност"
+    },
+    {
+      "surface": "ובלבב",
+      "gloss": "и със сърце"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "цяло"
+    }
+  ],
+  "timestamp": "2026-09-22T16:09:25.354762314Z",
+  "model": "glm-5.3"
+}

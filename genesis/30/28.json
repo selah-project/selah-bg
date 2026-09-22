@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И каза: определи заплатата си върху мен, и аз ще я дам.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И каза"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "определи"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "заплатата си"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "върху мен"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "и ще я дам"
+    }
+  ],
+  "timestamp": "2026-09-22T11:04:42.873692632Z",
+  "model": "glm-5.3"
+}

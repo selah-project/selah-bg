@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Да няма за теб други богове над ⟨лицето на⟩ Мен.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Да няма"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "да бъде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за теб"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богове"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "други"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "פני",
+      "gloss": "⟨лицето на⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T11:20:27.960070999Z",
+  "model": "glm-5.3"
+}

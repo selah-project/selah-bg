@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 23:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "В пасбища от трева ме покоива, край води за покой ме води.",
+  "tokens": [
+    {
+      "surface": "בנאות",
+      "gloss": "В пасбища"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "от трева"
+    },
+    {
+      "surface": "ירביצני",
+      "gloss": "ме покоива"
+    },
+    {
+      "surface": "על",
+      "gloss": "край"
+    },
+    {
+      "surface": "מי",
+      "gloss": "води"
+    },
+    {
+      "surface": "מנחות",
+      "gloss": "за покой"
+    },
+    {
+      "surface": "ינהלני",
+      "gloss": "ме води"
+    }
+  ],
+  "timestamp": "2026-09-22T14:54:31.750278146Z",
+  "model": "glm-5.3"
+}

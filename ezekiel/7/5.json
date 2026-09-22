@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Така каза Адонай Яхве: зло, едно зло, ето, идва.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "едно"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "באה",
+      "gloss": "идва"
+    }
+  ],
+  "timestamp": "2026-09-22T16:27:21.539244770Z",
+  "model": "glm-5.3"
+}

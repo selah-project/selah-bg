@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Намерил жена — намерил добро, и получи благоволение от Яхве.",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "Намерил"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "намерил"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "и получи"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "благоволение"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "от Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:42.955288614Z",
+  "model": "glm-5.3"
+}

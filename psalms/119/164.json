@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 164,
+  "ref": "psalms 119:164",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Седем пъти на ден Те хваля за ⟨Твоите⟩ присъди на правдата Си.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "Седем"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "на ден"
+    },
+    {
+      "surface": "הללתיך",
+      "gloss": "Те хваля"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "присъди"
+    },
+    {
+      "surface": "צדקך",
+      "gloss": "правдата ⟨Си⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:55.676607583Z",
+  "model": "glm-5.3"
+}

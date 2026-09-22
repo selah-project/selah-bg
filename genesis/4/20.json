@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И роди Ада ⟨את⟩ Явал; той стана баща на живеещите в шатри и <стадата>.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "Ада"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Явал"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "Явал"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "היה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "баща на"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "живеещите"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "в шатри"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "стадата"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:00.188168960Z",
+  "model": "glm-5.3"
+}

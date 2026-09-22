@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 107:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 107,
+  "translation": "Защото насити душа жадна, и душа гладна напълни с добро.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "השביע",
+      "gloss": "насити"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "שקקה",
+      "gloss": "жадна"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "и душа"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "гладна"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "напълни"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "с добро"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:19.595210394Z",
+  "model": "glm-5.3"
+}

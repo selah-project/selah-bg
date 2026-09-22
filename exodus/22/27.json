@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Елохим да не проклинаш, и княз сред народа ти да не кълнеш.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "да проклинаш"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "и княз"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "сред народа ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "да кълнеш"
+    }
+  ],
+  "timestamp": "2026-09-22T16:16:55.695854983Z",
+  "model": "glm-5.3"
+}

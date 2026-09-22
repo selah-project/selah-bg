@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Не знаех — душата ми ме постави ⟨сред⟩ колесниците на моя княжески народ.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знаех"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата ми"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "ме постави"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "колесниците"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "на моя народ"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "княжески"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:52.615090512Z",
+  "model": "glm-5.3"
+}

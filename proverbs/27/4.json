@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 27:4",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Жестокост е яростта и порой е гневът, но кой ще устои пред ревността?",
+  "tokens": [
+    {
+      "surface": "אכזריות",
+      "gloss": "Жестокост"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "яростта"
+    },
+    {
+      "surface": "ושטף",
+      "gloss": "и порой"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гневът"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "но кой"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ще устои"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ревността"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:11.867168577Z",
+  "model": "glm-5.3"
+}

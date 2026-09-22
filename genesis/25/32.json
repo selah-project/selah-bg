@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И рече Исав: Ето, аз отивам да умра, и защо ми ⟨е⟩ това — първородство?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исав"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "отивам"
+    },
+    {
+      "surface": "למות",
+      "gloss": "да умра"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "и защо"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "първородство"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:04.808226109Z",
+  "model": "glm-5.3"
+}

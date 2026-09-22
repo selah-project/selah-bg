@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И вие ще бъдете Ми за народ, и Аз ще бъда вам за Елохим.",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "и ще бъдете"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ми"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "за народ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "и Аз"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ще бъда"
+    },
+    {
+      "surface": "лכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "за Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T13:58:52.054082319Z",
+  "model": "glm-5.3"
+}

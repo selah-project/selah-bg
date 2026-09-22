@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "и магарета тридесет хиляди и петстотин",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "и магарета"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридесет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляди"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "и пет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    }
+  ],
+  "timestamp": "2026-09-22T11:58:05.011417644Z",
+  "model": "glm-5.3"
+}

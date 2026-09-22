@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Преследваха ме като птица враговете ми, без причина.",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "Преследваха"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "ме"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "като птица"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "враговете ми"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "без причина"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:38.957321129Z",
+  "model": "glm-5.3"
+}

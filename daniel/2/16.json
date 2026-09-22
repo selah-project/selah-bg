@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "daniel 2:16",
+  "book": "daniel",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И Даниел влезе и помоли царя да му се даде време, и тълкуването да изяви на царя.",
+  "tokens": [
+    {
+      "surface": "ודניאל",
+      "gloss": "и Даниел"
+    },
+    {
+      "surface": "על",
+      "gloss": "влезе"
+    },
+    {
+      "surface": "ובעה",
+      "gloss": "и помоли"
+    },
+    {
+      "surface": "מן",
+      "gloss": "⟨от⟩"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царя"
+    },
+    {
+      "surface": "די",
+      "gloss": "да"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "време"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "се даде"
+    },
+    {
+      "surface": "לה",
+      "gloss": "му"
+    },
+    {
+      "surface": "ופשרא",
+      "gloss": "и тълкуването"
+    },
+    {
+      "surface": "להחויה",
+      "gloss": "да изяви"
+    },
+    {
+      "surface": "למלכא",
+      "gloss": "на царя"
+    }
+  ],
+  "timestamp": "2026-09-22T15:43:35.559424996Z",
+  "model": "glm-5.3"
+}

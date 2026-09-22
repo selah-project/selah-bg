@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 132:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 132,
+  "translation": "Заради Давид, твоя раб, не отвръщай лицето на своя Машиах.",
+  "tokens": [
+    {
+      "surface": "בעבור",
+      "gloss": "заради"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "твоя раб"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "отвръщай"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "משיחך",
+      "gloss": "на своя Машиах"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:54.055969179Z",
+  "model": "glm-5.3"
+}

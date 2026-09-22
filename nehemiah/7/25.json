@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Синовете на Гивон: деветдесет и пет.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "на Гивон"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "деветдесет"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "и пет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:46.069838847Z",
+  "model": "glm-5.3"
+}

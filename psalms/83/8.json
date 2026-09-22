@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 83,
+  "translation": "Гевал и Амон и Амалик, Пледетим заедно с жителите на Цор.",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "Гевал"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "и Амон"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "и Амалик"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "Пледет"
+    },
+    {
+      "surface": "עם",
+      "gloss": "заедно с"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жителите на"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Цор"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:33.342830485Z",
+  "model": "glm-5.3"
+}

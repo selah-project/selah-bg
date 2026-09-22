@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 6:8",
+  "book": "hosea",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Гилад ⟨е⟩ град на вършители на беззаконие, проследен с кръв.",
+  "tokens": [
+    {
+      "surface": "גלעד",
+      "gloss": "Гилад"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "град"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "на вършители"
+    },
+    {
+      "surface": "און",
+      "gloss": "беззаконие"
+    },
+    {
+      "surface": "עקבה",
+      "gloss": "проследен"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "с кръв"
+    }
+  ],
+  "timestamp": "2026-09-22T14:32:33.660628129Z",
+  "model": "glm-5.3"
+}

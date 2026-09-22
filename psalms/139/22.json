@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 139:22",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 139,
+  "translation": "С върховна омраза ги намразих — станаха ми врагове.",
+  "tokens": [
+    {
+      "surface": "תכלית",
+      "gloss": "върховна"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "омраза"
+    },
+    {
+      "surface": "שנאתים",
+      "gloss": "ги намразих"
+    },
+    {
+      "surface": "לאויבים",
+      "gloss": "врагове"
+    },
+    {
+      "surface": "היו",
+      "gloss": "станаха"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:14:04.934147526Z",
+  "model": "glm-5.3"
+}

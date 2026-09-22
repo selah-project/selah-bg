@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Ейлам: хиляда двеста петдесет и четири.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Ейлам"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляда"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двеста"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "петдесет"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "и четири"
+    }
+  ],
+  "timestamp": "2026-09-22T15:47:48.775066052Z",
+  "model": "glm-5.3"
+}

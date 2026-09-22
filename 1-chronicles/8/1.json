@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 8:1",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И Вениамин роди ⟨את⟩ Бела, първородния си, Ашбел, втория, и Ахрах, третия.",
+  "tokens": [
+    {
+      "surface": "ובנימן",
+      "gloss": "И Вениамин"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бела"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бела"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "първородния си"
+    },
+    {
+      "surface": "אשבל",
+      "gloss": "Ашбел"
+    },
+    {
+      "surface": "השני",
+      "gloss": "втория"
+    },
+    {
+      "surface": "ואחרח",
+      "gloss": "и Ахрах"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третия"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:45.776792742Z",
+  "model": "glm-5.3"
+}

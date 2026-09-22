@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И живя Серуг трийсет години, и роди ⟨את⟩ Нахор.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "и живя"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "Серуг"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "трийсет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нахор"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахор"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:53.972356148Z",
+  "model": "glm-5.3"
+}

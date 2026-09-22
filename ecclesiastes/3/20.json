@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Всичко отива към едно място; всичко беше от пръста и всичко се връща към пръста.",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "всичкото"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "отива"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "място"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "едно"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "всичкото"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "пръста"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "и всичкото"
+    },
+    {
+      "surface": "שב",
+      "gloss": "се връща"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "пръста"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:09.625040550Z",
+  "model": "glm-5.3"
+}

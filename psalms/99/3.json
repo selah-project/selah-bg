@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 99:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 99,
+  "translation": "Да славят Твоето име — велик ⟨е⟩ и страшен, свят ⟨е⟩ Той.",
+  "tokens": [
+    {
+      "surface": "יודו",
+      "gloss": "да славят"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Твоето име"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "и страшен"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "свят"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Той"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:34.662043001Z",
+  "model": "glm-5.3"
+}

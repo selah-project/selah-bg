@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Защото не отхвърля завинаги Адонай.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "отхвърля"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "завинаги"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:52.417196189Z",
+  "model": "glm-5.3"
+}

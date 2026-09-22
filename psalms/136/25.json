@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 136,
+  "translation": "Дава хляб на всяка плът, защото навеки е хеседът Му.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "дава"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляб"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на всяка"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плът"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навеки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседът Му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:40.879645661Z",
+  "model": "glm-5.3"
+}

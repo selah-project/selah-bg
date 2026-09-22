@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И чу целият Явеш Галаад ⟨את⟩ всичко, което бяха направили филистимците на Саул.",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "и чу"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целият"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "Явеш"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Галаад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всичко"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "бяха направили"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "филистимците"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "на Саул"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:40.617128194Z",
+  "model": "glm-5.3"
+}

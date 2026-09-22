@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 50,
+  "translation": "И каза им Йосеф: не се бойте, защото на мястото на Елохим ⟨съм⟩ ли аз?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И каза"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "се бойте"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "на мястото"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    }
+  ],
+  "timestamp": "2026-09-22T11:13:49.701612745Z",
+  "model": "glm-5.3"
+}

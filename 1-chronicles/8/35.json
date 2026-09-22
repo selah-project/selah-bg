@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И синовете на Миха: Питон, и Мелех, и Таареа, и Ахаз.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синовете"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "на Миха"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "Питон"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "и Мелех"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "и Таареа"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "и Ахаз"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:16.015963972Z",
+  "model": "glm-5.3"
+}

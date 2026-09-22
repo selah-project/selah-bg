@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 35:1",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "И било слово на Яхве към мен, което казва:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И било"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мен"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "което казва"
+    }
+  ],
+  "timestamp": "2026-09-22T14:26:42.474923191Z",
+  "model": "glm-5.3"
+}

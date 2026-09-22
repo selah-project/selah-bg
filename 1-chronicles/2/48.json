@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Наложница на Калев — Мааха — роди ⟨את⟩ Шевер и ⟨את⟩ Тирхана.",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "наложница"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калев"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "Шевер"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Тирхана"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "Тирхана"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:55.652392282Z",
+  "model": "glm-5.3"
+}

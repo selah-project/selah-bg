@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 11:1",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И отговори Цофар ⟨Неаматянинът⟩ и рече:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и отговори"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "Цофар"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "⟨Неаматянинът⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-22T15:26:19.379319249Z",
+  "model": "glm-5.3"
+}

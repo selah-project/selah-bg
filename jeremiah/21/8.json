@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 21:8",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И на този народ ще кажеш: така каза Яхве: ето, давам пред вас ⟨את⟩ пътя на живота и ⟨את⟩ пътя на смъртта.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "И към"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ще кажеш"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ето"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "давам"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "пред вас"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пътя"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пътя"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живота"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "пътя"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пътя"
+    },
+    {
+      "surface": "המות",
+      "gloss": "смъртта"
+    }
+  ],
+  "timestamp": "2026-09-22T13:56:10.591603243Z",
+  "model": "glm-5.3"
+}

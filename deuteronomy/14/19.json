@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И всяко пълзящо нещо от птиците е нечисто за вас — да не се ядат.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и всяко"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "пълзящо нещо"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "от птиците"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечисто"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "да се ядат"
+    }
+  ],
+  "timestamp": "2026-09-22T12:06:41.629829960Z",
+  "model": "glm-5.3"
+}

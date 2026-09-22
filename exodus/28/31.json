@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "И ще направиш ⟨את⟩ мантията на ефода — изцяло от синьо.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "И ще направиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мантията"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "мантията"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "на ефода"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "изцяло"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "от синьо"
+    }
+  ],
+  "timestamp": "2026-09-22T16:17:13.815422141Z",
+  "model": "glm-5.3"
+}

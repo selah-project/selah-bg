@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 13:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "До кога, Яхве, ще ме забравяш завинаги? До кога ще криеш ⟨את⟩ лицето си от мен?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "кога"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תשכחני",
+      "gloss": "ще ме забравяш"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "завинаги"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "кога"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "ще криеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лицето си"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицето си"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от мен"
+    }
+  ],
+  "timestamp": "2026-09-22T14:52:17.250725481Z",
+  "model": "glm-5.3"
+}

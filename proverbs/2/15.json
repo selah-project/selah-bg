@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 2:15",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "чиито пътища са криви и изкривени в стъпките им,",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "чиито"
+    },
+    {
+      "surface": "ארחתיהם",
+      "gloss": "пътища"
+    },
+    {
+      "surface": "עקשים",
+      "gloss": "криви"
+    },
+    {
+      "surface": "ונלוזים",
+      "gloss": "и изкривени"
+    },
+    {
+      "surface": "במעגלותם",
+      "gloss": "в стъпките им"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:02.818112241Z",
+  "model": "glm-5.3"
+}

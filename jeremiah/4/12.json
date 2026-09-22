@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 4:12",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Вятър, пълен от тях, ще дойде при мен; сега и аз ще изрека съдби ⟨את⟩ тях.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "вятър"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "пълен"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "от тях"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ще дойде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "при мен"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сега"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ще изрека"
+    },
+    {
+      "surface": "משפטים",
+      "gloss": "съдби"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ тях",
+      "marks": "съдби"
+    }
+  ],
+  "timestamp": "2026-09-22T13:49:19.693466476Z",
+  "model": "glm-5.3"
+}

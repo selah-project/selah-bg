@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 18:1",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И бива дума от Яхве към мен, казвайки:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И бива"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дума"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "от Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мен"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T14:17:36.871121095Z",
+  "model": "glm-5.3"
+}

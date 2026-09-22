@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 32:18",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "Скалата, която те роди, ти занемари, и забрави Ел, който те сътвори.",
+  "tokens": [
+    {
+      "surface": "צור",
+      "gloss": "Скалата"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "което те роди"
+    },
+    {
+      "surface": "תשי",
+      "gloss": "занемари"
+    },
+    {
+      "surface": "ותשכח",
+      "gloss": "и забрави"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "מחללך",
+      "gloss": "който те сътвори"
+    }
+  ],
+  "timestamp": "2026-09-22T12:15:11.648793605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 49,
+  "translation": "Съберете се и чуйте, синове на Яков, и послушайте Израил, баща си.",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "съберете се"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "и чуйте"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "и послушайте"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израил"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "вашия баща"
+    }
+  ],
+  "timestamp": "2026-09-22T11:13:29.327395740Z",
+  "model": "glm-5.3"
+}

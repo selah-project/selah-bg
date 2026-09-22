@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 3:11",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И рече: кой ти съобщи, че си гол? От дървото, за което ти заповядах да не ядеш от него, ли яде?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ти съобщи"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "гол"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си"
+    },
+    {
+      "surface": "המן",
+      "gloss": "от"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "дървото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "за което"
+    },
+    {
+      "surface": "צויתיך",
+      "gloss": "ти заповядах"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "да не"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ядеш"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "от него"
+    },
+    {
+      "surface": "אכלת",
+      "gloss": "яде"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:23.701893537Z",
+  "model": "glm-5.3"
+}

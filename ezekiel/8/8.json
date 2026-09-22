@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 8:8",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И рече ми: човече, пробий сега стената; и пробих стената, и ето — един вход.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "пробий"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сега"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "стената"
+    },
+    {
+      "surface": "ואחתר",
+      "gloss": "и пробих"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "стената"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "вход"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    }
+  ],
+  "timestamp": "2026-09-22T14:12:22.398456274Z",
+  "model": "glm-5.3"
+}

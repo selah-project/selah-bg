@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 2:4",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И домът, който аз строя, ⟨е⟩ велик, защото велик е нашият Елохим над всички богове.",
+  "tokens": [
+    {
+      "surface": "והבית",
+      "gloss": "и домът"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "строя"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "нашият Елохим"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "над всички"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "богове"
+    }
+  ],
+  "timestamp": "2026-09-22T16:34:26.426658674Z",
+  "model": "glm-5.3"
+}

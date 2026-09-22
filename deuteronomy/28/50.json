@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "народ със свирепо лице, който не ще прояви лице към стареца, и на младия не ще покаже милост.",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "свирепо"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лице"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ще прояви"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лице"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "към стареца"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "и на младия"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "ще покаже милост"
+    }
+  ],
+  "timestamp": "2026-09-22T12:14:04.895055609Z",
+  "model": "glm-5.3"
+}

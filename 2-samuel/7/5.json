@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-samuel 7:5",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Иди и кажи на слугата ми, на Давид: така каза Яхве: Ти ли ще построиш за мен дом, за да седя?",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и кажи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слугата ми"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "האתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "ще построиш"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мен"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "לשבתי",
+      "gloss": "за да седя"
+    }
+  ],
+  "timestamp": "2026-09-22T12:51:37.252636826Z",
+  "model": "glm-5.3"
+}

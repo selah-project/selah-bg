@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И синовете на Йонатан: Пелет и Заза. Тези бяха синовете на Ярахмеел.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синовете"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "на Йонатан"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "Пелет"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "и Заза"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Тези"
+    },
+    {
+      "surface": "היו",
+      "gloss": "бяха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "на Ярахмеел"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:58.113345894Z",
+  "model": "glm-5.3"
+}

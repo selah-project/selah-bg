@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 105:29",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 105,
+  "translation": "Обърна ⟨את⟩ водите им в кръв и умъртви ⟨את⟩ рибата им.",
+  "tokens": [
+    {
+      "surface": "הפך",
+      "gloss": "Обърна"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "водите им"
+    },
+    {
+      "surface": "מימיהם",
+      "gloss": "водите им"
+    },
+    {
+      "surface": "לדם",
+      "gloss": "в кръв"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умъртви"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "рибата им"
+    },
+    {
+      "surface": "דגתם",
+      "gloss": "рибата им"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:37.080138930Z",
+  "model": "glm-5.3"
+}

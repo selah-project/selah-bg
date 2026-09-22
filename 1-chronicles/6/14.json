@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 6:14",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Синове на Мерари: Махли, Ливни синът му, Шимей синът му, Уза синът му;",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синове"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "на Мерари"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махли"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Ливни"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимей"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    },
+    {
+      "surface": "עזה",
+      "gloss": "Уза"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:27.407643528Z",
+  "model": "glm-5.3"
+}

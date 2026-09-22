@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 62:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 62,
+  "translation": "Само към Елохим мълчи, душе моя, защото от Него е надеждата ми.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Само"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "към Елохим"
+    },
+    {
+      "surface": "דומי",
+      "gloss": "мълчи"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душе моя"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "от Него"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "надеждата ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:02:30.971291871Z",
+  "model": "glm-5.3"
+}

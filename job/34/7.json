@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 34:7",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Кой е мъж като Ийов, та да пие подигивка като вода?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "כאיוב",
+      "gloss": "като Ийов"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "да пие"
+    },
+    {
+      "surface": "лעג",
+      "gloss": "подигивка"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "като вода"
+    }
+  ],
+  "timestamp": "2026-09-22T15:31:44.660199165Z",
+  "model": "glm-5.3"
+}

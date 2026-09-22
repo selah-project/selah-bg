@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Маазия, Билгай, Шемая — това са свещениците.",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "Маазия"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "Билгай"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемая"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "това"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свещениците"
+    }
+  ],
+  "timestamp": "2026-09-22T15:54:43.447104734Z",
+  "model": "glm-5.3"
+}

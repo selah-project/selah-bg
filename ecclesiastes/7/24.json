@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Далеч е онова, което е било, и дълбоко, дълбоко е — кой ще го намери?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "далеч"
+    },
+    {
+      "surface": "מה",
+      "gloss": "оно, което"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "е било"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "и дълбоко"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "дълбоко"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "ще го намери"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:09.497120367Z",
+  "model": "glm-5.3"
+}

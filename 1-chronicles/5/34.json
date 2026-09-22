@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И Ахитув роди ⟨את⟩ Цадок, и Цадок роди ⟨את⟩ Ахимаац.",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "и Ахитув"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цадок"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "Цадок"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "и Цадок"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ахимаац"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "Ахимаац"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:49.357463244Z",
+  "model": "glm-5.3"
+}

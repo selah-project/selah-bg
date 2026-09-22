@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И роди Зилпа, слугинята на Леа, втори син на Яков.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зилпа"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "слугинята на"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שני",
+      "gloss": "втори"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "на Яков"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:22.289942962Z",
+  "model": "glm-5.3"
+}

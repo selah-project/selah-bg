@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "Не ходи като клюкар сред народа си и не стой върху кръвта на ближния си: аз съм Яхве.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ходи"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "като клюкар"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "сред народа си"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "стой"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кръвта"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ближния си"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:39:37.614943594Z",
+  "model": "glm-5.3"
+}

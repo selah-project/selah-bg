@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 37:27",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "И ще бъде Мишканът ми върху тях, и ще бъда им Елохим, и те ще Ми бъдат народ.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и ще бъде"
+    },
+    {
+      "surface": "משכני",
+      "gloss": "Мишканът ми"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "върху тях"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "и ще бъда"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "и те"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ще бъдат"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Ми"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-09-22T14:27:50.086036050Z",
+  "model": "glm-5.3"
+}

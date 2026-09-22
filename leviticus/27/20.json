@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "А ако не откупи ⟨את⟩ полето, а ако продаде ⟨את⟩ полето на друг човек, няма да се откупи вече.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "откупи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "полето"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "полето"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "продаде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "полето"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "полето"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "на човек"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "друг"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ще се откупи"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "вече"
+    }
+  ],
+  "timestamp": "2026-09-22T11:44:23.852695743Z",
+  "model": "glm-5.3"
+}

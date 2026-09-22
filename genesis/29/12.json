@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 29:12",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И съобщи Яаков на Рахел, че брат на баща ѝ е той и че син на Ривка е той; и тя хукна и съобщи на баща си.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "и съобщи"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "לרחל",
+      "gloss": "на Рахел"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "на баща ѝ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "и че"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "на Ривка"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "и хукна"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "и съобщи"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "на баща си"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:59.456004499Z",
+  "model": "glm-5.3"
+}

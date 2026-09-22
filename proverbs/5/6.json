@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 5:6",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Пътя на живота — да не би да го преценяваш; блуждаят пътеките ѝ, не ги знаеш.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "Пътя"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "на живота"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не би"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "да преценяваш"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "блуждаят"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "пътеките ѝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "знаеш"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:07.918044654Z",
+  "model": "glm-5.3"
+}

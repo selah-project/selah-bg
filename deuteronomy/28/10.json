@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "И ще видят всички народи на земята, че името на Яхве е наречено върху тебе, и ще се боят от тебе.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "И ще видят"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народите"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земята"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "е наречено"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "върху тебе"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "и ще се боят"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "от тебе"
+    }
+  ],
+  "timestamp": "2026-09-22T12:13:01.759952811Z",
+  "model": "glm-5.3"
+}

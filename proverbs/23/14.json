@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 23:14",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Ти с тояга ще го удариш и душата му от Шеол ще избавиш.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "с тояга"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "ще го удариш"
+    },
+    {
+      "surface": "ונפשו",
+      "gloss": "и душата му"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "от Шеол"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ще избавиш"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:06.070066927Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И това видях — мъдрост под слънцето, и тя е велика за мен.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видях"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мъдрост"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "слънцето"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "и велика"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "за мен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:17.087029104Z",
+  "model": "glm-5.3"
+}

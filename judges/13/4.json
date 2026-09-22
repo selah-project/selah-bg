@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 13:4",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И сега пази се, моля ти: не пийвай вино и силна напитка, и не яж нищо нечисто!",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "и сега"
+    },
+    {
+      "surface": "השמרי",
+      "gloss": "пази се"
+    },
+    {
+      "surface": "נא",
+      "gloss": "моля ти"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשתי",
+      "gloss": "пийвай"
+    },
+    {
+      "surface": "יין",
+      "gloss": "вино"
+    },
+    {
+      "surface": "ושכר",
+      "gloss": "и силна напитка"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "яж"
+    },
+    {
+      "surface": "כל",
+      "gloss": "нищо"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "нечисто"
+    }
+  ],
+  "timestamp": "2026-09-22T12:31:36.012887392Z",
+  "model": "glm-5.3"
+}

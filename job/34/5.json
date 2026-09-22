@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 34:5",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Защото Ийов ⟨каза⟩: „Праведен съм, а Ел отстрани съда ми.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "צדקתי",
+      "gloss": "праведен съм"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "а Ел"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "отстрани"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "съда ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:31:44.659709817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 10:1",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Мъртви мухи ще раздушат, ще прокишят миро на palavta: по-ценно от мъдрост, от слава ⟨е⟩ малко безумство.",
+  "tokens": [
+    {
+      "surface": "זבובי",
+      "gloss": "мухи"
+    },
+    {
+      "surface": "מות",
+      "gloss": "мъртви"
+    },
+    {
+      "surface": "יבאיש",
+      "gloss": "ще раздушат"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "ще прокишят"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "миро"
+    },
+    {
+      "surface": "רוקח",
+      "gloss": "на palavta"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "по-ценно"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "от мъдрост"
+    },
+    {
+      "surface": "מכבוד",
+      "gloss": "от слава"
+    },
+    {
+      "surface": "סכלות",
+      "gloss": "безумство"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "малко"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:56.893128667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Йигал син на Натан от Цова, Бани гадецът,",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "Йигал"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "Цова"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бани"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "гадецът"
+    }
+  ],
+  "timestamp": "2026-09-22T12:59:04.581459754Z",
+  "model": "glm-5.3"
+}

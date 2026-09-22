@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 24:23",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И рече: чижа дъщеря си ти? Кажи ми, моля ти се. Има ли в дома на баща ти място за нас да пренощуваме?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщеря"
+    },
+    {
+      "surface": "מי",
+      "gloss": "чижа"
+    },
+    {
+      "surface": "את",
+      "gloss": "ти"
+    },
+    {
+      "surface": "הגידי",
+      "gloss": "Кажи"
+    },
+    {
+      "surface": "נא",
+      "gloss": "моля ти се"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "היש",
+      "gloss": "Има ли"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "на баща ти"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "място"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "за нас"
+    },
+    {
+      "surface": "ללין",
+      "gloss": "да пренощуваме"
+    }
+  ],
+  "timestamp": "2026-09-22T11:02:14.614593151Z",
+  "model": "glm-5.3"
+}

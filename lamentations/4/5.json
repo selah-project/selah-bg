@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 4:5",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Ядущите лакомо изтъняха по улиците; отгледаните в багреница прегръщат бунища.",
+  "tokens": [
+    {
+      "surface": "האכלים",
+      "gloss": "Ядущите"
+    },
+    {
+      "surface": "למעדנים",
+      "gloss": "лакомо"
+    },
+    {
+      "surface": "נשמו",
+      "gloss": "изтъняха"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "по улиците"
+    },
+    {
+      "surface": "האמנים",
+      "gloss": "отгледаните"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "в"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "багреница"
+    },
+    {
+      "surface": "חבקו",
+      "gloss": "прегръщат"
+    },
+    {
+      "surface": "אשפתות",
+      "gloss": "бунища"
+    }
+  ],
+  "timestamp": "2026-09-22T15:37:47.161144372Z",
+  "model": "glm-5.3"
+}

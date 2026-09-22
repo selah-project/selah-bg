@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 38:2",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "Кой е ⟨този⟩, който потъмнява съвета с думи без знание?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "זה",
+      "gloss": "този"
+    },
+    {
+      "surface": "מחשיך",
+      "gloss": "потъмнява"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "съвета"
+    },
+    {
+      "surface": "במלין",
+      "gloss": "с думи"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знание"
+    }
+  ],
+  "timestamp": "2026-09-22T15:32:46.437125132Z",
+  "model": "glm-5.3"
+}

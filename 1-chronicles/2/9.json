@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "А синовете на Хецрон, които се родиха нему: ⟨את⟩ Ярахмеил и ⟨את⟩ Рам и ⟨את⟩ Келувай.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "а синовете"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "на Хецрон"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "се родиха"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ярахмеил"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "Ярахмеил"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Рам"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Рам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Келувай"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "Келувай"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:53.074225761Z",
+  "model": "glm-5.3"
+}

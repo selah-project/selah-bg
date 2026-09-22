@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 42:12",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 42,
+  "translation": "И рече им: не, а голотата на земята сте дошли да видите.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כי",
+      "gloss": "а"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "голотата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земята"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "сте дошли"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "да видите"
+    }
+  ],
+  "timestamp": "2026-09-22T11:10:12.153000025Z",
+  "model": "glm-5.3"
+}

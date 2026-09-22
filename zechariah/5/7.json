@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И ето, оловен кръг бе вдигнат, и това е една жена, седяща всред ефата.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "кръг"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "оловен"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "бе вдигнат"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "и това е"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "седяща"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "всред"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ефата"
+    }
+  ],
+  "timestamp": "2026-09-22T14:46:43.892365110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 47:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 47,
+  "translation": "Ще покори народи под нас и племена под краката ни.",
+  "tokens": [
+    {
+      "surface": "ידבר",
+      "gloss": "Ще покори"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "תחתינו",
+      "gloss": "под нас"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "и племена"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "רגלינו",
+      "gloss": "краката ни"
+    }
+  ],
+  "timestamp": "2026-09-22T16:29:20.164447407Z",
+  "model": "glm-5.3"
+}

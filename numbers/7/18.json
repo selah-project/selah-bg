@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 7:18",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Във втория ден принесе Нетанел, син на Цуар, княз на Исахар:",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "השני",
+      "gloss": "втория"
+    },
+    {
+      "surface": "הקריב",
+      "gloss": "принесе"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетанел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "на Цуар"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "княз"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "на Исахар"
+    }
+  ],
+  "timestamp": "2026-09-22T11:46:38.003006109Z",
+  "model": "glm-5.3"
+}

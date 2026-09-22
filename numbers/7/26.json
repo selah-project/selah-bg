@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 7:26",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Една златна дланка от десет шекела, пълна с тамян.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "дланка"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десет"
+    },
+    {
+      "surface": "זהб",
+      "gloss": "златна"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пълна"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "с тамян"
+    }
+  ],
+  "timestamp": "2026-09-22T11:46:51.469779634Z",
+  "model": "glm-5.3"
+}

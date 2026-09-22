@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Лъвът — силен между зверовете, той не се отдръпва от лицето на никого;",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "Лъвът"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "силен"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "между зверовете"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "се отдръпва"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "от лицето на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "никого"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:32.491860372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 31:9",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "И избави Елохим ⟨את⟩ добитъка на баща ви и даде ⟨го⟩ на мен.",
+  "tokens": [
+    {
+      "surface": "ויצל",
+      "gloss": "и избави"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "добитъка"
+    },
+    {
+      "surface": "מקנה",
+      "gloss": "добитъка"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "на баща ви"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "на мен"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:05.265378571Z",
+  "model": "glm-5.3"
+}

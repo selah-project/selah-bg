@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И взе Моше ⟨את⟩ колите и ⟨את⟩ добитъка, и даде ⟨את⟩ тях на левитите.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И взе"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "колите"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "колите"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "добитъка"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "добитъка"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ тях",
+      "marks": "на левитите"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитите"
+    }
+  ],
+  "timestamp": "2026-09-22T11:46:50.996874133Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Не се изтощавай да забогатяваш; от своя разум престани.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "се изтощавай"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "да забогатяваш"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "от своя разум"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "престани"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:15.774002334Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 7:13",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Ако не се обърне, мечът му ще изостри; лъкът си опъна и я приготви.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "се обърне"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "мечът му"
+    },
+    {
+      "surface": "ילטוש",
+      "gloss": "ще изостри"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "лъкът му"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "опъна"
+    },
+    {
+      "surface": "ויכוננה",
+      "gloss": "и я приготви"
+    }
+  ],
+  "timestamp": "2026-09-22T14:50:01.949086883Z",
+  "model": "glm-5.3"
+}

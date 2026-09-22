@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 2:8",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "за да пази пътищата на съда, и пътя на верните си ще опази.",
+  "tokens": [
+    {
+      "surface": "לנצר",
+      "gloss": "за да пази"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "пътищата"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "на съда"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "и пътя"
+    },
+    {
+      "surface": "חסידו",
+      "gloss": "на верните му"
+    },
+    {
+      "surface": "ישמר",
+      "gloss": "ще опази"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:46.043896045Z",
+  "model": "glm-5.3"
+}

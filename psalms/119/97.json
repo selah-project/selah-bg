@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Колко обичам Твоята Тора! Целия ден тя е размишлението ми.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "колко"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "обичам"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Твоята Тора"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целия"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "размишлението ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:04.242078526Z",
+  "model": "glm-5.3"
+}

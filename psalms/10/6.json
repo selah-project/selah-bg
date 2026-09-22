@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Казa в сърцето си: „Няма да се помръдна, за род и род не ⟨съм⟩ в зло.“",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "в сърцето си"
+    },
+    {
+      "surface": "בל",
+      "gloss": "няма"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "да се помръдна"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "за род"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "и род"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨защото⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "в зло"
+    }
+  ],
+  "timestamp": "2026-09-22T14:52:55.996315440Z",
+  "model": "glm-5.3"
+}

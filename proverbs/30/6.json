@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 30:6",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Не добаввай към Неговите думи, да не би да те изобличи и да се окажеш лъжец.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "добаввай"
+    },
+    {
+      "surface": "על",
+      "gloss": "към"
+    },
+    {
+      "surface": "דבריו",
+      "gloss": "Неговите думи"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не би"
+    },
+    {
+      "surface": "יוכיח",
+      "gloss": "да изобличи"
+    },
+    {
+      "surface": "בך",
+      "gloss": "теб"
+    },
+    {
+      "surface": "ונכזבת",
+      "gloss": "и да се окажеш лъжец"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:42.021751594Z",
+  "model": "glm-5.3"
+}

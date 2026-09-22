@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 23:35",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Така ще говорите всеки на ближния си и всеки на брата си: Какво отговори Яхве и какво говори Яхве?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "ще говорите"
+    },
+    {
+      "surface": "איש",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "על",
+      "gloss": "към"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ближния си"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и всеки"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брата си"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "отговори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и какво"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T13:57:04.790383277Z",
+  "model": "glm-5.3"
+}

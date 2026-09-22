@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 49:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 49,
+  "translation": "За водача; на синовете на Корах, мизмор.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "за водача"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на синовете"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "на Корах"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:29.532281290Z",
+  "model": "glm-5.3"
+}

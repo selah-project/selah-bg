@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 92,
+  "translation": "Мизмор, песен за деня на съботата.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песен"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "за деня"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "на съботата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:47.392810203Z",
+  "model": "glm-5.3"
+}

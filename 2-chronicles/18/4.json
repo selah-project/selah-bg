@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И каза Йехошафат на царя на Израел: Потърси днес, моля ти се, ⟨את⟩ словото на Яхве.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И каза"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Йехошафат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "Потърси"
+    },
+    {
+      "surface": "נא",
+      "gloss": "моля ти се"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "днес"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "словото"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T16:08:53.016697858Z",
+  "model": "glm-5.3"
+}

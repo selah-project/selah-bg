@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 106,
+  "translation": "чудеса в земята на Хам, страшни дела над море Суф.",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "чудеса"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "חם",
+      "gloss": "на Хам"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "страшни дела"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ים",
+      "gloss": "море"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:44.178155909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 26:1",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И отговори Иов и рече:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И отговори"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Иов"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-22T15:29:20.243202730Z",
+  "model": "glm-5.3"
+}

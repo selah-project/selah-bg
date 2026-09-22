@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 27:8",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Петият за петия месец ⟨беше⟩ началникът Шамхут ⟨от рода⟩ израховия; и над divisions-то му двадесет и четири хиляди.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "петият"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "за месеца"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "петия"
+    },
+    {
+      "surface": "השר",
+      "gloss": "началникът"
+    },
+    {
+      "surface": "שמהות",
+      "gloss": "Шамхут"
+    },
+    {
+      "surface": "היזרח",
+      "gloss": "израховия"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "מחלקתו",
+      "gloss": "divisions-то му"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "и четири"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляди"
+    }
+  ],
+  "timestamp": "2026-09-22T16:04:06.118998025Z",
+  "model": "glm-5.3"
+}

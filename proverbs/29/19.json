@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 29:19",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "С думи не се наказва слуга, макар да разбира — ⟨и⟩ няма отговор.",
+  "tokens": [
+    {
+      "surface": "בדברים",
+      "gloss": "С думи"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוסר",
+      "gloss": "се наказва"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "слуга"
+    },
+    {
+      "surface": "כי",
+      "gloss": "макар"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "да разбира"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "отговор"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:16.515191628Z",
+  "model": "glm-5.3"
+}

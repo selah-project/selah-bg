@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И рече Каин към Яхве: голямо е виното ми, ⟨по-голямо, отколкото мога да понеса⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каин"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голямо"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "виното ми"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "⟨да се понесе⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:52.877623013Z",
+  "model": "glm-5.3"
+}

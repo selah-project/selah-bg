@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 71:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 71,
+  "translation": "В теб, Яхве, се укрих; да не се посрамя навек.",
+  "tokens": [
+    {
+      "surface": "בך",
+      "gloss": "в теб"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "се укрих"
+    },
+    {
+      "surface": "אל",
+      "gloss": "да не"
+    },
+    {
+      "surface": "אבושה",
+      "gloss": "се посрамя"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навек"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:35.193529064Z",
+  "model": "glm-5.3"
+}

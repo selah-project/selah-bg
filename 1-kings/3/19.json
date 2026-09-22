@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И умря синът на жената тази нощем, когато легна върху него.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и умря"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синът"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "на жената"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "тази"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "нощем"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "когато"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "легна"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "върху него"
+    }
+  ],
+  "timestamp": "2026-09-22T13:01:33.558146425Z",
+  "model": "glm-5.3"
+}

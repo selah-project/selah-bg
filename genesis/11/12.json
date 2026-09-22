@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И Арфахшад живя пет и тридесет години, и роди ⟨את⟩ Шелах.",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "И Арфахшад"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живя"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "и тридесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шелах"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "Шелах"
+    }
+  ],
+  "timestamp": "2026-09-22T10:57:11.789922436Z",
+  "model": "glm-5.3"
+}

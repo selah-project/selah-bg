@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 103,
+  "translation": "Не до века ще се съди, и не завинаги ще пази ⟨гнева⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "до века"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ще се съди"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "завинаги"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "ще пази"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:24.801339026Z",
+  "model": "glm-5.3"
+}

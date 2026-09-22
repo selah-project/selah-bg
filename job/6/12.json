@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Дали силата ми е силата на камъни, или плътта ми е медна?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Дали"
+    },
+    {
+      "surface": "כח",
+      "gloss": "силата"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "на камъни"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "силата ми"
+    },
+    {
+      "surface": "אם",
+      "gloss": "или"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "плътта ми"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "медна"
+    }
+  ],
+  "timestamp": "2026-09-22T15:24:18.936549587Z",
+  "model": "glm-5.3"
+}

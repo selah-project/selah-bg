@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 10:19",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И над войската на племето на синовете на Шимон ⟨беше⟩ Шлумиел, син на Цуришадай.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "И над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "войската"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "племето"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на синовете"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Шлумиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "Цури"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "шадай"
+    }
+  ],
+  "timestamp": "2026-09-22T11:49:03.994002596Z",
+  "model": "glm-5.3"
+}

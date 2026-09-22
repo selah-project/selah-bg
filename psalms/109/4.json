@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 109:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 109,
+  "translation": "Вместо любовта ми те ме обвиниха, а аз — молитва.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "вместо"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "любовта ми"
+    },
+    {
+      "surface": "ישטנוני",
+      "gloss": "ме обвиниха"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а аз"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "молитва"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:43.577933146Z",
+  "model": "glm-5.3"
+}

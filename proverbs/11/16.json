@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 11:16",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Жена с благодат задържа почит, а жестоките задържат богатство.",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "жена"
+    },
+    {
+      "surface": "חן",
+      "gloss": "с благодат"
+    },
+    {
+      "surface": "תתמך",
+      "gloss": "задържа"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "почит"
+    },
+    {
+      "surface": "ועריצים",
+      "gloss": "а жестоките"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "задържат"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "богатство"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:11.951185944Z",
+  "model": "glm-5.3"
+}

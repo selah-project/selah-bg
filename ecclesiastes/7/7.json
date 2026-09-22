@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Защото гнетът подлудява мъдър, а подарба погубва ⟨את⟩ сърцето.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "гнетът"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "подлудява"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мъдър"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "а погубва"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сърцето"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърцето"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "подарба"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:42.961725938Z",
+  "model": "glm-5.3"
+}

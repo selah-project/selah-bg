@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 106,
+  "translation": "Отвори се земята и погълна Датан, и покри събранието на Авирон.",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "отвори се"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "и погълна"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "Датан"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "и покри"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "събранието"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "Авирон"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:09.706162875Z",
+  "model": "glm-5.3"
+}

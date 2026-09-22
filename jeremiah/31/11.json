@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 31:11",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Защото откупи Яхве ⟨את⟩ Яков и го изкупи от ръка, по-силна от него.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "откупи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яков"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    },
+    {
+      "surface": "וגאלו",
+      "gloss": "и го изкупи"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "от ръка"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "по-силна"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "от него"
+    }
+  ],
+  "timestamp": "2026-09-22T13:58:57.995383544Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 47,
+  "translation": "Възлезе Елохим с възклицание, Яхве със звук на шофар.",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "Възлезе"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "с възклицание"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "със звук"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "на шофар"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:40.613108048Z",
+  "model": "glm-5.3"
+}

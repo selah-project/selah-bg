@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Всичко това изпитах в мъдрост; казах: ще стана мъдър — а тя е далеч от мен.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "изпитах"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "в мъдрост"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "казах"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "ще стана мъдър"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "а тя"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "далеч"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от мен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:09.495169262Z",
+  "model": "glm-5.3"
+}

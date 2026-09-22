@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 57,
+  "translation": "Няма мир, каза Елохим мой, за нечестивите.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "Няма"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мой"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "за нечестивите"
+    }
+  ],
+  "timestamp": "2026-09-22T13:43:30.522257307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 30:20",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Викам към Теб, и не ми отговаряш; standing не — стоя, а ме съзерцаваш.",
+  "tokens": [
+    {
+      "surface": "אשוע",
+      "gloss": "викам"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "към Теб"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תענני",
+      "gloss": "ми отговаряш"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "стоя"
+    },
+    {
+      "surface": "ותתבנן",
+      "gloss": "а съзерцаваш"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мене"
+    }
+  ],
+  "timestamp": "2026-09-22T15:31:11.835023474Z",
+  "model": "glm-5.3"
+}

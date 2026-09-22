@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "daniel 5:27",
+  "book": "daniel",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Текел — претеглен си на везните и се намери лишен.",
+  "tokens": [
+    {
+      "surface": "תקל",
+      "gloss": "Текел"
+    },
+    {
+      "surface": "תקילתה",
+      "gloss": "претеглен си"
+    },
+    {
+      "surface": "במאזניא",
+      "gloss": "на везните"
+    },
+    {
+      "surface": "והשתכחת",
+      "gloss": "и се намери"
+    },
+    {
+      "surface": "חסיר",
+      "gloss": "лишен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:44:03.760618043Z",
+  "model": "glm-5.3"
+}

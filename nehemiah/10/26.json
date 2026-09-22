@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 10:26",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Рехум, Хашевна, Маасея.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Рехум"
+    },
+    {
+      "surface": "חשבנה",
+      "gloss": "Хашевна"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "Маасея"
+    }
+  ],
+  "timestamp": "2026-09-22T15:54:39.024236090Z",
+  "model": "glm-5.3"
+}

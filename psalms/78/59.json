@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "psalms 78:59",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 78,
+  "translation": "Чу Елохим и се разяриса, и твърде презря Израел.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "чу"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ויתעבר",
+      "gloss": "и се разяриса"
+    },
+    {
+      "surface": "וימאס",
+      "gloss": "и презря"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "твърде"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:03.528680082Z",
+  "model": "glm-5.3"
+}

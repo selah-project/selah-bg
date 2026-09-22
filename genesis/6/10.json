@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И роди Ной трима сина: ⟨את⟩ Шем, ⟨את⟩ Хам и ⟨את⟩ Яфет.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "И роди"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ной"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "трима"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "сина"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шем"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хам"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Яфет"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Яфет"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:30.615411650Z",
+  "model": "glm-5.3"
+}

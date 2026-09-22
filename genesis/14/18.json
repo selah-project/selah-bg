@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 14:18",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И Малки-Цедек, цар на Шалем, изнесе хляб и вино, а той беше свещеник на Ел Всевишния.",
+  "tokens": [
+    {
+      "surface": "ומלכי",
+      "gloss": "И Малки"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Цедек"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "Шалем"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "изнесе"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляб"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и вино"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а той"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "свещеник"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "на Ел"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Всевишния"
+    }
+  ],
+  "timestamp": "2026-09-22T10:58:05.805216704Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 44:19",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 44,
+  "translation": "Не отстъпи назад сърцето ни, и не се отклониха стъпките ни от пътя ти.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "נסוג",
+      "gloss": "отстъпи"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "назад"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "сърцето ни"
+    },
+    {
+      "surface": "ותט",
+      "gloss": "и се отклони"
+    },
+    {
+      "surface": "אשרינו",
+      "gloss": "стъпките ни"
+    },
+    {
+      "surface": "מני",
+      "gloss": "от"
+    },
+    {
+      "surface": "ארחך",
+      "gloss": "пътя ти"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:15.255739224Z",
+  "model": "glm-5.3"
+}

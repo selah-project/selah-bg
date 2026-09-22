@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И ще бъде един ден — той ще бъде познат на Яхве: не ден и не нощ, и ще бъде към време на вечер — ще бъде светлина.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И ще бъде"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ще бъде познат"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "нощ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и ще бъде"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "към време"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "на вечер"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ще бъде"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светлина"
+    }
+  ],
+  "timestamp": "2026-09-22T16:28:39.939711722Z",
+  "model": "glm-5.3"
+}

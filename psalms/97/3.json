@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 97:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 97,
+  "translation": "Огън пред него върви и изпепелява наоколо враговете му.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "огън"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пред него"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "върви"
+    },
+    {
+      "surface": "ותלהט",
+      "gloss": "и изпепелява"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколо"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "враговете му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:52.323364833Z",
+  "model": "glm-5.3"
+}

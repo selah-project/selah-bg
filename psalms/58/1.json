@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 58:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 58,
+  "translation": "На диригента. Не разрушавай. На Давид. Михтам.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "На диригента"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "разрушавай"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "На Давид"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "Михтам"
+    }
+  ],
+  "timestamp": "2026-09-22T15:01:18.275228631Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 41:47",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 41,
+  "translation": "И даде земята в седемте години на изобилието ⟨жътва⟩ на шепи.",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "в седемте"
+    },
+    {
+      "surface": "שני",
+      "gloss": "години"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "на изобилието"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": "на шепи"
+    }
+  ],
+  "timestamp": "2026-09-22T11:10:19.339988249Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 9:21",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И пи от виното, и се опи, и се разкри насред шатъра си.",
+  "tokens": [
+    {
+      "surface": "וישת",
+      "gloss": "и пи"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "היין",
+      "gloss": "виното"
+    },
+    {
+      "surface": "וישכר",
+      "gloss": "и се опи"
+    },
+    {
+      "surface": "ויתגל",
+      "gloss": "и се разкри"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "насред"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "шатъра си"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:38.182501771Z",
+  "model": "glm-5.3"
+}

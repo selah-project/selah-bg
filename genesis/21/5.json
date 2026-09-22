@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 21:5",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И Авраам беше на сто години, когато му се роди ⟨את⟩ Ицхак ⟨Исаак⟩, синът му.",
+  "tokens": [
+    {
+      "surface": "ואברהם",
+      "gloss": "И Авраам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "на"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "בהולד",
+      "gloss": "когато се роди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ицхак"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    }
+  ],
+  "timestamp": "2026-09-22T11:00:24.665167011Z",
+  "model": "glm-5.3"
+}

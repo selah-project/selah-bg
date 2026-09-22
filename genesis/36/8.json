@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "И се засели Исав в планината Сеир; Исав, той ⟨е⟩ Едом.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И се засели"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исав"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "в планината"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исав"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    }
+  ],
+  "timestamp": "2026-09-22T11:07:00.976860561Z",
+  "model": "glm-5.3"
+}

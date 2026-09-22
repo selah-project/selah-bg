@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 18:42",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Викаха, а избавител нямаше; към Яхве ⟨викаха⟩, а Той не им отговори.",
+  "tokens": [
+    {
+      "surface": "ישועו",
+      "gloss": "викаха"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "а нямаше"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "избавител"
+    },
+    {
+      "surface": "על",
+      "gloss": "към"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "им отговори"
+    }
+  ],
+  "timestamp": "2026-09-22T14:53:48.833216299Z",
+  "model": "glm-5.3"
+}

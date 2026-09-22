@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "psalms 119:60",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Побързах и не се забавих да пазя Твоите заповеди.",
+  "tokens": [
+    {
+      "surface": "חשתי",
+      "gloss": "побързах"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "התמהמהתי",
+      "gloss": "се забавих"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "да пазя"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "Твоите заповеди"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:24.290114854Z",
+  "model": "glm-5.3"
+}

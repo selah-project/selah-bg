@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Цяла си красива, приятелко моя, и петно няма в теб.",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "цяла"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "красива"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "приятелко моя"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "и петно"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в теб"
+    }
+  ],
+  "timestamp": "2026-09-22T15:34:19.863457718Z",
+  "model": "glm-5.3"
+}

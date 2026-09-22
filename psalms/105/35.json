@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 105:35",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 105,
+  "translation": "И изяде всяка трева в земята им, и изяде плода на почвата им.",
+  "tokens": [
+    {
+      "surface": "ויאכל",
+      "gloss": "И изяде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяка"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "трева"
+    },
+    {
+      "surface": "בארצם",
+      "gloss": "в земята им"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "и изяде"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "плода"
+    },
+    {
+      "surface": "אדמתם",
+      "gloss": "на почвата им"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:26.708334677Z",
+  "model": "glm-5.3"
+}

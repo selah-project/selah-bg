@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Човек, притиснат от кръв на душа, до яма ще бяга — да не го поддържат.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "притиснат"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "от кръв"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "на душа"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בור",
+      "gloss": "яма"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "ще бяга"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "да поддържат"
+    },
+    {
+      "surface": "בו",
+      "gloss": "него"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:36.847834358Z",
+  "model": "glm-5.3"
+}

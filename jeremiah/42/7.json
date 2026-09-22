@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 42,
+  "translation": "И стана в края на десет дни, и биде дума на Яхве към Иремияху:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И стана"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "в края"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "на десет"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дума"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Иремияху"
+    }
+  ],
+  "timestamp": "2026-09-22T14:06:03.164212317Z",
+  "model": "glm-5.3"
+}

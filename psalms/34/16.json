@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 34:16",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Очите на Яхве ⟨са⟩ към праведните и ушите Му към техния вик.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "очите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "праведните"
+    },
+    {
+      "surface": "ואזניו",
+      "gloss": "и ушете Му"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "שועתם",
+      "gloss": "техния вик"
+    }
+  ],
+  "timestamp": "2026-09-22T14:56:31.605707632Z",
+  "model": "glm-5.3"
+}

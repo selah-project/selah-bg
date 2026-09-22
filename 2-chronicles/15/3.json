@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 15:3",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "И дълги дни ⟨бяха⟩ на Израел без Ел на истина, и без свещеник, който учи, и без Тора.",
+  "tokens": [
+    {
+      "surface": "וימים",
+      "gloss": "и дълги дни"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многобройни"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "на Израел"
+    },
+    {
+      "surface": "ללא",
+      "gloss": "без"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "на истина"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "и без"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "свещеник"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "който учи"
+    },
+    {
+      "surface": "וללא",
+      "gloss": "и без"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Тора"
+    }
+  ],
+  "timestamp": "2026-09-22T16:08:40.066615002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "А Ханаан роди Цидон, първородния си, ⟨את⟩ Цидон и ⟨את⟩ Хет.",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "а Ханаан"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Цидон"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "Цидон"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "първородния си"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Хет"
+    },
+    {
+      "surface": "חת",
+      "gloss": "Хет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:41.206104542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-samuel 25:43",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И ⟨את⟩ Ахиноам взе Давид от Изреел, и двете бяха нему за жени.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Ахиноам"
+    },
+    {
+      "surface": "אחינעם",
+      "gloss": "Ахиноам"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "взе"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מיזרעאל",
+      "gloss": "от Изреел"
+    },
+    {
+      "surface": "ותהיין",
+      "gloss": "и бяха"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "שתיהן",
+      "gloss": "двете"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "לנשים",
+      "gloss": "за жени"
+    }
+  ],
+  "timestamp": "2026-09-22T12:46:18.037279074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 30:9",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И видя Леа, че спряла да ражда, та взе ⟨את⟩ Зилпа, слугинята си, и я даде на Яков за жена.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "и видя"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леа"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "עמדה",
+      "gloss": "спряла"
+    },
+    {
+      "surface": "מלדת",
+      "gloss": "да ражда"
+    },
+    {
+      "surface": "ותקח",
+      "gloss": "та взе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Зилпа"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зилпа"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "слугинята си"
+    },
+    {
+      "surface": "ותתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ него"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "на Яков"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жена"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:22.289420857Z",
+  "model": "glm-5.3"
+}

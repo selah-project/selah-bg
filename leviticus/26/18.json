@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 26:18",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И ако дори до тези не послушате Мене, ще добавя да накажа ⟨את⟩ вас седем пъти за греховете ви.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "послушате"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мене"
+    },
+    {
+      "surface": "ויספתי",
+      "gloss": "и ще добавя"
+    },
+    {
+      "surface": "ליסרה",
+      "gloss": "да накажа"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "вас"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седем"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "חטאתיכם",
+      "gloss": "греховете ви"
+    }
+  ],
+  "timestamp": "2026-09-22T11:44:02.714778594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 15:25",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Защото простря към Ел ръката си и срещу Ел Шаддай се надми.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "простря"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ръката си"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и срещу"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "Ел Шаддай"
+    },
+    {
+      "surface": "יתגבר",
+      "gloss": "се надми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:27:39.695130041Z",
+  "model": "glm-5.3"
+}

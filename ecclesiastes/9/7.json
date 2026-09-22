@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 9:7",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Иди, яж с радост хляба си и пий с добро сърце виното си, защото отдавна Елохим благоволи ⟨את⟩ делата ти.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "яж"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "с радост"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "хляба си"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "и пий"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "със сърце"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "виното си"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "отдавна"
+    },
+    {
+      "surface": "רצה",
+      "gloss": "благоволи"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "делата ти"
+    },
+    {
+      "surface": "מעשיך",
+      "gloss": "делата ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:35.673155997Z",
+  "model": "glm-5.3"
+}

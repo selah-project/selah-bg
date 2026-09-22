@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И ползата на земята във всичко ⟨е⟩: цар ⟨се⟩ обработва за ⟨полето⟩ — полето ⟨служи⟨ на царя.",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "и ползата"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на земята"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "във всичко"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨е⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "за поле"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "⟨се⟩ обработва"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:55.709353004Z",
+  "model": "glm-5.3"
+}

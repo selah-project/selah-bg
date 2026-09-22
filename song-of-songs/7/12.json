@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Ела, мой възлюбен, да излезем на полето, да пренощуваме в селата.",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "мой възлюбен"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "да излезем"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "на полето"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "да пренощуваме"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "в селата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:35:18.677102874Z",
+  "model": "glm-5.3"
+}

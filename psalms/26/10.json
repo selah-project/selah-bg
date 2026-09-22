@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 26:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "чиито ръце замислят зло, и дясната им е пълна с подкупи.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "чиито"
+    },
+    {
+      "surface": "בידיהם",
+      "gloss": "в ръцете им"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "злоумисъл"
+    },
+    {
+      "surface": "וימינם",
+      "gloss": "и дясната им"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пълна е"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "с подкупи"
+    }
+  ],
+  "timestamp": "2026-09-22T14:54:49.201953435Z",
+  "model": "glm-5.3"
+}

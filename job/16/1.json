@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 16:1",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И отговори Ийов ⟨Мойсей не — Иов⟩ и рече:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И отговори"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-22T15:27:35.986141015Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Синовете на Муши: Махли и Едер и Йеремот — три́ма.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "на Муши"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "Махли"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "и Едер"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "и Йеремот"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три́ма"
+    }
+  ],
+  "timestamp": "2026-09-22T16:34:06.078274090Z",
+  "model": "glm-5.3"
+}

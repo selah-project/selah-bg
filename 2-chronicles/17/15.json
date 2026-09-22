@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И при ръката му — Йоханан, началникът, и с него двеста и осемдесет хиляди.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и при"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ръката му"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Йоханан"
+    },
+    {
+      "surface": "השר",
+      "gloss": "началникът"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "и с него"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двеста"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "и осемдесет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляди"
+    }
+  ],
+  "timestamp": "2026-09-22T16:07:53.812043609Z",
+  "model": "glm-5.3"
+}

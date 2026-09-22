@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 120,
+  "translation": "Стрели на силен, изострени, с въглени от ретем.",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "стрели"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "на силен"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "изострени"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "въглени"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "от ретем"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:19.428664775Z",
+  "model": "glm-5.3"
+}

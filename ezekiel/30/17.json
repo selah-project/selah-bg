@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 30:17",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Младежите на Авен и Пи-Бесет от меч ще паднат, а те в плен ще отидат.",
+  "tokens": [
+    {
+      "surface": "בחורי",
+      "gloss": "младежите"
+    },
+    {
+      "surface": "און",
+      "gloss": "на Авен"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "и Пи"
+    },
+    {
+      "surface": "בסת",
+      "gloss": "Бесет"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "от меч"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ще паднат"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "а те"
+    },
+    {
+      "surface": "בשבי",
+      "gloss": "в плен"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "ще отидат"
+    }
+  ],
+  "timestamp": "2026-09-22T14:23:54.281225994Z",
+  "model": "glm-5.3"
+}

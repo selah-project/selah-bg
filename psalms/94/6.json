@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 94:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 94,
+  "translation": "Вдовица и пришълец убиват, а сираци убиват ⟨като жертви⟩.",
+  "tokens": [
+    {
+      "surface": "אלמנה",
+      "gloss": "вдовица"
+    },
+    {
+      "surface": "וגר",
+      "gloss": "и пришълец"
+    },
+    {
+      "surface": "יהרגו",
+      "gloss": "убиват"
+    },
+    {
+      "surface": "ויתומים",
+      "gloss": "а сираци"
+    },
+    {
+      "surface": "ירצחו",
+      "gloss": "убиват"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:17.248007607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Правдата пази непорочния на пътя, а нечестието изкривява грешника.",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "правдата"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "пази"
+    },
+    {
+      "surface": "תם",
+      "gloss": "непорочния"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "на пътя"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "а нечестието"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "изкривява"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "грешника"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:07.265082923Z",
+  "model": "glm-5.3"
+}

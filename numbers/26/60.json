@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И се родиха на Аарон ⟨את⟩ Надав и ⟨את⟩ Авигу, ⟨את⟩ Елеазар и ⟨את⟩ Итамар.",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "И се родиха"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "на Аарон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Надав"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Надав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Авигу"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "Авигу"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елеазар"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Елеазар"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Итамар"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "Итамар"
+    }
+  ],
+  "timestamp": "2026-09-22T11:56:44.760059947Z",
+  "model": "glm-5.3"
+}

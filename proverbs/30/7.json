@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 30:7",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Две ⟨неща⟩ поисках от ⟨את⟩ Теб; не ми отказвай, преди да умра.",
+  "tokens": [
+    {
+      "surface": "שתים",
+      "gloss": "Две"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "поисках"
+    },
+    {
+      "surface": "מאתך",
+      "gloss": "от ⟨את⟩ Теб",
+      "marks": "Теб"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "отказвай"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "преди"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "да умра"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:42.022342639Z",
+  "model": "glm-5.3"
+}

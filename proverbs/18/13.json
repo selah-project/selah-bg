@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 18:13",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Отговаря на дума преди да чуе — глупост е тя за него и срам.",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "отговаря"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "на дума"
+    },
+    {
+      "surface": "בטרם",
+      "gloss": "преди"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "да чуе"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "глупост"
+    },
+    {
+      "surface": "היא",
+      "gloss": "е тя"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за него"
+    },
+    {
+      "surface": "וכלמה",
+      "gloss": "и срам"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:33.244689170Z",
+  "model": "glm-5.3"
+}

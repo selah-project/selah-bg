@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Мъжете на Анатот: сто двадесет и осем.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Мъжете"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "на Анатот"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "и осем"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:46.072775709Z",
+  "model": "glm-5.3"
+}

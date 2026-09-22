@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И ⟨את⟩ морето постави от дясната страна, на изток, срещу юга.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "морето"
+    },
+    {
+      "surface": "הים",
+      "gloss": "морето"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "постави"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "от страната"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "дясната"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "на изток"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "срещу"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "юга"
+    }
+  ],
+  "timestamp": "2026-09-22T16:05:24.567989631Z",
+  "model": "glm-5.3"
+}

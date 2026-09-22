@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 110:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 110,
+  "translation": "Кле се Яхве и няма да се разкае: „Ти си свещеник навеки по реда на Малки-Цедек.“",
+  "tokens": [
+    {
+      "surface": "נשבע",
+      "gloss": "Кле се"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "ינחם",
+      "gloss": "да се разкае"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "свещеник"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навеки"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "реда"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "Малки-"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "Цедек"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:35.676328582Z",
+  "model": "glm-5.3"
+}

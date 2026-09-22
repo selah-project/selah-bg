@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 10:17",
+  "book": "daniel",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И как ще може слугата на този Адонай мой да говори с този Адонай? И аз отсега не стои ⟨в⟩ мен сила, и дъх не остана ⟨в⟩ мен.",
+  "tokens": [
+    {
+      "surface": "והיך",
+      "gloss": "И как"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ще може"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "слугата"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "זה",
+      "gloss": "този"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "да говори"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "זה",
+      "gloss": "този"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "и аз"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "отсега"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "стои"
+    },
+    {
+      "surface": "בי",
+      "gloss": "в мен"
+    },
+    {
+      "surface": "כח",
+      "gloss": "сила"
+    },
+    {
+      "surface": "ונשמה",
+      "gloss": "и дъх"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נשארה",
+      "gloss": "остана"
+    },
+    {
+      "surface": "בי",
+      "gloss": "в мен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:48:14.538263329Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 5:14",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Това са синовете на Авигаил, син на Хури, син на Яроах, син на Галаад, син на Михаел, син на Ешишай, син на Яхдо, син на Буз.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Това"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете на"
+    },
+    {
+      "surface": "אביחיל",
+      "gloss": "Авигаил"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син на"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "Хури"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син на"
+    },
+    {
+      "surface": "ירוח",
+      "gloss": "Яроах"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син на"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Галаад"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син на"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Михаел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син на"
+    },
+    {
+      "surface": "ישישי",
+      "gloss": "Ешишай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син на"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "Яхдо"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син на"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Буз"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:46.407347281Z",
+  "model": "glm-5.3"
+}

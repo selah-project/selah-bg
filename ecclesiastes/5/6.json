@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Защото при множество сънища, и суети, и думи многобройни — но ⟨את⟩ Елохим бой се.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "при множество"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "сънища"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "и суети"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "и думи"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "многобройни"
+    },
+    {
+      "surface": "כי",
+      "gloss": "но"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елохим"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "бой се"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:55.703105264Z",
+  "model": "glm-5.3"
+}

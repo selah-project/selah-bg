@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 37:24",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "От талант чисто злато я направи, ⟨את⟩ нея, и ⟨את⟩ всичките ѝ съдове.",
+  "tokens": [
+    {
+      "surface": "ככר",
+      "gloss": "талант"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисто"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ нея",
+      "marks": "я"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "всичките ѝ съдове"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичките"
+    },
+    {
+      "surface": "כליה",
+      "gloss": "съдове"
+    }
+  ],
+  "timestamp": "2026-09-22T11:28:56.517413651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 85,
+  "ref": "psalms 119:85",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Изкопаха за мен гордите ями, които ⟨не са⟩ според твоята Тора.",
+  "tokens": [
+    {
+      "surface": "כרו",
+      "gloss": "изкопаха"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мен"
+    },
+    {
+      "surface": "זדים",
+      "gloss": "гордите"
+    },
+    {
+      "surface": "שיחות",
+      "gloss": "ями"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כתורתך",
+      "gloss": "според твоята Тора"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:03.338191734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 1:12",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Докато царят ⟨е⟩ на трапезата си, моят нард даде аромата си.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "докато"
+    },
+    {
+      "surface": "שהמלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "במסבו",
+      "gloss": "на трапезата си"
+    },
+    {
+      "surface": "נרדי",
+      "gloss": "моят нард"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "ריחו",
+      "gloss": "аромата си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:40.679165233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 4:9",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И рече Яхве на Каин: къде е Евал, брат ти? А той рече: не зная; пазач ли ⟨съм⟩ на брата си?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каин"
+    },
+    {
+      "surface": "אי",
+      "gloss": "къде"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "Евал"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брат ти"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "зная"
+    },
+    {
+      "surface": "השמר",
+      "gloss": "пазач ли"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брата си"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:45.563042734Z",
+  "model": "glm-5.3"
+}

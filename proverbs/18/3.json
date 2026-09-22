@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "С идването на нечестив идва и презрение, и с безславие — поношение.",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "с идването"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "на нечестив"
+    },
+    {
+      "surface": "בא",
+      "gloss": "идва"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "презрение"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "и с"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "безславие"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "поношение"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:35.568706857Z",
+  "model": "glm-5.3"
+}

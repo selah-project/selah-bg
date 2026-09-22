@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 5:2",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И рече ми: какво виждаш? А аз казах: виждам летящ свитък, дълъг двадесет лакти и широк десет лакти.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "виждаш"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "а казах"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "виждам"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "свитък"
+    },
+    {
+      "surface": "עפה",
+      "gloss": "летящ"
+    },
+    {
+      "surface": "ארכה",
+      "gloss": "дълъг"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "лакти"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "и широк"
+    },
+    {
+      "surface": "עשר",
+      "gloss": " десет"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "лакти"
+    }
+  ],
+  "timestamp": "2026-09-22T14:46:56.626121323Z",
+  "model": "glm-5.3"
+}

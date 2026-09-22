@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "И ще направиш обковки от злато.",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "и ще направиш"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "обковки"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    }
+  ],
+  "timestamp": "2026-09-22T11:25:07.138730223Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 31:17",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Препаша с мощ кръста си, и укрепи мишците си.",
+  "tokens": [
+    {
+      "surface": "חגרה",
+      "gloss": "Препаша"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "с мощ"
+    },
+    {
+      "surface": "מתניה",
+      "gloss": "кръста си"
+    },
+    {
+      "surface": "ותאמץ",
+      "gloss": "и укрепи"
+    },
+    {
+      "surface": "זרעותיה",
+      "gloss": "мишците си"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:33.336103559Z",
+  "model": "glm-5.3"
+}

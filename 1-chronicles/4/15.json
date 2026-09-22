@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И синовете на Калев, син на Йефуне: Иру, Ела и Ноам; и синовете на Ела ⟨и⟩ Кеназ.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синовете"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "на Калев"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "на Йефуне"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "Иру"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "и Ноам"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синовете"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "на Ела"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "и Кеназ"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:00.181399406Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Питка мед са приятните думи — сладки за душата и целебни за костта.",
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "питка"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "мед"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "думите"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "приятни"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "сладки"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "за душата"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "и целебни"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "за костта"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:00.513914255Z",
+  "model": "glm-5.3"
+}

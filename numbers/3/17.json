@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 3:17",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И бяха тези синове на Леви по имената им: Гершон, и Кехат, и Мерари.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И бяха"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "на Леви"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "по имената им"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершон"
+    },
+    {
+      "surface": "וקהת",
+      "gloss": "и Кехат"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "и Мерари"
+    }
+  ],
+  "timestamp": "2026-09-22T11:45:52.874690572Z",
+  "model": "glm-5.3"
+}

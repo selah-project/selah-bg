@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Кой е този, царят на славата? Яхве, силен и мощен, Яхве, мощен в битка.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кой"
+    },
+    {
+      "surface": "זה",
+      "gloss": "е този"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "на славата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "силен"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "и мощен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "мощен"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "в битка"
+    }
+  ],
+  "timestamp": "2026-09-22T14:55:16.292938963Z",
+  "model": "glm-5.3"
+}

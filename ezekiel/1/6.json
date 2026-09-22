@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "и четири лица на ⟨една⟩, и четири крила на ⟨една⟩ имат те.",
+  "tokens": [
+    {
+      "surface": "וארבעה",
+      "gloss": "и четири"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лица"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "на ⟨една⟩"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "и четири"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "крила"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "на ⟨една⟩"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имат те"
+    }
+  ],
+  "timestamp": "2026-09-22T14:10:16.942641877Z",
+  "model": "glm-5.3"
+}

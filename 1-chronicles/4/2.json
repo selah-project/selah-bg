@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 4:2",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И Реая син на Шовал роди ⟨את⟩ Яхат, и Яхат роди ⟨את⟩ Ахумай и ⟨את⟩ Лахад; тези ⟨са⟩ родовете на цареатянина.",
+  "tokens": [
+    {
+      "surface": "וראיה",
+      "gloss": "И Реая"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "на Шовал"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхат"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "Яхат"
+    },
+    {
+      "surface": "ויחת",
+      "gloss": "и Яхат"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ахумай"
+    },
+    {
+      "surface": "אחומי",
+      "gloss": "Ахумай"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Лахад"
+    },
+    {
+      "surface": "להד",
+      "gloss": "Лахад"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "родовете"
+    },
+    {
+      "surface": "הצרעתי",
+      "gloss": "на цареатянина"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:11.677384649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И дойдоха от синовете на Вениамин и Юда до крепостта на Давид.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "и дойдоха"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Вениамин"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "и Юда"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "крепостта"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:58.276316678Z",
+  "model": "glm-5.3"
+}

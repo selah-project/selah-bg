@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 10:34",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И облакът на Яхве беше над тях денем, когато тръгваха от лагера.",
+  "tokens": [
+    {
+      "surface": "וענן",
+      "gloss": "И облакът"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над тях"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "денем"
+    },
+    {
+      "surface": "בנסעם",
+      "gloss": "когато тръгваха"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "лагера"
+    }
+  ],
+  "timestamp": "2026-09-22T16:18:40.353132302Z",
+  "model": "glm-5.3"
+}

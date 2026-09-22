@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Йетур, Нафиш и Кедма — това са синовете на Ишмаел.",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "Йетур"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "Нафиш"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "и Кедма"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "това"
+    },
+    {
+      "surface": "הם",
+      "gloss": "са"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "на Ишмаел"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:55.178959577Z",
+  "model": "glm-5.3"
+}

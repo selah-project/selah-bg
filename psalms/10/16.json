@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 10:16",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Яхве ⟨е⟩ цар навеки и вовек; изгинахa народите от земята му.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "навеки"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и вовек"
+    },
+    {
+      "surface": "אבדו",
+      "gloss": "изгинахa"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "мארצו",
+      "gloss": "от земята му"
+    }
+  ],
+  "timestamp": "2026-09-22T14:52:07.420637935Z",
+  "model": "glm-5.3"
+}

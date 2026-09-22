@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 101,
+  "translation": "Изкривено сърце ще се отстрани от мен; зло няма да познавам.",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "сърце"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "Изкривено"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ще се отстрани"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от мен"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "לא",
+      "gloss": "няма"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "да познавам"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:38.727679902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Синовете на Кехат: Амрам, Ицхар, Хеврон и Узиил, четирима.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кехат"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Ицхар"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хеврон"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "и Узиил"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четирима"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:42.910935451Z",
+  "model": "glm-5.3"
+}

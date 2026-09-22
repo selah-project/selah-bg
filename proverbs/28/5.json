@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Люде зли не разбират съд, а търсещите Яхве разбират всичко.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "люде"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зли"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "разбират"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "съд"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "а търсещите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "разбират"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:09.379046040Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Хецро кармелцът, Парай арбиеца,",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "Хецро"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "кармелцът"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "Парай"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "арбиеца"
+    }
+  ],
+  "timestamp": "2026-09-22T12:59:04.581326347Z",
+  "model": "glm-5.3"
+}

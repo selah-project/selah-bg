@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 94:18",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 94,
+  "translation": "Когато казах: „Кluца кракът ми“, хеседът ти, Яхве, ме подкрепи.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "когато"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "казах"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "кluца"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "кракът ми"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хеседът ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יסעדני",
+      "gloss": "ме подкрепи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:41.281253751Z",
+  "model": "glm-5.3"
+}

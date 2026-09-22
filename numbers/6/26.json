@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Яхве да вдигне лицето си към тебе и да ти даде мир.",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "да вдигне"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицето си"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "към тебе"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "и да постави"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за тебе"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    }
+  ],
+  "timestamp": "2026-09-22T11:46:48.468656818Z",
+  "model": "glm-5.3"
+}

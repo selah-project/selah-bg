@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 17:21",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "Раждащ глупак ⟨го ражда⟩ за скръб, и бащата на безумец не се радва.",
+  "tokens": [
+    {
+      "surface": "ילד",
+      "gloss": "раждащ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупак"
+    },
+    {
+      "surface": "לתוגה",
+      "gloss": "за скръб"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨него⟩"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "се радва"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "бащата на"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "безумец"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:58.912154817Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Хагав, синовете на Шамлай, синовете на Ханан.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "Хагав"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "Шамлай"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ханан"
+    }
+  ],
+  "timestamp": "2026-09-22T15:49:14.319149216Z",
+  "model": "glm-5.3"
+}

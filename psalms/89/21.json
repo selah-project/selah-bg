@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 89:21",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 89,
+  "translation": "Намерих Давид, слугата си; с моя свят елей го помазах.",
+  "tokens": [
+    {
+      "surface": "מצאתי",
+      "gloss": "Намерих"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слугата си"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "с елей"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "моя свят"
+    },
+    {
+      "surface": "משחתיו",
+      "gloss": "го помазах"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:48.101435839Z",
+  "model": "glm-5.3"
+}

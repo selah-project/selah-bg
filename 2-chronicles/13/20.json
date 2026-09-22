@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 13:20",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И не задържа Яровам сила повече през дните на Авидия; и Яхве го порази, и умря.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "עצר",
+      "gloss": "задържа"
+    },
+    {
+      "surface": "כח",
+      "gloss": "сила"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яровам"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "повече"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "през дните"
+    },
+    {
+      "surface": "אביהו",
+      "gloss": "на Авидия"
+    },
+    {
+      "surface": "ויגפהו",
+      "gloss": "и го порази"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умря"
+    }
+  ],
+  "timestamp": "2026-09-22T16:34:16.062424548Z",
+  "model": "glm-5.3"
+}

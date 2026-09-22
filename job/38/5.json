@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 38:5",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "Кой постави мерките ѝ — та ти знаеш? Или кой опъна върху нея въже?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "שם",
+      "gloss": "постави"
+    },
+    {
+      "surface": "ממדיה",
+      "gloss": "мерките ѝ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "та"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "знаеш"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "опъна"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "върху нея"
+    },
+    {
+      "surface": "קו",
+      "gloss": "въже"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:08.445147882Z",
+  "model": "glm-5.3"
+}

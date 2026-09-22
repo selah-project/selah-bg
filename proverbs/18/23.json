@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Молби говори бедният, а богатият отговаря ⟨с⟩ дерзост.",
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "Молби"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "רש",
+      "gloss": "бедният"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "а богатият"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "отговаря"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "дерзост"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:42.956738916Z",
+  "model": "glm-5.3"
+}

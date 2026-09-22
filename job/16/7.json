@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 16:7",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Но сега Той ме изтощи, Ти опустоши цялата ми общност.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "но"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сега"
+    },
+    {
+      "surface": "הלאני",
+      "gloss": "изтощи ме"
+    },
+    {
+      "surface": "השמות",
+      "gloss": "опустоши"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялата"
+    },
+    {
+      "surface": "עדתי",
+      "gloss": "общност"
+    }
+  ],
+  "timestamp": "2026-09-22T15:27:09.322000421Z",
+  "model": "glm-5.3"
+}

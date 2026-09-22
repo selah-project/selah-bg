@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 44:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 44,
+  "translation": "За диригента; на синовете на Корах; поука.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "за диригента"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на синовете"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "на Корах"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "поука"
+    }
+  ],
+  "timestamp": "2026-09-22T14:58:39.970789067Z",
+  "model": "glm-5.3"
+}

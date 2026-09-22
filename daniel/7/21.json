@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 7:21",
+  "book": "daniel",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Гледах, и този рог водеше война против светците и надделя над тях.",
+  "tokens": [
+    {
+      "surface": "חזה",
+      "gloss": "гледах"
+    },
+    {
+      "surface": "הוית",
+      "gloss": "бях"
+    },
+    {
+      "surface": "וקרנא",
+      "gloss": "и рогът"
+    },
+    {
+      "surface": "דכן",
+      "gloss": "този"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "водеше"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "война"
+    },
+    {
+      "surface": "עם",
+      "gloss": "против"
+    },
+    {
+      "surface": "קדישין",
+      "gloss": "светците"
+    },
+    {
+      "surface": "ויכלה",
+      "gloss": "и надделя"
+    },
+    {
+      "surface": "להון",
+      "gloss": "над тях"
+    }
+  ],
+  "timestamp": "2026-09-22T16:33:33.521665471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 148:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 148,
+  "translation": "Хвалете ⟨את⟩ Яхве от земята, морски чудовища и всички бездни!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "Хвалете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "морски чудовища"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всички"
+    },
+    {
+      "surface": "תהמות",
+      "gloss": "бездни"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:15.374686121Z",
+  "model": "glm-5.3"
+}

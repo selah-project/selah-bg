@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Цар, седящ на престол ⟨на⟩ съд, преява с очите си всяко зло.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "Цар"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "седящ"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "престол"
+    },
+    {
+      "surface": "דין",
+      "gloss": "съд"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "преява"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "с очите си"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяко"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:22.332390865Z",
+  "model": "glm-5.3"
+}

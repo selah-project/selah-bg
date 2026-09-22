@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "2-samuel 3:37",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И узна целият народ и целият Израел в онзи ден, че не беше от царя да умъртви ⟨את⟩ Авнер, син на Нер.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "и узна"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целият"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и целият"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онзи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "מהמלך",
+      "gloss": "от царя"
+    },
+    {
+      "surface": "להמית",
+      "gloss": "да умъртви"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авнер"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "נר",
+      "gloss": "Нер"
+    }
+  ],
+  "timestamp": "2026-09-22T16:22:40.886717312Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 113,
+  "translation": "Нека бъде името на Яхве благословено от сега и до вечността.",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "нека бъде"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "благословено"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "от сега"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечността"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:12.560631022Z",
+  "model": "glm-5.3"
+}

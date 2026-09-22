@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И се изкачи Моше на планината, и облакът покри ⟨את⟩ планината.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "И се изкачи"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "планината"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "и покри"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "облакът"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "планината"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "планината"
+    }
+  ],
+  "timestamp": "2026-09-22T11:22:23.600024713Z",
+  "model": "glm-5.3"
+}

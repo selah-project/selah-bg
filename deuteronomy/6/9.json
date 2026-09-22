@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И ще ги напишеш на дверните прагове на дома си и на портите си.",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "и ще ги напишеш"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "дверните прагове"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "на дома си"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "и на портите си"
+    }
+  ],
+  "timestamp": "2026-09-22T12:03:30.845293678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 38:7",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "И беше Ер, първородният на Ехуда, лош в очите на Яхве, и Яхве го умъртви.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ер"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "първородният"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Ехуда"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лош"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очите на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "и го умъртви"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:08:34.186139310Z",
+  "model": "glm-5.3"
+}

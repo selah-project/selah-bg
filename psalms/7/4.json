@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Яхве, Елохим мой, ако сторих това, ако има неправда в дланите ми,",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мой"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "сторих"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "עול",
+      "gloss": "неправда"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "в дланите ми"
+    }
+  ],
+  "timestamp": "2026-09-22T16:29:10.783550369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Защото не към народ с дълбоки устни и тежък език си изпратен, а към дома на Израел.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "дълбоки"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "устни"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "и тежък"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "език"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "изпратен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T14:12:46.362698355Z",
+  "model": "glm-5.3"
+}

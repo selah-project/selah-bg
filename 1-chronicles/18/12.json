@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И Авишай, синът на Цруя, порази ⟨את⟩ Едом в Солената долина — осемнадесет хиляди.",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "И Авишай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синът"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Цруя"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "порази"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Едом"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "в"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Солената долина"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "осемнадесет"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "хиляди"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляди"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:02.152784331Z",
+  "model": "glm-5.3"
+}

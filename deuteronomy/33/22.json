@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И за Дан рече: Дан е лъвче на лъв — ще се спусне от Башан.",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "и за Дан"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    },
+    {
+      "surface": "גור",
+      "gloss": "лъвче"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "лъв"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "ще се спусне"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Башан"
+    }
+  ],
+  "timestamp": "2026-09-22T12:14:22.696786263Z",
+  "model": "glm-5.3"
+}

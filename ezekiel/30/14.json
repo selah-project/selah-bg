@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 30:14",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И ще опустоша ⟨את⟩ Патрос, и ще дам огън в Цоан, и ще извърша съдби в Но.",
+  "tokens": [
+    {
+      "surface": "והשמתי",
+      "gloss": "И ще опустоша"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Патрос"
+    },
+    {
+      "surface": "פתרוס",
+      "gloss": "Патрос"
+    },
+    {
+      "surface": "ונתתי",
+      "gloss": "и ще дам"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огън"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "в Цоан"
+    },
+    {
+      "surface": "ועשיתי",
+      "gloss": "и ще извърша"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "съдби"
+    },
+    {
+      "surface": "בנא",
+      "gloss": "в Но"
+    }
+  ],
+  "timestamp": "2026-09-22T14:23:31.998823842Z",
+  "model": "glm-5.3"
+}

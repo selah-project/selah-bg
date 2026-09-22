@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 33:28",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И се настани Израел безопасно, сам; изворът на Яков — към земя на жито и вино; дори небесата му ще ронят роса.",
+  "tokens": [
+    {
+      "surface": "וישכן",
+      "gloss": "и се настани"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "безопасно"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "сам"
+    },
+    {
+      "surface": "עין",
+      "gloss": "изворът"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "на Яков"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "жито"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "и вино"
+    },
+    {
+      "surface": "אף",
+      "gloss": "дори"
+    },
+    {
+      "surface": "שמיו",
+      "gloss": "небесата му"
+    },
+    {
+      "surface": "יערפו",
+      "gloss": "ще ронят"
+    },
+    {
+      "surface": "טל",
+      "gloss": "роса"
+    }
+  ],
+  "timestamp": "2026-09-22T12:15:06.579263481Z",
+  "model": "glm-5.3"
+}

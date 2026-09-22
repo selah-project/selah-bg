@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 94,
+  "translation": "Възвиси се, Съдията на земята; върни отплата върху гордите!",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "Възвиси се"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "Съдията"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земята"
+    },
+    {
+      "surface": "השב",
+      "gloss": "върни"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "отплата"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "гордите"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:07.533817841Z",
+  "model": "glm-5.3"
+}

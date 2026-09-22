@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 23:19",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "От тримата нали ⟨бе⟩ най-почетен, и стана им за княз; но до тримата не дойде.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "От"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "тримата"
+    },
+    {
+      "surface": "הכי",
+      "gloss": "нали"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "най-почетен"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "за княз"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "но до"
+    },
+    {
+      "surface": "השלשה",
+      "gloss": "тримата"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дойде"
+    }
+  ],
+  "timestamp": "2026-09-22T12:59:52.511065449Z",
+  "model": "glm-5.3"
+}

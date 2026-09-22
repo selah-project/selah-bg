@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 5:18",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "а сега отидете, работете, и слама няма да ви се дава, а мярата тухли ще давате.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "отидете"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "работете"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "и слама"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ще се дава"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "а мярата"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "тухли"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "ще давате"
+    }
+  ],
+  "timestamp": "2026-09-22T11:15:27.060328645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 34:14",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "защото няма да се поклониш на друг Ел, защото Яхве — ревнив ⟨е⟩ името Му — Ел ревнив е Той.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ще се поклониш"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "на Ел"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "друг"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ревнив"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името Му"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ревнив"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Той"
+    }
+  ],
+  "timestamp": "2026-09-22T11:27:38.135098976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 35:19",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "И умря Рахел, и беше погребана на пътя за Ефрата — тя е Бет-Лехем ⟨Витлеем⟩.",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "И умря"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "и беше погребана"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на пътя"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "Ефрата"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тя е"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехем"
+    }
+  ],
+  "timestamp": "2026-09-22T11:07:23.460829742Z",
+  "model": "glm-5.3"
+}

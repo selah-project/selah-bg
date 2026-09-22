@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 20:25",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Вземи ⟨את⟩ Аарон и ⟨את⟩ Елеазар, сина му, и ги изкачи ⟨את⟩ на планината Хор.",
+  "tokens": [
+    {
+      "surface": "קח",
+      "gloss": "Вземи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аарон"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Елеазар"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Елеазар"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сина му"
+    },
+    {
+      "surface": "והעל",
+      "gloss": "и ги изкачи"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ги",
+      "marks": "Аарон и Елеазар"
+    },
+    {
+      "surface": "הר",
+      "gloss": "Хор"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "планината"
+    }
+  ],
+  "timestamp": "2026-09-22T16:18:52.753209402Z",
+  "model": "glm-5.3"
+}

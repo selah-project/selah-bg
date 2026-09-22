@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 50:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 50,
+  "translation": "И рече фараонът: изкачай се и погреби баща си ⟨את⟩, както те закле.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараонът"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "изкачай се"
+    },
+    {
+      "surface": "וקבר",
+      "gloss": "и погреби"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "баща си"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "баща си"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "какато"
+    },
+    {
+      "surface": "השביעך",
+      "gloss": "те закле"
+    }
+  ],
+  "timestamp": "2026-09-22T11:13:29.260682042Z",
+  "model": "glm-5.3"
+}

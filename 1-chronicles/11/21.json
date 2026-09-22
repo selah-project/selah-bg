@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 11:21",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "От тримата в двамата беше почетен и стана им за княз; но до тримата ⟨първи⟩ не дойде.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "тримата"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "в двамата"
+    },
+    {
+      "surface": "נכבד",
+      "gloss": "почетен"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לשר",
+      "gloss": "за княз"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "השלושה",
+      "gloss": "тримата"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дойде"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:14.049835267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И синовете на Яван: Елиша и Таршиш, Китим и Доданим.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синовете"
+    },
+    {
+      "surface": "יון",
+      "gloss": "на Яван"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Елиша"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "и Таршиш"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Китим"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "и Доданим"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:25.524199535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 9:17",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И направи царят голям трон от слонова кост и го обкова с чисто злато.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И направи"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "трон"
+    },
+    {
+      "surface": "שן",
+      "gloss": "от слонова кост"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голям"
+    },
+    {
+      "surface": "ויצפהו",
+      "gloss": "и го обкова"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисто"
+    }
+  ],
+  "timestamp": "2026-09-22T16:06:51.083203504Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Вкусете и вижте, че добър е Яхве; блажен е мъжът, който се уповава в него.",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "Вкусете"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "и вижте"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добър"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "блажен"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "мъжът"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "се уповава"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в него"
+    }
+  ],
+  "timestamp": "2026-09-22T16:29:22.432046280Z",
+  "model": "glm-5.3"
+}

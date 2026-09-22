@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Помни, непрестанно помни, и се превива в мен душата ми.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Помни"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "непрестанно помни"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "и се превива"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "в мен"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:37:01.012341777Z",
+  "model": "glm-5.3"
+}

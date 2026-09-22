@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И отиде Авимелех към Тевец, и оплянца Тевец, и я превзе.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "Тевец"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "и оплянца"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "Тевец"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "и я превзе"
+    }
+  ],
+  "timestamp": "2026-09-22T12:29:49.571392936Z",
+  "model": "glm-5.3"
+}

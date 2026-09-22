@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Чуй ти, сине мой, и бъди мъдър, и насочвай сърцето си в пътя.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Чуй"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сине мой"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "и бъди мъдър"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "и насочвай"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "в пътя"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "сърцето си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:14.039968670Z",
+  "model": "glm-5.3"
+}

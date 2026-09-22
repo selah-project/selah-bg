@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "за Йехуда — Нахшон, син на Аминадав;",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "за Йехуда"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Нахшон"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "на Аминадав"
+    }
+  ],
+  "timestamp": "2026-09-22T11:44:27.108932516Z",
+  "model": "glm-5.3"
+}

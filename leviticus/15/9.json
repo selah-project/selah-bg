@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "И всяко седло, върху което язви потокът, ще се оскверни.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и всяко"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "седло"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "язви"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "върху което"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "потокът"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ще се оскверни"
+    }
+  ],
+  "timestamp": "2026-09-22T11:38:07.976086438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "Според всички тези думи и според целия този хазон, тъй говори Натан на Давид.",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "Според всички"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "думи"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "и според целия"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "хазон"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    },
+    {
+      "surface": "כן",
+      "gloss": "тъй"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T16:01:46.633262926Z",
+  "model": "glm-5.3"
+}

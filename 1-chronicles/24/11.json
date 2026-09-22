@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "деветият за Йешуа, десетият за Шханяху",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "за Йешуа"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "деветият"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "за Шханяху"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "десетият"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:28.180596179Z",
+  "model": "glm-5.3"
+}

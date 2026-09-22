@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 22:17",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И заповяда Давид на всички князе на Израел да помагат на Соломон, синът му:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "и заповяда"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на всички"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "князе"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "да помагат"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "на Соломон"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    }
+  ],
+  "timestamp": "2026-09-22T16:03:13.210555305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 105:19",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 105,
+  "translation": "До времето, когато дойде словото му, словото на Яхве го изчисти.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עת",
+      "gloss": "времето"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дойде"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "словото му"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צרפתהו",
+      "gloss": "го изчисти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:34.170857995Z",
+  "model": "glm-5.3"
+}

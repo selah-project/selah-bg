@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И направи Ное всичко, каквото му заповяда Яхве.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И направи"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ное"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "каквото"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "му заповяда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:47.821061585Z",
+  "model": "glm-5.3"
+}

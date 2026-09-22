@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 15:31",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "И се върна Шмуел след Саул, и се поклони Саул на Яхве.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И се върна"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуел"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "след"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Саул"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "и се поклони"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Саул"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T12:40:49.345835278Z",
+  "model": "glm-5.3"
+}

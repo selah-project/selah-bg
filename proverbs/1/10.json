@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Синко, ако грешници те прелъстят — не се съгласявай.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синко"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "те прелъстят"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "грешници"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "се съгласявай"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:31.679805787Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синове на Бани — шестстотин четиридесет и двама.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бани"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четиридесет"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и двама"
+    }
+  ],
+  "timestamp": "2026-09-22T15:48:04.011386538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 74:15",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 74,
+  "translation": "Ти разтвори извор и поток, Ти пресуши реки вечни.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "разтвори"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "извор"
+    },
+    {
+      "surface": "ונחל",
+      "gloss": "и поток"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "הובשת",
+      "gloss": "пресуши"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "реки"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "вечни"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:19.289434078Z",
+  "model": "glm-5.3"
+}

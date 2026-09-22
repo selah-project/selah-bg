@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И рече Авимелех на Авраам: какво видя, та стори ⟨את⟩ това нещо?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "Авимелех"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "видя"
+    },
+    {
+      "surface": "כי",
+      "gloss": "та"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "сторѝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "това нещо"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "нещото"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "това"
+    }
+  ],
+  "timestamp": "2026-09-22T11:00:25.997525442Z",
+  "model": "glm-5.3"
+}

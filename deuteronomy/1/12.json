@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Как ще нося сам вашия товар, и бремето ви, и споровете ви?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "Как"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ще нося"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "сам"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "вашия товар"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "и бремето ви"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "и споровете ви"
+    }
+  ],
+  "timestamp": "2026-09-22T12:00:51.950072965Z",
+  "model": "glm-5.3"
+}

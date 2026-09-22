@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 40:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 40,
+  "translation": "Чаках, да — чаках Яхве, и Той се наклони към мен, и чу вика ми.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "чаках"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "да — чаках"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "и се наклони"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мен"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "и чу"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "вика ми"
+    }
+  ],
+  "timestamp": "2026-09-22T14:58:25.729421014Z",
+  "model": "glm-5.3"
+}

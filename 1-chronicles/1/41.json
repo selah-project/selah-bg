@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Синовете на Анан: Дишон. И синовете на Дишон: Хамран, и Ешбан, и Итран, и Керан.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "на Анан"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "Дишон"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "И синовете"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "на Дишон"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "Хамран"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "и Ешбан"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "и Итран"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "и Керан"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:41.744429250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 4:11",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И вода по мярка ще пиеш — шеста част от хин; от време до време ще пиеш.",
+  "tokens": [
+    {
+      "surface": "ומים",
+      "gloss": "И вода"
+    },
+    {
+      "surface": "במשורה",
+      "gloss": "по мярка"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ще пиеш"
+    },
+    {
+      "surface": "ששית",
+      "gloss": "шеста част"
+    },
+    {
+      "surface": "ההין",
+      "gloss": "от хин"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "от време"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "תשתה",
+      "gloss": "ще пиеш"
+    }
+  ],
+  "timestamp": "2026-09-22T14:11:42.446963777Z",
+  "model": "glm-5.3"
+}

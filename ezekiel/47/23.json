@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 47:23",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 47,
+  "translation": "И ще бъде: в племето, в което живее пришълецът с ⟨את⟩ него, там дадете наследството му — oracle на Адонай Яхве.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и ще бъде"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "в племето"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "в което"
+    },
+    {
+      "surface": "גר",
+      "gloss": "живее"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "пришълецът"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "дадете"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "наследството му"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "oracle"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:30:34.975986680Z",
+  "model": "glm-5.3"
+}

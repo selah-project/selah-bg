@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 31:2",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "И рече им: син на сто и двадесет години съм аз днес; не мога вече да излизам и да влизам; и Яхве рече ми: не ще преминеш ⟨את⟩ този Йордан.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    },
+    {
+      "surface": "היום",
+      "gloss": "днес"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "мога"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "вече"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "да излизам"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "и да влизам"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и Яхве"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "ще преминеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "този Йордан"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Йордан"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    }
+  ],
+  "timestamp": "2026-09-22T12:15:16.745886765Z",
+  "model": "glm-5.3"
+}

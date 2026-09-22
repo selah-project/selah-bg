@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И беше ⟨ друга жена на Йерахмеел, и името ѝ Атара; тя ⟨беше⟩ майка на Онам.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "друга"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "на Йерахмеел"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "и името ѝ"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "Атара"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "אם",
+      "gloss": "майка"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "Онам"
+    }
+  ],
+  "timestamp": "2026-09-22T16:33:20.022268604Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Говори на синовете Израилеви и кажи им: Аз съм Яхве, Елохим ваш.",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израилеви"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и кажи"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елохим ваш"
+    }
+  ],
+  "timestamp": "2026-09-22T11:38:20.764936621Z",
+  "model": "glm-5.3"
+}

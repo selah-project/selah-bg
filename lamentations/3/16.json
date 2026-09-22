@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И стри с чакъл зъбите ми, потъпка ме в пепелта.",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "И стри"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "с чакъл"
+    },
+    {
+      "surface": "שני",
+      "gloss": "зъбите ми"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "потъпка ме"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "в пепелта"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:51.101855688Z",
+  "model": "glm-5.3"
+}

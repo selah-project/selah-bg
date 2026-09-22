@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Бигвай — две хиляди петдесет и шест.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "Бигвай"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "хиляди"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "петдесет"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "и шест"
+    }
+  ],
+  "timestamp": "2026-09-22T15:48:17.733437970Z",
+  "model": "glm-5.3"
+}

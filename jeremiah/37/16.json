@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 37:16",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "Когато влезе Ирмияху в дома на ямата и в килиите, и седна там Ирмияху дни много.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Когато"
+    },
+    {
+      "surface": "בא",
+      "gloss": "влезе"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмияху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "на ямата"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и в"
+    },
+    {
+      "surface": "החניות",
+      "gloss": "килиите"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и седна"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмияху"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "много"
+    }
+  ],
+  "timestamp": "2026-09-22T14:03:30.724942237Z",
+  "model": "glm-5.3"
+}

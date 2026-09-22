@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 59:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 59,
+  "translation": "А Ти, Яхве, ще се смееш на тях, ще се присмиваш на всички народи.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "а Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "ще се смееш"
+    },
+    {
+      "surface": "למו",
+      "gloss": "на тях"
+    },
+    {
+      "surface": "תלעג",
+      "gloss": "ще се присмиваш"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на всички"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:01:55.431995419Z",
+  "model": "glm-5.3"
+}

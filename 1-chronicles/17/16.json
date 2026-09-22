@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И дойде царят Давид, и седна пред Яхве, и каза: Кой съм аз, Яхве Елохим, и кой е домът ми, та ме доведе досега?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И дойде"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и седна"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Кой"
+    },
+    {
+      "surface": "אני",
+      "gloss": "съм аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и кой"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "домът ми"
+    },
+    {
+      "surface": "כי",
+      "gloss": "та"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "ме доведе"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "досега"
+    }
+  ],
+  "timestamp": "2026-09-22T16:01:46.633418964Z",
+  "model": "glm-5.3"
+}

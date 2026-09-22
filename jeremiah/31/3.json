@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 31:3",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Отдалеч се яви Яхве на мен: с вечна любов те възлюбих, затова те привлекох с хесед.",
+  "tokens": [
+    {
+      "surface": "מרחוק",
+      "gloss": "отдалеч"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "се яви"
+    },
+    {
+      "surface": "לי",
+      "gloss": "на мен"
+    },
+    {
+      "surface": "ואהבת",
+      "gloss": "и с любов"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечна"
+    },
+    {
+      "surface": "אהבתיך",
+      "gloss": "те възлюбих"
+    },
+    {
+      "surface": "על",
+      "gloss": "затова"
+    },
+    {
+      "surface": "כן",
+      "gloss": "τ setObjectза"
+    },
+    {
+      "surface": "משכתיך",
+      "gloss": "те привлечох"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "с хесед"
+    }
+  ],
+  "timestamp": "2026-09-22T14:00:24.102519322Z",
+  "model": "glm-5.3"
+}

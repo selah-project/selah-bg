@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "От синовете на Бани: Маадай, Амрам и Уел.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "от синовете"
+    },
+    {
+      "surface": "בני",
+      "gloss": "Бани"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "Маадай"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "Амрам"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "и Уел"
+    }
+  ],
+  "timestamp": "2026-09-22T15:51:03.223468572Z",
+  "model": "glm-5.3"
+}

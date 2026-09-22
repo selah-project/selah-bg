@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И човек или жена, когато бъдат в кожата на тялото им белези, белези белисти —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "И човек"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когато"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бъдат"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "в кожата"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "на тялото им"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "белези"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "белези"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "белисти"
+    }
+  ],
+  "timestamp": "2026-09-22T11:36:12.766500056Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 24:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Защото ⟨той⟩ върху моретата я е основал и върху реките я е утвърдил.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨той⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "моретата"
+    },
+    {
+      "surface": "יסדה",
+      "gloss": "я е основал"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и върху"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "реките"
+    },
+    {
+      "surface": "יכוננה",
+      "gloss": "я е утвърдил"
+    }
+  ],
+  "timestamp": "2026-09-22T14:55:13.936225973Z",
+  "model": "glm-5.3"
+}

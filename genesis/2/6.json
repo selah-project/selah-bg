@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 2:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И изпарение се издигаше от земята и напояваше ⟨את⟩ целия лик на почвата.",
+  "tokens": [
+    {
+      "surface": "ואד",
+      "gloss": "И изпарение"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "се издигаше"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "והשקה",
+      "gloss": "и напояваше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "целия лик"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целия"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лик"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "на почвата"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:03.596587634Z",
+  "model": "glm-5.3"
+}

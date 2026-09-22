@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Направих си езера с вода, за да напоявам от тях гора, която отглежда дървета.",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "Направих"
+    },
+    {
+      "surface": "לי",
+      "gloss": "си"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "езера"
+    },
+    {
+      "surface": "מים",
+      "gloss": "с вода"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "за да напоявам"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "от тях"
+    },
+    {
+      "surface": "יער",
+      "gloss": "гора"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "която отглежда"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "дървета"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:06.155258683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 24:23",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И поде притчата си, и рече: о, кой ще живее, когато Ел го постави?",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "и поде"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "притчата си"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "о"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ще живее"
+    },
+    {
+      "surface": "משמו",
+      "gloss": "когато постави"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    }
+  ],
+  "timestamp": "2026-09-22T11:55:02.183354223Z",
+  "model": "glm-5.3"
+}

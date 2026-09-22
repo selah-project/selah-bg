@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И върши правото в очите на Яхве — само не със сърце цяло.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И върши"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "правото"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "със сърце"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "цяло"
+    }
+  ],
+  "timestamp": "2026-09-22T16:11:56.207133331Z",
+  "model": "glm-5.3"
+}

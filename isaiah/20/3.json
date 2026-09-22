@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 20:3",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И рече Яхве: както ходи слугата ми Ишая гол и бос, три години — знак и чудо над Мицраим и над Куш,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ходи"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слугата ми"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "Ишая"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "гол"
+    },
+    {
+      "surface": "ויחף",
+      "gloss": "и бос"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "אות",
+      "gloss": "знак"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "и чудо"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    }
+  ],
+  "timestamp": "2026-09-22T13:30:45.100695575Z",
+  "model": "glm-5.3"
+}

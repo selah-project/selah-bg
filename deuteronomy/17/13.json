@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И цялото ⟨народът⟩ народ ще чуе и ще се бои, и не ще дръзкат вече.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и цял"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народът"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ще чуят"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "и ще се боят"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "ще дръзкат"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "вече"
+    }
+  ],
+  "timestamp": "2026-09-22T12:09:54.439138094Z",
+  "model": "glm-5.3"
+}

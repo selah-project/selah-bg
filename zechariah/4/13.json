@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 4:13",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И рече ми, казвайки: Не знаеш ли какво са тези? И казах: Не, Адонай.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаеш ли"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "И казах"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    }
+  ],
+  "timestamp": "2026-09-22T14:45:42.016968370Z",
+  "model": "glm-5.3"
+}

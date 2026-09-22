@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 25:19",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И това са родовете на Ицхак, син Авраамов: Авраам роди ⟨את⟩ Ицхак.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И това"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "родовете"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ицхак"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    }
+  ],
+  "timestamp": "2026-09-22T11:02:51.014092480Z",
+  "model": "glm-5.3"
+}

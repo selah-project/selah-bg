@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Пътищата на Шеол ⟨са⟩ домът ѝ, слизания към покоите на смъртта.",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "пътищата"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "домът ѝ"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "слизания"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "покоите"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смъртта"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:45.700141185Z",
+  "model": "glm-5.3"
+}

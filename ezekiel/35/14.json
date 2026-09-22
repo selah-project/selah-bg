@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 35:14",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "Така каза Адонай Яхве: когато цялата земя се радва, запустение ще ти направя.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כשמח",
+      "gloss": "когато се радва"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "запустение"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ще направя"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-22T14:26:39.720816677Z",
+  "model": "glm-5.3"
+}

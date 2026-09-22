@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "И я обкова той ⟨את⟩ със злато чисто, и ѝ направи венец от злато наоколо.",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "И обкова"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ нея"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисто"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "и направи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ѝ"
+    },
+    {
+      "surface": "זר",
+      "gloss": "венец"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколо"
+    }
+  ],
+  "timestamp": "2026-09-22T11:29:02.076143046Z",
+  "model": "glm-5.3"
+}

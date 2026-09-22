@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 141:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 141,
+  "translation": "Нека паднат wicked→нечестивите в мрежите си ⟨заедно⟩, докато аз премина.",
+  "tokens": [
+    {
+      "surface": "יפלו",
+      "gloss": "да паднат"
+    },
+    {
+      "surface": "במכמריו",
+      "gloss": "в мрежите си"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивите"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "⟨заедно⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    },
+    {
+      "surface": "עד",
+      "gloss": "докато"
+    },
+    {
+      "surface": "אעבור",
+      "gloss": "премина"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:41.460896338Z",
+  "model": "glm-5.3"
+}

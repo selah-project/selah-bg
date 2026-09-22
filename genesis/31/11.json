@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 31:11",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "И рече ми ангелът на Елохим в съновидение: Яаков! И казах: ето ме.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ангел"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "בחלום",
+      "gloss": "в съновидение"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и казах"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ето ме"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:05.265874134Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 31:18",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "и Аз напълно ще скрия лицето Си в онзи ден заради цялото зло, което е сторил, понеже се обърна към богове други.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "и Аз"
+    },
+    {
+      "surface": "הסתר",
+      "gloss": "напълно"
+    },
+    {
+      "surface": "אסתיר",
+      "gloss": "ще скрия"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето Си"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онзи"
+    },
+    {
+      "surface": "על",
+      "gloss": "заради"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялото"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "е сторил"
+    },
+    {
+      "surface": "כי",
+      "gloss": "понеже"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "се обърна"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богове"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "други"
+    }
+  ],
+  "timestamp": "2026-09-22T12:15:59.708394918Z",
+  "model": "glm-5.3"
+}

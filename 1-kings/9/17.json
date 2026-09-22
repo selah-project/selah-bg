@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И построи Шломо ⟨את⟩ Гезер, и ⟨את⟩ Бет Хорон долния.",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "и построи"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гезер"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "Гезер"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Бет Хорон"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "Хорон"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "долния"
+    }
+  ],
+  "timestamp": "2026-09-22T13:05:23.585515118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Познах, че няма добро в тях, освен да се радват и да правят добро в живота си.",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "Познах"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "בם",
+      "gloss": "в тях"
+    },
+    {
+      "surface": "כי",
+      "gloss": "освен"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨да⟩"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "да се радват"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "и да правят"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "в живота си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:41.207918070Z",
+  "model": "glm-5.3"
+}

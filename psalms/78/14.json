@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 78,
+  "translation": "И ги водеше с облак денем, и цяла нощ със светлина от огън.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "и ги водеше"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "с облак"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "денем"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и цяла"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "нощ"
+    },
+    {
+      "surface": "באור",
+      "gloss": "със светлина"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от огън"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:38.522439548Z",
+  "model": "glm-5.3"
+}

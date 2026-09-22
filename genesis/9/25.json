@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И рече: проклет да бъде Кенаан, роб на роби ще бъде той на братята си.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "проклет"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "роб"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "на роби"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ще бъде"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "на братята си"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:39.559670917Z",
+  "model": "glm-5.3"
+}

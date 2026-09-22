@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 12:5",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Пред очите им пробий за себе си в стената и изнеси през нея.",
+  "tokens": [
+    {
+      "surface": "לעיניהם",
+      "gloss": "пред очите им"
+    },
+    {
+      "surface": "חתר",
+      "gloss": "пробий"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за себе си"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "в стената"
+    },
+    {
+      "surface": "והוצאת",
+      "gloss": "и изнеси"
+    },
+    {
+      "surface": "בו",
+      "gloss": "през нея"
+    }
+  ],
+  "timestamp": "2026-09-22T14:14:25.473635779Z",
+  "model": "glm-5.3"
+}

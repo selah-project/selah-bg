@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 6:7",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И стана, когато завикаха синовете Израилеви към Яхве заради Мадиан,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И стана"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когато"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "завикаха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израил"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "заради"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "заради"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мадиан"
+    }
+  ],
+  "timestamp": "2026-09-22T12:28:01.844147689Z",
+  "model": "glm-5.3"
+}

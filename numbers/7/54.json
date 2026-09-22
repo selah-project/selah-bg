@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "numbers 7:54",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "В осмия ден — князът на синовете на Менаше: Гамлиел, син на Педацур.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "осмия"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князът"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на синовете"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Гамлиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "Педа"
+    },
+    {
+      "surface": "צור",
+      "gloss": "цур"
+    }
+  ],
+  "timestamp": "2026-09-22T11:47:10.348642433Z",
+  "model": "glm-5.3"
+}

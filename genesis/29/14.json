@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 29:14",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И каза му Лаван: наистина си моя кост и моя плът. И седна при него месец дни.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И каза"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "אך",
+      "gloss": "наистина"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "моя кост"
+    },
+    {
+      "surface": "ובשרי",
+      "gloss": "моя плът"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "седна"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "при него"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "месец"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    }
+  ],
+  "timestamp": "2026-09-22T16:15:16.045346718Z",
+  "model": "glm-5.3"
+}

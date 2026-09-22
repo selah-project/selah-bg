@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Както тръна се качва в ръката на пиян, така притча в устата на глупци.",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "трън"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "се качва"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "в ръката"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "на пиян"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "така притча"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "в устата"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "на глупци"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:13.564736686Z",
+  "model": "glm-5.3"
+}

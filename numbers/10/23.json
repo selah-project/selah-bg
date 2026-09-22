@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И над войската на племето на синовете на Манасе ⟨беше⟩ Гамлиел, син на Педацур.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "войската"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "племето"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "на Манасе"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "Гамлиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "Педа"
+    },
+    {
+      "surface": "צור",
+      "gloss": "цур"
+    }
+  ],
+  "timestamp": "2026-09-22T11:48:48.091246845Z",
+  "model": "glm-5.3"
+}

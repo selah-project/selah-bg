@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 28:20",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "И биде слово на Яхве към мене, което казва:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мене"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "което казва"
+    }
+  ],
+  "timestamp": "2026-09-22T14:23:38.423811220Z",
+  "model": "glm-5.3"
+}

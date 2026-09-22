@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 5:4",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "А пък аз рекох: те са само бедни, оглупяха, защото не знаят пътя на Яхве, правото на своя Елохим.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а пък аз"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "рекох"
+    },
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "бедни"
+    },
+    {
+      "surface": "הם",
+      "gloss": "те"
+    },
+    {
+      "surface": "נואלו",
+      "gloss": "оглупяха"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знаят"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пътя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правото"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "своя Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T13:49:28.635710272Z",
+  "model": "glm-5.3"
+}

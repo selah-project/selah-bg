@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 22:15",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Така каза Адонай Яхве Цеваот: иди, влези при този управител, при Шевна ⟨Шевна⟩, който е над дома,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "בא",
+      "gloss": "влези"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "הסכן",
+      "gloss": "този управител"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "שבנא",
+      "gloss": "Шевна ⟨Шевна⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дома"
+    }
+  ],
+  "timestamp": "2026-09-22T13:30:42.062286958Z",
+  "model": "glm-5.3"
+}

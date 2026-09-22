@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 47,
+  "translation": "Защото цар на цялата земя ⟨е⟩ Елохим; пейте с разумение.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цяло"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земята"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "пейте"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "с разумение"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:40.616654595Z",
+  "model": "glm-5.3"
+}

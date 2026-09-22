@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 29:24",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И всички князе, и силните, и също всички синове на царя Давид дадоха ръка под Шломо царя.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и всички"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "князе"
+    },
+    {
+      "surface": "והגברים",
+      "gloss": "и силните"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и също"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "дадоха"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ръка"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-09-22T16:04:25.697747609Z",
+  "model": "glm-5.3"
+}

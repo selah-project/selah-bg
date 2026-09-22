@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 5:25",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И поживи Метушелах седемдесет и осем години и сто години, и роди ⟨את⟩ Лемек.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "и поживи"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "Метушелах"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седем"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "и осемдесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "и сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Лемек"
+    },
+    {
+      "surface": "למך",
+      "gloss": "Лемек"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:15.056805653Z",
+  "model": "glm-5.3"
+}

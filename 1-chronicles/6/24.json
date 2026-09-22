@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "и брат му Асаф, който стоеше отдясно му: Асаф, син Берехия, син Шимеа",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "и брат му"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асаф"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "который стоеше"
+    },
+    {
+      "surface": "על",
+      "gloss": "от"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "дясно му"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "Берехия"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "Шимеа"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:21.780391339Z",
+  "model": "glm-5.3"
+}

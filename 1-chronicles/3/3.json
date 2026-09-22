@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 3:3",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "петият Шефатия, от Авитал; шестият Итреам, от Егла, жена му.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "петият"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатия"
+    },
+    {
+      "surface": "לאביטל",
+      "gloss": "от Авитал"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шестият"
+    },
+    {
+      "surface": "יתרעם",
+      "gloss": "Итреам"
+    },
+    {
+      "surface": "לעגלה",
+      "gloss": "от Егла"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жена му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:35.231299850Z",
+  "model": "glm-5.3"
+}

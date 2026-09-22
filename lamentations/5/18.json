@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Заради планината Сион, опустяла — чакали ходят по нея.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Заради"
+    },
+    {
+      "surface": "הר",
+      "gloss": "планината"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Сион"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "опустяла"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "чакали"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ходят"
+    },
+    {
+      "surface": "בו",
+      "gloss": "по нея"
+    }
+  ],
+  "timestamp": "2026-09-22T16:32:17.430277634Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 34:14",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Пази езика си от зло и устните си от ⟨да говорят⟩ измама.",
+  "tokens": [
+    {
+      "surface": "נצר",
+      "gloss": "пази"
+    },
+    {
+      "surface": "לשונך",
+      "gloss": "езика си"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "от зло"
+    },
+    {
+      "surface": "ושפתיך",
+      "gloss": "и устните си"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "⟨да говорят⟩"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "измама"
+    }
+  ],
+  "timestamp": "2026-09-22T14:56:31.605398769Z",
+  "model": "glm-5.3"
+}

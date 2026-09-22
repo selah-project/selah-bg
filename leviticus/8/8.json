@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И постави на него ⟨את нагръдника⟩, и сложи в ⟨את⟩ нагръдника ⟨את⟩ Урим и ⟨את⟩ Тумим.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "И постави"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нагръдника"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "нагръдника"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и сложи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "нагръдника"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Урим"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "Урим"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Тумим"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "Тумим"
+    }
+  ],
+  "timestamp": "2026-09-22T11:35:17.221719920Z",
+  "model": "glm-5.3"
+}

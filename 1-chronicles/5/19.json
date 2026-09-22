@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 5:19",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И поведоха война срещу агаряните, Итур, и Нафиш, и Нодав.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "и поведоха"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "война"
+    },
+    {
+      "surface": "עם",
+      "gloss": "срещу"
+    },
+    {
+      "surface": "ההגריאים",
+      "gloss": "агаряните"
+    },
+    {
+      "surface": "ויטור",
+      "gloss": "Итур"
+    },
+    {
+      "surface": "ונפיש",
+      "gloss": "и Нафиш"
+    },
+    {
+      "surface": "ונודב",
+      "gloss": "и Нодав"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:04.010035339Z",
+  "model": "glm-5.3"
+}

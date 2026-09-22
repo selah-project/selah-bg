@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 16:21",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Не остави на човек да ги притеснява, и изобличи заради тях царе.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הניח",
+      "gloss": "остави"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "на човек"
+    },
+    {
+      "surface": "לעשקם",
+      "gloss": "да ги притеснява"
+    },
+    {
+      "surface": "ויוכח",
+      "gloss": "и изобличи"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "заради тях"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "царе"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:25.032915094Z",
+  "model": "glm-5.3"
+}

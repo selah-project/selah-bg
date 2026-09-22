@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "око под око, зъб под зъб, ръка под ръка, нога под нога.",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "око"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "עין",
+      "gloss": "око"
+    },
+    {
+      "surface": "שן",
+      "gloss": "зъб"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "שן",
+      "gloss": "зъб"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ръка"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ръка"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "нога"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "нога"
+    }
+  ],
+  "timestamp": "2026-09-22T11:21:55.491059059Z",
+  "model": "glm-5.3"
+}

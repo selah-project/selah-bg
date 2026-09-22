@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И Узи роди ⟨את⟩ Зерахия, и Зерахия роди ⟨את⟩ Мерайот.",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "И Узи"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Зерахия"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "Зерахия"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "и Зерахия"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мерайот"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "Мерайот"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:45.905137079Z",
+  "model": "glm-5.3"
+}

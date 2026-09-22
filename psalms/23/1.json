@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Песен на Давид: Яхве ⟨е⟩ пастир мой — не ще недостигам.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Песен"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "пастир мой"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "ще недостигам"
+    }
+  ],
+  "timestamp": "2026-09-22T14:54:31.748796204Z",
+  "model": "glm-5.3"
+}

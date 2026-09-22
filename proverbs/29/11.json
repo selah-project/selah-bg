@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 29:11",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Целия си дух изкарва глупецът, а мъдрият го сдържа ⟨до afterward⟩.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Целия"
+    },
+    {
+      "surface": "רוחו",
+      "gloss": "си дух"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "изкарва"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупецът"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "а мъдрият"
+    },
+    {
+      "surface": "באחור",
+      "gloss": "назад"
+    },
+    {
+      "surface": "ישבחנה",
+      "gloss": "го сдържа"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:48.964774182Z",
+  "model": "glm-5.3"
+}

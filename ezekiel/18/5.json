@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И ако човек бъде праведен и върши правда и праведност,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "И човек"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "бъде"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведен"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и върши"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правда"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "и праведност"
+    }
+  ],
+  "timestamp": "2026-09-22T14:17:54.176477215Z",
+  "model": "glm-5.3"
+}

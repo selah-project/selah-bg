@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "И се наслаждавай в Яхве, и ще ти даде желанията на сърцето ти.",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "и се наслаждавай"
+    },
+    {
+      "surface": "על",
+      "gloss": "в"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и ще даде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "желанията"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "на сърцето ти"
+    }
+  ],
+  "timestamp": "2026-09-22T14:57:13.073817044Z",
+  "model": "glm-5.3"
+}

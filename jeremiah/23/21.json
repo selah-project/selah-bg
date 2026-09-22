@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 23:21",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Не изпратих ⟨את⟩ пророците, а те препуснаха; не говорих на тях, а те прорекоха.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "изпратих"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пророците"
+    },
+    {
+      "surface": "הנבאים",
+      "gloss": "пророците"
+    },
+    {
+      "surface": "והם",
+      "gloss": "а те"
+    },
+    {
+      "surface": "רצו",
+      "gloss": "препуснаха"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорих"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "на тях"
+    },
+    {
+      "surface": "והם",
+      "gloss": "а те"
+    },
+    {
+      "surface": "נבאו",
+      "gloss": "порекоха"
+    }
+  ],
+  "timestamp": "2026-09-22T13:56:46.836279590Z",
+  "model": "glm-5.3"
+}

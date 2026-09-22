@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 9:17",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И хванах двете плочи, и ги хвърлих от двете си ръце, и ги стрсих пред очите ви.",
+  "tokens": [
+    {
+      "surface": "ואתפש",
+      "gloss": "и хванах"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "двете"
+    },
+    {
+      "surface": "הלחת",
+      "gloss": "плочи"
+    },
+    {
+      "surface": "ואשלכם",
+      "gloss": "и ги хвърлих"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "от"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "двете"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "си ръце"
+    },
+    {
+      "surface": "ואשברם",
+      "gloss": "и ги стрсих"
+    },
+    {
+      "surface": "לעיניכם",
+      "gloss": "пред очите ви"
+    }
+  ],
+  "timestamp": "2026-09-22T12:05:08.115993228Z",
+  "model": "glm-5.3"
+}

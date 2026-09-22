@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 26:19",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "така ⟨е⟩ човек, който измамва ⟨את⟩ ближния си, и казва: нали само се шегувам?",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "който измамва"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ближния си"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ближния си"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и казва"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "нали"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "само се шегувам"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:35.699909378Z",
+  "model": "glm-5.3"
+}

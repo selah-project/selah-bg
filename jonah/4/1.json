@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И се стори зло на Йона — голямо зло, и пламна ⟨гняв⟩ в него.",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "и-се-стори-зло"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "Йона"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "голямо"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "и-пламна"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨в⟩ него"
+    }
+  ],
+  "timestamp": "2026-09-22T14:40:18.886132453Z",
+  "model": "glm-5.3"
+}

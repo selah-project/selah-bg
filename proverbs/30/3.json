@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "и не научих мъдрост, и познание на Светии ще узная.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "научих"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мъдрост"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "и познание"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "на Светии"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ще узная"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:55.116286605Z",
+  "model": "glm-5.3"
+}

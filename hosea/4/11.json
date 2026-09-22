@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Блудство и вино и ново вино вземат сърцето.",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "Блудство"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и вино"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "и ново вино"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "вземат"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърцето"
+    }
+  ],
+  "timestamp": "2026-09-22T14:32:39.037787627Z",
+  "model": "glm-5.3"
+}

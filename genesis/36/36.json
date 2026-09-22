@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 36:36",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "И умря Хадад, и царува вместо него Самла, от Масрека.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умря"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Хадад"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и царува"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "вместо него"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Самла"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "от Масрека"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:35.010857449Z",
+  "model": "glm-5.3"
+}

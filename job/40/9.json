@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 40:9",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 40,
+  "translation": "И ако имаш мишца като ⟨Ел⟩, и ако гърмиш с глас като Него —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "мишца"
+    },
+    {
+      "surface": "כאל",
+      "gloss": "като ⟨Ел⟩"
+    },
+    {
+      "surface": "לך",
+      "gloss": "имаш"
+    },
+    {
+      "surface": "ובקול",
+      "gloss": "и с глас"
+    },
+    {
+      "surface": "כמהו",
+      "gloss": "като Него"
+    },
+    {
+      "surface": "תרעם",
+      "gloss": "гърмиш"
+    }
+  ],
+  "timestamp": "2026-09-22T15:32:33.114321139Z",
+  "model": "glm-5.3"
+}

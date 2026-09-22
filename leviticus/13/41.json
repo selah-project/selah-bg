@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 13:41",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И ако от края на лицето му оплеши главата му, плешив на челото е той — чист е той.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "от края"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "на лицето му"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "оплеши"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "главата му"
+    },
+    {
+      "surface": "גבח",
+      "gloss": "плешив на челото"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е той"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чист"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е той"
+    }
+  ],
+  "timestamp": "2026-09-22T11:36:03.496904403Z",
+  "model": "glm-5.3"
+}

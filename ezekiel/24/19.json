@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 24:19",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И каза ми народът: нима няма да ни обявиш какво значат за нас тези неща, ⟨защото⟩ ти вършиш ⟨така⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и казаха"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народът"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "нима"
+    },
+    {
+      "surface": "תגיד",
+      "gloss": "ще обявиш"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "за нас"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "вършиш"
+    }
+  ],
+  "timestamp": "2026-09-22T14:21:21.369592652Z",
+  "model": "glm-5.3"
+}

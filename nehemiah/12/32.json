@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 12:32",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И вървя след тях Хошая и половината от князовете на Йехуда.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И вървя"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "след тях"
+    },
+    {
+      "surface": "הושעיה",
+      "gloss": "Хошая"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "и половината"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "от князовете"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Йехуда"
+    }
+  ],
+  "timestamp": "2026-09-22T15:55:29.976639016Z",
+  "model": "glm-5.3"
+}

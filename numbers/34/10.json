@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 34:10",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "И ще опишете за yourselves⟨вие⟩ граница на изток от Хацар Ейнан до Шефам.",
+  "tokens": [
+    {
+      "surface": "והתאויתם",
+      "gloss": "и ще опишете"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "граница"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "на изток"
+    },
+    {
+      "surface": "מחצר",
+      "gloss": "от Хацар"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Ейнан"
+    },
+    {
+      "surface": "שפמה",
+      "gloss": "до Шефам"
+    }
+  ],
+  "timestamp": "2026-09-22T12:00:00.763787364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "и ⟨את⟩ мишелова, и ⟨את⟩ сокола по вида му.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "мишелова"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "мишелова"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "сокола"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "сокола"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "по вида му"
+    }
+  ],
+  "timestamp": "2026-09-22T11:34:23.292720131Z",
+  "model": "glm-5.3"
+}

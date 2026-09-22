@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Всичко ценно богатство ще намерим, ще напълним домовете си с плячка.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "הון",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ценно"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ще намерим"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "ще напълним"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "домовете ни"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "плячка"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:36.206128600Z",
+  "model": "glm-5.3"
+}

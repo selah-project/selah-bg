@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 22:10",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И протегна Авраам ⟨את⟩ ръката си, и взе ⟨את⟩ ножа, да заколи ⟨את⟩ сина си.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "и протегна"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ръката си"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ръката си"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и взе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ножа"
+    },
+    {
+      "surface": "המאכלת",
+      "gloss": "ножа"
+    },
+    {
+      "surface": "לשחט",
+      "gloss": "да заколи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сина си"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сина си"
+    }
+  ],
+  "timestamp": "2026-09-22T11:00:53.901684524Z",
+  "model": "glm-5.3"
+}

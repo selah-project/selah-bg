@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "За пиавицата — две дъщери: Дай, дай. Три ⟨има⟩, които не се насищат, четири не казаха: Достатъчно!",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "за пиавицата"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дъщери"
+    },
+    {
+      "surface": "הב",
+      "gloss": "Дай"
+    },
+    {
+      "surface": "הב",
+      "gloss": "дай"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "Три"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨има⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "се насищат"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "казаха"
+    },
+    {
+      "surface": "הון",
+      "gloss": "Достатъчно"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:41.532166558Z",
+  "model": "glm-5.3"
+}

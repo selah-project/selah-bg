@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 31:17",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "И стана Яков, и качи синовете си и жените си ⟨את⟩ на камилите.",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "И стана"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    },
+    {
+      "surface": "וישא",
+      "gloss": "и качи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синовете си"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синовете си"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "жените си"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "жените си"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הגמלים",
+      "gloss": "камилите"
+    }
+  ],
+  "timestamp": "2026-09-22T11:05:33.120165694Z",
+  "model": "glm-5.3"
+}

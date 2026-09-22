@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 44,
+  "translation": "Събуди се! Защо спиш, Адонай? Събуди се, не отхвърляй до край!",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Събуди се"
+    },
+    {
+      "surface": "למה",
+      "gloss": "Защо"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "спиш"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "Събуди се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "отхвърляй"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "до край"
+    }
+  ],
+  "timestamp": "2026-09-22T14:58:49.499630172Z",
+  "model": "glm-5.3"
+}

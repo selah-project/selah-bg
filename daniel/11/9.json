@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И ще влезе в царството на царя на юга, но ще се върне към земята си.",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "и ще влезе"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "в царството"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на царя"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "на юга"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "но ще се върне"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "земята си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:47:55.950940193Z",
+  "model": "glm-5.3"
+}

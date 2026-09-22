@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 13:26",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И Аз разкрих полите ти върху лицето ти, и се видя позорът ти.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "И"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "חשפתי",
+      "gloss": "разкрих"
+    },
+    {
+      "surface": "שוליך",
+      "gloss": "полите ти"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицето ти"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "и се видя"
+    },
+    {
+      "surface": "קלונך",
+      "gloss": "позорът ти"
+    }
+  ],
+  "timestamp": "2026-09-22T13:52:44.936938595Z",
+  "model": "glm-5.3"
+}

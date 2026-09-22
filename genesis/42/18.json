@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 42:18",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 42,
+  "translation": "И каза им Йосеф в третия ден: това направете и живейте — ⟨את⟩ Елохим аз се боя.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третия"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направете"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "и живейте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елохим"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "се боя"
+    }
+  ],
+  "timestamp": "2026-09-22T11:10:34.736333647Z",
+  "model": "glm-5.3"
+}

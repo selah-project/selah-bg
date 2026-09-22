@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Шест дни ще го събирате, а в седмия ден — събота — няма да има в него.",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "шест"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "ще го събирате"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "а в деня"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седмия"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "събота"
+    },
+    {
+      "surface": "לא",
+      "gloss": "няма"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "да има"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в него"
+    }
+  ],
+  "timestamp": "2026-09-22T11:19:38.754347979Z",
+  "model": "glm-5.3"
+}

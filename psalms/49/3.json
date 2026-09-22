@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 49,
+  "translation": "И синовете на човека, и синовете на мъж — заедно богат и беден.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на човек"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "איש",
+      "gloss": "на мъж"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "заедно"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "богат"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "и беден"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:29.537011114Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Поколение — баща си проклина, а ⟨את⟩ майка си не благославя.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "поколение"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "баща си"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "проклина"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "майка си"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "майка си"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "благославя"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:54.132708866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 100:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 100,
+  "translation": "Защото Яхве е добър, завинаги е хеседът Му, и до род и род е верността Му.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добър"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "завинаги"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседът Му"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "דר",
+      "gloss": "род"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "и род"
+    },
+    {
+      "surface": "אמונתו",
+      "gloss": "верността Му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:11.037250252Z",
+  "model": "glm-5.3"
+}

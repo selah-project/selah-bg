@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "И каза Яхве на Моше ⟨Мойсей⟩, като ⟨рече⟩:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨рече⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T16:17:05.556780844Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И почака още седем други дни и продължи да изпраща ⟨את⟩ гълъбицата от ковчега.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "и почака"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "още"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седем"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "други"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "и продължи"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "да изпраща"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гълъбицата"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "гълъбицата"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчега"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:42.612165436Z",
+  "model": "glm-5.3"
+}

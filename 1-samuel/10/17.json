@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И свика Шемуел ⟨את⟩ народа при Яхве в Мицпа.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "и свика"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народа"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "в Мицпа"
+    }
+  ],
+  "timestamp": "2026-09-22T12:38:55.364351946Z",
+  "model": "glm-5.3"
+}

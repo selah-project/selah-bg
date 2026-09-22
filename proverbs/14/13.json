@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Дори в смях ще боли сърцето, и краят на веселбата е скръб.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "дори"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "в смях"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "ще боли"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърцето"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "и краят ѝ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "веселбата"
+    },
+    {
+      "surface": "תוגה",
+      "gloss": "скръб"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:26.867146456Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 21:3",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И нарече Авраам ⟨את⟩ името на сина си, родения нему, когото роди нему Сара — Ицхак.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И нарече"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "името"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "на сина си"
+    },
+    {
+      "surface": "הנולד",
+      "gloss": "родения"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "когото"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    }
+  ],
+  "timestamp": "2026-09-22T11:00:46.694069837Z",
+  "model": "glm-5.3"
+}

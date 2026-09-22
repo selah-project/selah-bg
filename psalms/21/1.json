@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "На водача. Псалом на Давид.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "На водача"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T14:54:09.039394914Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Защото така каза Яхве: неизлечим е твоят пролом, тежка е твоята рана.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "неизлечим"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "твоят пролом"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "тежка"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "твоята рана"
+    }
+  ],
+  "timestamp": "2026-09-22T13:59:25.619105375Z",
+  "model": "glm-5.3"
+}

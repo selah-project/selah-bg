@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И рече Моше: „Така говори ⟨ти⟩ — няма ⟨още⟩ да видя лицето ти.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "כן",
+      "gloss": "Така"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "говори"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ща"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨още⟩"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "да видя"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицето ти"
+    }
+  ],
+  "timestamp": "2026-09-22T11:15:59.303953481Z",
+  "model": "glm-5.3"
+}

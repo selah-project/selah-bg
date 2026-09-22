@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "и живей с него няколко дни, докато се отвърне яростта на брата ти.",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "и живей"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с него"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "няколко"
+    },
+    {
+      "surface": "עד",
+      "gloss": "докато"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "когато"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "се отвърне"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "яростта"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "на брата ти"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:40.071022047Z",
+  "model": "glm-5.3"
+}

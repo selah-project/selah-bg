@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И рече Есав: има у мен много, брато мой; нека бъде твое това, което е твое.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "לי",
+      "gloss": "у мен"
+    },
+    {
+      "surface": "רב",
+      "gloss": "много"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брато мой"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "нека бъде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "твое"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "това, което"
+    },
+    {
+      "surface": "לך",
+      "gloss": "е твое"
+    }
+  ],
+  "timestamp": "2026-09-22T11:05:34.420549074Z",
+  "model": "glm-5.3"
+}

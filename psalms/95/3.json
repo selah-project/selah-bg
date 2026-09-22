@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 95,
+  "translation": "Защото Ел велик ⟨е⟩ Яхве, и цар велик над всички богове.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "и цар"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богове"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:58.793204988Z",
+  "model": "glm-5.3"
+}

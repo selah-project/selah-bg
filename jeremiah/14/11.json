@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И рече Яхве към мен: не се моли за този народ за добро.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "се моли"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "за"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "за добро"
+    }
+  ],
+  "timestamp": "2026-09-22T16:25:24.422806512Z",
+  "model": "glm-5.3"
+}

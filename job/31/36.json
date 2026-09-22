@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "job 31:36",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Ако не — на рамото си ще го нося, ще си го стегна като венци!",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שכמי",
+      "gloss": "рамото си"
+    },
+    {
+      "surface": "אשאנו",
+      "gloss": "ще го нося"
+    },
+    {
+      "surface": "אענדנו",
+      "gloss": "ще си го стегна"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "венци"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:30:56.853365636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И рече Моше на събранието: това е думата, която заповяда Яхве да се направи.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "събранието"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "е думата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповяда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да се направи"
+    }
+  ],
+  "timestamp": "2026-09-22T11:35:17.220950068Z",
+  "model": "glm-5.3"
+}

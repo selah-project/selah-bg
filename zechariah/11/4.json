@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Така рече Яхве, Елохим мой: паси ⟨את⟩ стадото за заколване.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мой"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "паси"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "стадото за заколване"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "стадото"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "за заколване"
+    }
+  ],
+  "timestamp": "2026-09-22T14:47:55.680131336Z",
+  "model": "glm-5.3"
+}

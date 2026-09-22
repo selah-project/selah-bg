@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 17:25",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "Яд за баща си ⟨е⟩ син глупав, и горчивина за родилата го.",
+  "tokens": [
+    {
+      "surface": "כעס",
+      "gloss": "яд"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "за баща си"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупав"
+    },
+    {
+      "surface": "וממר",
+      "gloss": "и горчивина"
+    },
+    {
+      "surface": "ליולדתו",
+      "gloss": "за родилата го"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:34.355442570Z",
+  "model": "glm-5.3"
+}

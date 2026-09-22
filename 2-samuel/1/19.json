@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 1:19",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Газелата, Израел, на височините твои прободена — как паднаха силните!",
+  "tokens": [
+    {
+      "surface": "הצבי",
+      "gloss": "Газелата"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "במותיך",
+      "gloss": "височините твои"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "прободена"
+    },
+    {
+      "surface": "איך",
+      "gloss": "как"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "паднаха"
+    },
+    {
+      "surface": "гповrim",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-22T12:48:11.996467413Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 92,
+  "translation": "Върху десетструнна и върху невел, върху звучене с кинор.",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "Върху"
+    },
+    {
+      "surface": "עשור",
+      "gloss": " десетструнна"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "и върху"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "невел"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "върху"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "звучене"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "с кинор"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:47.393467254Z",
+  "model": "glm-5.3"
+}

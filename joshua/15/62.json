@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "joshua 15:62",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "и Нившан, и градът на солта, и Ен-Геди: шест града и техните села.",
+  "tokens": [
+    {
+      "surface": "והנבשן",
+      "gloss": "и Нившан"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "и градът"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "на солта"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "и Ен"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Геди"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "града"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "и техните села"
+    }
+  ],
+  "timestamp": "2026-09-22T12:22:19.269717707Z",
+  "model": "glm-5.3"
+}

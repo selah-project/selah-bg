@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Не седях с людете на суетата и със скриващите се не ще вляза.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "седях"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "людете"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "на суетата"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "и със"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "скриващите се"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ще вляза"
+    }
+  ],
+  "timestamp": "2026-09-22T14:55:23.286275931Z",
+  "model": "glm-5.3"
+}

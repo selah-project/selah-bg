@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 39,
+  "translation": "И сега какво чаках? Адонай, надеждата ми — в Теб е тя.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И сега"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "чаках"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "תוחלתי",
+      "gloss": "надеждата ми"
+    },
+    {
+      "surface": "לך",
+      "gloss": "в Теб"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тя е"
+    }
+  ],
+  "timestamp": "2026-09-22T14:58:29.147382246Z",
+  "model": "glm-5.3"
+}

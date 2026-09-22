@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 43:25",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 43,
+  "translation": "И приготвиха ⟨את⟩ дара, докато дойде Йосеф по обяд, защото чуха, че там ще ядат хляб.",
+  "tokens": [
+    {
+      "surface": "ויכינו",
+      "gloss": "и приготвиха"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дара"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "дара"
+    },
+    {
+      "surface": "עד",
+      "gloss": "докато"
+    },
+    {
+      "surface": "בוא",
+      "gloss": "дойде"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "בצהרים",
+      "gloss": "по обяд"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чуха"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ще ядат"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляб"
+    }
+  ],
+  "timestamp": "2026-09-22T11:10:20.660161734Z",
+  "model": "glm-5.3"
+}

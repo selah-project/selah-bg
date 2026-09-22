@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Синове на Хариф: сто дванадесет.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "Хариф"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "две"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:44.253393609Z",
+  "model": "glm-5.3"
+}

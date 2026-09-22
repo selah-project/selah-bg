@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 33:29",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "Ето, всичко това върши Ел — пъти, три пъти с човека,",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "това"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "върши"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "пъти"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "три"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "човека"
+    }
+  ],
+  "timestamp": "2026-09-22T15:31:27.491254136Z",
+  "model": "glm-5.3"
+}

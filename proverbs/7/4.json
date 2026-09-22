@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Кажи на мъдростта: „Сестра ми си ти“, и роднина наричай разума.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Кажи"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "на мъдростта"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "Сестра ми"
+    },
+    {
+      "surface": "את",
+      "gloss": "си ти"
+    },
+    {
+      "surface": "ומדע",
+      "gloss": "и роднина"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "на разума"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "наричай"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:16.480687541Z",
+  "model": "glm-5.3"
+}

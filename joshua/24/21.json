@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 24:21",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И рече народът на Йеошуа: Не, а ⟨את⟩ Яхве ще служим.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народът"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йеошуа"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כי",
+      "gloss": "а"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ще служим"
+    }
+  ],
+  "timestamp": "2026-09-22T12:25:05.194033207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 6:22",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И видя Гидеон, че той ⟨е⟩ ангел на Яхве; и рече Гидеон: о, Адонай Яхве, защото видях ангела на Яхве лице в лице!",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И видя"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Гидеон"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ангел"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "Гидеон"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "о"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כן",
+      "gloss": "това"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видях"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ангела"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лице"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лице"
+    }
+  ],
+  "timestamp": "2026-09-22T12:28:00.146955498Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Отсякоха в ямата живота ми и хвърлиха камък върху мен.",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "отсякоха"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "в ямата"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "живота ми"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "и хвърлиха"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камък"
+    },
+    {
+      "surface": "בי",
+      "gloss": "върху мен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:37:02.379982975Z",
+  "model": "glm-5.3"
+}

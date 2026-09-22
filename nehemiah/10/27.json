@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "и Ахия, Ханан, Анан,",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "и Ахия"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ханан"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "Анан"
+    }
+  ],
+  "timestamp": "2026-09-22T15:54:39.025549285Z",
+  "model": "glm-5.3"
+}

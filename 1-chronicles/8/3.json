@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И имаше Бела синове: Адар, и Гера, и Авиуд.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И имаше"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "Бела"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "Адар"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "и Гера"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "и Авиуд"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:45.777147356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "един космат козел, за да умилостиви ⟨за⟩ вас.",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "космат козел"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "⟨от козите⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "за да умилостиви"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "⟨за⟩ вас"
+    }
+  ],
+  "timestamp": "2026-09-22T11:57:08.305409688Z",
+  "model": "glm-5.3"
+}

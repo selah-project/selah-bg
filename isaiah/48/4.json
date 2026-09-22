@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "Защото знаех, че си твърд, и жилото железно е тилът ти, и челото ти медно.",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "Защото знаех"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "твърд"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "и жилото"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "желязо"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "тилът ти"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "и челото ти"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "мед"
+    }
+  ],
+  "timestamp": "2026-09-22T13:40:22.957977336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 140,
+  "translation": "За водача. Мизмор на Давид.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "за водача"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:07.898565562Z",
+  "model": "glm-5.3"
+}

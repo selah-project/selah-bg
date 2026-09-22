@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 17:22",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И ти даде ⟨את⟩ народа си Израил да ти бъдат народ до вечността, и ти, Яхве, им беше ⟨за⟩ Елохим.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "и ти даде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народа ти"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "народа си"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израил"
+    },
+    {
+      "surface": "לך",
+      "gloss": "да ти"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечността"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "и ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "היית",
+      "gloss": "им беше"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "⟨за⟩ Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T16:01:56.988765439Z",
+  "model": "glm-5.3"
+}

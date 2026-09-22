@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Защото яма дълбока ⟨е⟩ блудницата, и тясна кладенец — чуждата.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "яма"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "дълбока"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "блудница"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "и кладенец"
+    },
+    {
+      "surface": "цара",
+      "gloss": "тясна"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "чуждата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:11.187281103Z",
+  "model": "glm-5.3"
+}

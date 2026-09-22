@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И загива това богатство в лошо предприятие, и ⟨той⟩ роди син, и няма в ръката му нищо.",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "и загива"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "богатството"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "това"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "в предприятие"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лошо"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "в ръката му"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "нищо"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:27.654335233Z",
+  "model": "glm-5.3"
+}

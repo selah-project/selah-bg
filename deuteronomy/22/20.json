@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Но ако истина е било словото това — не са намерени девствени знаци за момата —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "Но ако"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истина"
+    },
+    {
+      "surface": "היה",
+      "gloss": "е било"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "това"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "са намерени"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "девство"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "за момата"
+    }
+  ],
+  "timestamp": "2026-09-22T12:11:06.660827735Z",
+  "model": "glm-5.3"
+}

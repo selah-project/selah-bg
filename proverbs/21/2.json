@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 21:2",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Всеки път на човек ⟨е⟩ прав в неговите очи, а Яхве претегля сърцата.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всеки"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "път"
+    },
+    {
+      "surface": "איש",
+      "gloss": "на човек"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прав"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в неговите очи"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "а претегля"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "сърцата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:22.553743974Z",
+  "model": "glm-5.3"
+}

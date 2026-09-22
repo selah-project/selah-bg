@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Бремето, което видя Хавакук ⟨Авакум⟩, пророкът.",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "бремето"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "видя"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "Хавакук"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророкът"
+    }
+  ],
+  "timestamp": "2026-09-22T14:43:16.551091975Z",
+  "model": "glm-5.3"
+}

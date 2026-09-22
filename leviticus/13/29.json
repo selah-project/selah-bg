@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И ако мъж или жена има в него поражение на главата или на брадата,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "И ако мъж"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "има"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в него"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "поражение"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "на главата"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "на брадата"
+    }
+  ],
+  "timestamp": "2026-09-22T11:37:07.396508279Z",
+  "model": "glm-5.3"
+}

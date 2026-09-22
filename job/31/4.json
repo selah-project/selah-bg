@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 31:4",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Нели Той вижда пътищата ми и всички стъпки мои брои?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "Нели"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Той"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "вижда"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "пътищата ми"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всички"
+    },
+    {
+      "surface": "צעדי",
+      "gloss": "стъпки мои"
+    },
+    {
+      "surface": "יספור",
+      "gloss": "брои"
+    }
+  ],
+  "timestamp": "2026-09-22T15:30:32.095053913Z",
+  "model": "glm-5.3"
+}

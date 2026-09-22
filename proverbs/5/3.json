@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 5:3",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Защото мед капят устните на чуждата жена, и по-гладко от масло е небцето ѝ.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "мед"
+    },
+    {
+      "surface": "תטפנה",
+      "gloss": "капят"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "устните"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "чуждата жена"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "и гладко"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "от масло"
+    },
+    {
+      "surface": "חכה",
+      "gloss": "небцето ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:04.235932836Z",
+  "model": "glm-5.3"
+}

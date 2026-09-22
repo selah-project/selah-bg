@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 24:12",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Иди и говори на Давид: така каза Яхве: три неща вдигам върху теб; избери си едно от тях, и ще ти го направя.",
+  "tokens": [
+    {
+      "surface": "הלוך",
+      "gloss": "Иди"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    },
+    {
+      "surface": "נוטל",
+      "gloss": "вдигам"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "върху теб"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "избери"
+    },
+    {
+      "surface": "לך",
+      "gloss": "си"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "едно"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "от тях"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "и ще ти го направя"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-22T12:59:28.653681164Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И след него укрепиха свещениците, мъжете на равнината.",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "и след него"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "укрепиха"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свещениците"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мъжете"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "на равнината"
+    }
+  ],
+  "timestamp": "2026-09-22T15:52:16.410133666Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 4:1",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И човекът позна Хава ⟨Ева⟩, жена си; и тя зачене и роди ⟨את⟩ Каин, и рече: „Добих мъж ⟨את⟩ ⟨с⟩ Яхве.“",
+  "tokens": [
+    {
+      "surface": "והאדם",
+      "gloss": "И човекът"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "позна"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хава"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Хава ⟨Ева⟩"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жена си"
+    },
+    {
+      "surface": "ותהר",
+      "gloss": "и зачене"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Каин"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каин"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "קניתי",
+      "gloss": "добих"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ ⟨с⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:01.097261723Z",
+  "model": "glm-5.3"
+}

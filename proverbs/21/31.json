@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 21:31",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Кон е приготвен за деня на битката, а на Яхве ⟨е⟩ спасението.",
+  "tokens": [
+    {
+      "surface": "סוס",
+      "gloss": "кон"
+    },
+    {
+      "surface": "מוכן",
+      "gloss": "приготвен"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "за деня"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "на битката"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "а на Яхве"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "спасението"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:21.196803533Z",
+  "model": "glm-5.3"
+}

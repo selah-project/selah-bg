@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 27:26",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Проклет да е онзи, който не утвърди ⟨את⟩ думите на тази Тора, за да ги върши; и каже целият народ: Амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "проклет"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "утвърди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "думите"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "думите"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "на Тора"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "тази"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "за да върши"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ тях"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и каже"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целият"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народът"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    }
+  ],
+  "timestamp": "2026-09-22T12:12:27.137093922Z",
+  "model": "glm-5.3"
+}

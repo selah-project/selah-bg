@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И излезе Хатах при Мардохей, на площада на града, който е пред портата на царя.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и излезе"
+    },
+    {
+      "surface": "התך",
+      "gloss": "Хатах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мардохей"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "площада"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "на града"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "שער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царя"
+    }
+  ],
+  "timestamp": "2026-09-22T15:42:03.111239249Z",
+  "model": "glm-5.3"
+}

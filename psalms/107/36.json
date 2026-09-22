@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 107:36",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 107,
+  "translation": "И насяда там гладни, и построиха град за обитаване.",
+  "tokens": [
+    {
+      "surface": "ויושב",
+      "gloss": "И насяда"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "רעבים",
+      "gloss": "гладни"
+    },
+    {
+      "surface": "ויכוננו",
+      "gloss": "и построиха"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "за обитаване"
+    }
+  ],
+  "timestamp": "2026-09-22T16:43:33.197766953Z",
+  "model": "glm-5.3"
+}

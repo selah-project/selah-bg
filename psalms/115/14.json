@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 115:14",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 115,
+  "translation": "Яхве ще придобави на вас, на вас и на вашите синове.",
+  "tokens": [
+    {
+      "surface": "יסף",
+      "gloss": "ще придобави"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "на вас"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "на вас"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "вашите синове"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:55.659774328Z",
+  "model": "glm-5.3"
+}

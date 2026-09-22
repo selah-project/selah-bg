@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Всяко пълзящо крилато, което ходи на четири — мръсотия е то за вас.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "всяко"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "пълзящо"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "крилато"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "което ходи"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "четири"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "мръсотия"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-09-22T11:35:06.433710111Z",
+  "model": "glm-5.3"
+}

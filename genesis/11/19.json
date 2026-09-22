@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 11:19",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И живя Пелег след като роди ⟨את⟩ Реу девет години и двеста години, и роди синове и дъщери.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "и живя"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Пелег"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "след"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "че роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Реу"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Реу"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "девет"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "и двеста"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и дъщери"
+    }
+  ],
+  "timestamp": "2026-09-22T10:57:17.806364854Z",
+  "model": "glm-5.3"
+}

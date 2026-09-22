@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 131,
+  "translation": "Нека чака Израил ⟨на⟩ Яхве отсега и до вечността.",
+  "tokens": [
+    {
+      "surface": "יַחֵל",
+      "gloss": "Нека чака"
+    },
+    {
+      "surface": "יִשְׂרָאֵל",
+      "gloss": "Израил"
+    },
+    {
+      "surface": "אֶל",
+      "gloss": "⟨на⟩"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מֵעַתָּה",
+      "gloss": "отсега"
+    },
+    {
+      "surface": "וְעַד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "עוֹלָם",
+      "gloss": "вечността"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:00.830859406Z",
+  "model": "glm-5.3"
+}

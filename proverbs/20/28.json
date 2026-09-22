@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 20:28",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Хесед и истина пазят царя и с хесед се крепи престолът му.",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "Хесед"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "и истина"
+    },
+    {
+      "surface": "יצרו",
+      "gloss": "пазят"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "וסעד",
+      "gloss": "и се крепи"
+    },
+    {
+      "surface": "בחסד",
+      "gloss": "с хесед"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "престолът му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:08.383550520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Не взимай ⟨за себе си⟩ жена, и няма да бъдат ⟨за тебе⟩ синове и дъщери на това място.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "взимай"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨за себе си⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "няма да бъдат"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨за тебе⟩"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и дъщери"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "на място"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "това"
+    }
+  ],
+  "timestamp": "2026-09-22T16:42:36.393714268Z",
+  "model": "glm-5.3"
+}

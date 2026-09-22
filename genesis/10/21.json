@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И на Шем се роди и той — баща на всички синове Евер, брат на Яфет, по-големия.",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "И на Шем"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "се роди"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "баща"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на всички"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "Евер"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "на Яфет"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "по-големия"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:51.671128426Z",
+  "model": "glm-5.3"
+}

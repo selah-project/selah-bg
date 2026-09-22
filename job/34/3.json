@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 34:3",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Защото ухото изпитва думи, а небцето вкусва ⟨за⟩ яденето.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ухото"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "думи"
+    },
+    {
+      "surface": "תבחן",
+      "gloss": "изпитва"
+    },
+    {
+      "surface": "ו חך",
+      "gloss": "а небцето"
+    },
+    {
+      "surface": "יטעם",
+      "gloss": "вкусва"
+    },
+    {
+      "surface": "ל אכל",
+      "gloss": "да яде"
+    }
+  ],
+  "timestamp": "2026-09-22T15:31:57.087280805Z",
+  "model": "glm-5.3"
+}

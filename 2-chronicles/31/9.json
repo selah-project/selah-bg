@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 31:9",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "И попита Хизкияху ⟨за⟩ свещениците и левитите за купчините.",
+  "tokens": [
+    {
+      "surface": "וידרש",
+      "gloss": "и попита"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Хизкияху"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨за⟩"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свещениците"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "и левитите"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "купчините"
+    }
+  ],
+  "timestamp": "2026-09-22T16:12:34.403150730Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 1:49",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И умря Шаул, и царува вместо него Баал-Ханан, син на Ахбор.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умря"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и царува"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "вместо него"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "Ханан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "на Ахбор"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:55.389369145Z",
+  "model": "glm-5.3"
+}

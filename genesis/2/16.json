@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 2:16",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И заповяда Яхве Елохим на човека, казвайки: от всяко дърво на градината — яж, ще ядеш.",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "и заповяда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "от всяко"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дърво"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "градината"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "яж"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ще ядеш"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:35.238117583Z",
+  "model": "glm-5.3"
+}

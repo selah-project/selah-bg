@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 21:3",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Ако е влязъл сам, сам ще излезе; ако е мъж на жена — жена му ще излезе с него.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "сам"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "е влязъл"
+    },
+    {
+      "surface": "בגפו",
+      "gloss": "сам"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ще излезе"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "на жена"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "ще излезе"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жена му"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с него"
+    }
+  ],
+  "timestamp": "2026-09-22T11:23:10.785871670Z",
+  "model": "glm-5.3"
+}

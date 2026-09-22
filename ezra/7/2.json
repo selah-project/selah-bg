@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "син на Шалум, син на Цадок, син на Ахитув.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "на Шалум"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "на Цадок"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "на Ахитув"
+    }
+  ],
+  "timestamp": "2026-09-22T15:50:19.326130553Z",
+  "model": "glm-5.3"
+}

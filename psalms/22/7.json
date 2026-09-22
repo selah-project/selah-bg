@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "А аз съм червей, а не човек, позор на човеци и презрян ⟨от⟩ народа.",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "а аз"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "червей"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "позор"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на човеци"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "и презрян"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨от⟩ народа"
+    }
+  ],
+  "timestamp": "2026-09-22T14:53:32.725386790Z",
+  "model": "glm-5.3"
+}

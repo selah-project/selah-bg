@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 23:8",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "а само в Яхве, вашия Елохим, да се държите, както сте правили до този ден.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "а"
+    },
+    {
+      "surface": "אם",
+      "gloss": "само"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "в Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "вашия Елохим"
+    },
+    {
+      "surface": "תדבקו",
+      "gloss": "да се държите"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "сте правили"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "деня"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    }
+  ],
+  "timestamp": "2026-09-22T12:25:20.560136199Z",
+  "model": "glm-5.3"
+}

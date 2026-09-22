@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 33:41",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И тръгнаха от планината Хор и опънаха ⟨стан⟩ в Цалмона.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И тръгнаха"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "от планината"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "Хор"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и опънаха ⟨стан⟩"
+    },
+    {
+      "surface": "בצלמנה",
+      "gloss": "в Цалмона"
+    }
+  ],
+  "timestamp": "2026-09-22T11:59:51.682506687Z",
+  "model": "glm-5.3"
+}

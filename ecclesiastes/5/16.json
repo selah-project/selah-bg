@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Също всичките си дни яде в тъмнина, и много раздразнение, и болестта му, и гняв.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "също"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичките"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "дните му"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "в тъмнина"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "яде"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "и раздразнение"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "много"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "и болестта му"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "и гняв"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:27.659117514Z",
+  "model": "glm-5.3"
+}

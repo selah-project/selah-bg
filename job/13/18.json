@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 13:18",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Ето сега наредих съда си; зная, че аз ще бъда оправадян.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "нא",
+      "gloss": "сега"
+    },
+    {
+      "surface": "ערכתי",
+      "gloss": "наредих"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "съда си"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "зная"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "אצדק",
+      "gloss": "ще бъда оправадян"
+    }
+  ],
+  "timestamp": "2026-09-22T15:26:19.829609352Z",
+  "model": "glm-5.3"
+}

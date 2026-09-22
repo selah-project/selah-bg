@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 4:2",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Вземете си от народа дванадесет мъже, по един мъж, по един мъж от племе,",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "Вземете"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "си"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дванадесет"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "дванадесет"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "мъже"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "משבט",
+      "gloss": "от племе"
+    }
+  ],
+  "timestamp": "2026-09-22T12:16:51.843973713Z",
+  "model": "glm-5.3"
+}

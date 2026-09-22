@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "Няма да ядете върху кръвта; няма да гадаете и няма да вещаете.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Няма"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "да ядете"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кръвта"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Няма"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "да гадаете"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "да вещаете"
+    }
+  ],
+  "timestamp": "2026-09-22T11:39:41.710166811Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И до тях укрепи Рефая синът на Хур, началник на половината окръг на Йерусалим.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и до"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "тях"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "укрепи"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "Рефая"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синът"
+    },
+    {
+      "surface": "חור",
+      "gloss": "на Хур"
+    },
+    {
+      "surface": "שר",
+      "gloss": "началник"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "на половината"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "окръг"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "на Йерусалим"
+    }
+  ],
+  "timestamp": "2026-09-22T15:52:17.962181679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И Шупим и Хупим, синове на Ир; Хушим, синове на Ахер.",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "и Шупим"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "и Хупим"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "на Ир"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Хушим"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "на Ахер"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:43.991159066Z",
+  "model": "glm-5.3"
+}

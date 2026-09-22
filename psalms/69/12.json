@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 69:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 69,
+  "translation": "И облякох вретище вместо дреха, и станах им за поговорка.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "и облякох"
+    },
+    {
+      "surface": "לבושי",
+      "gloss": "дрехата ми"
+    },
+    {
+      "surface": "שק",
+      "gloss": "вретище"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "и станах"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "למשל",
+      "gloss": "за поговорка"
+    }
+  ],
+  "timestamp": "2026-09-22T15:02:59.937693573Z",
+  "model": "glm-5.3"
+}

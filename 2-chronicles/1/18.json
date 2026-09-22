@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 1:18",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И реши Шломо ⟨Соломон⟩ да строи дом за името на Яхве и дом за своето царство.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И реши"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "да строи"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "за името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и дом"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "за своето царство"
+    }
+  ],
+  "timestamp": "2026-09-22T16:04:07.644432694Z",
+  "model": "glm-5.3"
+}

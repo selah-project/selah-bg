@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "joshua 15:51",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "и Гошен, и Холон, и Гило — градове единадесет и селата им:",
+  "tokens": [
+    {
+      "surface": "וגשן",
+      "gloss": "и Гошен"
+    },
+    {
+      "surface": "וחלן",
+      "gloss": "и Холон"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "и Гило"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "градове"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "единадесет"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "и селата им"
+    }
+  ],
+  "timestamp": "2026-09-22T12:22:19.628287162Z",
+  "model": "glm-5.3"
+}

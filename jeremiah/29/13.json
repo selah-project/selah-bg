@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 29:13",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И ще Me търсите ⟨את⟩ и ще намерите, защото ще Me търсите с цялото си сърце.",
+  "tokens": [
+    {
+      "surface": "ובקשתם",
+      "gloss": "и ще търсите"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ Ме",
+      "marks": "Me (търсене на Яхве)"
+    },
+    {
+      "surface": "ומצאתם",
+      "gloss": "и ще намерите"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "תדרשני",
+      "gloss": "ще Me търсите"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "с цялото"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "си сърце"
+    }
+  ],
+  "timestamp": "2026-09-22T14:00:38.997357309Z",
+  "model": "glm-5.3"
+}

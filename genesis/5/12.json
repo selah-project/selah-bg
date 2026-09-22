@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И живя Кайнан седемдесет години и роди ⟨את⟩ Махалалел.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "и живя"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "Кайнан"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "седемдесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Махалалел"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "Махалалел"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:41.299236265Z",
+  "model": "glm-5.3"
+}

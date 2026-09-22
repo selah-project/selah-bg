@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 69:32",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 69,
+  "translation": "И ще е по-добро на Яхве от вол, от бик с рога и с копита.",
+  "tokens": [
+    {
+      "surface": "ותיטב",
+      "gloss": "И ще е по-добро"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "משור",
+      "gloss": "от вол"
+    },
+    {
+      "surface": "פר",
+      "gloss": "от бик"
+    },
+    {
+      "surface": "מקרן",
+      "gloss": "с рога"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "с копита"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:26.214458079Z",
+  "model": "glm-5.3"
+}

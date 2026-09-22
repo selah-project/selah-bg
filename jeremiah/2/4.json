@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Чуйте словото на Яхве, доме на Яаков, и всички семейства на дома на Израел:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Чуйте"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "בית",
+      "gloss": "доме"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "на Яаков"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всички"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "семейства"
+    },
+    {
+      "surface": "בית",
+      "gloss": "на дома"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T13:47:09.057433037Z",
+  "model": "glm-5.3"
+}

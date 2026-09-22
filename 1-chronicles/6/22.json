@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "син Тахат, син Асир, син Евясаф, син Корах",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "Тахат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "Асир"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "Евясаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:21.780151693Z",
+  "model": "glm-5.3"
+}

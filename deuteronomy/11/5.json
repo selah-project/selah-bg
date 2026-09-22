@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "и това, което стори за вас в пустинята, докато дойдохте до това място —",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "и това, което"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "стори"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустинята"
+    },
+    {
+      "surface": "עד",
+      "gloss": "докато"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "дойдохте"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "мястото"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "това"
+    }
+  ],
+  "timestamp": "2026-09-22T12:05:50.153085936Z",
+  "model": "glm-5.3"
+}

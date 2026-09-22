@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "За племето Йосеф — за племето Менаше — Гади, син на Суси.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "за племето"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "за племето"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "Гади"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "Суси"
+    }
+  ],
+  "timestamp": "2026-09-22T11:49:41.922888073Z",
+  "model": "glm-5.3"
+}

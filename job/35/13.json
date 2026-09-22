@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 35:13",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "Само суета Ел не ще послуша, и Шаддай не ще я съзре.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "суета"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ще послуша"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "и Шаддай"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "ще я съзре"
+    }
+  ],
+  "timestamp": "2026-09-22T15:32:01.217580900Z",
+  "model": "glm-5.3"
+}

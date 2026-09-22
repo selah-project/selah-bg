@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 13:19",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Кой е той, що ще се съди с мен? Защото ⟨ако сега мълча⟩ — ще умра.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кой"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е той"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "що ще се съди"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "с мен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сега"
+    },
+    {
+      "surface": "אחריש",
+      "gloss": "мълча"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "и ще умра"
+    }
+  ],
+  "timestamp": "2026-09-22T15:26:19.830346936Z",
+  "model": "glm-5.3"
+}

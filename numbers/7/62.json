@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "numbers 7:62",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Една златна кадилница, десет шекела, пълна с тамян.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "кадилница"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "Една"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десет"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златна"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пълна"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "с тамян"
+    }
+  ],
+  "timestamp": "2026-09-22T11:48:27.684069334Z",
+  "model": "glm-5.3"
+}

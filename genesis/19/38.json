@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 19:38",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И по-младата, също тя, роди син, и нарече името му Бен-Ами; той ⟨е⟩ баща на синовете на Амон до този ден.",
+  "tokens": [
+    {
+      "surface": "והצעירה",
+      "gloss": "и по-младата"
+    },
+    {
+      "surface": "גם",
+      "gloss": "също"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "и нарече"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името му"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Бен"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "Ами"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "баща на"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете на"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Амон"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "този ден"
+    }
+  ],
+  "timestamp": "2026-09-22T11:00:10.989334841Z",
+  "model": "glm-5.3"
+}

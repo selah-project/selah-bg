@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 14:12",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Има път прав пред човека, но краят му са пътища на смъртта.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "Има"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "път"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прав"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човека"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "но краят му"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "са пътища"
+    },
+    {
+      "surface": "מות",
+      "gloss": "на смъртта"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:59.627865303Z",
+  "model": "glm-5.3"
+}

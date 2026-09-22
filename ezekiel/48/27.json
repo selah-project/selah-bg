@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "И до границата на Зевулун, от източната страна до западната страна, на Гад една.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и до"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границата"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "Зевулун"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "от страната на"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "изток"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "страната на"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "запад"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "една"
+    }
+  ],
+  "timestamp": "2026-09-22T14:32:26.717989865Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И било след седем дни, и водите на потопа бяха върху земята.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И било"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "след седем"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и водите"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "на потопа"
+    },
+    {
+      "surface": "היו",
+      "gloss": "бяха"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:28.646106861Z",
+  "model": "glm-5.3"
+}

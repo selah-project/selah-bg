@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-kings 7:4",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И прозорци в три реда, и прозорец срещу прозорец, три пъти.",
+  "tokens": [
+    {
+      "surface": "ושקפים",
+      "gloss": "И прозорци"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "טורים",
+      "gloss": "реда"
+    },
+    {
+      "surface": "ומחזה",
+      "gloss": "и прозорец"
+    },
+    {
+      "surface": "אל",
+      "gloss": "срещу"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "прозорец"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "пъти"
+    }
+  ],
+  "timestamp": "2026-09-22T13:03:32.036575482Z",
+  "model": "glm-5.3"
+}

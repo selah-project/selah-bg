@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Ходи на юг и кръжи на север; кръжи, кръжи, ходи вятърът, и по кръговете си се връща вятърът.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ходи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "юг"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "и кръжи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "север"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "кръжи"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "кръжи"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ходи"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "вятърът"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и по"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "кръговете си"
+    },
+    {
+      "surface": "שב",
+      "gloss": "се връща"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "вятърът"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:53.860397895Z",
+  "model": "glm-5.3"
+}

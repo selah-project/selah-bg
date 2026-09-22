@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 116:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 116,
+  "translation": "И в името на Яхве призовах: моля Ти, Яхве, избави душата ми.",
+  "tokens": [
+    {
+      "surface": "ובשם",
+      "gloss": "И в името на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "призовах"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "моля Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מלטה",
+      "gloss": "избави"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:07.039797338Z",
+  "model": "glm-5.3"
+}

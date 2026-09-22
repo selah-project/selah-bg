@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 27:24",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "защото не завинаги ⟨е⟩ богатството, и венецът — за поколение и поколение.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "завинаги"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "богатството"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "и"
+    },
+    {
+      "surface": "נזר",
+      "gloss": "венецът"
+    },
+    {
+      "surface": "לדור",
+      "gloss": "за поколение"
+    },
+    {
+      "surface": "דור",
+      "gloss": "и поколение"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:42.250077757Z",
+  "model": "glm-5.3"
+}

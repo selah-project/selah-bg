@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 94:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 94,
+  "translation": "Засадилият ухото, няма ли да чуе? Оформилият окото, няма ли да види?",
+  "tokens": [
+    {
+      "surface": "הנטע",
+      "gloss": "Засадилият"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ухото"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "наима"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "да чуе"
+    },
+    {
+      "surface": "אם",
+      "gloss": "Оформилият"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "оформилият"
+    },
+    {
+      "surface": "עין",
+      "gloss": "окото"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "наима"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "да види"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:37.615369140Z",
+  "model": "glm-5.3"
+}

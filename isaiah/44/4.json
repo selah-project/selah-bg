@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 44:4",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 44,
+  "translation": "И ще пораснат между трева, като върби край водни потоци.",
+  "tokens": [
+    {
+      "surface": "וצמחו",
+      "gloss": "и ще пораснат"
+    },
+    {
+      "surface": "בבין",
+      "gloss": "между"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "трева"
+    },
+    {
+      "surface": "כערבים",
+      "gloss": "като върби"
+    },
+    {
+      "surface": "על",
+      "gloss": "край"
+    },
+    {
+      "surface": "יבלי",
+      "gloss": "водни потоци"
+    },
+    {
+      "surface": "מים",
+      "gloss": "водни"
+    }
+  ],
+  "timestamp": "2026-09-22T13:39:17.762223441Z",
+  "model": "glm-5.3"
+}

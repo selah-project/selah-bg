@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Мъжете на Рама и Гева: шестстотин двадесет и един.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Мъжете"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "Рама"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "и Гева"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "и един"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:47.373613734Z",
+  "model": "glm-5.3"
+}

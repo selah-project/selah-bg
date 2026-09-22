@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 31:15",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "И рече им Моше: „Оставихте ли живи всяка жена?“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "החייתם",
+      "gloss": "оставихте ли живи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяка"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "жена"
+    }
+  ],
+  "timestamp": "2026-09-22T11:58:11.272890978Z",
+  "model": "glm-5.3"
+}

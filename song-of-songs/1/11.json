@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Низи от злато ще направим за теб със сребърни ⟨точици⟩.",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "низи"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ще направим"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за теб"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "точици"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "среброто"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:40.677467673Z",
+  "model": "glm-5.3"
+}

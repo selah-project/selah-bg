@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 2:1",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И рече към мене: сине човешки, изправи се на нозете си, и аз ще говоря ⟨את⟩ тебе.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мене"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човешки"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "изправи се"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "нозете си"
+    },
+    {
+      "surface": "ואדבר",
+      "gloss": "и аз ще говоря"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ тебе",
+      "marks": "тебе"
+    }
+  ],
+  "timestamp": "2026-09-22T14:11:05.465258748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 4:43",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И поразиха ⟨את⟩ остатъка от оцелелите на Амалек, и се заселиха там до този ден.",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "И поразиха"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "остатъка"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "остатъка"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "от оцелелите"
+    },
+    {
+      "surface": "לעמלק",
+      "gloss": "на Амалек"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "и се заселиха"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "този ден"
+    },
+    {
+      "surface": "הזה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:36.314451267Z",
+  "model": "glm-5.3"
+}

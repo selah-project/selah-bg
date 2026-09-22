@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "numbers 26:61",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И умряха Надав и Авиу, когато принесоха чужд огън пред Яхве.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умряха"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Надав"
+    },
+    {
+      "surface": "ואביהוא",
+      "gloss": "и Авиу"
+    },
+    {
+      "surface": "בהקריבם",
+      "gloss": "когато принесоха"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огън"
+    },
+    {
+      "surface": "זרה",
+      "gloss": "чужд"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:56:55.800514523Z",
+  "model": "glm-5.3"
+}

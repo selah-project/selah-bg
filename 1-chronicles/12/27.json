@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "От синовете на Леви — четири хиляди и шестстотин.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "От"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "на Леви"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "четири"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "хиляди"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "и шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:46.719990052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И купих ⟨את⟩ пояса според словото на Яхве, и го сложих на кръста си.",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "И купих"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пояса"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "пояса"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "според словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "и го сложих"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "кръста си"
+    }
+  ],
+  "timestamp": "2026-09-22T13:53:38.090974993Z",
+  "model": "glm-5.3"
+}

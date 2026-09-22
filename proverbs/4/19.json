@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 4:19",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Пътят на нечестивите е като тъмнина — не знаят в какво ще се препънат.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Пътят"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "на нечестивите"
+    },
+    {
+      "surface": "כאפלה",
+      "gloss": "като тъмнина"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знаят"
+    },
+    {
+      "surface": "במה",
+      "gloss": "в какво"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ще се препънат"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:24.817603032Z",
+  "model": "glm-5.3"
+}

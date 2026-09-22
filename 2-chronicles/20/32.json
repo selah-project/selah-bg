@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-chronicles 20:32",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И ходи в пътя на баща си Аса, и не се отклони от него, да върши правото в очите на Яхве.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И ходи"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "в пътя"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "на баща си"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "סר",
+      "gloss": "се отклони"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "от него"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да върши"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "правото"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T16:10:00.286762602Z",
+  "model": "glm-5.3"
+}

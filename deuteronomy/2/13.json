@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Сега станете и преминете за себе си ⟨през⟩ потока Зеред, и преминахме ⟨את⟩ потока Зеред.",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "сега"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "станете"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "и преминете"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за себе си"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "потока"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "потока"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Зеред"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "и преминахме"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "потока"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "потока"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Зеред"
+    }
+  ],
+  "timestamp": "2026-09-22T12:01:16.697751500Z",
+  "model": "glm-5.3"
+}

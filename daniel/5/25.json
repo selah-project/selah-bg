@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И това е писмото, което беше написано: Мене, Мене, Текел у-Фаресин.",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "и това"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "писмо"
+    },
+    {
+      "surface": "די",
+      "gloss": "което"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "бе написано"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Мене"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "Мене"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "Текел"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "у-Фаресин"
+    }
+  ],
+  "timestamp": "2026-09-22T15:44:03.760171721Z",
+  "model": "glm-5.3"
+}

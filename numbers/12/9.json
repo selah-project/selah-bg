@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И пламна гневът на Яхве против тях, и ⟨той⟩ си отиде.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "и пламна"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гневът"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בם",
+      "gloss": "против тях"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и си отиде"
+    }
+  ],
+  "timestamp": "2026-09-22T11:50:00.756572640Z",
+  "model": "glm-5.3"
+}

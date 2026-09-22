@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 46,
+  "translation": "Което беше слово на Яхве към Ирмияу ⟨пророка⟩ за народите:",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмияу ⟨Йеремия⟩"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророка"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народите"
+    }
+  ],
+  "timestamp": "2026-09-22T14:06:00.640366023Z",
+  "model": "glm-5.3"
+}

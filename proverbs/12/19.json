@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 12:19",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Устната на истината ще стои завинаги, а само за ⟨един⟩ миг — езикът на лъжата.",
+  "tokens": [
+    {
+      "surface": "שפת",
+      "gloss": "устната"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истината"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ще стои"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "завинаги"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "а до"
+    },
+    {
+      "surface": "ארגיעה",
+      "gloss": "миг"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "езикът"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "на лъжата"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:19.969293962Z",
+  "model": "glm-5.3"
+}

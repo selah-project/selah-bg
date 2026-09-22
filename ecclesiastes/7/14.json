@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "В ден на добро бъди в добро, и в ден на зло виж: също ⟨את⟩ това срещу това е направил Елохим, така че нищо да не намери човекът след него.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "в ден"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "на добро"
+    },
+    {
+      "surface": "היה",
+      "gloss": "бъди"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "в добро"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "и в ден"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "на зло"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "виж"
+    },
+    {
+      "surface": "גם",
+      "gloss": "също"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "това"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "срещу"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "е направил"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "על",
+      "gloss": "така че"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "⟨заради⟩"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "че не"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "да намери"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човекът"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "след него"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "нищо"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:42.739404915Z",
+  "model": "glm-5.3"
+}

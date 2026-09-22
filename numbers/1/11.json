@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "За Бинямин — Авидан, син на Гидони.",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "за Бинямин"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "Авидан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "Гидони"
+    }
+  ],
+  "timestamp": "2026-09-22T11:44:20.545242802Z",
+  "model": "glm-5.3"
+}

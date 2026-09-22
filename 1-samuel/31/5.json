@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-samuel 31:5",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "И видя носачът на оръжието му, че умря Шаул, и падна също той върху меча си, и умря с него.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И видя"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "носачът на оръжието"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "מת",
+      "gloss": "умря"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "и падна"
+    },
+    {
+      "surface": "גם",
+      "gloss": "също"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "меча си"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умря"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с него"
+    }
+  ],
+  "timestamp": "2026-09-22T12:48:24.565533565Z",
+  "model": "glm-5.3"
+}

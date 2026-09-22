@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Устата на глупака е погибел за него, и устните му — примка за душата му.",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "устата"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "на глупака"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "погибел"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за него"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "и устните му"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "примка"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "за душата му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:17.262232808Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Също на всичките думи, които говорят, не давай сърцето си, за да не чуеш ⟨את⟩ слугата си да те проклина.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "също"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на всичките"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "думи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "говорят"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "давай"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "сърцето си"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "за да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "чуеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слугата си"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слугата си"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "да те проклина"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:09.490670420Z",
+  "model": "glm-5.3"
+}

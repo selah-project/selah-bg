@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "и магарета шейсет и една хиляди",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "и магарета"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "една"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "и шейсет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляди"
+    }
+  ],
+  "timestamp": "2026-09-22T11:58:14.936996342Z",
+  "model": "glm-5.3"
+}

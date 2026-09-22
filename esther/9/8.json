@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "и ⟨את⟩ Пората, и ⟨את⟩ Адалия, и ⟨את⟩ Аридата.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Пората"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "Пората"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Адалия"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "Адалия"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Аридата"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "Аридата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:42:17.458222550Z",
+  "model": "glm-5.3"
+}

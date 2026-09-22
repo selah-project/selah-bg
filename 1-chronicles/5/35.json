@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 5:35",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И Ахимаац роди ⟨את⟩ Азария, и Азария роди ⟨את⟩ Йоханан.",
+  "tokens": [
+    {
+      "surface": "ואחימעץ",
+      "gloss": "и Ахимаац"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Азария"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азария"
+    },
+    {
+      "surface": "ועזריה",
+      "gloss": "и Азария"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йоханан"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Йоханан"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:49.357652320Z",
+  "model": "glm-5.3"
+}

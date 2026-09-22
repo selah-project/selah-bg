@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Ето, вие уповавате за себе си на думи на лъжа — без да ползва.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "уповавате"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за себе си"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "думи"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "на лъжа"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "без да"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "ползва"
+    }
+  ],
+  "timestamp": "2026-09-22T13:50:01.231540180Z",
+  "model": "glm-5.3"
+}

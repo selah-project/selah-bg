@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Тя му въздава добро, а не зло, през всичките дни на живота си.",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "Тя му въздава"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "כל",
+      "gloss": "през всичките"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дните"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "на живота си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:23:07.452574152Z",
+  "model": "glm-5.3"
+}

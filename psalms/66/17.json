@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 66:17",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 66,
+  "translation": "Него ⟨с⟩ устата си призовах и възхвала ⟨е⟩ под езика ми.",
+  "tokens": [
+    {
+      "surface": "אליו",
+      "gloss": "Него"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устата"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "призовах"
+    },
+    {
+      "surface": "ורומם",
+      "gloss": "и възхвала"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "езика ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:01:51.792657150Z",
+  "model": "glm-5.3"
+}

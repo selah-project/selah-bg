@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 147:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 147,
+  "translation": "Прослави, Ерусалим, ⟨את⟩ Яхве; хвали Елохим на Цион!",
+  "tokens": [
+    {
+      "surface": "שבחי",
+      "gloss": "Прослави"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ерусалим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "хвали"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "Елохим ⟨твой⟩"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    }
+  ],
+  "timestamp": "2026-09-22T15:14:54.691591906Z",
+  "model": "glm-5.3"
+}

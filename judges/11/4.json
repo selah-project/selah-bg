@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И стана след някои дни, и воюваха синовете на Амон с Израел.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И стана"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "след дни"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "и воюваха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "на Амон"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T12:31:43.723189370Z",
+  "model": "glm-5.3"
+}

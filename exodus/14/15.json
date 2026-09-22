@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 14:15",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И рече Яхве на Моше: защо викаш към мене? Говори на синовете на Израил, и да тръгнат.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מה",
+      "gloss": "защо"
+    },
+    {
+      "surface": "תצעק",
+      "gloss": "викаш"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мене"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израил"
+    },
+    {
+      "surface": "ויסעו",
+      "gloss": "и да тръгнат"
+    }
+  ],
+  "timestamp": "2026-09-22T11:18:48.186441457Z",
+  "model": "glm-5.3"
+}

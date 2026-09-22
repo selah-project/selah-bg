@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 148,
+  "translation": "Момци и също девици, старци заедно с юноши",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "момци"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и също"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "девици"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "старци"
+    },
+    {
+      "surface": "עם",
+      "gloss": "заедно с"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "юноши"
+    }
+  ],
+  "timestamp": "2026-09-22T15:14:55.693468806Z",
+  "model": "glm-5.3"
+}

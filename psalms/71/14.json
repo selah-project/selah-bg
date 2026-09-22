@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 71:14",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 71,
+  "translation": "А аз ще надея ⟨винаги⟩ и ще добавям към цялата Тебе похвала.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а аз"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "постоянно"
+    },
+    {
+      "surface": "איחל",
+      "gloss": "ще надея"
+    },
+    {
+      "surface": "והוספתי",
+      "gloss": "и ще добавям"
+    },
+    {
+      "surface": "על",
+      "gloss": "към"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялата"
+    },
+    {
+      "surface": "תהלתך",
+      "gloss": "похвала Ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:20.926764949Z",
+  "model": "glm-5.3"
+}

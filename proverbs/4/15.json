@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Избягвай го, не минавай по него; отклони се от него и подмини.",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "избягвай го"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "минавай"
+    },
+    {
+      "surface": "בו",
+      "gloss": "по него"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "отклони се"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "от него"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "и подмини"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:22.641037306Z",
+  "model": "glm-5.3"
+}

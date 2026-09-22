@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И всяка минха на свещеник — изцяло да бъде: не ⟨се⟩ яде.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "И всяка"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "минха"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "на свещеник"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "изцяло"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "да бъде"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "⟨се⟩ яде"
+    }
+  ],
+  "timestamp": "2026-09-22T11:33:11.959690454Z",
+  "model": "glm-5.3"
+}

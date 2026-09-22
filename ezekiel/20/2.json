@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 20:2",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И бе слово от Яхве към мене, казвайки:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И бе"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мене"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T14:18:23.491413064Z",
+  "model": "glm-5.3"
+}

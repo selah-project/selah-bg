@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 118,
+  "translation": "Яхве ⟨е⟩ за мен — няма да се боя: какво ще ми стори човек?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ще се боя"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ще стори"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:54.992145862Z",
+  "model": "glm-5.3"
+}

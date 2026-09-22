@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 21:22",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И ако има у един човек грях, присъден със смърт, и той бъде умъртен, и обесиш ⟨את⟩ него на дърво,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "има"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "у човек"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "грях"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "присъден"
+    },
+    {
+      "surface": "מות",
+      "gloss": "със смърт"
+    },
+    {
+      "surface": "והומת",
+      "gloss": "и бъде умъртен"
+    },
+    {
+      "surface": "ותלית",
+      "gloss": "и обесиш"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дърво"
+    }
+  ],
+  "timestamp": "2026-09-22T12:09:20.449820892Z",
+  "model": "glm-5.3"
+}

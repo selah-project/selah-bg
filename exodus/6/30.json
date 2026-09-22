@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 6:30",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И рече Моше пред Яхве: ето, аз съм с необрезани устни, и как ще ме послуша фараонът?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ето"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "ערל",
+      "gloss": "необрезан"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "устни"
+    },
+    {
+      "surface": "ואיך",
+      "gloss": "и как"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ще послуша"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараонът"
+    }
+  ],
+  "timestamp": "2026-09-22T11:14:18.054197512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Тревога в сърцето на човек го потиска, а добра дума го зарадва.",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "тревога"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "в сърцето"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "го потиска"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "а дума"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "го зарадва"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:22.190573056Z",
+  "model": "glm-5.3"
+}

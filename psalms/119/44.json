@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 119:44",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "И ще пазя Твоята Тора винаги, до века и навеки.",
+  "tokens": [
+    {
+      "surface": "ואשמרה",
+      "gloss": "и ще пазя"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Твоята Тора"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "винаги"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "до века"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и навеки"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:21.937149483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И било след това, било със сърцето на Йоаш да обнови ⟨את⟩ дома на Яхве.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И било"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "след"
+    },
+    {
+      "surface": "כן",
+      "gloss": "това"
+    },
+    {
+      "surface": "היה",
+      "gloss": "било"
+    },
+    {
+      "surface": "עם",
+      "gloss": "със"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърцето"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "на Йоаш"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "да обнови"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дома"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T16:10:02.254459494Z",
+  "model": "glm-5.3"
+}

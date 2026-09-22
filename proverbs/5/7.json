@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И сега, синове, чуйте мен и не се отклонявайте от думите на моята уста.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И сега"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чуйте"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "се отклонявайте"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "от думите"
+    },
+    {
+      "surface": "פי",
+      "gloss": "на моята уста"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:07.918219551Z",
+  "model": "glm-5.3"
+}

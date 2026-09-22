@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 3:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Много казват за душата ми: няма избавление за него в Елохим. Села.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "много"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "казват"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "за душата ми"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "ישועתה",
+      "gloss": "избавление"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за него"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "в Елохим"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-22T14:50:19.648186215Z",
+  "model": "glm-5.3"
+}

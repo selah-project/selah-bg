@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 34:19",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "И това са имената на мъжете: за племето на Йехуда, Калев син на Йефне.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И това"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "имената"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "на мъжете"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "за племето"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуда"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "Калев"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Йефне"
+    }
+  ],
+  "timestamp": "2026-09-22T16:19:45.143590374Z",
+  "model": "glm-5.3"
+}

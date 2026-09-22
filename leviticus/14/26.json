@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И от маслото ще излее свещеникът върху дланта на лявата си ръка.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "и от"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "маслото"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "ще излее"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свещеникът"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "כף",
+      "gloss": "дланта"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "на свещеника"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "лявата"
+    }
+  ],
+  "timestamp": "2026-09-22T11:37:06.379645341Z",
+  "model": "glm-5.3"
+}

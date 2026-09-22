@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 105:30",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 105,
+  "translation": "Закишя земята им жаби в спалните на царете им.",
+  "tokens": [
+    {
+      "surface": "שרץ",
+      "gloss": "Закишя"
+    },
+    {
+      "surface": "ארצם",
+      "gloss": "земята им"
+    },
+    {
+      "surface": "צפרדעים",
+      "gloss": "жаби"
+    },
+    {
+      "surface": "בחדרי",
+      "gloss": "в спалните"
+    },
+    {
+      "surface": "מלכיהם",
+      "gloss": "на царете им"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:37.080631840Z",
+  "model": "glm-5.3"
+}

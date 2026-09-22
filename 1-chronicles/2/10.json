@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 2:10",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И Рам роди ⟨את⟩ Аминадав, и Аминадав роди ⟨את⟩ Нахшон, княз на синовете на Юда.",
+  "tokens": [
+    {
+      "surface": "ורם",
+      "gloss": "И Рам"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аминадав"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Аминадав"
+    },
+    {
+      "surface": "ועמינדב",
+      "gloss": "и Аминадав"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нахшон"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Нахшон"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "княз"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на синовете"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Юда"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:53.074560189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Време да обичаш и време да мразиш; време за война и време за мир.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "да обичаш"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и време"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "да мразиш"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "за война"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и време"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "за мир"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:31.009197679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 73:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 73,
+  "translation": "В страданието на смъртен ги няма, и с човеци не се докосват.",
+  "tokens": [
+    {
+      "surface": "בעמל",
+      "gloss": "в страданието"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "на смъртен"
+    },
+    {
+      "surface": "אינמו",
+      "gloss": "ги няма"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "и с"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човеци"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינגעו",
+      "gloss": "се докосват"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:02.350603050Z",
+  "model": "glm-5.3"
+}

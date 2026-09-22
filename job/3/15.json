@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 3:15",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "или с князе, които имат злато, пълнещи домовете си със сребро;",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "князе"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имат"
+    },
+    {
+      "surface": "הממלאים",
+      "gloss": "пълнещите"
+    },
+    {
+      "surface": "בתיהם",
+      "gloss": "домовете си"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    }
+  ],
+  "timestamp": "2026-09-22T15:23:30.915125489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 8:5",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "От синовете на Шеханя: син на Яхазиеел, и с него триста мъжки.",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "от синовете"
+    },
+    {
+      "surface": "שכניה",
+      "gloss": "Шеханя"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "Яхазиеел"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "и с него"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотици"
+    },
+    {
+      "surface": "הזכרים",
+      "gloss": "мъжки"
+    }
+  ],
+  "timestamp": "2026-09-22T15:50:53.962902070Z",
+  "model": "glm-5.3"
+}

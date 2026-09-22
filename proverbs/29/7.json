@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Праведният познава правото на бедните, а нечестивият не разбира знание.",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "познава"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведният"
+    },
+    {
+      "surface": "דין",
+      "gloss": "правото"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "на бедните"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечестивият"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "разбира"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знание"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:19.526981720Z",
+  "model": "glm-5.3"
+}

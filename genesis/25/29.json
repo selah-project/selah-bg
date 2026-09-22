@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И свари Яаков вариво, и дойде Исав от полето, и той ⟨бе⟩ изморен.",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "И свари"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "вариво"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и дойде"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исав"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "полето"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и той"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "изморен"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:04.807621655Z",
+  "model": "glm-5.3"
+}

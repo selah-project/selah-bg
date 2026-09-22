@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 2:28",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И бяха синовете на Онам: Шамай и Яда; а синовете на Шамай: Надав и Авишур.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И бяха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете на"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "Онам"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шамай"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "и Яда"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "а синовете на"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шамай"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "Надав"
+    },
+    {
+      "surface": "ואבישור",
+      "gloss": "и Авишур"
+    }
+  ],
+  "timestamp": "2026-09-22T16:33:16.642889844Z",
+  "model": "glm-5.3"
+}

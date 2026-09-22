@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И Тамар, снаха му, му роди ⟨את⟩ Перец и ⟨את⟩ Зерах; всички синове на Йехуда бяха пет.",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "И Тамар"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "снаха му"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Перец"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Зерах"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "Зерах"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Йехуда"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:05.161552965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Защото нали ⟨има⟩ бъдеще, и надеждата ти няма да бъде отсечена.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אם",
+      "gloss": "нали"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "бъдеще"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "и надеждата ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ще бъде отсечена"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:14.038405914Z",
+  "model": "glm-5.3"
+}

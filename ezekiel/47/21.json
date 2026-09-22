@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 47:21",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 47,
+  "translation": "И разделите ⟨את⟩ земята тази за вас, за племената на Израел.",
+  "tokens": [
+    {
+      "surface": "וחלקתם",
+      "gloss": "и разделите"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земята"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "тази"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    },
+    {
+      "surface": "לשבטי",
+      "gloss": "за племената"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T14:30:34.975149494Z",
+  "model": "glm-5.3"
+}

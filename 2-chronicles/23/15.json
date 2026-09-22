@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 23:15",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "И сториха ⟨й⟩ ръце, и тя дойде до входа на конската порта, дома на царя, и я умъртвиха там.",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "и сториха"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨й⟩"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ръце"
+    },
+    {
+      "surface": "ותבוא",
+      "gloss": "и тя дойде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "входа"
+    },
+    {
+      "surface": "שער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "на конете"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "на царя"
+    },
+    {
+      "surface": "וימיתוה",
+      "gloss": "и я умъртвиха"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    }
+  ],
+  "timestamp": "2026-09-22T16:09:51.983918867Z",
+  "model": "glm-5.3"
+}

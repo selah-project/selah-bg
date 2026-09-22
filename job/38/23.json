@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 38:23",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "които опазих за време на беда, за ден на сражение и война?",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "חשכתי",
+      "gloss": "опазих"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "за време"
+    },
+    {
+      "surface": "צר",
+      "gloss": "беда"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "за ден"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "сражение"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "и война"
+    }
+  ],
+  "timestamp": "2026-09-22T15:32:39.670861911Z",
+  "model": "glm-5.3"
+}

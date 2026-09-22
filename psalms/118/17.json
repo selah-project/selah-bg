@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 118:17",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 118,
+  "translation": "Не ще умра, а ще живея, и ще разкажа делата на Ях.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ще умра"
+    },
+    {
+      "surface": "כי",
+      "gloss": "а"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ще живея"
+    },
+    {
+      "surface": "ואספר",
+      "gloss": "и ще разкажа"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "делата"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:16.091192913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И беше цялата земя език един и думи едни.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "език"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "един"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "и думи"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "едни"
+    }
+  ],
+  "timestamp": "2026-09-22T10:57:32.249049804Z",
+  "model": "glm-5.3"
+}

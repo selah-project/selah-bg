@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 3:9",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Загради пътищата ми с редени камъни, пътеките ми изкриви.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "Загради"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "пътищата ми"
+    },
+    {
+      "surface": "בגזית",
+      "gloss": "с редени камъни"
+    },
+    {
+      "surface": "נתיבתי",
+      "gloss": "пътеките ми"
+    },
+    {
+      "surface": "עוה",
+      "gloss": "изкриви"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:37.669923948Z",
+  "model": "glm-5.3"
+}

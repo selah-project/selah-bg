@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 102:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 102,
+  "translation": "Яхве, чуй молитвата ми, и викът ми към теб да дойде.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "чуй"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "молитвата ми"
+    },
+    {
+      "surface": "ושועתי",
+      "gloss": "и викът ми"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "към теб"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "да дойде"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:44.813589215Z",
+  "model": "glm-5.3"
+}

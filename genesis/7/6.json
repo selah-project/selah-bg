@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И Ное беше на шестстотин години, и потопът беше ⟨води⟩ върху земята.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "И Ное"
+    },
+    {
+      "surface": "בן",
+      "gloss": "⟨син на⟩"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "и потопът"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:47.821399154Z",
+  "model": "glm-5.3"
+}

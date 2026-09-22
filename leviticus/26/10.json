@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 26:10",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И ще ядете старо, вехто, и старото ще извадите заради новото.",
+  "tokens": [
+    {
+      "surface": "ואכלתם",
+      "gloss": "и ще ядете"
+    },
+    {
+      "surface": "ישן",
+      "gloss": "старо"
+    },
+    {
+      "surface": "נושן",
+      "gloss": "вехто"
+    },
+    {
+      "surface": "וישן",
+      "gloss": "и старото"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "заради"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "новото"
+    },
+    {
+      "surface": "תוציאו",
+      "gloss": "ще извадите"
+    }
+  ],
+  "timestamp": "2026-09-22T11:42:51.153809482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 32:14",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "И нощува там през тази нощ, и взе от идващото в ръката му дар за Исав, брат си.",
+  "tokens": [
+    {
+      "surface": "וילן",
+      "gloss": "и нощува"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "през нощта"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "тази"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и взе"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "идващото"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "в ръката му"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "дар"
+    },
+    {
+      "surface": "לעשו",
+      "gloss": "за Исав"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брат си"
+    }
+  ],
+  "timestamp": "2026-09-22T11:05:23.228876843Z",
+  "model": "glm-5.3"
+}

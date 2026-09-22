@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 30:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И рече Рахел: Елохим ми се съди и още чу гласа ми и даде ми син. Затова тя нарече името му Дан.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    },
+    {
+      "surface": "דנני",
+      "gloss": "ми се съди"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и още"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чу"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "гласа ми"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "על",
+      "gloss": "Затова"
+    },
+    {
+      "surface": "כן",
+      "gloss": "затова"
+    },
+    {
+      "surface": "קראה",
+      "gloss": "нарече"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името му"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    }
+  ],
+  "timestamp": "2026-09-22T16:15:35.371276608Z",
+  "model": "glm-5.3"
+}

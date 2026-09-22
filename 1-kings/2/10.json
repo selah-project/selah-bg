@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И легна Давид с бащите си, и ⟨се⟩ погреба в града на Давид.",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "И легна"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "бащите си"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "и погреба"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "в града"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T13:00:26.149066901Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "за Харим — третият, за Сеорим — четвъртият.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "за Харим"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третият"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "за Сеорим"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "четвъртият"
+    }
+  ],
+  "timestamp": "2026-09-22T16:03:07.449726152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Приобщен към идоли ⟨е⟩ Ефраим — остави го.",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "Приобщен"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "към идоли"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраим"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "остави"
+    },
+    {
+      "surface": "לו",
+      "gloss": "го"
+    }
+  ],
+  "timestamp": "2026-09-22T14:32:05.680687466Z",
+  "model": "glm-5.3"
+}

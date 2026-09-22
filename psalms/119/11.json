@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 119:11",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "В сърцето си скрих ⟨⟩ словото ти, за да не съгреша към теб.",
+  "tokens": [
+    {
+      "surface": "בלבי",
+      "gloss": "в сърцето си"
+    },
+    {
+      "surface": "צפנתי",
+      "gloss": "скрих"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "словото ти"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אחטא",
+      "gloss": "съгреша"
+    },
+    {
+      "surface": "לך",
+      "gloss": "към теб"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:40.745433923Z",
+  "model": "glm-5.3"
+}

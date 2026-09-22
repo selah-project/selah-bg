@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 4:8",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И рече й Барак: ако дойдеш с мен, ще отида; а ако не дойдеш с мен, няма да отида.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "й"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "Барак"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "дойдеш"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "с мен"
+    },
+    {
+      "surface": "והלכתי",
+      "gloss": "и ще отида"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "дойдеш"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "с мен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ще отида"
+    }
+  ],
+  "timestamp": "2026-09-22T12:28:18.205927443Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 20:4",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Това ли знаеш от ⟨давнина⟩, откакто бе поставен човек на ⟨ה⟩земята?",
+  "tokens": [
+    {
+      "surface": "הזאת",
+      "gloss": "това ли"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаеш"
+    },
+    {
+      "surface": "מני",
+      "gloss": "от"
+    },
+    {
+      "surface": "עד",
+      "gloss": "давнина"
+    },
+    {
+      "surface": "מני",
+      "gloss": "откакто"
+    },
+    {
+      "surface": "שים",
+      "gloss": "бе поставен"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земята"
+    }
+  ],
+  "timestamp": "2026-09-22T15:28:47.891770330Z",
+  "model": "glm-5.3"
+}

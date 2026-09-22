@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Синовете на Шем: Елам, и Ашур, и Арпахшад, и Луд, и Арам, и Уц, и Хул, и Гетер, и Мешех.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Елам"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "и Ашур"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "и Арпахшад"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "и Луд"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "и Арам"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "и Уц"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "и Хул"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "и Гетер"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "и Мешех"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:46.976180913Z",
+  "model": "glm-5.3"
+}

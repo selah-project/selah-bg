@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 40:27",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 40,
+  "translation": "И накади на него тамян от благовония, както заповяда Яхве ⟨את⟩ Моше.",
+  "tokens": [
+    {
+      "surface": "ויקטר",
+      "gloss": "И накади"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "тамян"
+    },
+    {
+      "surface": "סמים",
+      "gloss": "от благовония"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповяда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    }
+  ],
+  "timestamp": "2026-09-22T16:17:37.016046656Z",
+  "model": "glm-5.3"
+}

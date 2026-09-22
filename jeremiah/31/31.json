@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 31:31",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Ето, дни идат, пророчество на Яхве, и ще сключа ⟨את⟩ дом Израилев и ⟨את⟩ дом Юдин завет нов.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "באים",
+      "gloss": "идат"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "пророчество"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וכרתי",
+      "gloss": "и ще сключа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "дом Израилев"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израил"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "дом Юдин"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Юда"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завет"
+    },
+    {
+      "surface": "חדשה",
+      "gloss": "нов"
+    }
+  ],
+  "timestamp": "2026-09-22T14:00:42.522801724Z",
+  "model": "glm-5.3"
+}

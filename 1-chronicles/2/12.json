@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И Вооз роди ⟨את⟩ Овед, и Овед роди ⟨את⟩ Ишай.",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "И Вооз"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Овед"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "Овед"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "и Овед"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ишай"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Ишай"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:53.074899227Z",
+  "model": "glm-5.3"
+}

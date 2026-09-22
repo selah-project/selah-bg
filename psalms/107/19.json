@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 107:19",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 107,
+  "translation": "И извикаха към Яхве в бедата си, от теснотиите им ги спаси.",
+  "tokens": [
+    {
+      "surface": "ויזעקו",
+      "gloss": "и извикаха"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "в беда"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "ממצקותיהם",
+      "gloss": "от теснотиите им"
+    },
+    {
+      "surface": "יושיעם",
+      "gloss": "ги спаси"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:59.945782749Z",
+  "model": "glm-5.3"
+}

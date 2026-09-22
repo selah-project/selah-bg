@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "И това са родословията на Исав — той е Едом.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И това"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "родословията"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "на Исав"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:41.724816837Z",
+  "model": "glm-5.3"
+}

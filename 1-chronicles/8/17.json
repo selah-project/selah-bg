@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "и Зевадия, и Мешулам, и Хизки, и Хавер.",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "и Зевадия"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "и Мешулам"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "и Хизки"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "и Хавер"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:35.687568467Z",
+  "model": "glm-5.3"
+}

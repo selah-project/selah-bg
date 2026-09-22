@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 4:14",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "нард и шафран, тръстика и канела, с всякакви дърва на ливан, мира и алое, с всякакви глави на благовония.",
+  "tokens": [
+    {
+      "surface": "נרד",
+      "gloss": "нард"
+    },
+    {
+      "surface": "וכרכם",
+      "gloss": "и шафран"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "тръстика"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "и канела"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякакви"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "дърва"
+    },
+    {
+      "surface": "לבונה",
+      "gloss": "на ливан"
+    },
+    {
+      "surface": "מר",
+      "gloss": "мира"
+    },
+    {
+      "surface": "ואהלות",
+      "gloss": "и алое"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякакви"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "глави"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "на благовония"
+    }
+  ],
+  "timestamp": "2026-09-22T15:34:08.807702509Z",
+  "model": "glm-5.3"
+}

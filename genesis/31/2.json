@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "И видя Яков ⟨את⟩ лицето на Лаван, и ето — не бе към него както вчера и завчера.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и видя"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лицето"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "на Лаван"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "не бе"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "към него"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "както вчера"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "и завчера"
+    }
+  ],
+  "timestamp": "2026-09-22T11:05:27.486700623Z",
+  "model": "glm-5.3"
+}

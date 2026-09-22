@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 13:16",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Всеки хитър постъпва със знание, а глупакът разгласява глупост.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "хитър"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "постъпва"
+    },
+    {
+      "surface": "בדעת",
+      "gloss": "със знание"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "а глупакът"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "разгласява"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "глупост"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:29.957297042Z",
+  "model": "glm-5.3"
+}

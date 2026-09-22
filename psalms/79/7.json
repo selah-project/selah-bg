@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 79:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 79,
+  "translation": "Защото изядоха ⟨את⟩ Яаков и ⟨את⟩ жилището му опустошиха.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "изядоха"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яаков"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "жилището му"
+    },
+    {
+      "surface": "נוהו",
+      "gloss": "жилището му"
+    },
+    {
+      "surface": "השמו",
+      "gloss": "опустошиха"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:44.666428701Z",
+  "model": "glm-5.3"
+}

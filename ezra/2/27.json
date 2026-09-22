@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Мъжете на Микмаш — сто двадесет и две.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Мъжете"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "Микмаш"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и две"
+    }
+  ],
+  "timestamp": "2026-09-22T15:48:33.415372788Z",
+  "model": "glm-5.3"
+}

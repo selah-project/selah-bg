@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 37:13",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "Адонай ще му се присмее, защото вижда, че иде денят му.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ישחק",
+      "gloss": "ще се присмее"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "вижда"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "иде"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "денят му"
+    }
+  ],
+  "timestamp": "2026-09-22T14:57:07.539967494Z",
+  "model": "glm-5.3"
+}

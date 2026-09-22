@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И умря Ивцан ⟨Авцан⟩, и беше погребан във Витлеем.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "И умря"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ивцан"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "и беше погребан"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "във"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Витлеем"
+    }
+  ],
+  "timestamp": "2026-09-22T12:30:55.280766474Z",
+  "model": "glm-5.3"
+}

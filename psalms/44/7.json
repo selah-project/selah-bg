@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 44:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 44,
+  "translation": "Защото не в лъка си ще се доверя, и мечът ми няма да ме избави.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בקשתי",
+      "gloss": "в лъка си"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ще се доверя"
+    },
+    {
+      "surface": "וחרבי",
+      "gloss": "и мечът ми"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תושיעני",
+      "gloss": "ще ме избави"
+    }
+  ],
+  "timestamp": "2026-09-22T14:58:33.851902592Z",
+  "model": "glm-5.3"
+}

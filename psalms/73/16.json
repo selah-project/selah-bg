@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 73:16",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 73,
+  "translation": "И размислях да узная това — то беше мъчен труд в очите ми.",
+  "tokens": [
+    {
+      "surface": "ואחשבה",
+      "gloss": "И размислях"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "да узная"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "мъчен труд"
+    },
+    {
+      "surface": "היא",
+      "gloss": "то"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очите ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:56.032833337Z",
+  "model": "glm-5.3"
+}

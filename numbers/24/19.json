@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 24:19",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И ще слезе ⟨владетел⟩ от Яаков и ще погуби оцелялия от града.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "И ще слезе"
+    },
+    {
+      "surface": "מיעקב",
+      "gloss": "от Яаков"
+    },
+    {
+      "surface": "והאביד",
+      "gloss": "и ще погуби"
+    },
+    {
+      "surface": "שריד",
+      "gloss": "оцелялия"
+    },
+    {
+      "surface": "מעיר",
+      "gloss": "от града"
+    }
+  ],
+  "timestamp": "2026-09-22T11:55:55.296966144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 39,
+  "translation": "И третият ред: лешем, шево и ахлама.",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "и редът"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третият"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "лешем"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "шево"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "и ахлама"
+    }
+  ],
+  "timestamp": "2026-09-22T11:29:35.949076157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "А синовете на Мика: Питон и Мелех и Тахреа.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синовете"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "на Мика"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "Питон"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "и Мелех"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "и Тахреа"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:36.590354251Z",
+  "model": "glm-5.3"
+}

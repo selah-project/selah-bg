@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И Елеаса роди ⟨את⟩ Сисмай, и Сисмай роди ⟨את⟩ Шалум.",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "И Елеаса"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Сисмай"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "Сисмай"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "и Сисмай"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шалум"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Шалум"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:43.278518706Z",
+  "model": "glm-5.3"
+}

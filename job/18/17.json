@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Паметта му изгина от земята, и няма име нему по лицето навън.",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "паметта му"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "изгина"
+    },
+    {
+      "surface": "מני",
+      "gloss": "от"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "навън"
+    }
+  ],
+  "timestamp": "2026-09-22T15:27:58.406004756Z",
+  "model": "glm-5.3"
+}

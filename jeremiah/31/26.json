@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "На това се събудих и видях, и сънят ми беше сладък за мен.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "На"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "се събудих"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "и видях"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "и сънят ми"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "беше сладък"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мен"
+    }
+  ],
+  "timestamp": "2026-09-22T13:59:19.741012895Z",
+  "model": "glm-5.3"
+}

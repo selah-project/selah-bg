@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И синовете на Шемер: Ахи, и Рохга, и Йехува, и Арам.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синовете"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "на Шемер"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "Ахи"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "и Рохга"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "и Йехува"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "и Арам"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:42.668404999Z",
+  "model": "glm-5.3"
+}

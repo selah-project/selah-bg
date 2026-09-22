@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 10:18",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Прави правосъдие на сирачето и вдовицата, и обича чужденеца, да му даде хляб и облекло.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "прави"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правосъдие"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "на сирачето"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "и вдовицата"
+    },
+    {
+      "surface": "ואהב",
+      "gloss": "и обича"
+    },
+    {
+      "surface": "גר",
+      "gloss": "чужденеца"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "да даде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляб"
+    },
+    {
+      "surface": "ושמלה",
+      "gloss": "и облекло"
+    }
+  ],
+  "timestamp": "2026-09-22T12:05:35.181034668Z",
+  "model": "glm-5.3"
+}

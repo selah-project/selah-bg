@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 46:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 46,
+  "translation": "На водача, на синовете на Корах, върху аламот — песен.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "на водача"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на синовете"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "на Корах"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "аламот"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песен"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:18.284596352Z",
+  "model": "glm-5.3"
+}

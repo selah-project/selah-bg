@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Иехуда и Бинямин, и Шемаия и Ирмияху.",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "Иехуда"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "и Бинямин"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "и Шемаия"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "и Ирмияху"
+    }
+  ],
+  "timestamp": "2026-09-22T15:55:00.865945318Z",
+  "model": "glm-5.3"
+}

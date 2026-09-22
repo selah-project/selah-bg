@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "Човек, лишен от сърце, удря длан — поръчител става пред ближния си.",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "лишен"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърце"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "удря"
+    },
+    {
+      "surface": "כף",
+      "gloss": "длан"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "поръчител става"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "поръчител"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ближния му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:11.027052683Z",
+  "model": "glm-5.3"
+}

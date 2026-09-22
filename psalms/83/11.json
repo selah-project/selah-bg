@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 83,
+  "translation": "Изтребени бяха при Ен-Дор, станаха тор за земята.",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "Изтребени бяха"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "при Ен"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Дор"
+    },
+    {
+      "surface": "היו",
+      "gloss": "станаха"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "тор"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "за земята"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:27.909182409Z",
+  "model": "glm-5.3"
+}

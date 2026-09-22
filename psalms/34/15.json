@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Отдръпни се от зло и върши добро, търси мир и го следвай.",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "отдръпни се"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "от зло"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и върши"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "търси"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "и го следвай"
+    }
+  ],
+  "timestamp": "2026-09-22T14:56:31.605594968Z",
+  "model": "glm-5.3"
+}

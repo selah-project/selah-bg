@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 26:19",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Сыновете на Юда: Ер и Онан; и умря Ер и Онан в земята Ханаан.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "сыновете"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Юда"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ер"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "и Онан"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умря"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ер"
+    },
+    {
+      "surface": "ואונן",
+      "gloss": "и Онан"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Ханаан"
+    }
+  ],
+  "timestamp": "2026-09-22T11:55:44.764289111Z",
+  "model": "glm-5.3"
+}

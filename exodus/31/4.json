@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 31:4",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "да измисля замисли, да прави в злато и в сребро и в мед:",
+  "tokens": [
+    {
+      "surface": "לחשב",
+      "gloss": "да измисля"
+    },
+    {
+      "surface": "מחשבת",
+      "gloss": "замисли"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да прави"
+    },
+    {
+      "surface": "בזהב",
+      "gloss": "в злато"
+    },
+    {
+      "surface": "ובכסף",
+      "gloss": "и в сребро"
+    },
+    {
+      "surface": "ובנחשת",
+      "gloss": "и в мед"
+    }
+  ],
+  "timestamp": "2026-09-22T11:25:00.308168013Z",
+  "model": "glm-5.3"
+}

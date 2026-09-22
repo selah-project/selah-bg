@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-samuel 10:22",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И попитаха пак Яхве: Дойде ли вече тук човек? И рече Яхве: Ето, той се е скрил при вещите.",
+  "tokens": [
+    {
+      "surface": "וישאלו",
+      "gloss": "И попитаха"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "пак"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "дойде"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "вече"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "тук"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "נחבא",
+      "gloss": "скри се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "הכלים",
+      "gloss": "вещите"
+    }
+  ],
+  "timestamp": "2026-09-22T12:38:31.510972156Z",
+  "model": "glm-5.3"
+}

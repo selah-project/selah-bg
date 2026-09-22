@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 31:16",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Сметка поле и го взе — от плода на дланите си насади лозе.",
+  "tokens": [
+    {
+      "surface": "זממה",
+      "gloss": "сметка"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "поле"
+    },
+    {
+      "surface": "ותקחהו",
+      "gloss": "и го взе"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "от плода"
+    },
+    {
+      "surface": "כפיה",
+      "gloss": "на дланите си"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "насади"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "лозе"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:57.996271420Z",
+  "model": "glm-5.3"
+}

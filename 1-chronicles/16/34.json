@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 16:34",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Благодарете на Яхве, защото е добър, защото навеки е хеседът Му.",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "благодарете"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "е добър"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "навеки"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседът Му"
+    }
+  ],
+  "timestamp": "2026-09-22T16:01:37.681992360Z",
+  "model": "glm-5.3"
+}

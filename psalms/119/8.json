@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 119:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "⟨את⟩ наредбите ти ще пазя; не ме оставяй докрай!",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "наредбите ти"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "наредбите ти"
+    },
+    {
+      "surface": "אשמר",
+      "gloss": "ще пазя"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעזבני",
+      "gloss": "ме оставяй"
+    },
+    {
+      "surface": "עד",
+      "gloss": "докрай"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "напълно"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:12.029832995Z",
+  "model": "glm-5.3"
+}

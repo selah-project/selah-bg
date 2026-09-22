@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 26:27",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "от войните и от плячката осветиха ⟨за⟩ да укрепват дома на Яхве.",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "המלחמות",
+      "gloss": "войните"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и от"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "плячката"
+    },
+    {
+      "surface": "הקדישו",
+      "gloss": "осветиха"
+    },
+    {
+      "surface": "לחזק",
+      "gloss": "да укрепват"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T16:04:07.119089719Z",
+  "model": "glm-5.3"
+}

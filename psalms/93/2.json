@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 93,
+  "translation": "Утвърден е престолът Твой оттогава, от вечността си Ти.",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "утвърден е"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "престолът Твой"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "оттогава"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "от вечността"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:09.889212812Z",
+  "model": "glm-5.3"
+}

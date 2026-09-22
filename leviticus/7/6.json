@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 7:6",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Всеки мъжки сред свещениците ще го яде; на свято място ще се яде; свято на святите е то.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "мъжки"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "сред свещениците"
+    },
+    {
+      "surface": "יאכלנו",
+      "gloss": "ще го яде"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "на място"
+    },
+    {
+      "surface": "קדוש",
+      "gloss": "свято"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ще се яде"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свято"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "святи"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    }
+  ],
+  "timestamp": "2026-09-22T11:32:36.555101389Z",
+  "model": "glm-5.3"
+}

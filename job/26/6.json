@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 26:6",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Гол ⟨е⟩ Шеол пред ⟨него⟩ и няма покривка за Абадон.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "гол"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шеол"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "пред него"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "כסות",
+      "gloss": "покривка"
+    },
+    {
+      "surface": "לאבדון",
+      "gloss": "за Абадон"
+    }
+  ],
+  "timestamp": "2026-09-22T15:29:31.842773934Z",
+  "model": "glm-5.3"
+}

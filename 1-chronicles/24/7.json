@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 24:7",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И излезе първият жребий за Йехоярив, за Ядая — вторият.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и излезе"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "жребият"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "първият"
+    },
+    {
+      "surface": "ליהויריב",
+      "gloss": "за Йехоярив"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "за Ядая"
+    },
+    {
+      "surface": "השני",
+      "gloss": "вторият"
+    }
+  ],
+  "timestamp": "2026-09-22T16:03:07.449588134Z",
+  "model": "glm-5.3"
+}

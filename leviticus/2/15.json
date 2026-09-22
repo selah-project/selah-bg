@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И ще туряш на него масло и ще сложиш на него тамян — принос е той.",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "и ще туряш"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на него"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "масло"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "и ще сложиш"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "на него"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "тамян"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "принос"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е той"
+    }
+  ],
+  "timestamp": "2026-09-22T11:31:09.596061646Z",
+  "model": "glm-5.3"
+}

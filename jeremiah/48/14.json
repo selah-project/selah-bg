@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 48:14",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "Как казвате: „Смели сме ние и мъже на сила за война“?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Как"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "казвате"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "Смели"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ние"
+    },
+    {
+      "surface": "ואנשי",
+      "gloss": "и мъже"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "на сила"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "за война"
+    }
+  ],
+  "timestamp": "2026-09-22T14:07:07.116993213Z",
+  "model": "glm-5.3"
+}

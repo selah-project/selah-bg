@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Но чуй, моля, тази дума, която аз говоря в ушите ти и в ушите на целия народ:",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "Но"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чуй"
+    },
+    {
+      "surface": "נא",
+      "gloss": "моля"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "думата"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "тази"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "в ушите ти"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "и в ушите на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целия"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    }
+  ],
+  "timestamp": "2026-09-22T13:59:48.383476011Z",
+  "model": "glm-5.3"
+}

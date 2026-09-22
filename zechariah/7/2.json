@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 7:2",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И проводи Бет Ел Саар-Ецер и Регем-Мелех ⟨и⟩ хората му да умилостивят ⟨את⟩ лицето на Яхве.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И проводи"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "שר",
+      "gloss": "Саар"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "Ецер"
+    },
+    {
+      "surface": "ורגם",
+      "gloss": "и Регем"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Мелех"
+    },
+    {
+      "surface": "ואנשיו",
+      "gloss": "⟨и⟩ хората му"
+    },
+    {
+      "surface": "לחלות",
+      "gloss": "да умилостивят"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лицето на Яхве"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:47:07.363746565Z",
+  "model": "glm-5.3"
+}

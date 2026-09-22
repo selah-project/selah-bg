@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 29:11",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Яхве сила на народа си дава, Яхве благославя ⟨את⟩ народа си със мир.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עז",
+      "gloss": "сила"
+    },
+    {
+      "surface": "לעמו",
+      "gloss": "на народа си"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дава"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "благославя"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народа си"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "народа си"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "със мир"
+    }
+  ],
+  "timestamp": "2026-09-22T14:54:37.341916050Z",
+  "model": "glm-5.3"
+}

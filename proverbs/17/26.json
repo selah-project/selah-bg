@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 17:26",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "Също да накажеш праведник — не ⟨е⟩ добро, да поразиш благородни за правота.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "също"
+    },
+    {
+      "surface": "ענוש",
+      "gloss": "да накажеш"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "праведник"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "да поразиш"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "благородни"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "правота"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:34.357658115Z",
+  "model": "glm-5.3"
+}

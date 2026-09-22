@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 4:23",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Над всяка стража пази сърцето си, защото от него са изходите на живота.",
+  "tokens": [
+    {
+      "surface": "מכל",
+      "gloss": "над всяка"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "стража"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "пази"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "сърцето си"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "от него"
+    },
+    {
+      "surface": "תוצאות",
+      "gloss": "изходите"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "на живота"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:57.858184350Z",
+  "model": "glm-5.3"
+}

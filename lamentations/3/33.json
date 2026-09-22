@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Защото не подтисна от сърцето си, нито огорчи синовете на човеците.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "подтисна"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "от сърцето си"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "и огорчи"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете на"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човеците"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:52.472883904Z",
+  "model": "glm-5.3"
+}

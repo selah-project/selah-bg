@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "И дойде при баща си и рече: баще мой! А той рече: ето ме; кой си ти, синко мой?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "и дойде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "баща си"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "аще мой"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ето ме"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синко мой"
+    }
+  ],
+  "timestamp": "2026-09-22T11:04:05.971656557Z",
+  "model": "glm-5.3"
+}

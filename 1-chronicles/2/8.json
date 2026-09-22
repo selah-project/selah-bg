@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И синове на Ейтан: Азария.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синове"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "на Ейтан"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азария"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:28.399183874Z",
+  "model": "glm-5.3"
+}

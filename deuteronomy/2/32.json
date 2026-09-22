@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "deuteronomy 2:32",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И излезе Сихон срещу нас, той и целият му народ, на битка във Яхац.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и излезе"
+    },
+    {
+      "surface": "סיחן",
+      "gloss": "Сихон"
+    },
+    {
+      "surface": "לקראתנו",
+      "gloss": "срещу нас"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и целият"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "му народ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "на битка"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "в Яхац"
+    }
+  ],
+  "timestamp": "2026-09-22T12:02:00.440283256Z",
+  "model": "glm-5.3"
+}

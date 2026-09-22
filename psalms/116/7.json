@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 116:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 116,
+  "translation": "Върни се, душе моя, в покоя си, защото Яхве ти въздаде.",
+  "tokens": [
+    {
+      "surface": "שובי",
+      "gloss": "Върни се"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душо моя"
+    },
+    {
+      "surface": "למנוחיכי",
+      "gloss": "в покоя си"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "въздаде"
+    },
+    {
+      "surface": "עליכי",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:25.466707581Z",
+  "model": "glm-5.3"
+}

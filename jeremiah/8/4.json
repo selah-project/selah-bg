@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 8:4",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И ще кажеш им: така каза Яхве: падат ли ⟨те⟩ и не стават? връща ли се и не се връща?",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "и ще кажеш"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "היפלו",
+      "gloss": "падат ли"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יקומו",
+      "gloss": "стават"
+    },
+    {
+      "surface": "אם",
+      "gloss": "връща ли се"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "връща се"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "се връща"
+    }
+  ],
+  "timestamp": "2026-09-22T13:51:23.376982926Z",
+  "model": "glm-5.3"
+}

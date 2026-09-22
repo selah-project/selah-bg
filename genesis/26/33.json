@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И я нарече Шива; затова името на града ⟨е⟩ Беер-Шева до този ден.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И я нарече"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ нея",
+      "marks": "Шива"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "Шива"
+    },
+    {
+      "surface": "על",
+      "gloss": "затова"
+    },
+    {
+      "surface": "כן",
+      "gloss": "затова"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "на града"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беер"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "този ден"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    }
+  ],
+  "timestamp": "2026-09-22T11:02:32.822379035Z",
+  "model": "glm-5.3"
+}

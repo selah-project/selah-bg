@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 7:9",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "В здрач, във вечерта на деня, в тъмнината на нощта и ⟨в⟩ мрак.",
+  "tokens": [
+    {
+      "surface": "בנשף",
+      "gloss": "в здрач"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "във вечерта"
+    },
+    {
+      "surface": "יום",
+      "gloss": "на деня"
+    },
+    {
+      "surface": "באישון",
+      "gloss": "в тъмнината"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "на нощта"
+    },
+    {
+      "surface": "ואפלה",
+      "gloss": "и мрак"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:53.598892178Z",
+  "model": "glm-5.3"
+}

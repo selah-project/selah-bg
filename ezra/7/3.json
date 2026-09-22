@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "син на Амария, син на Азария, син на Мерайот.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "на Амария"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "на Азария"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "на Мерайот"
+    }
+  ],
+  "timestamp": "2026-09-22T15:50:19.326238746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 100:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 100,
+  "translation": "Служете ⟨את⟩ на Яхве с радост, влезте пред Него с пение.",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "служете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "с радост"
+    },
+    {
+      "surface": "באו",
+      "gloss": "влезте"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пред Него"
+    },
+    {
+      "surface": "ברננה",
+      "gloss": "с пение"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:57.235663917Z",
+  "model": "glm-5.3"
+}

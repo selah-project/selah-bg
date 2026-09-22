@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 30:27",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "на онези в Бет Ел, и на онези в Рамот Негев, и на онези в Ятир,",
+  "tokens": [
+    {
+      "surface": "לאשר",
+      "gloss": "на онези в"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "и на онези в"
+    },
+    {
+      "surface": "ברמות",
+      "gloss": "Рамот"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Негев"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "и на онези в"
+    },
+    {
+      "surface": "ביתר",
+      "gloss": "Ятир"
+    }
+  ],
+  "timestamp": "2026-09-22T12:46:13.923186629Z",
+  "model": "glm-5.3"
+}

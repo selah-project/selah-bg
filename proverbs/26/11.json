@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 26:11",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Кучето се връща на повръщаното си, и глупецът повтаря глупостта си.",
+  "tokens": [
+    {
+      "surface": "ככלב",
+      "gloss": "Кучето"
+    },
+    {
+      "surface": "שב",
+      "gloss": "се връща"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "קאו",
+      "gloss": "повръщаното си"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупецът"
+    },
+    {
+      "surface": "שונה",
+      "gloss": "повтаря"
+    },
+    {
+      "surface": "באולתו",
+      "gloss": "глупостта си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:13.568398971Z",
+  "model": "glm-5.3"
+}

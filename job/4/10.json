@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 4:10",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Рева на лъв, и глас на flurry-lion — и зъбите на млади лъвове се строшиха.",
+  "tokens": [
+    {
+      "surface": "שאגת",
+      "gloss": "рева"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "на лъв"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "и глас"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "на свиреп лъв"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "и зъбите"
+    },
+    {
+      "surface": "כפירים",
+      "gloss": "на млади лъвове"
+    },
+    {
+      "surface": "נתעו",
+      "gloss": "се строшиха"
+    }
+  ],
+  "timestamp": "2026-09-22T15:23:10.362411130Z",
+  "model": "glm-5.3"
+}

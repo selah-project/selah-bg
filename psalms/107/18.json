@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 107:18",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 107,
+  "translation": "Всяка храна душата им гади, и стигнаха до портите на смъртта.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "всяка"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "храна"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "гади се"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "душата им"
+    },
+    {
+      "surface": "ויגיעו",
+      "gloss": "и стигнаха"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "портите"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смъртта"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:59.945463339Z",
+  "model": "glm-5.3"
+}

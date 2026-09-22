@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Малък ⟨съм⟩ аз и презиран; твоите наредби не съм забравил.",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "малък"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "и презиран"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "твоите наредби"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "забравих"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:02.203423333Z",
+  "model": "glm-5.3"
+}

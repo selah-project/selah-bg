@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 115:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 115,
+  "translation": "Не на нас, Яхве, не на нас, а на Твоето име дай слава, заради Твоя хесед, заради Твоята истина.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "на нас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "на нас"
+    },
+    {
+      "surface": "כי",
+      "gloss": "а"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "на Твоето име"
+    },
+    {
+      "surface": "תן",
+      "gloss": "дай"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    },
+    {
+      "surface": "על",
+      "gloss": "заради"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "Твоя хесед"
+    },
+    {
+      "surface": "על",
+      "gloss": "заради"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "Твоята истина"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:43.121529960Z",
+  "model": "glm-5.3"
+}

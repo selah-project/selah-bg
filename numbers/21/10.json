@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 21:10",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И тръгнаха синовете на Израел и опънаха ⟨стан⟩ в Овот.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И тръгнаха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и опънаха ⟨стан⟩"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "в Овот"
+    }
+  ],
+  "timestamp": "2026-09-22T16:19:12.958890610Z",
+  "model": "glm-5.3"
+}

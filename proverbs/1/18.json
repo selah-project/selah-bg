@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 1:18",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "а те за тяхната кръв дебнат, укриват се за ⟨своите⟩ души.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "а те"
+    },
+    {
+      "surface": "לדמם",
+      "gloss": "за тяхната кръв"
+    },
+    {
+      "surface": "יארבו",
+      "gloss": "дебнат"
+    },
+    {
+      "surface": "יצפנו",
+      "gloss": "укриват се"
+    },
+    {
+      "surface": "לנפשתם",
+      "gloss": "за своите души"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:34.926270303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 11:24",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Това извърши Бенаяху, син на Йехояда, и имаше име сред тримата юнаци.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "това"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "извърши"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "Бенаяху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йехояда"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "и нему"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "сред тримата"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "юнаци"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:14.050588986Z",
+  "model": "glm-5.3"
+}

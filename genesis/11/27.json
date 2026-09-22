@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 11:27",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И това са родовете на Терах: Терах роди ⟨את⟩ Аврам, ⟨את⟩ Нахор и ⟨את⟩ Харан; и Харан роди ⟨את⟩ Лот.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "и това"
+    },
+    {
+      "surface": "תולדת",
+      "gloss": "са родовете"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "на Терах"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терах"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аврам"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нахор"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахор"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Харан"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "Харан"
+    },
+    {
+      "surface": "והרן",
+      "gloss": "и Харан"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Лот"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "Лот"
+    }
+  ],
+  "timestamp": "2026-09-22T10:57:12.139148142Z",
+  "model": "glm-5.3"
+}

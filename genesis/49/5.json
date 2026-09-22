@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 49:5",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 49,
+  "translation": "Шимон и Леви — братя; съдове на насилие ⟨са⟩ мечовете им.",
+  "tokens": [
+    {
+      "surface": "שמעון",
+      "gloss": "Шимон"
+    },
+    {
+      "surface": "ולוי",
+      "gloss": "и Леви"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "братя"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "съдове"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "на насилие"
+    },
+    {
+      "surface": "מכרתיהם",
+      "gloss": "мечовете им"
+    }
+  ],
+  "timestamp": "2026-09-22T11:13:30.144178682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 60:13",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 60,
+  "translation": "Дай ни помощ против ⟨врага⟩, и суетна ⟨е⟩ избавата на човека.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Дай"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "помощ"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "против ⟨врага⟩"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "и суетна"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "избавата"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на човека"
+    }
+  ],
+  "timestamp": "2026-09-22T15:01:36.170855853Z",
+  "model": "glm-5.3"
+}

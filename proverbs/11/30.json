@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Плодът на праведния е дърво на живота, и който печели души ⟨е⟩ мъдър.",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "плодът"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "на праведния"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дърво"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "на живота"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "и който печели"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "души"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мъдър"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:00.091104877Z",
+  "model": "glm-5.3"
+}

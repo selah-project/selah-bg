@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "за Мелхи — Йонатан; за Шевания — Йосеф.",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "за Мелхи"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "за Шевания"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    }
+  ],
+  "timestamp": "2026-09-22T15:54:59.731820741Z",
+  "model": "glm-5.3"
+}

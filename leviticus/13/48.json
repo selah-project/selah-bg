@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 13:48",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "или в основата, или във вътъка на лена или на вълната, или в кожа, или във всяко изделие от кожа.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "в основата"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "във вътъка"
+    },
+    {
+      "surface": "לפשתים",
+      "gloss": "на лена"
+    },
+    {
+      "surface": "ולצמר",
+      "gloss": "и на вълната"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "в кожа"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "във всяко"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "изделие"
+    },
+    {
+      "surface": "עור",
+      "gloss": "кожа"
+    }
+  ],
+  "timestamp": "2026-09-22T11:36:40.002181065Z",
+  "model": "glm-5.3"
+}

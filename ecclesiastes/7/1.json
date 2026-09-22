@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Добро ⟨е⟩ име, повече от благо ухание, и денят на смъртта — от деня на раждането му.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "שם",
+      "gloss": "име"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "от благо ухание"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "повече от добро"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "и денят"
+    },
+    {
+      "surface": "המות",
+      "gloss": "на смъртта"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "от деня"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "на раждането му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:15.202022272Z",
+  "model": "glm-5.3"
+}

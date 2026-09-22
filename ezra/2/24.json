@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Азмавет — четиридесет и два.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Азмавет"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четиридесет"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и два"
+    }
+  ],
+  "timestamp": "2026-09-22T15:47:58.371095024Z",
+  "model": "glm-5.3"
+}

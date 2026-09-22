@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 36:19",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "Това са синовете на Исав, и това са техните князе — той ⟨е⟩ Едом.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "това"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "на Исав"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "и това"
+    },
+    {
+      "surface": "אלופיהם",
+      "gloss": "техните князе"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:55.200271037Z",
+  "model": "glm-5.3"
+}

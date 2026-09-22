@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 84,
+  "translation": "Колко възлюбени ⟨са⟩ жилищата ти, Яхве Цеваот!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "колко"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "възлюбени"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "жилищата ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:58.245522577Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 33:20",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "Душата ни чакаше Яхве, защото Той ⟨е⟩ помощта ни и щитът ни.",
+  "tokens": [
+    {
+      "surface": "נפשנו",
+      "gloss": "Душата ни"
+    },
+    {
+      "surface": "חכתה",
+      "gloss": "чакаше"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עזרנו",
+      "gloss": "помощта ни"
+    },
+    {
+      "surface": "ומגננו",
+      "gloss": "и щитът ни"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Той"
+    }
+  ],
+  "timestamp": "2026-09-22T14:56:45.420276921Z",
+  "model": "glm-5.3"
+}

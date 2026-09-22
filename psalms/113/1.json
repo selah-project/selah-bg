@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 113:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 113,
+  "translation": "Хвалете Ях, хвалете, слуги на Яхве, хвалете ⟨את⟩ името на Яхве!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "хвалете"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "הללу",
+      "gloss": "хвалете"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "слуги"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "хвалете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "името"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:12.560268027Z",
+  "model": "glm-5.3"
+}

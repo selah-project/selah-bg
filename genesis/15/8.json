@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 15:8",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "И рече: Адонай Яхве, по какво ще узная, че ще я наследя?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "במה",
+      "gloss": "по какво"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ще узная"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "אירשנה",
+      "gloss": "ще я наследя"
+    }
+  ],
+  "timestamp": "2026-09-22T10:57:58.620690863Z",
+  "model": "glm-5.3"
+}

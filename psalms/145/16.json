@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 145:16",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 145,
+  "translation": "Отваряш ⟨את⟩ ръката Си и насищаш до желание всичко живо.",
+  "tokens": [
+    {
+      "surface": "פותח",
+      "gloss": "Отваряш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ръката Си"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ръката Си"
+    },
+    {
+      "surface": "ומשביע",
+      "gloss": "и насищаш"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живо"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "до желание"
+    }
+  ],
+  "timestamp": "2026-09-22T15:14:59.157863935Z",
+  "model": "glm-5.3"
+}

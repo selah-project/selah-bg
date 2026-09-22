@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-kings 4:15",
+  "book": "2-kings",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И рече: Повикай я. И повика я, и тя застана на прага.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "Повикай"
+    },
+    {
+      "surface": "לה",
+      "gloss": "я"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и повика"
+    },
+    {
+      "surface": "לה",
+      "gloss": "я"
+    },
+    {
+      "surface": "ותעמד",
+      "gloss": "и застана"
+    },
+    {
+      "surface": "בפתח",
+      "gloss": "на прага"
+    }
+  ],
+  "timestamp": "2026-09-22T13:14:53.067388306Z",
+  "model": "glm-5.3"
+}

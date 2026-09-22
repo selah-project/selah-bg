@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 35:20",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "Защото не говорят мир, а срещу тихите в земята измамни думи кроят.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "говорят"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "а срещу"
+    },
+    {
+      "surface": "רגעי",
+      "gloss": "тихите"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "думи"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "измамни"
+    },
+    {
+      "surface": "יחשבון",
+      "gloss": "кроят"
+    }
+  ],
+  "timestamp": "2026-09-22T14:57:08.629940771Z",
+  "model": "glm-5.3"
+}

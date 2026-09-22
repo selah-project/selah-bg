@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 75,
+  "translation": "За диригента — „Ал ташхет“ — мизмор на Асаф, песен.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "за диригента"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "унищожавай"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "на Асаф"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:32.686077114Z",
+  "model": "glm-5.3"
+}

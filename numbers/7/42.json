@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "В шестия ден — вождът на сините на Гад: Елиасаф, син на Деуел.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "шестия"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "вождът"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на сините"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Елиасаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "Деуел"
+    }
+  ],
+  "timestamp": "2026-09-22T11:47:04.611495842Z",
+  "model": "glm-5.3"
+}

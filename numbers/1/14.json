@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "За Гад — Елиасаф, син на Деуел.",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "за Гад"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "Елиасаф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "на Деуел"
+    }
+  ],
+  "timestamp": "2026-09-22T11:44:34.421398087Z",
+  "model": "glm-5.3"
+}

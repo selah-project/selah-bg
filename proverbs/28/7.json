@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 28:7",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Пази Тора — син със разум, а пасящ лакомници покрива баща си със срам.",
+  "tokens": [
+    {
+      "surface": "נוצר",
+      "gloss": "Пази"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "със разум"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "а пасящ"
+    },
+    {
+      "surface": "זוללים",
+      "gloss": "лакомници"
+    },
+    {
+      "surface": "יכלים",
+      "gloss": "покрива със срам"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "баща си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:09.379452480Z",
+  "model": "glm-5.3"
+}

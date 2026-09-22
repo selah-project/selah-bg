@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И дойде Елохим при Валаам и рече: кои са тия хора при теб?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И дойде"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Валаам"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "са тия хора"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "тия"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "при теб"
+    }
+  ],
+  "timestamp": "2026-09-22T11:54:17.271062669Z",
+  "model": "glm-5.3"
+}

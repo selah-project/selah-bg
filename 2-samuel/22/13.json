@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 22:13",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "От сиянието пред него пламнаха въглища от огън.",
+  "tokens": [
+    {
+      "surface": "מנגה",
+      "gloss": "от сиянието"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "пред него"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "пламнаха"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "въглища"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от огън"
+    }
+  ],
+  "timestamp": "2026-09-22T12:58:55.474880905Z",
+  "model": "glm-5.3"
+}

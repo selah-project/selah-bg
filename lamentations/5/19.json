@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Ти, Яхве, за навек седиш, престолът Ти — за род и род.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "за навек"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "седиш"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "престолът Ти"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "за род"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "и род"
+    }
+  ],
+  "timestamp": "2026-09-22T16:32:41.602467096Z",
+  "model": "glm-5.3"
+}

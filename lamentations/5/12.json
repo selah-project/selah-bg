@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Князе с ръцете им бяха обесени; лицата на старците не бяха почетени.",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "князе"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "с ръцете им"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "бяха обесени"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицата"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "на старците"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "бяха почетени"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:20.678247930Z",
+  "model": "glm-5.3"
+}

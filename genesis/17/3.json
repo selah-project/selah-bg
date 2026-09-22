@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И падна Аврам на лицето си, и говори Елохим ⟨с⟩ ⟨את⟩ него, казвайки:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "И падна"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицето си"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T10:59:59.604834356Z",
+  "model": "glm-5.3"
+}

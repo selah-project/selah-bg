@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 21:2",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Сине човешки, обърни лицето си към юг и капи към юг, и пророкувай срещу гората на полето — Негев;",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човешки"
+    },
+    {
+      "surface": "שים",
+      "gloss": "обърни"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицето си"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "към"
+    },
+    {
+      "surface": "תימנה",
+      "gloss": "юг"
+    },
+    {
+      "surface": "והטף",
+      "gloss": "и капи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "юг"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "и пророкувай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "срещу"
+    },
+    {
+      "surface": "יער",
+      "gloss": "гората"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "на полето"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "Негев"
+    }
+  ],
+  "timestamp": "2026-09-22T14:19:52.709415038Z",
+  "model": "glm-5.3"
+}

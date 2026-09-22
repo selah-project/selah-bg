@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Бояй се ⟨את⟩ Яхве, сине мой, и ⟨от⟩ царя; с променящите се не се смесвай.",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "Бояй се"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сине мой"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "и царя"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "променящите се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "се смесвай"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:11.172159028Z",
+  "model": "glm-5.3"
+}

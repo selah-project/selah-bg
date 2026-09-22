@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И биде словото на Яхве чрез ръката на пророка Хагай, да каже:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "чрез ръката"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "Хагай"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророка"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "да каже"
+    }
+  ],
+  "timestamp": "2026-09-22T14:45:44.558750908Z",
+  "model": "glm-5.3"
+}

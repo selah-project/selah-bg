@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 81,
+  "translation": "Защото наредба за Израел ⟨е⟩ той, повеля на Елохим ⟨Бога⟩ на Яков.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "חק",
+      "gloss": "наредба"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "за Израел"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "повеля"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "на Яков"
+    }
+  ],
+  "timestamp": "2026-09-22T16:29:37.519460307Z",
+  "model": "glm-5.3"
+}

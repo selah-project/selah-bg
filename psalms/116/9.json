@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 116,
+  "translation": "Ще ходя пред Яхве в земите на живите.",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "Ще ходя"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "в земите"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "на живите"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:55.601526770Z",
+  "model": "glm-5.3"
+}

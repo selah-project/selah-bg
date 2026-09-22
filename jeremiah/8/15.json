@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 8:15",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Надявахме се на мир — и няма добро; на време за изцеление — и ето ужас.",
+  "tokens": [
+    {
+      "surface": "קוה",
+      "gloss": "Надявахме се"
+    },
+    {
+      "surface": "לשלום",
+      "gloss": "на мир"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "на време"
+    },
+    {
+      "surface": "מרפה",
+      "gloss": "за изцеление"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "בעתה",
+      "gloss": "ужас"
+    }
+  ],
+  "timestamp": "2026-09-22T13:51:26.261310096Z",
+  "model": "glm-5.3"
+}

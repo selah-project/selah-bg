@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 36:11",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "И чу Михаяху, син на Гемарияу, син на Шафан, ⟨את⟩ всичките думи на Яхве от книгата.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и чу"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "Михаяху"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "на Гемарияу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "на Шафан"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всичките думи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичките"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "думи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "от"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "книгата"
+    }
+  ],
+  "timestamp": "2026-09-22T14:02:11.305060558Z",
+  "model": "glm-5.3"
+}

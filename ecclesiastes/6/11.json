@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Защото има думи много, умножаващи суета — какво излишно ⟨е⟩ за човека?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "думи"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "много"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "умножаващи"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "суета"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "излишно"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "за човека"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:20.661375340Z",
+  "model": "glm-5.3"
+}

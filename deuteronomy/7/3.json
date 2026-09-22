@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 7:3",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И не се сродявай с тях: дъщеря си не давай на сина му и дъщеря му не вземай за сина си.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תתחתן",
+      "gloss": "сродявай се"
+    },
+    {
+      "surface": "בם",
+      "gloss": "с тях"
+    },
+    {
+      "surface": "בתך",
+      "gloss": "дъщеря си"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "давай"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "на сина му"
+    },
+    {
+      "surface": "ובתו",
+      "gloss": "и дъщеря му"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "вземай"
+    },
+    {
+      "surface": "לבנך",
+      "gloss": "за сина си"
+    }
+  ],
+  "timestamp": "2026-09-22T16:20:51.612043383Z",
+  "model": "glm-5.3"
+}

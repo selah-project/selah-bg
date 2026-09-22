@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "А гоморът ⟨е⟩ десетина от ефата.",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "а гоморът"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": " десетина"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "от ефата"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    }
+  ],
+  "timestamp": "2026-09-22T11:20:23.236250071Z",
+  "model": "glm-5.3"
+}

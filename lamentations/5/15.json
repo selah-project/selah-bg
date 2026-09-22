@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Престана радостта на сърцето ни; обърна се в траур танцът ни.",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "престана"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "радостта"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "на сърцето ни"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "обърна се"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "в траур"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "танцът ни"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:18.535409251Z",
+  "model": "glm-5.3"
+}

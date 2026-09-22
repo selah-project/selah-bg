@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 24:10",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Голи ходят без облекло, и гладни носят сноп.",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "Голи"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ходят"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "לבוש",
+      "gloss": "облекло"
+    },
+    {
+      "surface": "ורעבים",
+      "gloss": "и гладни"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "носят"
+    },
+    {
+      "surface": "עמר",
+      "gloss": "сноп"
+    }
+  ],
+  "timestamp": "2026-09-22T15:29:43.998627409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 25:21",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Ако огладнее онзи, който те мрази, нахрани го с хляб, и ако ожаднее, напои го с вода.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "огладнее"
+    },
+    {
+      "surface": "שנאך",
+      "gloss": "те мрази"
+    },
+    {
+      "surface": "האכלהו",
+      "gloss": "нахрани го"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "с хляб"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "צמא",
+      "gloss": "ожаднее"
+    },
+    {
+      "surface": "השקהו",
+      "gloss": "напои го"
+    },
+    {
+      "surface": "מים",
+      "gloss": "с вода"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:50.959260908Z",
+  "model": "glm-5.3"
+}

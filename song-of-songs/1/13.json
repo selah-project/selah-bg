@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Торбичка миро ⟨е⟩ моят възлюбен за мен — между гърдите ми ще пренощува.",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "торбичка"
+    },
+    {
+      "surface": "המר",
+      "gloss": "миро"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "мойта възлюбен"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мен"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "гърдите ми"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ще пренощува"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:31.299875452Z",
+  "model": "glm-5.3"
+}

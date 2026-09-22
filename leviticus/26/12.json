@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 26:12",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И ще ходя сред вас, и ще бъда вам за Елохим, и вие ще Ми бъдете за народ.",
+  "tokens": [
+    {
+      "surface": "והתהלכתי",
+      "gloss": "и ще ходя"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "сред вас"
+    },
+    {
+      "surface": "והייתי",
+      "gloss": "и ще бъда"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "за Елохим"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "и вие"
+    },
+    {
+      "surface": "תהיו",
+      "gloss": "ще бъдете"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мне"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "за народ"
+    }
+  ],
+  "timestamp": "2026-09-22T11:42:51.154150824Z",
+  "model": "glm-5.3"
+}

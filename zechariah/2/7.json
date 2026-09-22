@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 2:7",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И ето, ангелът, говорещият в мен, излизаше, и друг ангел излизаше да го посрещне.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "И ето"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ангелът"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "говорещият"
+    },
+    {
+      "surface": "בי",
+      "gloss": "в мен"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "излизаше"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "и ангел"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "друг"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "излизаше"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "да го посрещне"
+    }
+  ],
+  "timestamp": "2026-09-22T14:46:31.640357273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "psalms 119:55",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Спомних си нощем твоето име, Яхве, и пазя твоята Тора.",
+  "tokens": [
+    {
+      "surface": "זכרתי",
+      "gloss": "спомних си"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "нощем"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "твоето име"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואשמרה",
+      "gloss": "и пазя"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "твоята Тора"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:31.698939037Z",
+  "model": "glm-5.3"
+}

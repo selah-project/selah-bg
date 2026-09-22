@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 105:16",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 105,
+  "translation": "И призова глад върху земята, всяка опора на хляба строши.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и призова"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "глад"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяка"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "опора"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "на хляба"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "строши"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:24.954755159Z",
+  "model": "glm-5.3"
+}

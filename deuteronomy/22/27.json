@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 22:27",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Защото в полето я намери — извика момата, сгоденото, и няма спасител за нея.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "в полето"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "я намери"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "извика"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "момата"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "сгоденото"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "спасител"
+    },
+    {
+      "surface": "לה",
+      "gloss": "за нея"
+    }
+  ],
+  "timestamp": "2026-09-22T12:11:35.946037663Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 34:3",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "и ⟨את⟩ юга, и ⟨את⟩ равнината, долината на Йерихон, градът на палмите, до Цоар",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "юга"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "юга"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "равнината"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "равнината"
+    },
+    {
+      "surface": "בקעת",
+      "gloss": "долината"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "на Йерихон"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "градът"
+    },
+    {
+      "surface": "התמרים",
+      "gloss": "на палмите"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "צער",
+      "gloss": "Цоар"
+    }
+  ],
+  "timestamp": "2026-09-22T12:15:27.238576437Z",
+  "model": "glm-5.3"
+}

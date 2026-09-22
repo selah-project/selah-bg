@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 27:6",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "И даде му Ахиш в онзи ден ⟨את⟩ Циклаг; затова Циклаг остана на царете на Юда до този ден.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И даде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "Ахиш"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онзи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Циклаг"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Циклаг"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "затова"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "остана"
+    },
+    {
+      "surface": "צקלג",
+      "gloss": "Циклаг"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "на царете"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Юда"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    }
+  ],
+  "timestamp": "2026-09-22T12:46:49.823508633Z",
+  "model": "glm-5.3"
+}

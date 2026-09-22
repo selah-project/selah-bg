@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Не мога аз сам да нося ⟨את⟩ целия този народ, защото ⟨е⟩ твърде тежък за мен.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "мога"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "сам"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "да нося"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "целия този народ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целия"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "твърде тежък"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "за мен"
+    }
+  ],
+  "timestamp": "2026-09-22T11:51:02.278006746Z",
+  "model": "glm-5.3"
+}

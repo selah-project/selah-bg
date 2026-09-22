@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И си почина народът в седмия ден.",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "И си почина"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народът"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "седмия"
+    }
+  ],
+  "timestamp": "2026-09-22T11:20:46.180777606Z",
+  "model": "glm-5.3"
+}

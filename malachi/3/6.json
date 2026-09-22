@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Защото Аз, Яхве, не съм се изменил, а вие, синове Яковови, не сте погинали.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "съм се изменил"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "а вие"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яковови"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "сте погинали"
+    }
+  ],
+  "timestamp": "2026-09-22T14:50:06.209125348Z",
+  "model": "glm-5.3"
+}

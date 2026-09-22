@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Лице в лице говори Яхве с вас на планината, изсред огъня.",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "лице"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "в лице"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "с вас"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на планината"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "изсред"
+    },
+    {
+      "surface": "האש",
+      "gloss": "огъня"
+    }
+  ],
+  "timestamp": "2026-09-22T12:03:59.260866576Z",
+  "model": "glm-5.3"
+}

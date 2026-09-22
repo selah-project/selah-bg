@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "За племето Вениамин — Палти, син на Рафу.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "за племето"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Вениамин"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "Палти"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "Рафу"
+    }
+  ],
+  "timestamp": "2026-09-22T11:49:41.922562371Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И още: по пътя, когато глупакът ходи, сърцето му ⟨е⟩ лишено, и ⟨той⟩ казва на всички, че е глупак.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "и още"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "по пътя"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "когато глупакът"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ходи"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "сърцето му"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "лишено"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и казва"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на всички"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "глупак"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:56.897255434Z",
+  "model": "glm-5.3"
+}

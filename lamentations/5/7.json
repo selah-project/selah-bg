@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Бащите ни съгрешиха — ги няма вече, а ние носихме беззаконията им.",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "бащите ни"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "съгрешиха"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ги няма"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "а ние"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "беззаконията им"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "носихме"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:18.887847318Z",
+  "model": "glm-5.3"
+}

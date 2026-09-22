@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 21:28",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И биде слово от Яхве към Илияху тишбиеца, ⟨казвайки⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И биде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Илияху"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "тишбиеца"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨казвайки⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T13:12:16.639671110Z",
+  "model": "glm-5.3"
+}

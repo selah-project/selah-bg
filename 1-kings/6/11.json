@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И биде слово от Яхве към Шеломо ⟨Соломон⟩, казвайки:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и биде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T13:02:36.415791619Z",
+  "model": "glm-5.3"
+}

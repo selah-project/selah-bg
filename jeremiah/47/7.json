@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 47:7",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 47,
+  "translation": "Как ще утихнеш, щом Яхве й заповяда — срещу Ашкелон и срещу брега на морето? Там я определи.",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "Как"
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "ще утихнеш"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "щом Яхве"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповяда"
+    },
+    {
+      "surface": "לה",
+      "gloss": "й"
+    },
+    {
+      "surface": "אל",
+      "gloss": "срещу"
+    },
+    {
+      "surface": "אשקלון",
+      "gloss": "Ашкелон"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и срещу"
+    },
+    {
+      "surface": "חוף",
+      "gloss": "брега"
+    },
+    {
+      "surface": "הים",
+      "gloss": "на морето"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Там"
+    },
+    {
+      "surface": "יעדה",
+      "gloss": "я определи"
+    }
+  ],
+  "timestamp": "2026-09-22T14:05:24.095230382Z",
+  "model": "glm-5.3"
+}

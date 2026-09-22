@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Йора — сто и дванадесет.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "на Йора"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и дванадесет"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "и дванадесет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:48:29.262863915Z",
+  "model": "glm-5.3"
+}

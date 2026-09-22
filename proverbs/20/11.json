@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 20:11",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И по делата си се издава момчето — дали е чисто и дали е право делото му.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "במעלליו",
+      "gloss": "по делата си"
+    },
+    {
+      "surface": "יתנכר",
+      "gloss": "се разпознава"
+    },
+    {
+      "surface": "נער",
+      "gloss": "момчето"
+    },
+    {
+      "surface": "אם",
+      "gloss": "дали е"
+    },
+    {
+      "surface": "זך",
+      "gloss": "чисто"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "и дали е"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "право"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "делото му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:45.463978159Z",
+  "model": "glm-5.3"
+}

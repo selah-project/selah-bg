@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 16:9",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Пейте Му, свирете Му, говорете за всички Неговите чудеса",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Пейте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Му"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "свирете"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Му"
+    },
+    {
+      "surface": "שיחו",
+      "gloss": "говорете"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "за всички"
+    },
+    {
+      "surface": "נפלאתיו",
+      "gloss": "Неговите чудеса"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:26.005756800Z",
+  "model": "glm-5.3"
+}

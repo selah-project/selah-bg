@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 119:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "О, дано пътищата ми се утвърдят да пазя наредбите ти!",
+  "tokens": [
+    {
+      "surface": "אחלי",
+      "gloss": "о, дано"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "се утвърдят"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "пътищата ми"
+    },
+    {
+      "surface": "לשמר",
+      "gloss": "да пазя"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "наредбите ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:12.029319620Z",
+  "model": "glm-5.3"
+}

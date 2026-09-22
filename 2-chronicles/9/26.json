@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-chronicles 9:26",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И владееше над всички царе от Реката до земята на пелищите и до границата на Мицраим.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И владееше"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "владееше"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "над всички"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "царе"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "Реката"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "до"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "на пелищите"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границата"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "на Мицраим"
+    }
+  ],
+  "timestamp": "2026-09-22T16:06:58.572622343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Оттам потеглиха, и разпънаха стан в потока Зеред.",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "Оттам"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "потеглиха"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и разпънаха стан"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "в потока"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "Зеред"
+    }
+  ],
+  "timestamp": "2026-09-22T16:19:21.521047424Z",
+  "model": "glm-5.3"
+}

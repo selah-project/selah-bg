@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 112:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 112,
+  "translation": "Богатство и изобилие в дома му, и правдата му стои вовек.",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "Богатство"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "и изобилие"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "в дома му"
+    },
+    {
+      "surface": "וצדקתו",
+      "gloss": "и правдата му"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "стои"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "вовек"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:23.451313444Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "lamentations 3:66",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Ще ги подгониш в гнева си и ще ги изтребиш изпод небесата на Яхве.",
+  "tokens": [
+    {
+      "surface": "תרדף",
+      "gloss": "Ще подгониш"
+    },
+    {
+      "surface": "באף",
+      "gloss": "в гнева"
+    },
+    {
+      "surface": "ותשמידם",
+      "gloss": "и ще ги изтребиш"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "изпод"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "небесата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:34.877658941Z",
+  "model": "glm-5.3"
+}

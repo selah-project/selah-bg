@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Вениамин: Бела, и Вехер, и Йдиаел — три.",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "Вениамин"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бела"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "и Вехер"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "и Йдиаел"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:05.055613411Z",
+  "model": "glm-5.3"
+}

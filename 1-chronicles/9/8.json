@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 9:8",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "и Йивния, син на Йерохам, и Ела, син на Узи, син на Микри, и Мешулам, син на Шефатя, син на Реуел, син на Йивния.",
+  "tokens": [
+    {
+      "surface": "ויבניה",
+      "gloss": "и Йивния"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син на"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Йерохам"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "и Ела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син на"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "Узи"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син на"
+    },
+    {
+      "surface": "מכרי",
+      "gloss": "Микри"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "и Мешулам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син на"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатя"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син на"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син на"
+    },
+    {
+      "surface": "יבניה",
+      "gloss": "Йивния"
+    }
+  ],
+  "timestamp": "2026-09-22T16:34:02.476321458Z",
+  "model": "glm-5.3"
+}

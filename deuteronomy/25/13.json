@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Нека няма за теб в торбата ти камък и камък, голям и малък.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "нека няма"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за теб"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "в торбата ти"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камък"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "и камък"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "голям"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "и малък"
+    }
+  ],
+  "timestamp": "2026-09-22T12:11:03.826266542Z",
+  "model": "glm-5.3"
+}

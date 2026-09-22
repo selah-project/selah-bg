@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 46:13",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 46,
+  "translation": "И синовете на Иссахар: Тола, и Фува, и Йов, и Шимрон.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синовете"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "на Иссахар"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "Тола"
+    },
+    {
+      "surface": "ופוה",
+      "gloss": "и Фува"
+    },
+    {
+      "surface": "ויוב",
+      "gloss": "и Йов"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "и Шимрон"
+    }
+  ],
+  "timestamp": "2026-09-22T11:11:40.945342643Z",
+  "model": "glm-5.3"
+}

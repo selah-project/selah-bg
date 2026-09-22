@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "job 13:24",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Защо лицето Си криеш и мен смяташ за враг на Теб?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Защо"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицето Си"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "криеш"
+    },
+    {
+      "surface": "ותחשבני",
+      "gloss": "и мен смяташ"
+    },
+    {
+      "surface": "לאויב",
+      "gloss": "за враг"
+    },
+    {
+      "surface": "לך",
+      "gloss": "на Теб"
+    }
+  ],
+  "timestamp": "2026-09-22T15:26:07.384652802Z",
+  "model": "glm-5.3"
+}

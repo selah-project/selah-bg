@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 18:8",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И дойдоха при братята си в Цора и Ещаол, и братята им казаха: какво вие?",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "И дойдоха"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "братята си"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "в Цора"
+    },
+    {
+      "surface": "ואשתאל",
+      "gloss": "и Ещаол"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и казаха"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "братята им"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    }
+  ],
+  "timestamp": "2026-09-22T12:33:52.481304102Z",
+  "model": "glm-5.3"
+}

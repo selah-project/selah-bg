@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "daniel 2:8",
+  "book": "daniel",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Отговори царят и каза: със сигурност зная аз, че вие печелите време, защото виждате, че твърдо е от мен словото.",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Отговори"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царят"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и каза"
+    },
+    {
+      "surface": "מן",
+      "gloss": "със"
+    },
+    {
+      "surface": "יציב",
+      "gloss": "сигурност"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "зная"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "аз"
+    },
+    {
+      "surface": "די",
+      "gloss": "че"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "време"
+    },
+    {
+      "surface": "אנתון",
+      "gloss": "вие"
+    },
+    {
+      "surface": "זבנין",
+      "gloss": "печелите"
+    },
+    {
+      "surface": "כל",
+      "gloss": "само"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "защото"
+    },
+    {
+      "surface": "די",
+      "gloss": "че"
+    },
+    {
+      "surface": "חזיתון",
+      "gloss": "виждате"
+    },
+    {
+      "surface": "די",
+      "gloss": "че"
+    },
+    {
+      "surface": "אזדא",
+      "gloss": "твърдо"
+    },
+    {
+      "surface": "מני",
+      "gloss": "от мен"
+    },
+    {
+      "surface": "מלתא",
+      "gloss": "словото"
+    }
+  ],
+  "timestamp": "2026-09-22T15:43:19.836917602Z",
+  "model": "glm-5.3"
+}

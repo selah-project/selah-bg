@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 113:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 113,
+  "translation": "От изгрева на слънцето до залеза му — хвалено е името на Яхве.",
+  "tokens": [
+    {
+      "surface": "ממזרח",
+      "gloss": "от изгрева"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "слънцето"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מבואו",
+      "gloss": "залеза му"
+    },
+    {
+      "surface": "מהלל",
+      "gloss": "хвалено"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:12.560845592Z",
+  "model": "glm-5.3"
+}

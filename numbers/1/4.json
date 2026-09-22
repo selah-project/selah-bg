@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 1:4",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "и с ⟨את⟩ вас да бъдат мъж, мъж за племето, мъж глава на дома на бащите си — той.",
+  "tokens": [
+    {
+      "surface": "ואתכם",
+      "gloss": "и ⟨את⟩ вас"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "да бъдат"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "за племето"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "глава"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "на дома"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "на бащите си"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    }
+  ],
+  "timestamp": "2026-09-22T11:45:10.678583787Z",
+  "model": "glm-5.3"
+}

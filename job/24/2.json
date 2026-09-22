@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 24:2",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Граници преместват, стадо грабят и го пасат.",
+  "tokens": [
+    {
+      "surface": "גבלות",
+      "gloss": "Граници"
+    },
+    {
+      "surface": "ישיגו",
+      "gloss": "преместват"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "стадо"
+    },
+    {
+      "surface": "גזלו",
+      "gloss": "грабят"
+    },
+    {
+      "surface": "וירעו",
+      "gloss": "и го пасат"
+    }
+  ],
+  "timestamp": "2026-09-22T15:29:24.152468004Z",
+  "model": "glm-5.3"
+}

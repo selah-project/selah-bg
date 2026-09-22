@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И стана словото това за грях, и народът ходеше пред едния до Дан.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И стана"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "това"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за грях"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "и ходеше"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народът"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "едния"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "דן",
+      "gloss": "Дан"
+    }
+  ],
+  "timestamp": "2026-09-22T13:07:51.003961731Z",
+  "model": "glm-5.3"
+}

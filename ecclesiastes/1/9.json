@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Каквото е било, това ще бъде, и каквото е направено, това ще бъде направено; и няма нищо ново под слънцето.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "каквото"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "е било"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ще бъде"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и каквото"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "е направено"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "ще бъде направено"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "כל",
+      "gloss": "нищо"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ново"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "слънцето"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:35.666971666Z",
+  "model": "glm-5.3"
+}

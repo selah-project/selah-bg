@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 8:1",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И отговори Билдад ⟨Сухийски⟩ ⟨и каза⟩:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И отговори"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "Билдад"
+    },
+    {
+      "surface": "השוחי",
+      "gloss": "⟨Сухийски⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "⟨и каза⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T15:24:24.865623849Z",
+  "model": "glm-5.3"
+}

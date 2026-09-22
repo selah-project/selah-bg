@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И нарече ⟨את⟩ името му Йосеф, казвайки: Яхве ще ми добави друг син.",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "И нарече"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "името му"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името му"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ще добави"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "друг"
+    }
+  ],
+  "timestamp": "2026-09-22T11:04:04.674872042Z",
+  "model": "glm-5.3"
+}

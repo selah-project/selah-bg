@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 21:45",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Не падна дума от всичките добри думи, които Яхве бе говорил към дома на Израел — всичко дойде.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "падна"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дума"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "от всичките"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "думите"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "добри"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "бе говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дойде"
+    }
+  ],
+  "timestamp": "2026-09-22T12:23:29.587719254Z",
+  "model": "glm-5.3"
+}

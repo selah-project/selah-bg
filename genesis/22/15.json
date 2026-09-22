@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И повика ангелът на Яхве към Авраам втори път от небесата.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И повика"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ангелът"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "втори път"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесата"
+    }
+  ],
+  "timestamp": "2026-09-22T11:01:38.526099907Z",
+  "model": "glm-5.3"
+}

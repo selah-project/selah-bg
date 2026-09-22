@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "синовете на Керос, синовете на Сиа, синовете на Падон.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "Керос"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "Сиа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "Падон"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:57.038108079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 92,
+  "translation": "Още в старостта ще плодят, угоени и свежи ще бъдат.",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "още"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "ще плодят"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "в старостта"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "угоени"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "и свежи"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ще бъдат"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:36.424069778Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 106:15",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 106,
+  "translation": "И даде им молбата им, и прати изтощение в душите им.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "שאלתם",
+      "gloss": "молбата им"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и прати"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "изтощение"
+    },
+    {
+      "surface": "בנפשם",
+      "gloss": "в душите им"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:17.484910648Z",
+  "model": "glm-5.3"
+}

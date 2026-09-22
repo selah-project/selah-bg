@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Голотата на жената на баща ти да не разкриваш; голотата на баща ти ⟨е⟩ тя.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "голотата"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "на жената"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "на баща ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "разкриваш"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "голотата"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "на баща ти"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тя"
+    }
+  ],
+  "timestamp": "2026-09-22T11:37:47.125897176Z",
+  "model": "glm-5.3"
+}

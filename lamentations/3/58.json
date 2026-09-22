@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Застъпа, Адонай, делата на душата ми; откупи живота ми.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "Застъпа"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "делата"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата ми"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "откупи"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "живота ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:37:03.658234397Z",
+  "model": "glm-5.3"
+}

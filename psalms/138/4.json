@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 138:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 138,
+  "translation": "Ще те славят, Яхве, всички царе на земята, че чуха думите на твоята уста.",
+  "tokens": [
+    {
+      "surface": "יודוך",
+      "gloss": "Ще те славят"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царе"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на земята"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чуха"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "думите"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "на твоята уста"
+    }
+  ],
+  "timestamp": "2026-09-22T15:14:12.714669036Z",
+  "model": "glm-5.3"
+}

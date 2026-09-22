@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 4:13",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И синовете на Кеназ: Отниел и Серая; и синовете на Отниел: Хатат.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синовете"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "на Кеназ"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "Отниел"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "и Серая"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синовете"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "на Отниел"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "Хатат"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:00.180851246Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 30:4",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И даде нему ⟨את⟩ Била, слугинята си, за жена, и влезе Яков при нея.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "И даде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Била"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Била"
+    },
+    {
+      "surface": "שפחתה",
+      "gloss": "слугинята си"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жена"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и влезе"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "при нея"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    }
+  ],
+  "timestamp": "2026-09-22T11:04:44.475974765Z",
+  "model": "glm-5.3"
+}

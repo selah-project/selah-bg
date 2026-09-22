@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 6:9",
+  "book": "amos",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И ще бъде, ако останат десет мъже в един дом, и умрат.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "и ще бъде"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "останат"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десет"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "мъже"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "в дом"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "ומתו",
+      "gloss": "и умрат"
+    }
+  ],
+  "timestamp": "2026-09-22T14:38:33.886592448Z",
+  "model": "glm-5.3"
+}

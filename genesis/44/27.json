@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 44:27",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 44,
+  "translation": "И рече слугата ти, баща ми, на нас: вие знаете, че двама ми роди жена ми.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слугата ти"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "баща ми"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "на нас"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "знаете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "двама"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "אשתי",
+      "gloss": "жена ми"
+    }
+  ],
+  "timestamp": "2026-09-22T11:11:54.933165043Z",
+  "model": "glm-5.3"
+}

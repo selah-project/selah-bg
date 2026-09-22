@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "Песен, мизмор на синовете на Корах.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Песен"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на синовете"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "на Корах"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:39.959559952Z",
+  "model": "glm-5.3"
+}

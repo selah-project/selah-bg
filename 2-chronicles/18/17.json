@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 18:17",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И каза царят на Израел на Йехошафат ⟨Моше⟩: Не ти ли казах, че той няма да пророкува за мен добро, а само зло?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И каза"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Йехошафат"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "не … ли"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "казах"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יתנבא",
+      "gloss": "ще пророкува"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "за мен"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "אם",
+      "gloss": "а"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "само зло"
+    }
+  ],
+  "timestamp": "2026-09-22T16:08:50.488841742Z",
+  "model": "glm-5.3"
+}

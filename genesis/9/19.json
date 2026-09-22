@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Три — тези ⟨са⟩ синовете на Ной, и от тези се разпръсна цялата земя.",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "Три"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "נח",
+      "gloss": "на Ной"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "и от тези"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "се разпръсна"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земя"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:32.405018926Z",
+  "model": "glm-5.3"
+}

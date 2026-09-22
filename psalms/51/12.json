@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 51,
+  "translation": "Сърце чисто създай за мен, Елохим, и дух праведен обнови вътре в мен.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "Сърце"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисто"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "създай"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мен"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "и дух"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "праведен"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "обнови"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "вътре в мен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:00:27.207293173Z",
+  "model": "glm-5.3"
+}

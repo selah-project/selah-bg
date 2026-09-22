@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 21:9",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И видя Сара ⟨את⟩ сина на Агар ⟨Мизрит⟩, която роди тя на Авраам, че се присмива.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "и видя"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сина"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сина"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "на Агар"
+    },
+    {
+      "surface": "המצרית",
+      "gloss": "⟨Мизрит⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди тя"
+    },
+    {
+      "surface": "לאברהם",
+      "gloss": "на Авраам"
+    },
+    {
+      "surface": "מצחק",
+      "gloss": "че се присмива"
+    }
+  ],
+  "timestamp": "2026-09-22T11:00:23.369548885Z",
+  "model": "glm-5.3"
+}

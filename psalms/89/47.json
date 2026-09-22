@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "psalms 89:47",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 89,
+  "translation": "До кога, Яхве, ще се скриваш завинаги, ще пламти като огън яростта ти?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "До"
+    },
+    {
+      "surface": "מה",
+      "gloss": "кога"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "ще се скриваш"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "завинаги"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ще пламти"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "като"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огън"
+    },
+    {
+      "surface": "חמתך",
+      "gloss": "яростта ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:53.521823907Z",
+  "model": "glm-5.3"
+}

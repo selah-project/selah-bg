@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 9:14",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И от левитите: Шемая син на Хашув, син на Азрикам, син на Хашавя, от синовете на Мерари.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "И от"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитите"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемая"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "на Хашув"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "на Азрикам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "на Хашавя"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "на Мерари"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:27.905022347Z",
+  "model": "glm-5.3"
+}

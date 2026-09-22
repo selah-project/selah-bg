@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И момата затича и разказа в дома на майка си според тези думи.",
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "И затича"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "момата"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "и разказа"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "в дома"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "на майка си"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "според думите"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "тези"
+    }
+  ],
+  "timestamp": "2026-09-22T16:15:26.155042837Z",
+  "model": "glm-5.3"
+}

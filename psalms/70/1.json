@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 70:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 70,
+  "translation": "На водача, псалом на Давид, за напомняне.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "на водача"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "за напомняне"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:36.915210183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Край дойде, дойде краят, събуди се срещу теб, ето, идва.",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "край"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дойде"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дойде"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "краят"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "събуди се"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "срещу теб"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "באה",
+      "gloss": "идва"
+    }
+  ],
+  "timestamp": "2026-09-22T16:27:21.539516405Z",
+  "model": "glm-5.3"
+}

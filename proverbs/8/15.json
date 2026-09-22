@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 8:15",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Чрез мен царете царуват и велможите издават праведни ⟨закони⟩.",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "чрез мен"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "царете"
+    },
+    {
+      "surface": "ימלכו",
+      "gloss": "царуват"
+    },
+    {
+      "surface": "ורוזנים",
+      "gloss": "и велможите"
+    },
+    {
+      "surface": "יחקקו",
+      "gloss": "издават"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "праведни"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:20.448465469Z",
+  "model": "glm-5.3"
+}

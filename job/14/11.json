@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Изчезват водите от морето, и река пресъхва и изсъхва.",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "изчезват"
+    },
+    {
+      "surface": "מים",
+      "gloss": "водите"
+    },
+    {
+      "surface": "מני",
+      "gloss": "от"
+    },
+    {
+      "surface": "ים",
+      "gloss": "морето"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "и река"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "пресъхва"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "и изсъхва"
+    }
+  ],
+  "timestamp": "2026-09-22T15:26:34.775461789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И ако стане беда — ще дадеш душа под ⟨души⟩, вместо душа.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "беда"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "стане"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ще дадеш"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под, вместо"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    }
+  ],
+  "timestamp": "2026-09-22T11:21:55.490931588Z",
+  "model": "glm-5.3"
+}

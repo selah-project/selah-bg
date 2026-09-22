@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "А Киш ⟨бе⟩ баща на Шаул, а Нер, бащата на Авнер, ⟨бе⟩ син на Авиел.",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "А Киш"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "баща"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "на Шаул"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "а Нер"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "бащата"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "на Авнер"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "на Авиел"
+    }
+  ],
+  "timestamp": "2026-09-22T12:40:29.910582328Z",
+  "model": "glm-5.3"
+}

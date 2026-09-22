@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И ако падне от мъртвата им труп на каквото и да е семе за сеене, което ще се сее — чисто е то.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "падне"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "от мъртвата им труп"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "каквото и да е"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "семе"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "за сеене"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ще се сее"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисто"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е то"
+    }
+  ],
+  "timestamp": "2026-09-22T11:34:17.494254238Z",
+  "model": "glm-5.3"
+}

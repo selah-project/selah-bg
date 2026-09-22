@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 39:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 39,
+  "translation": "За водача, за Едутун, мизмор на Давид.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "за водача"
+    },
+    {
+      "surface": "לידיתון",
+      "gloss": "за Едутун"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T14:58:08.627376574Z",
+  "model": "glm-5.3"
+}

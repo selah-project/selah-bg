@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "amos 7:5",
+  "book": "amos",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И казах: Адонай Яхве, спри, моля ти се; кой ще издигне Яаков? защото малък е той.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И казах"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "спри"
+    },
+    {
+      "surface": "נא",
+      "gloss": "моля ти се"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ще издигне"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "малък"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    }
+  ],
+  "timestamp": "2026-09-22T14:39:10.497289347Z",
+  "model": "glm-5.3"
+}

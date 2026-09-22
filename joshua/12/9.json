@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "царят на Йерихон — един; царят на Хаай, който е край Бет Ел, — един;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "Йерихон"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Хаай"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "край"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    }
+  ],
+  "timestamp": "2026-09-22T12:20:30.093031565Z",
+  "model": "glm-5.3"
+}

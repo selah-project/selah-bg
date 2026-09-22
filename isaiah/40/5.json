@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 40:5",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 40,
+  "translation": "И ще се открие славата на Яхве, и ще види всяка плът заедно, че устата на Яхве говори.",
+  "tokens": [
+    {
+      "surface": "ונגלה",
+      "gloss": "и ще се открие"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "славата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "и ще видят"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяка"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плът"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "заедно"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    }
+  ],
+  "timestamp": "2026-09-22T13:38:04.630815962Z",
+  "model": "glm-5.3"
+}

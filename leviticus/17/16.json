@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "А ако не изпере и тялото си не измие, ще носи вината си.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "изпере"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "и тялото си"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "измие"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ще носи"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "вината си"
+    }
+  ],
+  "timestamp": "2026-09-22T16:18:00.667119464Z",
+  "model": "glm-5.3"
+}

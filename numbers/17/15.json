@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И се върна Аарон при Моше, при входа на шатъра на срещата, и морът беше спрян.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и се върна"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входа"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "на шатъра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на срещата"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "и морът"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "беше спрян"
+    }
+  ],
+  "timestamp": "2026-09-22T11:51:45.033600462Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 18:28",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И излезе царят ⟨на⟩ Израел и Йошафат, царят ⟨на⟩ Юда, към Рамот Гилеад.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "И излезе"
+    },
+    {
+      "surface": "мלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "и Йошафат"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Юда"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "Рамот"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Гилеад"
+    }
+  ],
+  "timestamp": "2026-09-22T16:08:54.351523881Z",
+  "model": "glm-5.3"
+}

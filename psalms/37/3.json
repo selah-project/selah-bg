@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 37:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "Надявай се на Яхве и върши добро; живей в земята и паси вярност.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "Надявай се"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и върши"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "שכן",
+      "gloss": "живей"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "ורעה",
+      "gloss": "и паси"
+    },
+    {
+      "surface": "אמונה",
+      "gloss": "вярност"
+    }
+  ],
+  "timestamp": "2026-09-22T14:57:13.073674556Z",
+  "model": "glm-5.3"
+}

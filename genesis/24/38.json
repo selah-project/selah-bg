@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "genesis 24:38",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "ако не — към дома на баща ми ще отидеш и към рода ми, и ще вземеш жена за сина ми.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "на баща ми"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ще отидеш"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и към"
+    },
+    {
+      "surface": "משפחתי",
+      "gloss": "рода ми"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "и ще вземеш"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "за сина ми"
+    }
+  ],
+  "timestamp": "2026-09-22T11:02:12.744862025Z",
+  "model": "glm-5.3"
+}

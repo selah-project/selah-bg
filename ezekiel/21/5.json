@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 21:5",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И рекох: Ах, Адонай Яхве! Те казват за мене: Нали той говори само притчи?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И рекох"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "Ах"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "המה",
+      "gloss": "Те"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "казват"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мене"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Нали"
+    },
+    {
+      "surface": "ממשל",
+      "gloss": "говори"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "притчи"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    }
+  ],
+  "timestamp": "2026-09-22T14:19:15.150851885Z",
+  "model": "glm-5.3"
+}

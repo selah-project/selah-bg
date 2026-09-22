@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 39,
+  "translation": "И направи ⟨את⟩ ефода: злато, синьо и пурпур, и червен скарлат, и усукан лен.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и направи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ефода"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ефода"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "синьо"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "и пурпур"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "и червен"
+    },
+    {
+      "surface": "שני",
+      "gloss": "скарлат"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "и лен"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "усукан"
+    }
+  ],
+  "timestamp": "2026-09-22T11:30:08.524289671Z",
+  "model": "glm-5.3"
+}

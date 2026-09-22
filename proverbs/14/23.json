@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Във всякакъв труд има печалба, а думата на устните — само за липса.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "Във всякакъв"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "труд"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "има"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "печалба"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "а думата"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "на устните"
+    },
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "за липса"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:44.656046771Z",
+  "model": "glm-5.3"
+}

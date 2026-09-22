@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "На четирите страни бяха пазачите: на изток, на запад, на север и на юг.",
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "на четирите"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "страни"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "бяха"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "пазачите"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "на изток"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "на запад"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "на север"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "и на юг"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:33.664252237Z",
+  "model": "glm-5.3"
+}

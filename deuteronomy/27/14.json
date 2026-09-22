@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "И ще отговорят левитите и ще кажат на всеки човек от Израел с висок глас:",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "И ще отговорят"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитите"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "и ще кажат"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "от Израел"
+    },
+    {
+      "surface": "קול",
+      "gloss": "с глас"
+    },
+    {
+      "surface": "רם",
+      "gloss": "висок"
+    }
+  ],
+  "timestamp": "2026-09-22T16:20:35.447300135Z",
+  "model": "glm-5.3"
+}

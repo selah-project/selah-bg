@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Човек на Белиал, мъж на беззаконие, ходещ с изкривени уста",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "на Белиал"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "און",
+      "gloss": "на беззаконие"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ходещ"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "с изкривени"
+    },
+    {
+      "surface": "פה",
+      "gloss": "уста"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:47.387537891Z",
+  "model": "glm-5.3"
+}

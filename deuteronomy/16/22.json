@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 16:22",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И не си издигай стълб, който мрази Яхве, твоя Елохим.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "си издигай"
+    },
+    {
+      "surface": "לך",
+      "gloss": "си"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "стълб"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "мрази"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твоя Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T12:08:53.872066775Z",
+  "model": "glm-5.3"
+}

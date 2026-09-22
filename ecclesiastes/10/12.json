@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Думите на устата на мъдрия са благодат, а устните на глупака го поглъщат.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "думите"
+    },
+    {
+      "surface": "פי",
+      "gloss": "на устата"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "на мъдрия"
+    },
+    {
+      "surface": "חן",
+      "gloss": "благодат"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "а устните"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "на глупака"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "го поглъщат"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:37.592178370Z",
+  "model": "glm-5.3"
+}

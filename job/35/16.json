@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 35:16",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "И Иов суета отваря устата си — без знание думи умножава.",
+  "tokens": [
+    {
+      "surface": "ואיוב",
+      "gloss": "И Иов"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "суета"
+    },
+    {
+      "surface": "יפצה",
+      "gloss": "отваря"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "устата си"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знание"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "думи"
+    },
+    {
+      "surface": "יכבר",
+      "gloss": "умножава"
+    }
+  ],
+  "timestamp": "2026-09-22T15:32:01.219756004Z",
+  "model": "glm-5.3"
+}

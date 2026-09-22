@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 47:5",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 47,
+  "translation": "И рече Фараон на Йосеф, казвайки: баща ти и братята ти дойдоха при теб.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "баща ти"
+    },
+    {
+      "surface": "ואחיך",
+      "gloss": "и братята ти"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дойдоха"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "при теб"
+    }
+  ],
+  "timestamp": "2026-09-22T11:12:24.335345576Z",
+  "model": "glm-5.3"
+}

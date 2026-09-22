@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И прати Хирам на царя сто и двадесет таланта злато.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И прати"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Хирам"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "на царя"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двадесет"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "таланта"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    }
+  ],
+  "timestamp": "2026-09-22T13:06:07.673792748Z",
+  "model": "glm-5.3"
+}

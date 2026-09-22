@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 20:29",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И видя цялата общност, че Аарон почина, и плака ⟨את⟩ Аарон тридесет дни целият дом Израилев.",
+  "tokens": [
+    {
+      "surface": "ויראו",
+      "gloss": "и видя"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялата"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "общност"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "גוע",
+      "gloss": "почина"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "и плака"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аарон"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридесет"
+    },
+    {
+      "surface": "יום",
+      "gloss": "дни"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целият"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израилев"
+    }
+  ],
+  "timestamp": "2026-09-22T11:52:48.641065042Z",
+  "model": "glm-5.3"
+}

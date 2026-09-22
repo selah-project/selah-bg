@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И със знание стаите се напълват — всяко скъпо и приятно богатство.",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "и със знание"
+    },
+    {
+      "surface": "חדרים",
+      "gloss": "стаите"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "се напълват"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяко"
+    },
+    {
+      "surface": "הון",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "скъпо"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "и приятно"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:57.720970584Z",
+  "model": "glm-5.3"
+}

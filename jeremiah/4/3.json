@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 4:3",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Защото така каза Яхве на човека на Иуда и на Йерушалаим: изорете си угар и не сейте сред тръните.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "на човека"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Иуда"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "и на Йерушалаим"
+    },
+    {
+      "surface": "נירו",
+      "gloss": "изорете"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "си"
+    },
+    {
+      "surface": "ניר",
+      "gloss": "угар"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תזרעו",
+      "gloss": "сейте"
+    },
+    {
+      "surface": "אל",
+      "gloss": "сред"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "тръните"
+    }
+  ],
+  "timestamp": "2026-09-22T13:49:25.265759876Z",
+  "model": "glm-5.3"
+}

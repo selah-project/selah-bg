@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "haggai 2:11",
+  "book": "haggai",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Така рече Яхве Цеваот: попитай сега ⟨את⟩ свещениците ⟨относно⟩ Тора и кажи:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "попитай"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сега"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свещениците"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свещениците"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "и кажи"
+    }
+  ],
+  "timestamp": "2026-09-22T14:45:05.678953561Z",
+  "model": "glm-5.3"
+}

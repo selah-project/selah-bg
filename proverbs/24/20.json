@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "защото няма да има бъдеще за злото, светлината на нечестивите ще угасне",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "няма"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "да има"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "бъдеще"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "за злото"
+    },
+    {
+      "surface": "נר",
+      "gloss": "светлината"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "на нечестивите"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "ще угасне"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:55.324807184Z",
+  "model": "glm-5.3"
+}

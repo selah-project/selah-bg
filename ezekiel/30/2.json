@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 30:2",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Сине човешки, пророкувай и кажи: Така каза Адонай Яхве: Ридайте! Ох, за деня!",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човешки"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "пророкувай"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и кажи"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "Ридайте"
+    },
+    {
+      "surface": "הה",
+      "gloss": "Ох"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "за деня"
+    }
+  ],
+  "timestamp": "2026-09-22T14:23:53.307151071Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "обявиха пост и посадиха ⟨את⟩ Навот начело на народа.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "обявиха"
+    },
+    {
+      "surface": "צום",
+      "gloss": "пост"
+    },
+    {
+      "surface": "והשיבו",
+      "gloss": "и посадиха"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Навот"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "Навот"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "начело"
+    },
+    {
+      "surface": "העם",
+      "gloss": "на народа"
+    }
+  ],
+  "timestamp": "2026-09-22T13:10:58.116976220Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 38:24",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "И рече Цидкияху ⟨Цедекия⟩ на Ирмияху ⟨Йеремия⟩: човек да не узнае тези думи, и няма да умреш.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкияху"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмияху"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אל",
+      "gloss": "да не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "узнае"
+    },
+    {
+      "surface": "בדברים",
+      "gloss": "думите"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ще умреш"
+    }
+  ],
+  "timestamp": "2026-09-22T14:04:50.194315502Z",
+  "model": "glm-5.3"
+}

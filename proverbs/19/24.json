@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "Скри мързеливият ръката си в блюдото; дори до устата си не ще я върне ⟨той⟩.",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "Скри"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "мързеливият"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ръката си"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "в блюдото"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "устата си"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "ще я върне ⟨той⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:46.523559509Z",
+  "model": "glm-5.3"
+}

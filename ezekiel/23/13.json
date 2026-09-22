@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 23:13",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "И видях, че е осквернена — един път за двете.",
+  "tokens": [
+    {
+      "surface": "וארא",
+      "gloss": "И видях"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "נטמאה",
+      "gloss": "е осквернена"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "път"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "לשתיהן",
+      "gloss": "за двете"
+    }
+  ],
+  "timestamp": "2026-09-22T16:26:47.507236618Z",
+  "model": "glm-5.3"
+}

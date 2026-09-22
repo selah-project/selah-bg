@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Гласът на Яхве сече пламъци огън.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Гласът"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "сече"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "пламъци"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огън"
+    }
+  ],
+  "timestamp": "2026-09-22T14:55:01.775949782Z",
+  "model": "glm-5.3"
+}

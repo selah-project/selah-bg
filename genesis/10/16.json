@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "и ⟨את⟩ евусеите, и ⟨את⟩ аморейте, и ⟨את⟩ гергесеите.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "евусеите"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "евусеите"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "аморейте"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "аморейте"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "гергесеите"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "гергесеите"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:54.840826861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 21:34",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И Авраам гостува в земята на филистимците много дни.",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "и гостува"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "на филистимците"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "много"
+    }
+  ],
+  "timestamp": "2026-09-22T16:14:59.272927824Z",
+  "model": "glm-5.3"
+}

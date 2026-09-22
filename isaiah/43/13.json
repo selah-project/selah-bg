@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 43:13",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 43,
+  "translation": "Even from the day I am He, and there is no deliverer from My hand; I will work, and who will turn it back?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "even"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "from the day"
+    },
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "am He"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "and there is no"
+    },
+    {
+      "surface": "מידי",
+      "gloss": "from My hand"
+    },
+    {
+      "surface": "מציל",
+      "gloss": "deliverer"
+    },
+    {
+      "surface": "אפעל",
+      "gloss": "I will work"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "and who"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "will turn it back"
+    }
+  ],
+  "timestamp": "2026-09-22T13:38:12.177103897Z",
+  "model": "glm-5.3"
+}

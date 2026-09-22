@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Не граби сиромаха, защото е сиромах, и не тъпчи страдащеца във портата.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "граби"
+    },
+    {
+      "surface": "דל",
+      "gloss": "сиромаха"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "דל",
+      "gloss": "е сиромах"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨той⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "тדכא",
+      "gloss": "тъпчи"
+    },
+    {
+      "surface": "עני",
+      "gloss": "страдащеца"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "във портата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:42.978253130Z",
+  "model": "glm-5.3"
+}

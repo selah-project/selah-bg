@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 14:28",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Кажи им: Жив съм Аз, казва Яхве — ако не: както говорихте в ушите ми, така ще направя на вас.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Кажи"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "חי",
+      "gloss": "Жив"
+    },
+    {
+      "surface": "אני",
+      "gloss": "съм Аз"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "казва"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "דברתם",
+      "gloss": "говорихте"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "в ушите ми"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ще направя"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "на вас"
+    }
+  ],
+  "timestamp": "2026-09-22T11:50:31.423752183Z",
+  "model": "glm-5.3"
+}

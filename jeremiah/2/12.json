@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 2:12",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": " смайте се, небеса, за това, и се ужасете, опустейте съвсем, оракул на Яхве.",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "смайте се"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това"
+    },
+    {
+      "surface": "ושערו",
+      "gloss": "и се ужасете"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "опустейте"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "съвсем"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "оракул"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T13:46:04.491419923Z",
+  "model": "glm-5.3"
+}

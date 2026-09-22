@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 26:11",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "А аз в невинността си ще ходя; откупи ме и ме помилвай.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а аз"
+    },
+    {
+      "surface": "בתמי",
+      "gloss": "в невинността си"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ще ходя"
+    },
+    {
+      "surface": "פדני",
+      "gloss": "откупи ме"
+    },
+    {
+      "surface": "וחנני",
+      "gloss": "и ме помилвай"
+    }
+  ],
+  "timestamp": "2026-09-22T14:54:49.202108425Z",
+  "model": "glm-5.3"
+}

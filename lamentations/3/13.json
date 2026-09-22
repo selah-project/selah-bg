@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Въведе в бъбреците ми синовете на колчана си.",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "Въведе"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "в бъбреците ми"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "на колчана си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:51.095748899Z",
+  "model": "glm-5.3"
+}

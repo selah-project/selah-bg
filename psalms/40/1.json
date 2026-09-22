@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 40,
+  "translation": "На диригента. Псалом на Давид.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "на диригента"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалом"
+    }
+  ],
+  "timestamp": "2026-09-22T14:58:25.727630139Z",
+  "model": "glm-5.3"
+}

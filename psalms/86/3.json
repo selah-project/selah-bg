@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 86:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 86,
+  "translation": "Бъди милостив към мен, Адонай, защото към тебе викам цял ден.",
+  "tokens": [
+    {
+      "surface": "חנני",
+      "gloss": "Бъди милостив към мен"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "към тебе"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "викам"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цял"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:56.843926482Z",
+  "model": "glm-5.3"
+}

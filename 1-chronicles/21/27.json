@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И рече Яхве на ангела, и върна меча си в ножницата му.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "на ангела"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и върна"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "меча си"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "ножницата му"
+    }
+  ],
+  "timestamp": "2026-09-22T16:01:42.997852145Z",
+  "model": "glm-5.3"
+}

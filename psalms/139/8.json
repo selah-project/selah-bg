@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 139:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 139,
+  "translation": "Ако възляза небесата — там си Ти; ако си постеля в Шеол — ето, там си Ти.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "אסק",
+      "gloss": "възляза"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небесата"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си Ти"
+    },
+    {
+      "surface": "ואציעה",
+      "gloss": "и си постеля"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "в Шеол"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ето, там си Ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:55.528578748Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Защото ⟨את⟩ всяко дело Елохим ще докара на съд — върху всяко скрито, било добро или било зло.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всяко дело"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяко"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ще докара"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "на съд"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяко"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "скрито"
+    },
+    {
+      "surface": "אם",
+      "gloss": "било"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "или било"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:45.561778881Z",
+  "model": "glm-5.3"
+}

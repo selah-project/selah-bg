@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "И представи Моше ⟨את⟩ делото им пред Яхве.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "и представи"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "делото им"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "делото им"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:57:14.118939700Z",
+  "model": "glm-5.3"
+}

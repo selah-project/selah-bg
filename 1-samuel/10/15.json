@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И рече чичото на Шаул: яви, моля ти се, на мене какво ти рече Шемуел.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "чичото"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "на Шаул"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "яви"
+    },
+    {
+      "surface": "נא",
+      "gloss": "моля ти се"
+    },
+    {
+      "surface": "לי",
+      "gloss": "на мене"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ти"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шемуел"
+    }
+  ],
+  "timestamp": "2026-09-22T12:39:10.280797316Z",
+  "model": "glm-5.3"
+}

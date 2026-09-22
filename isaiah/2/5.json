@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Доме на Яаков, елате и нека ходим в светлината на Яхве.",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "доме"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "на Яаков"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "елате"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "и нека ходим"
+    },
+    {
+      "surface": "באור",
+      "gloss": "в светлината"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T13:24:50.047556061Z",
+  "model": "glm-5.3"
+}

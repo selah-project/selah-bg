@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 8:1",
+  "book": "amos",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Така ми показа Адонай Яхве, и ето — кош за <…> летнина.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ми показа"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "кош"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "летнина"
+    }
+  ],
+  "timestamp": "2026-09-22T14:38:05.812592878Z",
+  "model": "glm-5.3"
+}

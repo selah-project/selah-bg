@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Беше като кораби на търговец — отдалеч докарва хляба си.",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "като кораби"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "на търговец"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "отдалеч"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "докарва"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "хляба си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:57.993999788Z",
+  "model": "glm-5.3"
+}

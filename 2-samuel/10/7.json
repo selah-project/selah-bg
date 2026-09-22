@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 10:7",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И чу Давид, и изпрати ⟨את⟩ Йоав и ⟨את⟩ цялото войско, героите.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "И чу"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "и изпрати"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йоав"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "цялото войско"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялото"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "войско"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "героите"
+    }
+  ],
+  "timestamp": "2026-09-22T12:51:09.366178884Z",
+  "model": "glm-5.3"
+}

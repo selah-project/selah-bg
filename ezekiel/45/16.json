@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 45,
+  "translation": "Целият народ на земята ще бъде към този принос за княза в Израел.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Целият"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земята"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ще бъде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "принос"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "този"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "за княза"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T14:31:01.349729245Z",
+  "model": "glm-5.3"
+}

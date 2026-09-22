@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 8:19",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И отказа се народът да послуша гласа на Шмуел, и казаха: не, а цар да бъде над нас.",
+  "tokens": [
+    {
+      "surface": "וימאנו",
+      "gloss": "И отказа се"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народът"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "да послуша"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "гласа"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "на Шмуел"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и казаха"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כי",
+      "gloss": "а"
+    },
+    {
+      "surface": "אם",
+      "gloss": "а"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "да бъде"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "над нас"
+    }
+  ],
+  "timestamp": "2026-09-22T16:22:26.644082382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 16:16",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И рече Моше към Корах: ти и цялата твоя сборища — бъдете пред Яхве, ти и те, и Аарон, утре.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и цялата"
+    },
+    {
+      "surface": "עדתך",
+      "gloss": "твоя общност"
+    },
+    {
+      "surface": "היו",
+      "gloss": "бъдете"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "והם",
+      "gloss": "и те"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "и Аарон"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "утре"
+    }
+  ],
+  "timestamp": "2026-09-22T11:52:37.732275669Z",
+  "model": "glm-5.3"
+}

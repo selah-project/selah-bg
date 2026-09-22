@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И живя Шет сто и пет години, и роди ⟨את⟩ Еноша.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "И живя"
+    },
+    {
+      "surface": "שת",
+      "gloss": "Шет"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "и сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Еноша"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "Еноша"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:43.533088265Z",
+  "model": "glm-5.3"
+}

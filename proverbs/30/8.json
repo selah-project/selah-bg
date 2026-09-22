@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 30:8",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Суета и лъжлива дума — далеч от мен; бедност и богатство не ми давай; храни ме с хляба на моя дял.",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "Суета"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "и дума"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "лъжлива"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "далеч"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от мен"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "бедност"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "и богатство"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "давай"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "הטריפני",
+      "gloss": "храни ме"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляб"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "на моя дял"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:42.022981739Z",
+  "model": "glm-5.3"
+}

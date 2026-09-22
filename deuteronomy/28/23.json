@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "И ще бъдат небесата ти, които са над главата ти, мед, а земята, която е под теб, желязо.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "И ще бъдат"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "небесата ти"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "главата ти"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "мед"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "а земята"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "под теб"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "желязо"
+    }
+  ],
+  "timestamp": "2026-09-22T12:13:40.874381125Z",
+  "model": "glm-5.3"
+}

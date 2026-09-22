@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 50:18",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 50,
+  "translation": "Ако видиш крадец, ти тичаш с него, и с прелюбодейците е твоят дял.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "видиш"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "крадец"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "тичаш"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с него"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "и с"
+    },
+    {
+      "surface": "מנאפים",
+      "gloss": "прелюбодейци"
+    },
+    {
+      "surface": "חלקך",
+      "gloss": "твоят дял"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:43.223150273Z",
+  "model": "glm-5.3"
+}

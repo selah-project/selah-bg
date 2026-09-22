@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "psalms 78:42",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 78,
+  "translation": "Не помнеха ⟨את⟩ ръката Му, деня когато ⟨Той⟩ ⟨ги⟩ изкупи от врага.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "помнеха"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ръката Му"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ръката Му"
+    },
+    {
+      "surface": "יום",
+      "gloss": "деня"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "когато"
+    },
+    {
+      "surface": "פדם",
+      "gloss": "⟨Той⟩ ⟨ги⟩ изкупи"
+    },
+    {
+      "surface": "מני",
+      "gloss": "от"
+    },
+    {
+      "surface": "צר",
+      "gloss": "врага"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:04.746512134Z",
+  "model": "glm-5.3"
+}

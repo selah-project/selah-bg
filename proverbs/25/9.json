@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Твоя спор води ⟨с⟩ ⟨את⟩ твоя ближник и тайната на друг не откривай.",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "твоя спор"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "води"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "твоя ближник"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "твоя ближник"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "и тайната"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "на друг"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "откривай"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:36.259746977Z",
+  "model": "glm-5.3"
+}

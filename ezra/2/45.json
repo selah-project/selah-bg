@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "ezra 2:45",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Левана, синовете на Хагава, синовете на Акув.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Левана"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "Хагава"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "עקוב",
+      "gloss": "Акув"
+    }
+  ],
+  "timestamp": "2026-09-22T15:49:14.318899303Z",
+  "model": "glm-5.3"
+}

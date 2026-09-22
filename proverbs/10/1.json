@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 10:1",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Приказки на Шеломо. Син мъдър радва баща, а син глупав — скръб на майка му.",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "Приказки"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "на Шеломо"
+    },
+    {
+      "surface": "בן",
+      "gloss": "Син"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мъдър"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "радва"
+    },
+    {
+      "surface": "אב",
+      "gloss": "баща"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "а син"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "глупав"
+    },
+    {
+      "surface": "תוגת",
+      "gloss": "скръб"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "на майка му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:36.661892120Z",
+  "model": "glm-5.3"
+}

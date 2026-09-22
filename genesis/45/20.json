@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 45:20",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 45,
+  "translation": "и окото ви да не жали ⟨за⟩ вещите ви, защото доброто на цялата земя Мицраим е ваше.",
+  "tokens": [
+    {
+      "surface": "ועינכם",
+      "gloss": "и окото ви"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחס",
+      "gloss": "да жали"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "כליכם",
+      "gloss": "вещите ви"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "доброто"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на цялата"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ваше"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е"
+    }
+  ],
+  "timestamp": "2026-09-22T11:12:35.677840069Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "lamentations 3:61",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Чу ⟨ти⟩ тяхната хула, Яхве, всичките им помисли срещу мене.",
+  "tokens": [
+    {
+      "surface": "שמעת",
+      "gloss": "чу ⟨ти⟩"
+    },
+    {
+      "surface": "חרפתם",
+      "gloss": "тяхната хула"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичките"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "им помисли"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "срещу мене"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:37.186559937Z",
+  "model": "glm-5.3"
+}

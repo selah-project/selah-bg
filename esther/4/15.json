@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И рече Естер да се отговори на Мардохей:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естер"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "да се отговори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "Мардохей"
+    }
+  ],
+  "timestamp": "2026-09-22T15:42:02.210178893Z",
+  "model": "glm-5.3"
+}

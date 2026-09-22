@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Урия хетеецаът — всички ⟨бяха⟩ тридесет и седем.",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "Урия"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "хетеецаът"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридесет"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "и седем"
+    }
+  ],
+  "timestamp": "2026-09-22T12:58:55.677770353Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Елате, яжте от хляба ми, и пийте от виното, което размесих.",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Елате"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "яжте"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "от хляба ми"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "и пийте"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "от виното"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "което размесих"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:54.056667786Z",
+  "model": "glm-5.3"
+}

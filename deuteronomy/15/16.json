@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 15:16",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "И ще бъде, когато ти каже: „Няма да изляза от тебе“, защото обича тебе и ⟨את⟩ твоя дом, защото му е добре при тебе —",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И ще бъде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когато"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "каже"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "Няма да изляза"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "от тебе"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אהבך",
+      "gloss": "обича тебе"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "твоя дом"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "твоя дом"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "е добре"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "при тебе"
+    }
+  ],
+  "timestamp": "2026-09-22T12:07:24.172669326Z",
+  "model": "glm-5.3"
+}

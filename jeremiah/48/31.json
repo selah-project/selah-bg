@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "jeremiah 48:31",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "Поради това за Моав ще вопя и за целия Моав ще викам; за мъжете на Кир Херес ⟨то⟩ ще стене.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Поради"
+    },
+    {
+      "surface": "כן",
+      "gloss": "това"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "איליל",
+      "gloss": "ще вопя"
+    },
+    {
+      "surface": "ולמואב",
+      "gloss": "и за Моав"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "целия"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ще викам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мъжете на"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "Кир"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "Херес"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ще стене"
+    }
+  ],
+  "timestamp": "2026-09-22T14:07:46.851752733Z",
+  "model": "glm-5.3"
+}

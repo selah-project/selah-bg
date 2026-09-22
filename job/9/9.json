@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 9:9",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Прави Аш, Кесил и Кимах, и стаите на юга.",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "прави"
+    },
+    {
+      "surface": "עש",
+      "gloss": "Аш"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "Кесил"
+    },
+    {
+      "surface": "וכימה",
+      "gloss": "и Кимах"
+    },
+    {
+      "surface": "וחדרי",
+      "gloss": "и стаите"
+    },
+    {
+      "surface": "תמן",
+      "gloss": "на юга"
+    }
+  ],
+  "timestamp": "2026-09-22T15:24:17.373217955Z",
+  "model": "glm-5.3"
+}

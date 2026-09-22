@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 2:22",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И роди син, и нарече ⟨את⟩ името му Гершом, защото каза: пришълец бях в земя чужда.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и нарече"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "името му"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името му"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "Гершом"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "גר",
+      "gloss": "пришълец"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "бях"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земя"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "чужда"
+    }
+  ],
+  "timestamp": "2026-09-22T11:14:17.393519467Z",
+  "model": "glm-5.3"
+}

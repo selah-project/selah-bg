@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "isaiah 41:27",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 41,
+  "translation": "Първи ⟨бях⟩ на Цион — ето, ето ги; и на Йерусалим ще дам вестител.",
+  "tokens": [
+    {
+      "surface": "ראשון",
+      "gloss": "Първи"
+    },
+    {
+      "surface": "לציון",
+      "gloss": "на Цион"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "הנם",
+      "gloss": "ето ги"
+    },
+    {
+      "surface": "ולירושלם",
+      "gloss": "и на Йерусалим"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "вестител"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ще дам"
+    }
+  ],
+  "timestamp": "2026-09-22T13:38:53.650249329Z",
+  "model": "glm-5.3"
+}

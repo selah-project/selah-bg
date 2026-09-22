@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 36:10",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "И съедини ⟨את⟩ петте завеси една с друга, и пет завеси съедини една с друга.",
+  "tokens": [
+    {
+      "surface": "ויחבר",
+      "gloss": "и съедини"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "петте завеси"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "завеси"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "אל",
+      "gloss": "с"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "друга"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "и пет"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "завеси"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "съедини"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "אל",
+      "gloss": "с"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "друга"
+    }
+  ],
+  "timestamp": "2026-09-22T16:17:15.625181263Z",
+  "model": "glm-5.3"
+}

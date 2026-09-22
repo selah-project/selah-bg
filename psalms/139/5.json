@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 139:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 139,
+  "translation": "Отзад и отпред Ти ме огради, и положи върху мен дланта Си.",
+  "tokens": [
+    {
+      "surface": "אחור",
+      "gloss": "Отзад"
+    },
+    {
+      "surface": "וקדם",
+      "gloss": "и отпред"
+    },
+    {
+      "surface": "צרתני",
+      "gloss": "Ти ме огради"
+    },
+    {
+      "surface": "ותשת",
+      "gloss": "и положи"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "върху мен"
+    },
+    {
+      "surface": "כפכה",
+      "gloss": "дланта Си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:55.527835088Z",
+  "model": "glm-5.3"
+}

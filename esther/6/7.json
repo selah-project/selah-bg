@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 6:7",
+  "book": "esther",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И рече Аман на царя: човек, в когото царят благоволи да го почете —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Аман"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "в когото"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "благоволи"
+    },
+    {
+      "surface": "ביקרו",
+      "gloss": "да го почете"
+    }
+  ],
+  "timestamp": "2026-09-22T15:41:23.269412364Z",
+  "model": "glm-5.3"
+}

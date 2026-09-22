@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И всичко пълзящо, което пълзи по земята, е мерзост — то да не се яде.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и всичко"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "пълзящо"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "което пълзи"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "мерзост"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "да се яде"
+    }
+  ],
+  "timestamp": "2026-09-22T11:35:10.717040383Z",
+  "model": "glm-5.3"
+}

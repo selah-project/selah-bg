@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 5:11",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Главата му — чисто злато, кичурите му спуснати ⟨и⟩ черни като гарван.",
+  "tokens": [
+    {
+      "surface": "ראשו",
+      "gloss": "Главата му"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "злато"
+    },
+    {
+      "surface": "פז",
+      "gloss": "чисто"
+    },
+    {
+      "surface": "קוצותיו",
+      "gloss": "кичурите му"
+    },
+    {
+      "surface": "תלתלים",
+      "gloss": "спуснати"
+    },
+    {
+      "surface": "שחרות",
+      "gloss": "черни"
+    },
+    {
+      "surface": "כעורב",
+      "gloss": "като гарван"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:52.783940764Z",
+  "model": "glm-5.3"
+}

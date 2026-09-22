@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "И тези са синовете на Дишан: Хемдан и Ешбан и Йитран и Керан.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И тези"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "на Дишан"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "Хемдан"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "и Ешбан"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "и Йитран"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "и Керан"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:26.392283230Z",
+  "model": "glm-5.3"
+}

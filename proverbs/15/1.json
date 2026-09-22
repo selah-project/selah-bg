@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Мек отговор връща гнева, а болезненна дума издига ярост.",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "отговор"
+    },
+    {
+      "surface": "רך",
+      "gloss": "мек"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "връща"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "гнева"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "а дума"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "болезненна"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "издига"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ярост"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:14.351168189Z",
+  "model": "glm-5.3"
+}

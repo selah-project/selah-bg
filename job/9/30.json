@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 9:30",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Ако се изкъпя със сняг и изчистя дланите си с луга —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "התרחצתי",
+      "gloss": "се изкъпя"
+    },
+    {
+      "surface": "במו",
+      "gloss": "със"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "сняг"
+    },
+    {
+      "surface": "והזכותי",
+      "gloss": "и изчистя"
+    },
+    {
+      "surface": "בבר",
+      "gloss": "с луга"
+    },
+    {
+      "surface": "כפי",
+      "gloss": "дланите си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:25:49.706840477Z",
+  "model": "glm-5.3"
+}

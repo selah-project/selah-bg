@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И отиде Шломо в Хамат Цова и я укрепи.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "Цова"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "и укрепи"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "над нея"
+    }
+  ],
+  "timestamp": "2026-09-22T16:06:50.882021388Z",
+  "model": "glm-5.3"
+}

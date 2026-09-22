@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Защото кой ще яде, и кой ще се наслади извън мен?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ще яде"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и кой"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "ще се наслади"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "извън"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "мен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:16.653044024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "И се поклони Авраам пред народа на земята,",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "И се поклони"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земята"
+    }
+  ],
+  "timestamp": "2026-09-22T11:00:22.566263147Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "2-samuel 22:48",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Елът, Който дава отмъщението ми и смъква народите под мен.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Елът"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "Който дава"
+    },
+    {
+      "surface": "נקמת",
+      "gloss": "отмъщението"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "ומוריד",
+      "gloss": "и смъква"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "תחתני",
+      "gloss": "под мен"
+    }
+  ],
+  "timestamp": "2026-09-22T12:58:47.453822354Z",
+  "model": "glm-5.3"
+}

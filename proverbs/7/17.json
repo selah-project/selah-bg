@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Напръсках леглото си с мирта, аалово дърво и канела.",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "напръсках"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "леглото си"
+    },
+    {
+      "surface": "מר",
+      "gloss": "мирта"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "аалово дърво"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "и канела"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:04.683654024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И остави Моше ⟨את⟩ жезлите пред Яхве, в шатъра на свидетелството.",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "И остави"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "жезлите"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "жезлите"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "в шатъра"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "на свидетелството"
+    }
+  ],
+  "timestamp": "2026-09-22T11:51:44.474880286Z",
+  "model": "glm-5.3"
+}

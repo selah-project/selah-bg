@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 50:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 50,
+  "translation": "От Цион, съвършенство на красотата, Елохим засия.",
+  "tokens": [
+    {
+      "surface": "מציון",
+      "gloss": "от Цион"
+    },
+    {
+      "surface": "מכלל",
+      "gloss": "съвършенство"
+    },
+    {
+      "surface": "יפי",
+      "gloss": "на красотата"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "засия"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:51.622838280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "В нощта онази се яви Елохим на Шломо и каза ⟨му⟩: Поискай какво да ти дам.",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "В нощта"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онази"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "се яви"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "на Шломо"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨му⟩"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "Поискай"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "да ти дам"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-22T16:04:36.086006877Z",
+  "model": "glm-5.3"
+}

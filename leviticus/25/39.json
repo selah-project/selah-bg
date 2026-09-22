@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 25:39",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И ако обеднее брат ти при тебе и се продаде на тебе, не го карай да служи със служба на роб.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "ימוך",
+      "gloss": "обеднее"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брат ти"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "при тебе"
+    },
+    {
+      "surface": "ונמכר",
+      "gloss": "и се продаде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "карай да служи"
+    },
+    {
+      "surface": "בו",
+      "gloss": "го"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "със служба"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "на роб"
+    }
+  ],
+  "timestamp": "2026-09-22T11:41:54.571193872Z",
+  "model": "glm-5.3"
+}

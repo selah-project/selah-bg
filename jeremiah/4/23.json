@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 4:23",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Видях ⟨את⟩ земята, и ето — тоху и воху; и ⟨видях⟩ към небесата, и няма светлината им.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "видях"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земята"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "тоху"
+    },
+    {
+      "surface": "ובהו",
+      "gloss": "и воху"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и към"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесата"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "אורם",
+      "gloss": "светлината им"
+    }
+  ],
+  "timestamp": "2026-09-22T13:48:19.798639865Z",
+  "model": "glm-5.3"
+}

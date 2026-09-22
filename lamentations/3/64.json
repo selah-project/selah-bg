@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "lamentations 3:64",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Върни ⟨им⟩ отплата, Яхве, според делото на ръцете им.",
+  "tokens": [
+    {
+      "surface": "תשיב",
+      "gloss": "върни"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨им⟩"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "отплата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כמעשה",
+      "gloss": "според делото"
+    },
+    {
+      "surface": "ידיהם",
+      "gloss": "на ръцете им"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:37.193163547Z",
+  "model": "glm-5.3"
+}

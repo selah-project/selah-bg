@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 3:21",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И направи Яхве Елохим на Адам и на жена му кожени ризи, и ги облече.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И направи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "на Адам"
+    },
+    {
+      "surface": "ולאשתו",
+      "gloss": "и на жена му"
+    },
+    {
+      "surface": "כתנות",
+      "gloss": "ризи"
+    },
+    {
+      "surface": "עור",
+      "gloss": "кожени"
+    },
+    {
+      "surface": "וילבשם",
+      "gloss": "и ги облече"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:53.084256257Z",
+  "model": "glm-5.3"
+}

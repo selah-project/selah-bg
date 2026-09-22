@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 33:31",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И тръгнаха от Мосерот и разпънаха стан в Бней-Яакан.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И тръгнаха"
+    },
+    {
+      "surface": "ממסרות",
+      "gloss": "от Мосерот"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и разпънаха стан"
+    },
+    {
+      "surface": "בבני",
+      "gloss": "в Бней"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "Яакан"
+    }
+  ],
+  "timestamp": "2026-09-22T11:59:40.104377105Z",
+  "model": "glm-5.3"
+}

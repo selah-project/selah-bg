@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "не пожелаха съвета ми, презряха всяко мое изобличение",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "пожелаха"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "съвета ми"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "презряха"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяко"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "моето изобличение"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:44.842958674Z",
+  "model": "glm-5.3"
+}

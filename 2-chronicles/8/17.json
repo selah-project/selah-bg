@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Тогава Шеломо (Соломон) отиде в Ецион-Гевер и в Ейлот, на брега на морето, в земята Едом.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "Тогава"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "отиде"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "в Ецион"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "Гевер"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и в"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Ейлот"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "брега"
+    },
+    {
+      "surface": "הים",
+      "gloss": "на морето"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    }
+  ],
+  "timestamp": "2026-09-22T16:06:22.749148409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "на Петая деветнадесетият, на Йехезекел двадесетият",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "на Петая"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "девет"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надесет"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "на Йехезекел"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "двадесетият"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:50.196835171Z",
+  "model": "glm-5.3"
+}

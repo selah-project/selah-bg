@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И издигна там жертвеник и го нарече Ел, Елохим на Израел.",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "и издигна"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "жертвеник"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и го нарече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "го"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:28.616668750Z",
+  "model": "glm-5.3"
+}

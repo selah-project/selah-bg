@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 33:21",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И тръгнаха от Ливна и разпънаха стан в Риса.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И тръгнаха"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "от Ливна"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и разпънаха стан"
+    },
+    {
+      "surface": "ברסה",
+      "gloss": "в Риса"
+    }
+  ],
+  "timestamp": "2026-09-22T11:59:40.719864137Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 16:9",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И рече ѝ ангелът на Яхве: Върни се при господарката си и се смири под ръката ѝ.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ѝ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ангелът"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שובי",
+      "gloss": "Върни се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "גברתך",
+      "gloss": "господарката си"
+    },
+    {
+      "surface": "והתעני",
+      "gloss": "и се смири"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "ידיה",
+      "gloss": "ръката ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T10:58:46.768188488Z",
+  "model": "glm-5.3"
+}

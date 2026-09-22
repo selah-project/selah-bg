@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 43:26",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 43,
+  "translation": "Напомни Ми, н се съдим заедно; разкажи ти, за да се оправдаеш.",
+  "tokens": [
+    {
+      "surface": "הזכירני",
+      "gloss": "Напомни Ми"
+    },
+    {
+      "surface": "נשפטה",
+      "gloss": "н се съдим"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "заедно"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "разкажи"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "תצדק",
+      "gloss": "се оправдаеш"
+    }
+  ],
+  "timestamp": "2026-09-22T13:38:57.150776539Z",
+  "model": "glm-5.3"
+}

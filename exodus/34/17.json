@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Изляти богове не си прави.",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "богове"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "изляти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "прави"
+    },
+    {
+      "surface": "לך",
+      "gloss": "си"
+    }
+  ],
+  "timestamp": "2026-09-22T16:16:37.972056578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "Нечестивият заема и не връща, а праведният милва и дава.",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "заема"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "Нечестивият"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "връща"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "а праведният"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "милва"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "и дава"
+    }
+  ],
+  "timestamp": "2026-09-22T14:57:48.939311254Z",
+  "model": "glm-5.3"
+}

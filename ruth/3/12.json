@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И сега — ⟨е⟩ наистина, че откупител съм аз, но има и откупител по-близък от мен.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И сега"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "наистина"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "אם",
+      "gloss": "но"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "откупител"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и още"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "откупител"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "по-близък"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от мен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:35:52.169570821Z",
+  "model": "glm-5.3"
+}

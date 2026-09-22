@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 11:26",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И юнаците на войската: Асаел, брат на Йоав, Елханан, син на Додо ⟨Давидовия⟩, от Витлеем.",
+  "tokens": [
+    {
+      "surface": "וגבורי",
+      "gloss": "и юнаците"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "на войската"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Асаел"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ел"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брат"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "на Йоав"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "Елханан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "Додо"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "от"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Витлеем"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:22.695888604Z",
+  "model": "glm-5.3"
+}

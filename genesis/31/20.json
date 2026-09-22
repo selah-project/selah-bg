@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "И открадна Яков ⟨את⟩ сърцето на Лаван Арамееца, като не му съобщи, че бяга.",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "И открадна"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сърцето"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърцето"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "на Лаван"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "Арамееца"
+    },
+    {
+      "surface": "על",
+      "gloss": "като"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "не"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "съобщи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "бяга"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    }
+  ],
+  "timestamp": "2026-09-22T11:05:33.120787610Z",
+  "model": "glm-5.3"
+}

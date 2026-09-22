@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 12:8",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И съди след него ⟨את⟩ Израел Ивцан от Бейт Лехем.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "И съди"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "след него"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "Ивцан"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "от"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Бейт Лехем"
+    }
+  ],
+  "timestamp": "2026-09-22T12:31:47.895902304Z",
+  "model": "glm-5.3"
+}

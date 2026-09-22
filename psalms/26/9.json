@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 26:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Не събирай с грешници душата ми, и с кървави мъже живота ми,",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "събирай"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "грешници"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата ми"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "и с"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мъже"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "кървави"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "живота ми"
+    }
+  ],
+  "timestamp": "2026-09-22T14:54:49.201618170Z",
+  "model": "glm-5.3"
+}

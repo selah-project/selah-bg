@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И рече Сара: Смех стори ми Елохим; всеки, който чуе, ще се смее ⟨с мене⟩.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "Сара"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "смех"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "стори"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "който чуе"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ще се смее"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨с мене⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T11:00:24.665449821Z",
+  "model": "glm-5.3"
+}

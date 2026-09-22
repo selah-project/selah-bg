@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 22:2",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И видя Балак, синът на Ципор, ⟨את⟩ всичко, което стори Исраел на Аморееца.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И видя"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Балак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синът"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "на Ципор"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всичко"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сторѝ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Исраел"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "на Аморееца"
+    }
+  ],
+  "timestamp": "2026-09-22T11:54:35.080427881Z",
+  "model": "glm-5.3"
+}

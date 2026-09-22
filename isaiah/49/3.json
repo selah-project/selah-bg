@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 49:3",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 49,
+  "translation": "И рече ми: рабът Ми си ти, Израел, в когото ще се прославя.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "рабът Ми"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "в когото"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в теб"
+    },
+    {
+      "surface": "אתפאר",
+      "gloss": "ще се прославя"
+    }
+  ],
+  "timestamp": "2026-09-22T13:41:37.074652753Z",
+  "model": "glm-5.3"
+}

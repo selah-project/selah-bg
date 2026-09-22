@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 84:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 84,
+  "translation": "Яхве, Елохим Цеваот, чуй молитвата ми; внимай, Елохime на Яков. Села.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "чуй"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "молитвата ми"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "внимай"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:14.020301697Z",
+  "model": "glm-5.3"
+}

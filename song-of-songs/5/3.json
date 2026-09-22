@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 5:3",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Съблях си ⟨את⟩ ризата — как да я облека? Измих си ⟨את⟩ краката — как да ги оцапам?",
+  "tokens": [
+    {
+      "surface": "פשטתי",
+      "gloss": "съблях си"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ризата"
+    },
+    {
+      "surface": "כתנתי",
+      "gloss": "ризата"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "как"
+    },
+    {
+      "surface": "אלבשנה",
+      "gloss": "да я облека"
+    },
+    {
+      "surface": "רחצתי",
+      "gloss": "измих си"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "краката"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "краката"
+    },
+    {
+      "surface": "איככה",
+      "gloss": "как"
+    },
+    {
+      "surface": "אטנפם",
+      "gloss": "да ги оцапам"
+    }
+  ],
+  "timestamp": "2026-09-22T15:34:36.801119496Z",
+  "model": "glm-5.3"
+}

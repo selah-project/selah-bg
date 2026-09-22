@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 31:11",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Защото това е разврат, и ⟨е⟩ вина за съдиите —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "това"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "разврат"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "и тя"
+    },
+    {
+      "surface": "עון",
+      "gloss": "вина"
+    },
+    {
+      "surface": "פלילים",
+      "gloss": "за съдиите"
+    }
+  ],
+  "timestamp": "2026-09-22T15:30:25.289570591Z",
+  "model": "glm-5.3"
+}

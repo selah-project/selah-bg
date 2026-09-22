@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 28:17",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "И още едомци дойдоха и поразиха в Иехуда, и плениха пленници.",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "И още"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "едомци"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дойдоха"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "и поразиха"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "в Иехуда"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "и плениха"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "пленници"
+    }
+  ],
+  "timestamp": "2026-09-22T16:45:05.822128689Z",
+  "model": "glm-5.3"
+}

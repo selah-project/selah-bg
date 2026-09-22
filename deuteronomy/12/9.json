@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 12:9",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Защото не дойдохте досега до покоя и до наследството, което Яхве, твоят Елохим, ти дава.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "באתם",
+      "gloss": "дойдохте"
+    },
+    {
+      "surface": "עד",
+      "gloss": "досега"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "до сега"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המנוחה",
+      "gloss": "покоя"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и до"
+    },
+    {
+      "surface": "הנחלה",
+      "gloss": "наследството"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твоят Елохим"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дава"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-22T12:08:40.750645250Z",
+  "model": "glm-5.3"
+}

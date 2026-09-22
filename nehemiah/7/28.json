@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Мъжете на Бет Азмавет: четиридесет и два.",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "Мъжете"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "Азмавет"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четиридесет"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и два"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:46.073943553Z",
+  "model": "glm-5.3"
+}

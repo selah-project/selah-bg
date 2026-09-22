@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "и върху Дивон, и върху Нево, и върху Бет-Дивлатайим.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и върху"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "Дивон"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и върху"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "Нево"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и върху"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "-Дивлатайим"
+    }
+  ],
+  "timestamp": "2026-09-22T14:07:06.251781744Z",
+  "model": "glm-5.3"
+}

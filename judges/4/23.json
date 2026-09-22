@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 4:23",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И покори Елохим в онзи ден ⟨את⟩ Явин, цар на Ханаан, пред синовете на Израел.",
+  "tokens": [
+    {
+      "surface": "ויכנע",
+      "gloss": "покори"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в ден"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онзи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Явин"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "Явин"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "на Ханаан"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T16:21:13.357450063Z",
+  "model": "glm-5.3"
+}

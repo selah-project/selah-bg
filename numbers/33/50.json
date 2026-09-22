@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 33:50",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И говори Яхве към Моше в равнината на Моав, при Йорден срещу Йерихо, и рече:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "в равнината"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "на Моав"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "Йорден"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "Йерихо"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-22T12:00:02.492086349Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 33:14",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "Защото Ел говори веднъж, и дваж, а ⟨човек⟩ не съзира.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "веднъж"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ובשתים",
+      "gloss": "и дваж"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישורנה",
+      "gloss": "съзира"
+    }
+  ],
+  "timestamp": "2026-09-22T15:31:20.605074703Z",
+  "model": "glm-5.3"
+}

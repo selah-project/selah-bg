@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 6:14",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Да не ходите след други богове — от боговете на народите, които са около вас.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלכון",
+      "gloss": "да ходите"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "след"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богове"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "други"
+    },
+    {
+      "surface": "מאלהי",
+      "gloss": "от боговете"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "на народите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "סביבותיכם",
+      "gloss": "около вас"
+    }
+  ],
+  "timestamp": "2026-09-22T12:03:33.327153448Z",
+  "model": "glm-5.3"
+}

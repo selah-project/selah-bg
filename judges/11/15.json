@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "judges 11:15",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И рече му: така каза Йефтах: не взе Израел ⟨את⟩ земята на Моав, нито ⟨את⟩ земята на синовете на Амон.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "Йефтах"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "взе"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земята"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "земята"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на синовете"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Амон"
+    }
+  ],
+  "timestamp": "2026-09-22T12:31:17.692053591Z",
+  "model": "glm-5.3"
+}

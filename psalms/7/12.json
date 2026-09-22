@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 7:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Елохим ⟨е⟩ съдия праведен, и Ел, който се гневи всеки ден.",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "съдия"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведен"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и Ел"
+    },
+    {
+      "surface": "זעם",
+      "gloss": "който се гневи"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    }
+  ],
+  "timestamp": "2026-09-22T14:49:39.176214525Z",
+  "model": "glm-5.3"
+}

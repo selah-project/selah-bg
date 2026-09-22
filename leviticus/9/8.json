@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 9:8",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И приближи се Аарон до жертвеника, и закла ⟨את⟩ телето за грях, което бе за него.",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "И приближи се"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "жертвеника"
+    },
+    {
+      "surface": "וישחט",
+      "gloss": "и закла"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "теленцето"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "теленцето"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "за грях"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "לו",
+      "gloss": "бе за него"
+    }
+  ],
+  "timestamp": "2026-09-22T11:34:43.974811958Z",
+  "model": "glm-5.3"
+}

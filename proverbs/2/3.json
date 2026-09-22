@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "да, ако зовеш разбирането и даваш гласа си за разума,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "да,"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "разбирането"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "зовеш"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "за разума"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "даваш"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "гласа си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:27.002342596Z",
+  "model": "glm-5.3"
+}

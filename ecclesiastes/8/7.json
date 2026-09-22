@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Защото ⟨той⟩ не знае какво ще бъде, защото когато стане, кой ще му обяви?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "⟨той⟩ не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знае"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ще бъде"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "когато"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "стане"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ще обяви"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:34.116254999Z",
+  "model": "glm-5.3"
+}

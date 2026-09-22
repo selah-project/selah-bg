@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 75,
+  "translation": "Защото Елохим съди: този смирява ⟨Той⟩, а този ⟨Той⟩ издига.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "съди"
+    },
+    {
+      "surface": "זה",
+      "gloss": "този"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "смирява"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "а този"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "издига"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:35.984303462Z",
+  "model": "glm-5.3"
+}

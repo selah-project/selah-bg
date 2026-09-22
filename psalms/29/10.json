@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 29:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Яхве седна ⟨на трона⟩ над потопа, и Яхве седи цар ⟨завинаги⟩.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "למבול",
+      "gloss": "над потопа"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "седна"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "и седи"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "⟨завинаги⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T14:54:37.341065454Z",
+  "model": "glm-5.3"
+}

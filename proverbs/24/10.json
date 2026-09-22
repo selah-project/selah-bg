@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Олекна ти ⟨духът⟩ в деня на бедата — тесен ⟨е⟩ силният ти.",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "олекна ти"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "на бедата"
+    },
+    {
+      "surface": "צר",
+      "gloss": "тесен"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "силният ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:06.218748187Z",
+  "model": "glm-5.3"
+}

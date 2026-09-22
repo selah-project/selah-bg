@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И рече тестът на Моше към него: не ⟨е⟩ добро нещото, което вършиш ти.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "тестът"
+    },
+    {
+      "surface": "משה",
+      "gloss": "на Моше"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "към него"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "нещото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "вършиш"
+    }
+  ],
+  "timestamp": "2026-09-22T11:21:07.748993791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 30:2",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Така рече Яхве, Елохим на Израил, казвайки: запиши си ⟨את⟩ всички думи, които ти говорих, в книга.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израил"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    },
+    {
+      "surface": "כתב",
+      "gloss": "запиши"
+    },
+    {
+      "surface": "לך",
+      "gloss": "си"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всички думи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "думи"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "ти говорих"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "към теб"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "книга"
+    }
+  ],
+  "timestamp": "2026-09-22T14:00:07.129723458Z",
+  "model": "glm-5.3"
+}

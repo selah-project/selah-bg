@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 43:31",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 43,
+  "translation": "И изми лицето си, и излезе, и се овладя, и каза: Сложете хляб.",
+  "tokens": [
+    {
+      "surface": "וירחץ",
+      "gloss": "и изми"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицето си"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и излезе"
+    },
+    {
+      "surface": "ויתאפק",
+      "gloss": "и се овладя"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "Сложете"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляб"
+    }
+  ],
+  "timestamp": "2026-09-22T11:10:36.751573910Z",
+  "model": "glm-5.3"
+}

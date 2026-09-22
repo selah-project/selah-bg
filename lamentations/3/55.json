@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Призовах Твоето име, Яхве, от ямата най-долната.",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "призовах"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Твоето име"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "от ямата"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "най-долната"
+    }
+  ],
+  "timestamp": "2026-09-22T15:37:02.383716225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Дъхът на Яхве говори в мен, и словото Му — на езика ми.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "Дъхът"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "בי",
+      "gloss": "в мен"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "и словото Му"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "езика ми"
+    }
+  ],
+  "timestamp": "2026-09-22T12:59:18.591678875Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "синовете на Левна, синовете на Хагава, синовете на Салмай.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "Левна"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "Хагава"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "Салмай"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:57.039626066Z",
+  "model": "glm-5.3"
+}

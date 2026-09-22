@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 7:24",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "В третия ден – вождът на синовете на Завулон, Елиав, синът на Хелон.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третия"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "вождът"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на синовете"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "на Завулон"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Елиав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "на Хелон"
+    }
+  ],
+  "timestamp": "2026-09-22T11:46:56.270183077Z",
+  "model": "glm-5.3"
+}

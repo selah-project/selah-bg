@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "genesis 31:45",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "И взе Яаков камък и го издигна за стълб-паметник.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И взе"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камък"
+    },
+    {
+      "surface": "וירימה",
+      "gloss": "и го издигна"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "за стълб-паметник"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:23.398171861Z",
+  "model": "glm-5.3"
+}

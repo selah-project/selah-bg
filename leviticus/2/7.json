@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И ако минха ⟨от⟩ тенджерата ⟨е⟩ приносът ти — фино брашно с маслото да се направи.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "минха"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "тенджерата"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "приносът ти"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "фino брашно"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "с маслото"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "да се направи"
+    }
+  ],
+  "timestamp": "2026-09-22T11:30:46.786217370Z",
+  "model": "glm-5.3"
+}

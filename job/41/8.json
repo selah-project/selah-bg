@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 41:8",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 41,
+  "translation": "Един към друг се допират и дъх не минава между тях.",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "към друг"
+    },
+    {
+      "surface": "יגשו",
+      "gloss": "се допират"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "и дъх"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "минава"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "между тях"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:08.134885075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 46:17",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 46,
+  "translation": "Викаха там: Фараон, царят на Мицраим ⟨е⟩ шум — определи⟨ното⟩ време мина.",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "викаха"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "שאון",
+      "gloss": "шум"
+    },
+    {
+      "surface": "העביר",
+      "gloss": "мина"
+    },
+    {
+      "surface": "המועד",
+      "gloss": "определи⟨ното⟩ време"
+    }
+  ],
+  "timestamp": "2026-09-22T14:05:55.799773416Z",
+  "model": "glm-5.3"
+}

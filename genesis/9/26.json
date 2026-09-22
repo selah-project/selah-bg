@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И рече: благословен да бъде Яхве, Елохимът на Шем, и нека бъде Кенаан роб на тях.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "благословен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохимът на"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и нека бъде"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "роб"
+    },
+    {
+      "surface": "למו",
+      "gloss": "на тях"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:39.559924530Z",
+  "model": "glm-5.3"
+}

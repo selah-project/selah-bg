@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 6:15",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Затова внезапно ще дойде погибелта му, изведнъж ще бъде счупен — и няма лек.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "затова"
+    },
+    {
+      "surface": "כן",
+      "gloss": "⟨във forensic връзка⟩"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "внезапно"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ще дойде"
+    },
+    {
+      "surface": "אידו",
+      "gloss": "погибелта му"
+    },
+    {
+      "surface": "פתע",
+      "gloss": "изведнъж"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "ще бъде счупен"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "лек"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:52.326302265Z",
+  "model": "glm-5.3"
+}

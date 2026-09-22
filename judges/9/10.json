@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И рекоха дърветата на смокинята: ела ти, царувай над нас.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И рекоха"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дърветата"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "на смокинята"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ела"
+    },
+    {
+      "surface": "את",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царувай"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "над нас"
+    }
+  ],
+  "timestamp": "2026-09-22T12:29:08.107213783Z",
+  "model": "glm-5.3"
+}

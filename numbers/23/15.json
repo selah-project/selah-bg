@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 23:15",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "И рече на Валак: застани тук при всеизгарянето си, а аз ще се срещна там.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Валак"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "застани"
+    },
+    {
+      "surface": "כה",
+      "gloss": "тук"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "всеизгарянето си"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "а аз"
+    },
+    {
+      "surface": "אקרה",
+      "gloss": "ще се срещна"
+    },
+    {
+      "surface": "כה",
+      "gloss": "там"
+    }
+  ],
+  "timestamp": "2026-09-22T11:55:37.513012880Z",
+  "model": "glm-5.3"
+}

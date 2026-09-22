@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 3:35",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Слава мъдрите ще наследят, а глупците вдигат безчестие.",
+  "tokens": [
+    {
+      "surface": "כבוד",
+      "gloss": "Слава"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мъдрите"
+    },
+    {
+      "surface": "ינחלו",
+      "gloss": "ще наследят"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "а глупците"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "вдигат"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "безчестие"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:06.624862018Z",
+  "model": "glm-5.3"
+}

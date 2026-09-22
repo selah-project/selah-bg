@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Защото камък от стената ще изкрещи, и греда от дървото ще ѝ отговори.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камък"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "от стената"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "ще изкрещи"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "и греда"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "от дървото"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "ще ѝ отговори"
+    }
+  ],
+  "timestamp": "2026-09-22T16:28:08.220928041Z",
+  "model": "glm-5.3"
+}

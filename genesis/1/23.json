@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И беше вечер, и беше утро — ден пети.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "вечер"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "утро"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "пети"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:09.794195644Z",
+  "model": "glm-5.3"
+}

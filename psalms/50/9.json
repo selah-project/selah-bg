@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 50:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 50,
+  "translation": "Не ще взема от твоя дом вол, от твоите обори козли.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ще взема"
+    },
+    {
+      "surface": "מביתך",
+      "gloss": "от твоя дом"
+    },
+    {
+      "surface": "פר",
+      "gloss": "вол"
+    },
+    {
+      "surface": "ממכלאתיך",
+      "gloss": "от твоите обори"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "козли"
+    }
+  ],
+  "timestamp": "2026-09-22T14:58:49.429786961Z",
+  "model": "glm-5.3"
+}

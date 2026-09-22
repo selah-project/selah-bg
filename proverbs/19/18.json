@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "Наказвай сина си, докато има надежда, и към умъртвяването му не вдигай душата си.",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "наказвай"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "сина си"
+    },
+    {
+      "surface": "כי",
+      "gloss": "докато"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "надежда"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и към"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "умъртвяването му"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "вдигай"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "душата си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:16.221368073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 118,
+  "translation": "Тласкане — тласна ме да падна, а Яхве ми помогна.",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "тласкане"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "тласна ме"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "да падна"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "а Яхве"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "ми помогна"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:17.538197577Z",
+  "model": "glm-5.3"
+}

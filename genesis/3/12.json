@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И рече човекът: жената, която ти даде да бъде с мен — тя ми даде от дървото, и аз ядох.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човекът"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ти даде"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "с мен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "даде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "дървото"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "и аз ядох"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:23.702095114Z",
+  "model": "glm-5.3"
+}

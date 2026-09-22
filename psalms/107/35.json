@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 107:35",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 107,
+  "translation": "Превръща пустиня в езеро от води и суша в извори на вода.",
+  "tokens": [
+    {
+      "surface": "ישם",
+      "gloss": "Превръща"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "пустиня"
+    },
+    {
+      "surface": "לאגם",
+      "gloss": "в езеро"
+    },
+    {
+      "surface": "מים",
+      "gloss": "от води"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "и суша"
+    },
+    {
+      "surface": "ציה",
+      "gloss": "суша"
+    },
+    {
+      "surface": "למצאי",
+      "gloss": "в извори"
+    },
+    {
+      "surface": "מים",
+      "gloss": "на вода"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:59.447155468Z",
+  "model": "glm-5.3"
+}

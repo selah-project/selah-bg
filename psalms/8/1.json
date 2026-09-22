@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 8:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "На водача на певците върху Гитит, псалом на Давид.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "На водача на певците"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "Гитит"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T14:51:04.189343166Z",
+  "model": "glm-5.3"
+}

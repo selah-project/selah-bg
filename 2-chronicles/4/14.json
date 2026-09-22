@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "и ⟨את⟩ поставките направи, и ⟨את⟩ котлите направи върху поставките.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "поставките"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "поставките"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "котлите"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "котлите"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "поставките"
+    }
+  ],
+  "timestamp": "2026-09-22T16:05:32.048187568Z",
+  "model": "glm-5.3"
+}

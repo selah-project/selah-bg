@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Елохим на близо ли съм Аз — слово на Яхве — а не Елохим на далеч?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "на близо"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "на далеч"
+    }
+  ],
+  "timestamp": "2026-09-22T13:56:46.836779904Z",
+  "model": "glm-5.3"
+}

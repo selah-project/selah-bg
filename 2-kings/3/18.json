@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-kings 3:18",
+  "book": "2-kings",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И леко е това в очите на Яхве, и ще даде ⟨את⟩ Моав в ръката ви.",
+  "tokens": [
+    {
+      "surface": "ונקל",
+      "gloss": "И леко е"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "и ще даде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моав"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "в ръката ви"
+    }
+  ],
+  "timestamp": "2026-09-22T13:14:18.452339197Z",
+  "model": "glm-5.3"
+}

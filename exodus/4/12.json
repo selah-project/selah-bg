@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 4:12",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И сега върви, и Аз ще бъда с твоята уста и ще те науча какво да говориш.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И сега"
+    },
+    {
+      "surface": "לך",
+      "gloss": "върви"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "и Аз"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ще бъда"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "твоята уста"
+    },
+    {
+      "surface": "והוריתיך",
+      "gloss": "и ще те науча"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "какво"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "да говориш"
+    }
+  ],
+  "timestamp": "2026-09-22T11:15:24.238622390Z",
+  "model": "glm-5.3"
+}

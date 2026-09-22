@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 25:2",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И роди му ⟨את⟩ Зимран и ⟨את⟩ Йокшан и ⟨את⟩ Медан и ⟨את⟩ Мидян и ⟨את⟩ Ишбак и ⟨את⟩ Шуах.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Зимран"
+    },
+    {
+      "surface": "זמרן",
+      "gloss": "Зимран"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Йокшан"
+    },
+    {
+      "surface": "יקשן",
+      "gloss": "Йокшан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Медан"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "Медан"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Мидян"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мидян"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Ишбак"
+    },
+    {
+      "surface": "ישבק",
+      "gloss": "Ишбак"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Шуах"
+    },
+    {
+      "surface": "שוח",
+      "gloss": "Шуах"
+    }
+  ],
+  "timestamp": "2026-09-22T11:02:51.769661572Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И беше Ной син на петстотин години, и роди Ной ⟨את⟩ Шем, ⟨את⟩ Хам и ⟨את⟩ Яфет.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ной"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ной"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шем"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хам"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Яфет"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "Яфет"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:34.633563598Z",
+  "model": "glm-5.3"
+}

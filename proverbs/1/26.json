@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "и аз ще се смея в бедата ви, ще се присмивам, когато дойде ужасът ви",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "в бедата ви"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "ще се смея"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "ще се присмивам"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "когато дойде"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "ужасът ви"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:48.435963012Z",
+  "model": "glm-5.3"
+}

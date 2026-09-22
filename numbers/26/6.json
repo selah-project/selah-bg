@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "За Хецрон — семейството на хецронite; за Карми — семейството на кармite.",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "за Хецрон"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "семейството на"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "хецронite"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "за Карми"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "семейството на"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "кармite"
+    }
+  ],
+  "timestamp": "2026-09-22T11:55:25.076260875Z",
+  "model": "glm-5.3"
+}

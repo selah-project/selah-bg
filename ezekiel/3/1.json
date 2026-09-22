@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И рече ми: човече, това ⟨את⟩ което намериш, яж — яж ⟨את⟩ свитъка този, и върви, говори към дома на Израел.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "това което намериш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "намериш"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "яж"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "яж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свитъка"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "свитъка"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "този"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "и върви"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T16:26:11.671518435Z",
+  "model": "glm-5.3"
+}

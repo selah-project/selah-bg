@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Голотината на сестрата на майка ти не разкривай, защото тя е плът на майка ти.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "голотината"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "на сестрата"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "на майка ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "разкривай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "плът"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "на майка ти"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тя"
+    }
+  ],
+  "timestamp": "2026-09-22T11:37:50.138448316Z",
+  "model": "glm-5.3"
+}

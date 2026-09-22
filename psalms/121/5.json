@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 121,
+  "translation": "Яхве ⟨е⟩ твой пазач, Яхве ⟨е⟩ твоя сянка върху твоята дясна ръка.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "твой пазач"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "твоя сянка"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ръка"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "твоята дясна"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:41.717385319Z",
+  "model": "glm-5.3"
+}

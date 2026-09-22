@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 135:16",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 135,
+  "translation": "Уста имат, но не говорят; очи имат, но не виждат.",
+  "tokens": [
+    {
+      "surface": "פה",
+      "gloss": "Уста"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "говорят"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "очи"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "виждат"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:14.537072194Z",
+  "model": "glm-5.3"
+}

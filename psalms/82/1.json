@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 82:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 82,
+  "translation": "Псалъм на Асаф. Елохим стои в събранието на Ел, сред боговете съди.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Псалъм"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "на Асаф"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "стои"
+    },
+    {
+      "surface": "בעדת",
+      "gloss": "в събранието на"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "сред"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "боговете"
+    },
+    {
+      "surface": "ישפט",
+      "gloss": "съди"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:26.651343072Z",
+  "model": "glm-5.3"
+}

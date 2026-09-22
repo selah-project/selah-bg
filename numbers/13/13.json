@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 13:13",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "За племето Асер — Сетур, син на Михаел.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "за племето"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Асер"
+    },
+    {
+      "surface": "סתור",
+      "gloss": "Сетур"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "Михаел"
+    }
+  ],
+  "timestamp": "2026-09-22T11:49:50.743392006Z",
+  "model": "glm-5.3"
+}

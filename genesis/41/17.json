@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 41,
+  "translation": "И рече фараонът на Йосеф: в съня ми, ето, стоях на брега на реката.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараонът"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "в съня ми"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ето"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "стоях"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "брега"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "на реката"
+    }
+  ],
+  "timestamp": "2026-09-22T11:09:35.830524846Z",
+  "model": "glm-5.3"
+}

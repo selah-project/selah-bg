@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 25:21",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "⟨את⟩ Едом и ⟨את⟩ Моав и ⟨את⟩ синовете на Амон",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Едом"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Моав"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "синовете"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Амон"
+    }
+  ],
+  "timestamp": "2026-09-22T13:56:41.101860541Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "habakkuk 3:7",
+  "book": "habakkuk",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Под беда видях шатрите на Кушан, треперят завесите на земята Мадиам.",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "און",
+      "gloss": "беда"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "видях"
+    },
+    {
+      "surface": "אהלי",
+      "gloss": "шатрите"
+    },
+    {
+      "surface": "כושן",
+      "gloss": "Кушан"
+    },
+    {
+      "surface": "ירגזון",
+      "gloss": "треперят"
+    },
+    {
+      "surface": "יריעות",
+      "gloss": "завесите"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "Мадиам"
+    }
+  ],
+  "timestamp": "2026-09-22T14:44:13.981204623Z",
+  "model": "glm-5.3"
+}

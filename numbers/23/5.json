@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "И постави Яхве слово в устата на Валаам, и рече: върни се при Валак, и така да говориш.",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "и постави"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "в устата"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "на Валаам"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "върни се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Валак"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "и така"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "да говориш"
+    }
+  ],
+  "timestamp": "2026-09-22T11:55:30.610245650Z",
+  "model": "glm-5.3"
+}

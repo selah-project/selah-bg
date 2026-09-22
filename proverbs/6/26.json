@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 6:26",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Защото ⟨за⟩ блудница ⟨стига⟩ до къкър хляб, а ⟨за⟩ жената на мъж — душа скъпоценна тя лови.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "⟨за⟩"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "блудница"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "⟨до⟩"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "къкър"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляб"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "а ⟨за⟩ жената"
+    },
+    {
+      "surface": "איש",
+      "gloss": "на мъж"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "скъпоценна"
+    },
+    {
+      "surface": "תצוד",
+      "gloss": "тя лови"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:03.922130977Z",
+  "model": "glm-5.3"
+}

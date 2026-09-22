@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 19:13",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "Окото ти да не го пожали, и ще изчистиш невинната кръв от Израил, и ще ти бъде добре.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "да пожали"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "окото ти"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "него"
+    },
+    {
+      "surface": "ובערת",
+      "gloss": "и ще изчистиш"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кръв"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "невинната"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "от Израил"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "и да бъде добре"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-22T12:09:06.705474367Z",
+  "model": "glm-5.3"
+}

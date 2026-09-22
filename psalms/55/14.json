@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 55:14",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 55,
+  "translation": "А ти — смъртен, равен на мен, мой приятел и мой познат.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "כערכי",
+      "gloss": "равен на мен"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "мой приятел"
+    },
+    {
+      "surface": "ומידעי",
+      "gloss": "и мой познат"
+    }
+  ],
+  "timestamp": "2026-09-22T15:00:54.196332259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 20:13",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Не обичай съня, за да не обеднееш; отвори очите си, ⟨бъди⟩ наситен с хляб.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תאהב",
+      "gloss": "обичай"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "съня"
+    },
+    {
+      "surface": "פן",
+      "gloss": "за да не"
+    },
+    {
+      "surface": "תורש",
+      "gloss": "обеднееш"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "отвори"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "очите си"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "наситен"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "с хляб"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:10.165386909Z",
+  "model": "glm-5.3"
+}

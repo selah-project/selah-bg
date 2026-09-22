@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 15:23",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "И ако е на леглото, или на предмета, върху който тя седи — като се допре до него, ще бъде нечист до вечерта.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "המשכב",
+      "gloss": "леглото"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨то⟩ е"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "предмета"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "ישבת",
+      "gloss": "седи"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "върху него"
+    },
+    {
+      "surface": "בנגעו",
+      "gloss": "като се допре"
+    },
+    {
+      "surface": "בו",
+      "gloss": "до него"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ще бъде нечист"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "вечерта"
+    }
+  ],
+  "timestamp": "2026-09-22T11:38:23.682902791Z",
+  "model": "glm-5.3"
+}

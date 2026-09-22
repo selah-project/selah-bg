@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 16:8",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И да даде Арон жребии върху двата козела: един жребий за Яхве и един жребий за Азазел.",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "и да даде"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Арон"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "שני",
+      "gloss": "двата"
+    },
+    {
+      "surface": "השעירם",
+      "gloss": "козела"
+    },
+    {
+      "surface": "גורלות",
+      "gloss": "жребии"
+    },
+    {
+      "surface": "גורל",
+      "gloss": "жребий"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Яхве"
+    },
+    {
+      "surface": "וגורל",
+      "gloss": "и жребий"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "לעזאזל",
+      "gloss": "за Азазел"
+    }
+  ],
+  "timestamp": "2026-09-22T11:38:05.746837903Z",
+  "model": "glm-5.3"
+}

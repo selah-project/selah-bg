@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Синовете на Азгад — две хиляди триста двадесет и двама.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "на Азгад"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "две хиляди"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "триста"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и двама"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:53.854040880Z",
+  "model": "glm-5.3"
+}

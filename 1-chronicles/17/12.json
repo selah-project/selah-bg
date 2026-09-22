@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 17:12",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "Той ще построи за мен дом, и ще закрепя ⟨את⟩ престола му до вечност.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "ще построи"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мен"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "וכננתי",
+      "gloss": "и ще закрепя"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "престола му"
+    },
+    {
+      "surface": "כסאו",
+      "gloss": "престола му"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечност"
+    }
+  ],
+  "timestamp": "2026-09-22T16:44:46.792691704Z",
+  "model": "glm-5.3"
+}

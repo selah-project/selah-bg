@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И казах: загина упованието ми и чакането ми — от Яхве.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И казах"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "загина"
+    },
+    {
+      "surface": "נצחי",
+      "gloss": "упованието ми"
+    },
+    {
+      "surface": "ותוחלתי",
+      "gloss": "и чакането ми"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "от Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T15:37:01.009391023Z",
+  "model": "glm-5.3"
+}

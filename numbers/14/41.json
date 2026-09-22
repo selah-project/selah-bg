@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 14:41",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И рече Моше: защо това — вие прекрачвате ⟨את⟩ устата на Яхве, а то няма да успее?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "למה",
+      "gloss": "защо"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "עברים",
+      "gloss": "прекрачвате"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "устата"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а то"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תצלח",
+      "gloss": "ще успее"
+    }
+  ],
+  "timestamp": "2026-09-22T11:50:45.429357776Z",
+  "model": "glm-5.3"
+}

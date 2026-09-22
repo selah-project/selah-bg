@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 15:46",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "от Екрон и на запад, всичко, което е до Ашдод, и селата им:",
+  "tokens": [
+    {
+      "surface": "מעקרון",
+      "gloss": "от Екрон"
+    },
+    {
+      "surface": "וימה",
+      "gloss": "и на запад"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "על",
+      "gloss": "до"
+    },
+    {
+      "surface": "יד",
+      "gloss": "страната"
+    },
+    {
+      "surface": "אשדוד",
+      "gloss": "Ашдод"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "и селата им"
+    }
+  ],
+  "timestamp": "2026-09-22T12:22:20.147411189Z",
+  "model": "glm-5.3"
+}

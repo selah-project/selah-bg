@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "genesis 24:62",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "А Ицхак идваше от пътя на Беер-Лахай-Рои, защото живееше в земята на Негев.",
+  "tokens": [
+    {
+      "surface": "ויצחק",
+      "gloss": "А Ицхак"
+    },
+    {
+      "surface": "בא",
+      "gloss": "идваше"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "от пътя на"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беер"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "Лахай"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "Рои"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а той"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "живееше"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята на"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "Негев"
+    }
+  ],
+  "timestamp": "2026-09-22T11:02:31.841113602Z",
+  "model": "glm-5.3"
+}

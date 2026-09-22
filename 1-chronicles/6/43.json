@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "и ⟨את⟩ Хилен и ⟨את⟩ пасищата ѝ, ⟨את⟩ Девир и ⟨את⟩ пасищата ѝ;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Хилен"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "Хилен"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "пасищата ѝ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "пасищата ѝ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Девир"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "Девир"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "пасищата ѝ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "пасищата ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:28.970473653Z",
+  "model": "glm-5.3"
+}

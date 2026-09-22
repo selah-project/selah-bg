@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Ой на тебе, земя, когато царят ти ⟨е⟩ момче, и князете ти сутрин ядат!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "ой"
+    },
+    {
+      "surface": "לך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "когато царят ти"
+    },
+    {
+      "surface": "נער",
+      "gloss": "момче"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "и князете ти"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "сутрин"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ядат"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:47.276766874Z",
+  "model": "glm-5.3"
+}

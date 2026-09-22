@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 72:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 72,
+  "translation": "Ще те се страхуват със слънцето и пред луната, род родове.",
+  "tokens": [
+    {
+      "surface": "ייראוך",
+      "gloss": "Ще те се страхуват"
+    },
+    {
+      "surface": "עם",
+      "gloss": "със"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "слънцето"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "и пред"
+    },
+    {
+      "surface": "ירח",
+      "gloss": "луната"
+    },
+    {
+      "surface": "דור",
+      "gloss": "род"
+    },
+    {
+      "surface": "דורים",
+      "gloss": "родове"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:35.336645695Z",
+  "model": "glm-5.3"
+}

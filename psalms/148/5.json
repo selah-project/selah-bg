@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 148:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 148,
+  "translation": "Нека хвалят ⟨את⟩ името на Яхве, защото Той заповяда и бяха сътворени.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Нека хвалят"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "името"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "יהה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Той"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповяда"
+    },
+    {
+      "surface": "ונבראו",
+      "gloss": "и бяха сътворени"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:15.374206831Z",
+  "model": "glm-5.3"
+}

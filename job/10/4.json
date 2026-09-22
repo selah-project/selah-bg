@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 10:4",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Очи от плът ⟨имаш⟩ ли, или като гледа смъртен ⟨ти⟩ гледаш?",
+  "tokens": [
+    {
+      "surface": "העיני",
+      "gloss": "Очи ли"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "от плът"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨имаш⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "или"
+    },
+    {
+      "surface": "כראות",
+      "gloss": "както гледа"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "смъртен"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "гледаш"
+    }
+  ],
+  "timestamp": "2026-09-22T15:26:40.248791145Z",
+  "model": "glm-5.3"
+}

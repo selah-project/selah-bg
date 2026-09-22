@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 23:11",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "защото избавителят им е силен — той ще води ⟨את⟩ делото им ⟨с⟩ ⟨את⟩ тебе.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "גאלם",
+      "gloss": "избавителят им"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "силен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ще води"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "делото им"
+    },
+    {
+      "surface": "ריבם",
+      "gloss": "делото им"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ тебе"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:58.779822364Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "За водача. Мазмор на Давид.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "за водача"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мазмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T14:55:43.729052426Z",
+  "model": "glm-5.3"
+}

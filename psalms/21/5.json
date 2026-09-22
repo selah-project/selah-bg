@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 21:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Живот поиска от тебе, даде му ⟨го⟩ — дължина на дните, вечност и навеки.",
+  "tokens": [
+    {
+      "surface": "חיים",
+      "gloss": "Живот"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "поиска"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "от тебе"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "даде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "дължина"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "на дните"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечност"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и навеки"
+    }
+  ],
+  "timestamp": "2026-09-22T14:54:05.299282448Z",
+  "model": "glm-5.3"
+}

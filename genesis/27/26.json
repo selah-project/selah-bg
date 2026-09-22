@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 27:26",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "И му рече Ицхак, баща му: Приближи сега, моля, и ме целуни, синко мой.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "баща му"
+    },
+    {
+      "surface": "גשה",
+      "gloss": "приближи"
+    },
+    {
+      "surface": "נא",
+      "gloss": "моля"
+    },
+    {
+      "surface": "ושקה",
+      "gloss": "и целуни"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ме"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синко мой"
+    }
+  ],
+  "timestamp": "2026-09-22T11:04:37.233986897Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 135:17",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 135,
+  "translation": "Уши имат, но не чуват; а в устата им няма дъх.",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "уши"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "יאזינו",
+      "gloss": "чуват"
+    },
+    {
+      "surface": "אף",
+      "gloss": "а"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨има⟩"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дъх"
+    },
+    {
+      "surface": "בפיהם",
+      "gloss": "в устата им"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:25.367334020Z",
+  "model": "glm-5.3"
+}

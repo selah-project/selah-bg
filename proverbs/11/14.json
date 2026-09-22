@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 11:14",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Без напътствия народ пада, а спасение ⟨има⟩ в множество съветници.",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "без"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "напътствия"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "пада"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ותשועה",
+      "gloss": "а спасение"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "в множество"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "съветници"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:11.947841043Z",
+  "model": "glm-5.3"
+}

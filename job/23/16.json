@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 23:16",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "И Ел смекчи сърцето ми, и Ел Шаддай ме смути.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "и Ел"
+    },
+    {
+      "surface": "הרך",
+      "gloss": "смекчи"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "сърцето ми"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "и Ел Шаддай"
+    },
+    {
+      "surface": "הבהילני",
+      "gloss": "ме смути"
+    }
+  ],
+  "timestamp": "2026-09-22T15:29:14.427865770Z",
+  "model": "glm-5.3"
+}

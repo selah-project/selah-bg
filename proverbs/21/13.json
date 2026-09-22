@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Който затулява ухото си от вика на сиромаха, и той ще извика и не ще бъде чут.",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "затулява"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ухото си"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "от вика"
+    },
+    {
+      "surface": "דל",
+      "gloss": "на сиромаха"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ще извика"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ще бъде чут"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:59.699351619Z",
+  "model": "glm-5.3"
+}

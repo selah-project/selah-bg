@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "и за цараат на дреха и на дома,",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "и за цараат"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "дрехата"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "и дома"
+    }
+  ],
+  "timestamp": "2026-09-22T11:36:45.851006064Z",
+  "model": "glm-5.3"
+}

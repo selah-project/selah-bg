@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Само кръвта не яжте; на земята я излей като вода.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "кръвта"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "яжте"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "я излей"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "като вода"
+    }
+  ],
+  "timestamp": "2026-09-22T12:07:26.064988869Z",
+  "model": "glm-5.3"
+}

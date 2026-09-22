@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "която няма началник, надзирател нито владетел ⟨над себе си⟩.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "לה",
+      "gloss": "за нея"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "началник"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "надзирател"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "и владетел"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:46.258151079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 24:11",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Изтръгвай отвличаните към смъртта и наклонените към killing — ще ги пощадиш ли?",
+  "tokens": [
+    {
+      "surface": "הצל",
+      "gloss": "изтръгвай"
+    },
+    {
+      "surface": "לקחים",
+      "gloss": "отвличаните"
+    },
+    {
+      "surface": "למות",
+      "gloss": "към смъртта"
+    },
+    {
+      "surface": "ומטים",
+      "gloss": "и наклонените"
+    },
+    {
+      "surface": "להרג",
+      "gloss": "към killing"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ли"
+    },
+    {
+      "surface": "תחשוך",
+      "gloss": "ще пощадиш"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:06.220205195Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 15:2",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "И бе им южната граница от края на Соленото море, от залива, който гледа на юг.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И бе"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границата"
+    },
+    {
+      "surface": "נגב",
+      "gloss": "южната"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "от края"
+    },
+    {
+      "surface": "ים",
+      "gloss": "на морето"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "Соленото"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הלשן",
+      "gloss": "залива"
+    },
+    {
+      "surface": "הפנה",
+      "gloss": "който гледа"
+    },
+    {
+      "surface": "נגבה",
+      "gloss": "на юг"
+    }
+  ],
+  "timestamp": "2026-09-22T12:21:54.071699745Z",
+  "model": "glm-5.3"
+}

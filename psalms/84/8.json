@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 84,
+  "translation": "Отиват от сила към сила; ⟨ ще ⟨ се ⟩ яви пред Елохим в Цион.",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "Отиват"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "от сила"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "сила"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "⟨ се ⟩ явява"
+    },
+    {
+      "surface": "אל",
+      "gloss": "пред"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "в Цион"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:49.479407883Z",
+  "model": "glm-5.3"
+}

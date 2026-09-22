@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И станa, когато свършиха всички мъжете на войната да умират изсред народа —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "когато"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "свършиха"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мъжете"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "на войната"
+    },
+    {
+      "surface": "למות",
+      "gloss": "да умират"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "изсред"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    }
+  ],
+  "timestamp": "2026-09-22T12:01:16.698357426Z",
+  "model": "glm-5.3"
+}

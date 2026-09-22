@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 44:19",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 44,
+  "translation": "Адони ми попита слугите си ⟨את⟩, казвайки: има ли ви баща или брат?",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адони ми"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "попита"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "слугите си"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "слугите си"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    },
+    {
+      "surface": "היש",
+      "gloss": "има ли"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "אב",
+      "gloss": "баща"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "אח",
+      "gloss": "брат"
+    }
+  ],
+  "timestamp": "2026-09-22T11:11:27.461604377Z",
+  "model": "glm-5.3"
+}

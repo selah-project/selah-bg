@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И ще бъде Яхве цар над цялата земя; в онзи ден ще бъде Яхве един и името Му едно.",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "И ще бъде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онзи"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ще бъде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "и името Му"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "едно"
+    }
+  ],
+  "timestamp": "2026-09-22T14:49:18.921745318Z",
+  "model": "glm-5.3"
+}

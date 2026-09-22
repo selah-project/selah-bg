@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 36:14",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "Затова хора няма да изяждаш вече и народите си няма да {‌}спъваш вече — слово на Адонай Яхве.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Затова"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "хора"
+    },
+    {
+      "surface": "לא",
+      "gloss": "няма"
+    },
+    {
+      "surface": "תאכלי",
+      "gloss": "изяждаш"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "вече"
+    },
+    {
+      "surface": "וגויך",
+      "gloss": "и народите си"
+    },
+    {
+      "surface": "לא",
+      "gloss": "няма"
+    },
+    {
+      "surface": "תכשלי",
+      "gloss": "спъваш"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "вече"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:26:49.202776447Z",
+  "model": "glm-5.3"
+}

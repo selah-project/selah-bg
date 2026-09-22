@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И отворих ⟨את⟩ устата си, и Той ме накраля да ям ⟨את⟩ свитъка този.",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "И отворих"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "устата"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устата ми"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "и ме накара да ям"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свитъка"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "свитъка"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "този"
+    }
+  ],
+  "timestamp": "2026-09-22T16:26:11.671772259Z",
+  "model": "glm-5.3"
+}

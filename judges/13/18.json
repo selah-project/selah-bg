@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 13:18",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И му рече ангелът на Яхве: защо това питаш за името ми, а то ⟨е⟩ чудно?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ангелът"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "למה",
+      "gloss": "защо"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "питаш"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "за името ми"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а то"
+    },
+    {
+      "surface": "פלאי",
+      "gloss": "чудно"
+    }
+  ],
+  "timestamp": "2026-09-22T12:31:10.512228839Z",
+  "model": "glm-5.3"
+}

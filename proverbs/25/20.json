@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Събличащий дреха в студен ден, оцет върху сода ⟨е⟩ певецът на песни върху зло сърце.",
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "събличащият"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "дреха"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в ден"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "на студ"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "оцет"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "נתר",
+      "gloss": "сода"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "и певецът"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "на песни"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърце"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:22.421463145Z",
+  "model": "glm-5.3"
+}

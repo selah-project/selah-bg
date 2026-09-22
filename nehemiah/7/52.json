@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "nehemiah 7:52",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "синове на Бесай, синове на Меуним, синове на Нефушесим",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "на Бесай"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "מעונים",
+      "gloss": "на Меуним"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "נפושסים",
+      "gloss": "на Нефушесим"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:53.083980938Z",
+  "model": "glm-5.3"
+}

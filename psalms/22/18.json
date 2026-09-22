@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 22:18",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Преброявам всичките си кости; те гледат, зяпат ме.",
+  "tokens": [
+    {
+      "surface": "אספר",
+      "gloss": "преброявам"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичките"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "свои кости"
+    },
+    {
+      "surface": "המה",
+      "gloss": "те"
+    },
+    {
+      "surface": "יביטו",
+      "gloss": "гледат"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "зяпат"
+    },
+    {
+      "surface": "בי",
+      "gloss": "мен"
+    }
+  ],
+  "timestamp": "2026-09-22T14:53:51.825460979Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синове на Шефатя: триста седемдесет и двама.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "на Шефатя"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "триста"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "седемдесет"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и двама"
+    }
+  ],
+  "timestamp": "2026-09-22T15:48:46.066681612Z",
+  "model": "glm-5.3"
+}

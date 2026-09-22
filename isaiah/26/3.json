@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 26:3",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "⟨Душата⟩ опряна на тебе ти пазиш в мир, мир, защото в тебе ⟨е⟩ упованието.",
+  "tokens": [
+    {
+      "surface": "יצר",
+      "gloss": "⟨душата⟩"
+    },
+    {
+      "surface": "סמוך",
+      "gloss": "опряна"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "ти пазиш"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "в мир"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "בך",
+      "gloss": "на тебе"
+    },
+    {
+      "surface": "בטוח",
+      "gloss": "упованието"
+    }
+  ],
+  "timestamp": "2026-09-22T13:32:15.665989165Z",
+  "model": "glm-5.3"
+}

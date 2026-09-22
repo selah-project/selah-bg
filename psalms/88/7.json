@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 88:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 88,
+  "translation": "Постави ме в долния ров, в тъмнините, в дълбините.",
+  "tokens": [
+    {
+      "surface": "שתני",
+      "gloss": "постави ме"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "в ров"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "долния"
+    },
+    {
+      "surface": "במחשכים",
+      "gloss": "в тъмнините"
+    },
+    {
+      "surface": "במצלות",
+      "gloss": "в дълбините"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:16.131825229Z",
+  "model": "glm-5.3"
+}

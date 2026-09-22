@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 20:3",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И се уплаши, и обърна Йошафат ⟨את⟩ лицето си да търси Яхве, и обяви пост върху целия Юда.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И се уплаши"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и обърна"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Йошафат"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лицето си"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицето си"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "да търси"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и обяви"
+    },
+    {
+      "surface": "צום",
+      "gloss": "пост"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целия"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Юда"
+    }
+  ],
+  "timestamp": "2026-09-22T16:34:25.260310449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 119:67",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Преди да бъда смирен, аз се лутах; а сега твоето слово пазих.",
+  "tokens": [
+    {
+      "surface": "טרם",
+      "gloss": "преди"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "да бъда смирен"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "שגג",
+      "gloss": "се лутах"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "твоето слово"
+    },
+    {
+      "surface": "שמרתי",
+      "gloss": "пазих"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:22.220014625Z",
+  "model": "glm-5.3"
+}

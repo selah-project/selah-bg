@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 14:12",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И оставиха там ⟨את⟩ боговете си, и рече Давид, и бяха изгорени в огъня.",
+  "tokens": [
+    {
+      "surface": "ויעזבו",
+      "gloss": "И оставиха"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "боговете им"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "боговете им"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "וישרפו",
+      "gloss": "и бяха изгорени"
+    },
+    {
+      "surface": "באש",
+      "gloss": "в огъня"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:34.967017738Z",
+  "model": "glm-5.3"
+}

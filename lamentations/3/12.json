@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Опъна лъка си и ме изправи като мишена за стрела.",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "Опъна"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "лъка си"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "и ме изправи"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "като мишена"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "за стрела"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:37.674527490Z",
+  "model": "glm-5.3"
+}

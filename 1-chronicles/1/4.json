@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Ноах, Шем, Хам и Яфет.",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "Ноах"
+    },
+    {
+      "surface": "שם",
+      "gloss": "Шем"
+    },
+    {
+      "surface": "חם",
+      "gloss": "Хам"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "и Яфет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:19.474560924Z",
+  "model": "glm-5.3"
+}

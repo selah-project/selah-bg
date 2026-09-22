@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "синовете на Бакбук, синовете на Хакуфа, синовете на Хархур,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "Бакбук"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "Хакуфа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "Хархур"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:53.705984350Z",
+  "model": "glm-5.3"
+}

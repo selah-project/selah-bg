@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 44,
+  "translation": "И след очищението му седем дни ще му ⟨броят⟩.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "И след"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "очищението му"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седем"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "⟨ще броят⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-22T14:30:32.922557134Z",
+  "model": "glm-5.3"
+}

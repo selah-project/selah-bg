@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 32:24",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "В ония дни Езекия заболя до смърт, и се помоли на Яхве, и Той му рече, и знамение му даде.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "В ония дни"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ония"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "заболя"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "Езекия"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "למות",
+      "gloss": "смърт"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "и се помоли"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "ומופת",
+      "gloss": "и знамение"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-22T16:12:58.786977450Z",
+  "model": "glm-5.3"
+}

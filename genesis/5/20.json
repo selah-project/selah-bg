@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 5:20",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И станаха всички дни на Яред шестдесет и две години и деветстотин години, и умря.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И станаха"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "на Яред"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "две"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "и шестдесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "и девет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умря"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:10.591894401Z",
+  "model": "glm-5.3"
+}

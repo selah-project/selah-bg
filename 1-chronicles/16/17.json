@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 16:17",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И я постави на Яаков за установление, на Израел — завет вечен.",
+  "tokens": [
+    {
+      "surface": "ויעמידה",
+      "gloss": "И я постави"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "на Яаков"
+    },
+    {
+      "surface": "לחק",
+      "gloss": "за установение"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "на Израел"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завет"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечен"
+    }
+  ],
+  "timestamp": "2026-09-22T16:01:00.057567474Z",
+  "model": "glm-5.3"
+}

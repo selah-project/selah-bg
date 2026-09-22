@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Тогава ще разбереш правда и съд, и правота — всеки добър път.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тогава"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "ще разбереш"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правда"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "и съд"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "и правота"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "път"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добър"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:49.406869511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 23:1",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "И Давид остаря и се насити с дни, и възкачи ⟨את⟩ Шеломо, сина си, над Израел.",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "И Давид"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "остаря"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и се насити"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "с дни"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и възкачи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Шеломо"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "сина си"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:59.894951397Z",
+  "model": "glm-5.3"
+}

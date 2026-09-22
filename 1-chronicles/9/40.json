@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И синът на Йехонатан ⟨бе⟩ Мери́в-Баал, и Мери́в-Баал роди ⟨את⟩ Мика.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "и синът"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йехонатан"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "Мерив-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "и Мери́в-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "Баал"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Мика"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Мика"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:28.185332409Z",
+  "model": "glm-5.3"
+}

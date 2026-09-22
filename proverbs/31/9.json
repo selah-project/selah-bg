@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 31:9",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Отвори устата си, съди правда и отсъди правото на сиромаха и бедния.",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "Отвори"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "устата си"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "съди"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правда"
+    },
+    {
+      "surface": "ודין",
+      "gloss": "и отсъди правото"
+    },
+    {
+      "surface": "עני",
+      "gloss": "сиромаха"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "и бедния"
+    }
+  ],
+  "timestamp": "2026-09-22T15:23:07.448046533Z",
+  "model": "glm-5.3"
+}

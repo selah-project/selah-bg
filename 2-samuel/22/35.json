@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 22:35",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Учи ръцете ми за война, и меден лък опъват раменете ми.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Учи"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ръцете ми"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "за война"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "и опъват"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лък"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "меден"
+    },
+    {
+      "surface": "זרעתי",
+      "gloss": "раменете ми"
+    }
+  ],
+  "timestamp": "2026-09-22T12:59:06.684658607Z",
+  "model": "glm-5.3"
+}

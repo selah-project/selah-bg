@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 19:21",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И да принесе ⟨את⟩ вината си на Яхве, към входа на шатъра на срещата — овен за вина.",
+  "tokens": [
+    {
+      "surface": "והביא",
+      "gloss": "И да принесе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "вината си"
+    },
+    {
+      "surface": "אשמו",
+      "gloss": "вината си"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входа"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатъра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на срещата"
+    },
+    {
+      "surface": "איל",
+      "gloss": "овен"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "за вина"
+    }
+  ],
+  "timestamp": "2026-09-22T11:39:42.401012888Z",
+  "model": "glm-5.3"
+}

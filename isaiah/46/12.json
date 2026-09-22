@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 46:12",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 46,
+  "translation": "Чуйте Мен, коравосърдечни, далечни от правдата:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Чуйте"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "אבירי",
+      "gloss": "коравосърдечни"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърдечни"
+    },
+    {
+      "surface": "הרחוקים",
+      "gloss": "далечни"
+    },
+    {
+      "surface": "מצדקה",
+      "gloss": "от правдата"
+    }
+  ],
+  "timestamp": "2026-09-22T13:39:40.062791428Z",
+  "model": "glm-5.3"
+}

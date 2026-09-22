@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 14:20",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И рече Яхве: простих според твоето слово.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "סלחתי",
+      "gloss": "простих"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "според твоето слово"
+    }
+  ],
+  "timestamp": "2026-09-22T11:50:23.669156274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И беше Сарай неплодна — нямаше тя дете.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "Сарай"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "неплодна"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нямаше"
+    },
+    {
+      "surface": "לה",
+      "gloss": "тя"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "дете"
+    }
+  ],
+  "timestamp": "2026-09-22T10:58:09.790186609Z",
+  "model": "glm-5.3"
+}

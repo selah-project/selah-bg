@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 60:11",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 60,
+  "translation": "Кой ще ме заведе в укрепения град? Кой ще ме води до Едом?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ще ме заведе"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "укрепен"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ще ме води"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    }
+  ],
+  "timestamp": "2026-09-22T15:01:58.092199699Z",
+  "model": "glm-5.3"
+}

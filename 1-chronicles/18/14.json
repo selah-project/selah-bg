@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 18:14",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И царува Давид над целия Израел, и вършеше съд и правда на целия си народ.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "и царува"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целия"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "вършеше"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "съд"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "и правда"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на целия"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "си народ"
+    }
+  ],
+  "timestamp": "2026-09-22T16:01:36.541502281Z",
+  "model": "glm-5.3"
+}

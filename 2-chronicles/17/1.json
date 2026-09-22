@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 17:1",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И царува Йехошафат синът му вместо него, и се укрепи над Израел.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "и царува"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "Йехошафат"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "вместо него"
+    },
+    {
+      "surface": "ויתחזק",
+      "gloss": "и се укрепи"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T16:08:20.889453583Z",
+  "model": "glm-5.3"
+}

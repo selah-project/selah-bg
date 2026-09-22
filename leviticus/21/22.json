@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 21:22",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Хляба на своя Елохим — от пресвещите неща и от светите неща — ще яде.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "хляба"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "своя Елохим"
+    },
+    {
+      "surface": "מקדשי",
+      "gloss": "от пресвещите"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "неща"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "и от"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "светите"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ще яде"
+    }
+  ],
+  "timestamp": "2026-09-22T11:40:05.035426615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 76,
+  "translation": "Там Той строши огнените стрели на лъка, щита, и меча, и битката. Села.",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "Там"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "Той строши"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "огнените стрели"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "на лъка"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "щита"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "и меча"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "и битката"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:14.918423418Z",
+  "model": "glm-5.3"
+}

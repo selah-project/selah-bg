@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 51:40",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 51,
+  "translation": "Ще ги сляза като агнета на клане, като овни заедно с козли.",
+  "tokens": [
+    {
+      "surface": "אורידם",
+      "gloss": "ще ги сляза"
+    },
+    {
+      "surface": "ככרים",
+      "gloss": "като агнета"
+    },
+    {
+      "surface": "לטבוח",
+      "gloss": "на клане"
+    },
+    {
+      "surface": "כאילים",
+      "gloss": "като овни"
+    },
+    {
+      "surface": "עם",
+      "gloss": "заедно с"
+    },
+    {
+      "surface": "עתודים",
+      "gloss": "козли"
+    }
+  ],
+  "timestamp": "2026-09-22T14:09:13.018683605Z",
+  "model": "glm-5.3"
+}

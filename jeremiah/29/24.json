@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И на Шемаяу нехеламитеца ще кажеш, казвайки:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "И на"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "Шемаяу"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "нехеламитеца"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ще кажеш"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T13:59:49.436062164Z",
+  "model": "glm-5.3"
+}

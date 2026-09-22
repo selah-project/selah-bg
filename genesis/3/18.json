@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И тръни и бодили ще ти роди ⟨тя⟩, и ще ядеш ⟨את⟩ трвата на полето.",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "И тръни"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "и бодили"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "ще ти роди"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "и ще ядеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "трвата"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "трвата"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "на полето"
+    }
+  ],
+  "timestamp": "2026-09-22T16:15:22.872201438Z",
+  "model": "glm-5.3"
+}

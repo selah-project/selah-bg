@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И правеше Йоаш правото в очите на Яхве всички дни Йехояда свещеника.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И правеше"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "Йоаш"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "правото"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очите на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йехояда"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свещеника"
+    }
+  ],
+  "timestamp": "2026-09-22T16:10:02.254153214Z",
+  "model": "glm-5.3"
+}

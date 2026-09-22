@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И влязоха при Ной, в ковчега, по две, по две от всяка плът, в която ⟨е⟩ духът на живота.",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "и влязоха"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ной"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "по две"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "по две"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "от всяка"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "плът"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в която"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "духът"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "на живота"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:11.124309558Z",
+  "model": "glm-5.3"
+}

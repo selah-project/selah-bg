@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Светилник на Яхве ⟨е⟩ дъхът на човека, обисква всички стаи на утробата.",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "Светилник"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "дъхът"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на човека"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "обисква"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "стаи"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "на утробата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:08.381933143Z",
+  "model": "glm-5.3"
+}

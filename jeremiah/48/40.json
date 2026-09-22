@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 48:40",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "Защото така каза Яхве: Ето, като орел ще полети и ще разпери крилата си към Моав.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "כנשר",
+      "gloss": "като орел"
+    },
+    {
+      "surface": "ידאה",
+      "gloss": "ще полети"
+    },
+    {
+      "surface": "ופרש",
+      "gloss": "и ще разпери"
+    },
+    {
+      "surface": "כנפיו",
+      "gloss": "крилата си"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    }
+  ],
+  "timestamp": "2026-09-22T14:07:25.701330982Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И каза му: върви ⟨את⟩ мен към дома, и яж хляб.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לך",
+      "gloss": "върви"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ мен"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "към дома"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "и яж"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляб"
+    }
+  ],
+  "timestamp": "2026-09-22T13:07:28.448629351Z",
+  "model": "glm-5.3"
+}

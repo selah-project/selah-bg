@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 49:14",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 49,
+  "translation": "Иссахар — магаре яко на кокали, легнало между оградите.",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "Иссахар"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "магаре"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "яко на кокали"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "легнало"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "המשפתים",
+      "gloss": "оградите"
+    }
+  ],
+  "timestamp": "2026-09-22T16:16:15.915395382Z",
+  "model": "glm-5.3"
+}

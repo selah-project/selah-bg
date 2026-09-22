@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 34:23",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Защото не върху човек ще постави ⟨още⟩ да отиде при Ел на съд.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "ще постави"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨още⟩"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "да отиде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "на съд"
+    }
+  ],
+  "timestamp": "2026-09-22T15:31:37.109555920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "judges 9:39",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И излезе Гаал пред владетелите на Шехем и се би с Авимелех.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И излезе"
+    },
+    {
+      "surface": "געל",
+      "gloss": "Гаал"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "владетелите"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "на Шехем"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "и се би"
+    },
+    {
+      "surface": "באבימלך",
+      "gloss": "с Авимелех"
+    }
+  ],
+  "timestamp": "2026-09-22T12:29:06.225168485Z",
+  "model": "glm-5.3"
+}

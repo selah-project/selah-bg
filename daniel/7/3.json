@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И четири зверя велики изкачваха се от морето, различни едно от друго.",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "И четири"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "зверя"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "велики"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "изкачваха се"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "морето"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "различни"
+    },
+    {
+      "surface": "דא",
+      "gloss": "едно"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "דא",
+      "gloss": "друго"
+    }
+  ],
+  "timestamp": "2026-09-22T15:47:02.560357829Z",
+  "model": "glm-5.3"
+}

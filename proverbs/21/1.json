@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 21:1",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Потоци води ⟨е⟩ сърцето на царя в ръката на Яхве — накъдето пожелае, туда го наклонява.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "Потоци"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърцето"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на царя"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "в ръката"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "накъдето"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "пожелае"
+    },
+    {
+      "surface": "יטנו",
+      "gloss": "наклонява го"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:22.552206922Z",
+  "model": "glm-5.3"
+}

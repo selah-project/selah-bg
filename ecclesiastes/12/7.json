@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И пръстта се връща на земята, както беше, и духът се връща към Елохим, Който го е дал.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и се връща"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "пръстта"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "както беше"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "и духът"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "се връща"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Който"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "го е дал"
+    }
+  ],
+  "timestamp": "2026-09-22T15:41:06.875914418Z",
+  "model": "glm-5.3"
+}

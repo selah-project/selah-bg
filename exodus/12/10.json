@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 12:10",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И не оставяйте от него до утро; а остатъка от него до утро в огън ще изгорите.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "оставяйте"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "от него"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "утро"
+    },
+    {
+      "surface": "והנתר",
+      "gloss": "а остатъка"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "от него"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "утро"
+    },
+    {
+      "surface": "באש",
+      "gloss": "в огън"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "ще изгорите"
+    }
+  ],
+  "timestamp": "2026-09-22T11:17:08.978137070Z",
+  "model": "glm-5.3"
+}

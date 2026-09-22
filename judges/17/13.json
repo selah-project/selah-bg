@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 17:13",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И рече Миха: „Сега зная, че Яхве ще ми стори добро, защото Левитът ми бъде свещеник.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "Миха"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "Сега"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "зная"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "ייטיב",
+      "gloss": "ще стори добро"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "היה",
+      "gloss": "бъде"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "Левитът"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "свещеник"
+    }
+  ],
+  "timestamp": "2026-09-22T12:33:06.043216940Z",
+  "model": "glm-5.3"
+}

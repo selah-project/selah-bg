@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 49:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 49,
+  "translation": "Брат никак не ще откупи ⟨човек⟩, не ще даде на Елохим откупа му.",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "Брат"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "никак"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "не ще откупи"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨човек⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "не ще даде"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "כפרו",
+      "gloss": "откупа му"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:40.015389570Z",
+  "model": "glm-5.3"
+}

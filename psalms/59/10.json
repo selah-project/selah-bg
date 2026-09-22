@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 59:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 59,
+  "translation": "Силата му — към Тебе ще бдя, защото Елохим ⟨е⟩ крепостта ми.",
+  "tokens": [
+    {
+      "surface": "עזו",
+      "gloss": "силата му"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "към Тебе"
+    },
+    {
+      "surface": "אשמרה",
+      "gloss": "ще бдя"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "משגבי",
+      "gloss": "крепостта ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:01:55.433436501Z",
+  "model": "glm-5.3"
+}

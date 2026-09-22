@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Синовете на Гершом: Шевуел, глава ⟨на рода⟩.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "на Гершом"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "Шевуел"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "главата"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:56.919174801Z",
+  "model": "glm-5.3"
+}

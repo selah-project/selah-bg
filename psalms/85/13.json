@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 85,
+  "translation": "Дори Яхве ще даде доброто, и земята ни ще даде плода си.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "дори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ще даде"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "доброто"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "и земята ни"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ще даде"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "плода си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:07.255911801Z",
+  "model": "glm-5.3"
+}

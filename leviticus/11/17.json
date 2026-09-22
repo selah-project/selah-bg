@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "и ⟨את⟩ кукумявката, и ⟨את⟩ корморана, и ⟨את⟩ бухала",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "кукумявката"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "кукумявката"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "корморана"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "корморана"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "бухала"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "бухала"
+    }
+  ],
+  "timestamp": "2026-09-22T11:35:06.433018209Z",
+  "model": "glm-5.3"
+}

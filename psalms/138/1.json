@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 138:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 138,
+  "translation": "На Давид. Ще те славя с цялото си сърце, пред Елохим ще ти пея.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "На Давид"
+    },
+    {
+      "surface": "אודך",
+      "gloss": "ще те славя"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "с цялото"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "си сърце"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "пред"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אזמרך",
+      "gloss": "ще ти пея"
+    }
+  ],
+  "timestamp": "2026-09-22T15:14:12.714009262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 27:2",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Да те хвали чужд, а не твоята уста; непознат, а не твоите устни.",
+  "tokens": [
+    {
+      "surface": "יהללך",
+      "gloss": "Да те хвали"
+    },
+    {
+      "surface": "זר",
+      "gloss": "чужд"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "твоята уста"
+    },
+    {
+      "surface": "נכרי",
+      "gloss": "непознат"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "а не"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "твоите устни"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:11.866783092Z",
+  "model": "glm-5.3"
+}

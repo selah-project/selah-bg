@@ -1,0 +1,86 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 37:27",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "И две златни халки му направи под венца му, на двете му страни, на двете му(country) страни — за houses за прътове, за да го носят с тях.",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "И две"
+    },
+    {
+      "surface": "טבעת",
+      "gloss": "халки"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златни"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "לזרו",
+      "gloss": "венца му"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "двете"
+    },
+    {
+      "surface": "צלעתיво",
+      "gloss": "страните му"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "שני",
+      "gloss": "двете"
+    },
+    {
+      "surface": "צדיו",
+      "gloss": "страни му"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "за домове"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "за прътове"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "за да носят"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "с тях"
+    }
+  ],
+  "timestamp": "2026-09-22T11:29:10.141334471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Син човешки, не ти ли каза домът на Израил, домът на непокорството, какво правиш ти?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Син"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човешки"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "каза"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домът"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израил"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домът"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "на непокорството"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "правиш"
+    }
+  ],
+  "timestamp": "2026-09-22T14:14:10.980622612Z",
+  "model": "glm-5.3"
+}

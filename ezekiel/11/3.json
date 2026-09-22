@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 11:3",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "казващите: не скоро ⟨е⟩ строенето на къщи; тя ⟨е⟩ котлето, а ние ⟨сме⟩ месото.",
+  "tokens": [
+    {
+      "surface": "האמרים",
+      "gloss": "казващите"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בקרוב",
+      "gloss": "скоро"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "строящи"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "къщи"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "котлето"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "а ние"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "месото"
+    }
+  ],
+  "timestamp": "2026-09-22T14:15:46.782302715Z",
+  "model": "glm-5.3"
+}

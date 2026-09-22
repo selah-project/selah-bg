@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И рече царят на него: доколко пъти аз те заклевам да не говориш към мен само истина в името на Яхве?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "עד",
+      "gloss": "доколко"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "пъти"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "пъти"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "те заклевам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "говориш"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мен"
+    },
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истина"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "в името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T16:08:58.659788049Z",
+  "model": "glm-5.3"
+}

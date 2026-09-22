@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "Понеже ако падне, не ще бъде повален, понеже Яхве поддържа ръката му.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Понеже"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ако падне"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "ще бъде повален"
+    },
+    {
+      "surface": "כי",
+      "gloss": "понеже"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "поддържа"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ръката му"
+    }
+  ],
+  "timestamp": "2026-09-22T14:57:48.943899707Z",
+  "model": "glm-5.3"
+}

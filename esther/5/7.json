@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 5:7",
+  "book": "esther",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И отговори Естер и рече: молбата ми и искането ми ⟨е⟩ —",
+  "tokens": [
+    {
+      "surface": "ויתען",
+      "gloss": "И отговори"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естер"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "שאלתי",
+      "gloss": "молбата ми"
+    },
+    {
+      "surface": "ובקשתי",
+      "gloss": "и искането ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:41:56.604882592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 114,
+  "translation": "Какво ти е, море, че бягаш? Йордан, че се обръщаш назад?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти е"
+    },
+    {
+      "surface": "הים",
+      "gloss": "море"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "бягаш"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Йордан"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "се обръщаш"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "назад"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:11.889706996Z",
+  "model": "glm-5.3"
+}

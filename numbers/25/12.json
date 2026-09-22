@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Затова кажи: ето, Аз давам нему ⟨את⟩ завета Ми — мир.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Затова"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "кажи"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ето, Аз"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "давам"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "завета Ми"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "завета Ми"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    }
+  ],
+  "timestamp": "2026-09-22T11:54:51.816423828Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 4:32",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "А ако донесе агне за принос за грях, женско, без недостатък да донесе.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "агне"
+    },
+    {
+      "surface": "יביא",
+      "gloss": "донесе"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "принос"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "за грях"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "женско"
+    },
+    {
+      "surface": "תמימה",
+      "gloss": "без недостатък"
+    },
+    {
+      "surface": "יביאנה",
+      "gloss": "да донесе"
+    }
+  ],
+  "timestamp": "2026-09-22T11:33:08.202163868Z",
+  "model": "glm-5.3"
+}

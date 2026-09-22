@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 9:16",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "„Кой е прост? Нека се отбие насам“ — а ⟨на⟩ който е лишен от сърце, тя му казва:",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "прост"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ще се отбие"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "насам"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "а който е лишен"
+    },
+    {
+      "surface": "לב",
+      "gloss": "от сърце"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "и тя казва"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:24.490473738Z",
+  "model": "glm-5.3"
+}

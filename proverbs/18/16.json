@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 18:16",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Дар на човек му разширява ⟨пътя⟩ и пред велики го води.",
+  "tokens": [
+    {
+      "surface": "מתן",
+      "gloss": "дар"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на човек"
+    },
+    {
+      "surface": "ירחיב",
+      "gloss": "разширява"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "и пред"
+    },
+    {
+      "surface": "גדלים",
+      "gloss": "велики"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "го води"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:33.249225450Z",
+  "model": "glm-5.3"
+}

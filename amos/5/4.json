@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "amos 5:4",
+  "book": "amos",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Защото така каза Яхве на дома Израилев: търсете Ме и живейте.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "на дома"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израилев"
+    },
+    {
+      "surface": "דרשוני",
+      "gloss": "търсете Ме"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "и живейте"
+    }
+  ],
+  "timestamp": "2026-09-22T14:39:10.556535788Z",
+  "model": "glm-5.3"
+}

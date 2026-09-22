@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 20:23",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Не правете ⟨את⟩ с Мен богове от сребро и богове от злато — не правете си.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "правете"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ с Мен"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "богове"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "и богове"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "правете"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "си"
+    }
+  ],
+  "timestamp": "2026-09-22T11:20:10.950007472Z",
+  "model": "glm-5.3"
+}

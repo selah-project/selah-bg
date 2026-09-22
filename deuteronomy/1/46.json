@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И седяхте в Кадеш много дни, колкото дните, през които седяхте ⟨там⟩.",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "и седяхте"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "в Кадеш"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "много"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "колкото дните"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "през които"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "седяхте"
+    }
+  ],
+  "timestamp": "2026-09-22T12:00:40.555327204Z",
+  "model": "glm-5.3"
+}

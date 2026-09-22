@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Час да се родиш, и час да умреш; час да садиш, и час да изкорениш насаденото.",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "Час"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "да се родиш"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и час"
+    },
+    {
+      "surface": "למות",
+      "gloss": "да умреш"
+    },
+    {
+      "surface": "עת",
+      "gloss": "час"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "да садиш"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и час"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "да изкорениш"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "насаденото"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:01.377271883Z",
+  "model": "glm-5.3"
+}

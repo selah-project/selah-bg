@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "На Хилкия — Хашавия; на Йедая — Нетанел.",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "на Хилкия"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "Хашавия"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "на Йедая"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "Нетанел"
+    }
+  ],
+  "timestamp": "2026-09-22T15:55:33.661471774Z",
+  "model": "glm-5.3"
+}

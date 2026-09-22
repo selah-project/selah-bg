@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 16:16",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "която сряза ⟨את⟩ Авраам и Неговата клетва на Ицхак.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "сряза"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авраам"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "ושבועתו",
+      "gloss": "и Неговата клетва"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "на Ицхак"
+    }
+  ],
+  "timestamp": "2026-09-22T16:01:13.898153221Z",
+  "model": "glm-5.3"
+}

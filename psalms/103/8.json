@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 103,
+  "translation": "Милостив и благ Яхве, дълготърпелив и богат с хесед.",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "Милостив"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "и благ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "дълготърпелив"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "дълготърпелив"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "и богат"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "с хесед"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:39.576307015Z",
+  "model": "glm-5.3"
+}

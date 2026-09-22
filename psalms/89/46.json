@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "psalms 89:46",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 89,
+  "translation": "Съкрати дните на младостта му, покри го със срам. Села.",
+  "tokens": [
+    {
+      "surface": "הקצרת",
+      "gloss": "Съкрати"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дните"
+    },
+    {
+      "surface": "עלומיו",
+      "gloss": "на младостта му"
+    },
+    {
+      "surface": "העטית",
+      "gloss": "покри"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "го"
+    },
+    {
+      "surface": "בושה",
+      "gloss": "със срам"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:53.521663050Z",
+  "model": "glm-5.3"
+}

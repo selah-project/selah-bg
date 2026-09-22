@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Позна, че добра е стоката ѝ; не ще угасне нощем светилникът ѝ.",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "Позна"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "стоката ѝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "ще угасне"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "нощем"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "светилникът ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:33.336407464Z",
+  "model": "glm-5.3"
+}

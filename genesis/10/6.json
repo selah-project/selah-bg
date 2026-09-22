@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И синовете на Хам: Куш, и Мицраим, и Пут, и Кнаан.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синовете"
+    },
+    {
+      "surface": "חם",
+      "gloss": "на Хам"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "и Мицраим"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "и Пут"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "и Кнаан"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:26.160120994Z",
+  "model": "glm-5.3"
+}

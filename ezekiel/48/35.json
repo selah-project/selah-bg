@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 48:35",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "Около: осемнадесет хиляди; и името на града от онзи ден: Яхве Шама.",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "Около"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "осем"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надесет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляди"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "и името"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "на града"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "от онзи ден"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "Шама"
+    }
+  ],
+  "timestamp": "2026-09-22T14:32:00.125693276Z",
+  "model": "glm-5.3"
+}

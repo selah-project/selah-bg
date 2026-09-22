@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Какво, сине мой? И какво, сине на утробата ми? И какво, сине на обетите ми?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Какво"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "сине мой"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и какво"
+    },
+    {
+      "surface": "בר",
+      "gloss": "сине"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "на утробата ми"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и какво"
+    },
+    {
+      "surface": "בר",
+      "gloss": "сине"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "на обетите ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:23:17.433299536Z",
+  "model": "glm-5.3"
+}

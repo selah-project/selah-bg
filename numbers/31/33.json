@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "и едър добитък седемдесет и две хиляди",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "и едър добитък"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "две"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "и седемдесет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляди"
+    }
+  ],
+  "timestamp": "2026-09-22T11:58:14.936744961Z",
+  "model": "glm-5.3"
+}

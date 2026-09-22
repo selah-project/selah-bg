@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "song-of-songs 2:2",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Като лилия между тръните, така е любимата ми между дъщерите.",
+  "tokens": [
+    {
+      "surface": "כשושנה",
+      "gloss": "Като лилия"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "החוחים",
+      "gloss": "тръните"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "любимата ми"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "הבנות",
+      "gloss": "дъщерите"
+    }
+  ],
+  "timestamp": "2026-09-22T15:34:24.703277417Z",
+  "model": "glm-5.3"
+}

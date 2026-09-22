@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 21:23",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Който пази устата си и езика си, пази душата си от бедствия.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "пази"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "устата си"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "и езика си"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "пази"
+    },
+    {
+      "surface": "מצרות",
+      "gloss": "от бедствия"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душата си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:10.185810368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Азмавет Бахарумееца, Елиявха Шаалвонееца,",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "Азмавет"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "Бахарумееца"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "Елиявха"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "Шаалвонееца"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:31.974678390Z",
+  "model": "glm-5.3"
+}

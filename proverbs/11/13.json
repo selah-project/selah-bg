@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 11:13",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Ходещ като плеткар разкрива тайна, а верен на духа покрива дума.",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ходещ"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "като плеткар"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "разкрива"
+    },
+    {
+      "surface": "סוד",
+      "gloss": "тайна"
+    },
+    {
+      "surface": "ונאמן",
+      "gloss": "а верен"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "на духа"
+    },
+    {
+      "surface": "מכסה",
+      "gloss": "покрива"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дума"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:11.946090329Z",
+  "model": "glm-5.3"
+}

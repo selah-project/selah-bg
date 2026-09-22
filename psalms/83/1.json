@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 83,
+  "translation": "Песен, мизмор на Асаф.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Песен"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "на Асаф"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:36.963598169Z",
+  "model": "glm-5.3"
+}

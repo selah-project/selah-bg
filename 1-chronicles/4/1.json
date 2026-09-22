@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Синовете на Йеуда: Перец, Хецрон, и Карми, и Хур, и Шовал.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Йеуда"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрон"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "и Карми"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "и Хур"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "и Шовал"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:11.677087380Z",
+  "model": "glm-5.3"
+}

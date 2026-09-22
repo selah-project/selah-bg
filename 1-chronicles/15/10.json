@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 15:10",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "От синовете на Узиил: Аминадав князът и братята му сто и дванадесет.",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "от синовете"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "на Узиил"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Аминадав"
+    },
+    {
+      "surface": "השר",
+      "gloss": "князът"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и братята му"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "и две"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надесет"
+    }
+  ],
+  "timestamp": "2026-09-22T16:01:01.423585687Z",
+  "model": "glm-5.3"
+}

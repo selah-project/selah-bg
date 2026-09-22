@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 83,
+  "ref": "psalms 119:83",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Защото станах като мех в дим — наредбите Ти не забравих.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "станах"
+    },
+    {
+      "surface": "כנאד",
+      "gloss": "като мех"
+    },
+    {
+      "surface": "בקיטור",
+      "gloss": "в дим"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "наредбите Ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "забравих"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:10.119428117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Принесете жертви на правдата и уповавайте на Яхве.",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "Принесете"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "жертви"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "на правдата"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "и уповавайте"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:50:27.777627197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 10:19",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Ходия, Хашум, Бецай,",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "Ходия"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "Хашум"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "Бецай"
+    }
+  ],
+  "timestamp": "2026-09-22T16:33:19.008783250Z",
+  "model": "glm-5.3"
+}

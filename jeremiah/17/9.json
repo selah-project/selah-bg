@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 17:9",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "Коварно ⟨е⟩ сърцето над всичко и неизлечимо е то — кой ще го познае?",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "Коварно"
+    },
+    {
+      "surface": "הלב",
+      "gloss": "сърцето"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "над всичко"
+    },
+    {
+      "surface": "ואנש",
+      "gloss": "и неизлечимо"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "ще го познае"
+    }
+  ],
+  "timestamp": "2026-09-22T13:54:07.300690694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Спомни, Яхве, какво ни се случи; погледни и виж ⟨את⟩ наша я срам!",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Спомни"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ни се случи"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "погледни"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и виж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нашия срам"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "нашия срам"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:26.647695731Z",
+  "model": "glm-5.3"
+}

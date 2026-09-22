@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 20:10",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И рече Давид на Йонатан: кой ще ми изяви? Или какво, ако ти отговори баща ти сурово?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ще изяви"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "יענך",
+      "gloss": "ще ти отговори"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "баща ти"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "сурово"
+    }
+  ],
+  "timestamp": "2026-09-22T12:43:11.553241801Z",
+  "model": "glm-5.3"
+}

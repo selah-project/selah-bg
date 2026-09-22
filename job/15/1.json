@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 15:1",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "И отговори Елифаз теманеца и рече:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и отговори"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Елифаз"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "теманеца"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:49.813444479Z",
+  "model": "glm-5.3"
+}

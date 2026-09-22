@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Ой, непокорна и осквернена тя, градът потиснически!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ой"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "непокорна"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "и осквернена"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "градът"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "потиснически"
+    }
+  ],
+  "timestamp": "2026-09-22T14:44:21.935749129Z",
+  "model": "glm-5.3"
+}

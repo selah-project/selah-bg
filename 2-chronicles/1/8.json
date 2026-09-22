@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 1:8",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И рече Шломо на Елохим: Ти направи с Давид баща ми голям хесед и ме възцари подир него.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шломо"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "на Елохим"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "направи"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "баща ми"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голям"
+    },
+    {
+      "surface": "והמלכתני",
+      "gloss": "и ме възцари"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "подир него"
+    }
+  ],
+  "timestamp": "2026-09-22T16:04:36.086177792Z",
+  "model": "glm-5.3"
+}

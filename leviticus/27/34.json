@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Това са заповедите, които Яхве заповяда ⟨את⟩ Моше на синовете на Израил на планината Синай.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Това"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "са заповедите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповяда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моше"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израил"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "на планината"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "Синай"
+    }
+  ],
+  "timestamp": "2026-09-22T11:43:45.129567712Z",
+  "model": "glm-5.3"
+}

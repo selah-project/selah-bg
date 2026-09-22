@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 27:13",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Да не бях вярвал ⟨да⟩ видя доброто на Яхве в земята на живите —",
+  "tokens": [
+    {
+      "surface": "לולא",
+      "gloss": "да не бях"
+    },
+    {
+      "surface": "האמנתי",
+      "gloss": "вярвал"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "да видя"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "в доброто"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "на живите"
+    }
+  ],
+  "timestamp": "2026-09-22T14:54:34.937072662Z",
+  "model": "glm-5.3"
+}

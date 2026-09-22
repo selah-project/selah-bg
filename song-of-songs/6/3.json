@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Аз съм на любимия си, и любимият ми е мой — ⟨онзи⟩, който пасе сред лилиите.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "на любимия си"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "и любимият ми"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мой"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "⟨онзи⟩, който пасе"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "сред лилиите"
+    }
+  ],
+  "timestamp": "2026-09-22T15:34:09.089600469Z",
+  "model": "glm-5.3"
+}

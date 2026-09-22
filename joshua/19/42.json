@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 19:42",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "и Шаалавин, и Аялон, и Итла.",
+  "tokens": [
+    {
+      "surface": "ושעלבין",
+      "gloss": "и Шаалавин"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "и Аялон"
+    },
+    {
+      "surface": "ויתלה",
+      "gloss": "и Итла"
+    }
+  ],
+  "timestamp": "2026-09-22T12:23:16.613869866Z",
+  "model": "glm-5.3"
+}

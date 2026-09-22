@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Но в деня ⟨когато⟩ се види в него жива плът, той ще бъде нечист.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "но в деня"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "да се види"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в него"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плът"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жива"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ще бъде нечист"
+    }
+  ],
+  "timestamp": "2026-09-22T11:36:15.737704029Z",
+  "model": "glm-5.3"
+}

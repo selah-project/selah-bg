@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Разтвориха против нас устата си всичките ни врагове.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "разтвориха"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "против нас"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "устата си"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичките"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "ни врагове"
+    }
+  ],
+  "timestamp": "2026-09-22T16:45:07.176881973Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 85:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 85,
+  "translation": "Покажи ни, Яхве, хесед Си, и спасението Си дай ни.",
+  "tokens": [
+    {
+      "surface": "הראנו",
+      "gloss": "Покажи ни"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "хесед Си"
+    },
+    {
+      "surface": "וישעך",
+      "gloss": "и спасението Си"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "дай"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:23.990300432Z",
+  "model": "glm-5.3"
+}

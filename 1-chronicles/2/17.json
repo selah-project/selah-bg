@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 2:17",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И Авигил роди ⟨את⟩ Амаса, а бащата на Амаса ⟨бе⟩ Йетер исмаилецът.",
+  "tokens": [
+    {
+      "surface": "ואביגיל",
+      "gloss": "И Авигил"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Амаса"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "Амаса"
+    },
+    {
+      "surface": "ואבי",
+      "gloss": "а бащата"
+    },
+    {
+      "surface": "עמשא",
+      "gloss": "на Амаса"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "Йетер"
+    },
+    {
+      "surface": "הישמעאלי",
+      "gloss": "исмаилецът"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:05.457956012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Да не бъде за тебе други богове пред лицето Ми.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "да не бъде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за тебе"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богове"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "други"
+    },
+    {
+      "surface": "על",
+      "gloss": "пред"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето Ми"
+    }
+  ],
+  "timestamp": "2026-09-22T12:03:15.759460011Z",
+  "model": "glm-5.3"
+}

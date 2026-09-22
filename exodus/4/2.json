@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И рече Яхве на ⟨него⟩: какво ⟨е⟩ това в ръката ти? А той рече: жезъл.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "на ⟨него⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "какво ⟨е⟩ това"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "в ръката ти"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "жезъл"
+    }
+  ],
+  "timestamp": "2026-09-22T11:14:58.629195718Z",
+  "model": "glm-5.3"
+}

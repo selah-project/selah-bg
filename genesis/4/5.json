@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 4:5",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "а към Каин и към дара му не погледна; и пламна Каин твърде много, и лицето му падна.",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "а към"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каин"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и към"
+    },
+    {
+      "surface": "מנחתו",
+      "gloss": "дара му"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שעה",
+      "gloss": "погледна"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "и пламна"
+    },
+    {
+      "surface": "לקין",
+      "gloss": "у Каин"
+    },
+    {
+      "surface": "מאד",
+      "gloss": " твърде много"
+    },
+    {
+      "surface": "ויפלו",
+      "gloss": "и падна"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицето му"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:30.730242982Z",
+  "model": "glm-5.3"
+}

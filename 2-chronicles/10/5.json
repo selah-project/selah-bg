@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И им каза: Още три дни, и се върнете при мене; и народът си отиде.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И каза"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "Още"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "и се върнете"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "при мене"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и си отиде"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народът"
+    }
+  ],
+  "timestamp": "2026-09-22T16:07:30.322430401Z",
+  "model": "glm-5.3"
+}

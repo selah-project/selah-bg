@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И се уплаши Давид от Яхве в онзи ден и рече: как ще дойде при мен ковчегът на Яхве?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и се уплаши"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онзи"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "איך",
+      "gloss": "как"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ще дойде"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "при мен"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчегът"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T12:50:09.157517041Z",
+  "model": "glm-5.3"
+}

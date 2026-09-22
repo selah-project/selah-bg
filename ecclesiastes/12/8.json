@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Суета на суетите, рече Кохелет, всичко ⟨е⟩ суета.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Суета"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "на суетите"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "הקוהלет",
+      "gloss": "Кохелет"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "суета"
+    }
+  ],
+  "timestamp": "2026-09-22T15:41:06.877328051Z",
+  "model": "glm-5.3"
+}

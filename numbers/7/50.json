@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "numbers 7:50",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Една златна <к>πaf чашка, десет шекела, пълна с тамян.",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "чашка"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десет"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "златна"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "пълна"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "с тамян"
+    }
+  ],
+  "timestamp": "2026-09-22T11:47:33.290348119Z",
+  "model": "glm-5.3"
+}

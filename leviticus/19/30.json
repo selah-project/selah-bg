@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 19:30",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "⟨את⟩ съботите Ми пазете, и светилището Ми почитайте: Аз съм Яхве.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "съботите Ми"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "съботите Ми"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "пазете"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "и светилището Ми"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "почитайте"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T16:17:33.062427522Z",
+  "model": "glm-5.3"
+}

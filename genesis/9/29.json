@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И бяха всичките дни на Ное деветстотин и петдесет години, и умря.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И бяха"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичките"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дните"
+    },
+    {
+      "surface": "נח",
+      "gloss": "на Ное"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "девет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "и петдесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умря"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:04.189831297Z",
+  "model": "glm-5.3"
+}

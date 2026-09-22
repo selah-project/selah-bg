@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 1:25",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Евер, Пелег, Реу.",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "Евер"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "Пелег"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "Реу"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:31.370959521Z",
+  "model": "glm-5.3"
+}

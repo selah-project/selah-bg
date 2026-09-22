@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 3:10",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Видях ⟨את⟩ заниманието, което Елохим е дал на синовете на човека, да се трудят в него.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Видях"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "заниманието"
+    },
+    {
+      "surface": "הענין",
+      "gloss": "заниманието"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "е дал"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на синовете"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "на човека"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "да се трудят"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в него"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:41.202989878Z",
+  "model": "glm-5.3"
+}

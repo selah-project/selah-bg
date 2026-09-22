@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 59:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 59,
+  "translation": "Връщат се привечер, вият като куче и обикалят града.",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "връщат се"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "привечер"
+    },
+    {
+      "surface": "יהמו",
+      "gloss": "вият"
+    },
+    {
+      "surface": "ככלב",
+      "gloss": "като куче"
+    },
+    {
+      "surface": "ויסובבו",
+      "gloss": "и обикалят"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "града"
+    }
+  ],
+  "timestamp": "2026-09-22T15:01:12.498639906Z",
+  "model": "glm-5.3"
+}

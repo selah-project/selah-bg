@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 13:4",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Като лисици в развалините бяха пророците ти, Израиле.",
+  "tokens": [
+    {
+      "surface": "כשעלים",
+      "gloss": "като лисици"
+    },
+    {
+      "surface": "בחרבות",
+      "gloss": "в развалините"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "пороците ти"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израиле"
+    },
+    {
+      "surface": "היו",
+      "gloss": "бяха"
+    }
+  ],
+  "timestamp": "2026-09-22T14:15:11.641359064Z",
+  "model": "glm-5.3"
+}

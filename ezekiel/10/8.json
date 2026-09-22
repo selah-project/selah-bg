@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И се видя на херувимите образът на човешка ръка под крилата им.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "И се видя"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "на херувимите"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "образът"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ръка"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човешка"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "крилата им"
+    }
+  ],
+  "timestamp": "2026-09-22T14:14:37.200379126Z",
+  "model": "glm-5.3"
+}

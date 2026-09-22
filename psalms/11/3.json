@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Защото основите се събарат — праведният какво е направил?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "основите"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "се събарят"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "праведният"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "е направил"
+    }
+  ],
+  "timestamp": "2026-09-22T14:52:42.879152400Z",
+  "model": "glm-5.3"
+}

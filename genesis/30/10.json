@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И роди Зилпа, слугинята на Леа, на Яков син.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зилпа"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "слугинята на"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леа"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "на Яков"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:22.289698917Z",
+  "model": "glm-5.3"
+}

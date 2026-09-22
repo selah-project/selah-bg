@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 19:24",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "А в годината четвъртата целият му плод ще бъде свято — хваление за Яхве.",
+  "tokens": [
+    {
+      "surface": "ובשנה",
+      "gloss": "А в годината"
+    },
+    {
+      "surface": "הרביעת",
+      "gloss": "четвъртата"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ще бъде"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целият"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "му плод"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свято"
+    },
+    {
+      "surface": "הלולים",
+      "gloss": "хваление"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:39:42.401943317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "micah 3:10",
+  "book": "micah",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Строят Цион с кръв и Йерусалим с неправда.",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "Строят"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "с кръв"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "и Йерусалим"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "с неправда"
+    }
+  ],
+  "timestamp": "2026-09-22T14:40:03.411561163Z",
+  "model": "glm-5.3"
+}

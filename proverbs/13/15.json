@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Добрият разум дава благоволение, а пътят на вероломните е твърд.",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "разумът"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добър"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дава"
+    },
+    {
+      "surface": "חן",
+      "gloss": "благоволение"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "а пътят"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "на вероломните"
+    },
+    {
+      "surface": "איתם",
+      "gloss": "твърд"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:29.953317023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 148,
+  "translation": "Планините и всички хълмове, дървета с плод и всички кедри",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "планините"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всички"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "хълмове"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дървета"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "с плод"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всички"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "кедри"
+    }
+  ],
+  "timestamp": "2026-09-22T15:14:55.692914640Z",
+  "model": "glm-5.3"
+}

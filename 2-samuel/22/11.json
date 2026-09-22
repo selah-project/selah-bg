@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И язди върху херувим, и полетя; и се яви върху крилете на вятъра.",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "И язди"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "херувим"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "и полетя"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и се яви"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "крилете"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "на вятъра"
+    }
+  ],
+  "timestamp": "2026-09-22T12:56:15.496999479Z",
+  "model": "glm-5.3"
+}

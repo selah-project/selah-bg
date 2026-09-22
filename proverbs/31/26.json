@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Устата ѝ отваря ⟨с⟩ мъдрост, и Тора на хесед е на езика ѝ.",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "Устата ѝ"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "отваря"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "с мъдрост"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "и Тора"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "на хесед"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "езика ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:58.440936481Z",
+  "model": "glm-5.3"
+}

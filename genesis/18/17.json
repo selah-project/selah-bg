@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 18:17",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И Яхве рече: да скрия ли аз от Авраам онова, което аз върша?",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "И Яхве"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "המכסה",
+      "gloss": "да скрия ли"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "מאברהם",
+      "gloss": "от Авраам"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "онова, което"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "върша"
+    }
+  ],
+  "timestamp": "2026-09-22T10:59:23.878807863Z",
+  "model": "glm-5.3"
+}

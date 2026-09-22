@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 2:17",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Не това ли ти се стори — щом остави ⟨את⟩ Яхве, твоя Елохим, в часа, когато те водеше по пътя?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ти стори"
+    },
+    {
+      "surface": "לך",
+      "gloss": "на теб"
+    },
+    {
+      "surface": "עזבך",
+      "gloss": "оставиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твоя Елохим"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "в часа"
+    },
+    {
+      "surface": "מוליכך",
+      "gloss": "те водеше"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "по пътя"
+    }
+  ],
+  "timestamp": "2026-09-22T13:47:38.059357992Z",
+  "model": "glm-5.3"
+}

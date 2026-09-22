@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 5:16",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И приведе свещеникът ⟨את⟩ нея, и я изправи пред Яхве.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "И приведе"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ нея",
+      "marks": "нея"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свещеникът"
+    },
+    {
+      "surface": "והעמדה",
+      "gloss": "и я изправи"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:47:19.532556796Z",
+  "model": "glm-5.3"
+}

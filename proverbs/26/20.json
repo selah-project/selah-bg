@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "При липса на дърва огънят угасва, и без клеветник спира свадата.",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "при липса на"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "дърва"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "угасва"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огънят"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "и без"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "клеветник"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "спира"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "свадата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:35.701920900Z",
+  "model": "glm-5.3"
+}

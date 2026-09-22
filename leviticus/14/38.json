@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И ще излезе свещеникът от къщата към вратата на къщата, и ще затвори ⟨את⟩ къщата седем дни.",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "и ще излезе"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свещеникът"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "къщата"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "вратата"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "на къщата"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "и ще затвори"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "къщата"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "къщата"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седем"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    }
+  ],
+  "timestamp": "2026-09-22T16:17:46.383399161Z",
+  "model": "glm-5.3"
+}

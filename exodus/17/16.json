@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 17:16",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И рече: защото ръка ⟨е⟩ върху престола на Ях — война на Яхве с Амалек от род ⟨до⟩ род.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ръка"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "כס",
+      "gloss": "престола"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "война"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "בעמלק",
+      "gloss": "с Амалек"
+    },
+    {
+      "surface": "מדר",
+      "gloss": "от род"
+    },
+    {
+      "surface": "דר",
+      "gloss": "род"
+    }
+  ],
+  "timestamp": "2026-09-22T16:16:57.629355060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "и сиромаха не ще пощадиш в делото му.",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "и сиромаха"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "ще пощадиш"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "в делото му"
+    }
+  ],
+  "timestamp": "2026-09-22T16:16:50.856030123Z",
+  "model": "glm-5.3"
+}

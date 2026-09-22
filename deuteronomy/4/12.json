@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 4:12",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И говори Яхве към вас изсред огъня — глас на думи вие чувахте, и образ не виждахте, освен глас.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "И говори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "към вас"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "изсред"
+    },
+    {
+      "surface": "האש",
+      "gloss": "огъня"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "на думи"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "чувахте"
+    },
+    {
+      "surface": "ותמונה",
+      "gloss": "и образ"
+    },
+    {
+      "surface": "אינכם",
+      "gloss": "не"
+    },
+    {
+      "surface": "ראים",
+      "gloss": "виждахте"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "освен"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    }
+  ],
+  "timestamp": "2026-09-22T12:03:02.504418696Z",
+  "model": "glm-5.3"
+}

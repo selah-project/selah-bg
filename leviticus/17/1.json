@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И рече Яхве на Моше ⟨Мойсей⟩, като каза:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше ⟨Мойсей⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "като каза"
+    }
+  ],
+  "timestamp": "2026-09-22T11:38:34.377274953Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 33:20",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И рече: не можеш да видиш ⟨את⟩ лицето Ми, защото човек не ще Me види и ⟨остане жив⟩.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "можеш"
+    },
+    {
+      "surface": "לראת",
+      "gloss": "да видиш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лицето Ми"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето Ми"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראני",
+      "gloss": "ще Me види"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "וחי",
+      "gloss": "и ⟨остане жив⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T11:28:08.643257843Z",
+  "model": "glm-5.3"
+}

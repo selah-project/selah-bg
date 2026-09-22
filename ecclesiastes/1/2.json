@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Суета на суетите, каза Кохелет; суета на суетите — всичко ⟨е⟩ суета.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "Суета"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "на суетите"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Кохелет"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "суета"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "на суетите"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "суета"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:36.031759932Z",
+  "model": "glm-5.3"
+}

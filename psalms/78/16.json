@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 78:16",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 78,
+  "translation": "И изведе потоци от скалата, инизведе води като реки.",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "И изведе"
+    },
+    {
+      "surface": "נוזלים",
+      "gloss": "потоци"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "от скалата"
+    },
+    {
+      "surface": "ויורד",
+      "gloss": "инизведе"
+    },
+    {
+      "surface": "כנהרות",
+      "gloss": "като реки"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:38.522812111Z",
+  "model": "glm-5.3"
+}

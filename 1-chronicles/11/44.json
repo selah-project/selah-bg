@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Узия аштератееца, Шама и Йеил, синове на Хотам ароерееца.",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "Узия"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "аштератееца"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "Шама"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "и Йеил"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "Хотам"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "ароерееца"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:10.598254513Z",
+  "model": "glm-5.3"
+}

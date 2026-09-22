@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 5:40",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И Ацария роди ⟨את⟩ Серая, и Серая роди ⟨את⟩ Йехоцадак.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "и Ацария"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Серая"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "Серая"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "и Серая"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йехоцадак"
+    },
+    {
+      "surface": "יהוצדק",
+      "gloss": "Йехоцадак"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:18.830587197Z",
+  "model": "glm-5.3"
+}

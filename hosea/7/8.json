@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 7:8",
+  "book": "hosea",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Ефрем се смеси с народите; Ефрем стана пита, която не се обръща.",
+  "tokens": [
+    {
+      "surface": "אפרים",
+      "gloss": "Ефрем"
+    },
+    {
+      "surface": "בעמים",
+      "gloss": "с народите"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "יתבולל",
+      "gloss": "се смеси"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефрем"
+    },
+    {
+      "surface": "היה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "עגה",
+      "gloss": "пита"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "הפוכה",
+      "gloss": "обръщане"
+    }
+  ],
+  "timestamp": "2026-09-22T14:35:08.355055736Z",
+  "model": "glm-5.3"
+}

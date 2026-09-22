@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И рече Леа: „Багад!“ — и нарека ⟨את⟩ името му Гад.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леа"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "Багад"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "и нарека"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "името му"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името му"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:22.289827994Z",
+  "model": "glm-5.3"
+}

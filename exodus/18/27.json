@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 18:27",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И отпусна Моше ⟨את⟩ своя тъст, и той си отиде към земята си.",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "И отпусна"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "своя тъст"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и си отиде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨си⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "ארצו",
+      "gloss": "земята си"
+    }
+  ],
+  "timestamp": "2026-09-22T11:19:55.306645913Z",
+  "model": "glm-5.3"
+}

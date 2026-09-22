@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 34:23",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "И рече тя на тях: Така каза Яхве, Елохим на Израел: Кажете на човека, който ви изпрати при мен ⟨את⟩:",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "на тях"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "Кажете"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "на човека"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "изпрати"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "при мен"
+    }
+  ],
+  "timestamp": "2026-09-22T16:14:14.815473904Z",
+  "model": "glm-5.3"
+}

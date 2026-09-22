@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Огън непрестанен ще гори върху олтара — не ще угасне.",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "огън"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "непрестанен"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "ще гори"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "олтара"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ще угасне"
+    }
+  ],
+  "timestamp": "2026-09-22T11:32:47.531263964Z",
+  "model": "glm-5.3"
+}

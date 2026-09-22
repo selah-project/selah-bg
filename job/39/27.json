@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 39:27",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 39,
+  "translation": "На твоята ли уста се извисява орелът и гнездото си издига?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ли"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "твоите уста"
+    },
+    {
+      "surface": "יגביה",
+      "gloss": "се извисява"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "орелът"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "и"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "издига"
+    },
+    {
+      "surface": "קנו",
+      "gloss": "гнездото си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:32:48.779563725Z",
+  "model": "glm-5.3"
+}

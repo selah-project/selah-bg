@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "И не стана вече пророк в Израил като Моше, когото Яхве познаваше лице към лице.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "קם",
+      "gloss": "стана"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "пророк"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "вече"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Израил"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "като Моше"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "когото"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "познаваше"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лице"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лице"
+    }
+  ],
+  "timestamp": "2026-09-22T12:16:34.311833643Z",
+  "model": "glm-5.3"
+}

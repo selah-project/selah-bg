@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 29:23",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И стана вечерта, и взе ⟨את⟩ Леа, дъщеря си, и я доведе при него; и влезе при ⟨את⟩ нея.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И стана"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "вечерта"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и взе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Леа"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леа"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "дъщеря си"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и доведе"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ нея",
+      "marks": "него"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "при него"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и влезе"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "при нея"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:30.298710653Z",
+  "model": "glm-5.3"
+}

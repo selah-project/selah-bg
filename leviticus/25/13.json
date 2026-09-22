@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "В годината на този юбилей се върнете всеки към наследството си.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "в годината"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "юбилея"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "този"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "се върнете"
+    },
+    {
+      "surface": "איש",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "наследството си"
+    }
+  ],
+  "timestamp": "2026-09-22T11:42:12.949565099Z",
+  "model": "glm-5.3"
+}

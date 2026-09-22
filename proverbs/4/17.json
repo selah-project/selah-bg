@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Защото яждат хляб на беззаконие и вино на насилия пият.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "яждат"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляб"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "беззаконие"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и вино"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "насилия"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "пият"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:24.817112357Z",
+  "model": "glm-5.3"
+}

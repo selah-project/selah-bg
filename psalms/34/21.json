@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 34:21",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Пази ⟨при⟩ всичките му кости — една от тях не ⟨е⟩ счупена.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Пази"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичките"
+    },
+    {
+      "surface": "עצמותיו",
+      "gloss": "кости му"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "една"
+    },
+    {
+      "surface": "מהנה",
+      "gloss": "от тях"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "счупена"
+    }
+  ],
+  "timestamp": "2026-09-22T14:56:12.957185603Z",
+  "model": "glm-5.3"
+}

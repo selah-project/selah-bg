@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Ще си направи ли човек богове — а те не са богове?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "Ще си направи ли"
+    },
+    {
+      "surface": "לו",
+      "gloss": "си"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богове"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "а те"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не са"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богове"
+    }
+  ],
+  "timestamp": "2026-09-22T13:53:26.208150239Z",
+  "model": "glm-5.3"
+}

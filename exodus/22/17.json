@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Магьосница не ще оставиш жива.",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "Магьосница"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ще оставиш жива"
+    }
+  ],
+  "timestamp": "2026-09-22T11:22:49.708407214Z",
+  "model": "glm-5.3"
+}

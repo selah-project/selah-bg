@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Елиав неговият син, Йерохам неговият син, Елкана неговият син.",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "Елиав"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "неговият син"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "Йерохам"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "неговият син"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Елкана"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "неговият син"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:07.560599526Z",
+  "model": "glm-5.3"
+}

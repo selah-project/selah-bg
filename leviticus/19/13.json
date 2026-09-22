@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 19:13",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "Не угнетявай ⟨את⟩ ближния си и не граби; делото на наемника да не нощува при ⟨את⟩ тебе до сутринта.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשק",
+      "gloss": "угнетявай"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ближния си"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "ближния си"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "граби"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "нощува"
+    },
+    {
+      "surface": "פעלת",
+      "gloss": "делото"
+    },
+    {
+      "surface": "שכיר",
+      "gloss": "наемника"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ тебе"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "сутринта"
+    }
+  ],
+  "timestamp": "2026-09-22T11:39:37.614347940Z",
+  "model": "glm-5.3"
+}

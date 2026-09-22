@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "На дванадесетия ден — князът на синовете на Нефтали, Ахира, син на Еинан.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "На ден"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надесет"
+    },
+    {
+      "surface": "יום",
+      "gloss": "деня"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князът"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на синовете"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нефтали"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Ахира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "Еинан"
+    }
+  ],
+  "timestamp": "2026-09-22T11:48:28.820213571Z",
+  "model": "glm-5.3"
+}

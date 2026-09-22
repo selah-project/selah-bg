@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И филистимците дойдоха и се разляха в долината Рефаим.",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "И филистимците"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дойдоха"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "и се разляха"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "в долината"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаим"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:34.966160644Z",
+  "model": "glm-5.3"
+}

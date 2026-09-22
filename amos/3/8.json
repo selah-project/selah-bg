@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Лъв изръмжа — кой не ще се уплаши? Адонай Яхве говори — кой не ще пророкува?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "лъв"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "изръмжа"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "ще се уплаши"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "ще пророкува"
+    }
+  ],
+  "timestamp": "2026-09-22T16:27:59.689447550Z",
+  "model": "glm-5.3"
+}

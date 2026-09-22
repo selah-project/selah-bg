@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Това връщам към сърцето си — затова ще чакам.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Това"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "връщам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "сърцето си"
+    },
+    {
+      "surface": "על",
+      "gloss": "затова"
+    },
+    {
+      "surface": "כן",
+      "gloss": "това"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "ще чакам"
+    }
+  ],
+  "timestamp": "2026-09-22T15:37:04.873664214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Не кради.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "кради"
+    }
+  ],
+  "timestamp": "2026-09-22T16:16:45.129194160Z",
+  "model": "glm-5.3"
+}

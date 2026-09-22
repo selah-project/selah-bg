@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 9:19",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Ако е за сила — ето ⟨него⟩, силния; и ако е за съд — кой ще ме призове?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "לכח",
+      "gloss": "за сила"
+    },
+    {
+      "surface": "אמיץ",
+      "gloss": "силния"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "למשפט",
+      "gloss": "за съд"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "יועידני",
+      "gloss": "ще ме призове"
+    }
+  ],
+  "timestamp": "2026-09-22T15:25:12.805599787Z",
+  "model": "glm-5.3"
+}

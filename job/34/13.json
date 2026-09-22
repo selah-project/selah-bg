@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 34:13",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Кой определи над него ⟨поръка за⟩ земята? и кой постави целия свят?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "פקד",
+      "gloss": "определи"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "над него"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "земята"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и кой"
+    },
+    {
+      "surface": "שם",
+      "gloss": "постави"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "свят"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "целия"
+    }
+  ],
+  "timestamp": "2026-09-22T15:31:57.256334313Z",
+  "model": "glm-5.3"
+}

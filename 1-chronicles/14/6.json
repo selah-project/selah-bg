@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "и Нога, и Нефег, и Яфия,",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "и Нога"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "и Нефег"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "и Яфия"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:37.038718531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 34:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Този бедняк извика, и Яхве чу, и от всичките му беди го спаси.",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "Този"
+    },
+    {
+      "surface": "עני",
+      "gloss": "бедняк"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "извика"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и Яхве"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чу"
+    },
+    {
+      "surface": "ומכל",
+      "gloss": "и от всичките"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "му беди"
+    },
+    {
+      "surface": "הושיעו",
+      "gloss": "го спаси"
+    }
+  ],
+  "timestamp": "2026-09-22T14:56:33.881071542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 8:8",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И Шахарим роди в полето на Моав, след като ги отпъди — Хушим и Баара, жените му.",
+  "tokens": [
+    {
+      "surface": "ושחרים",
+      "gloss": "И Шахарим"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "в полето"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "на Моав"
+    },
+    {
+      "surface": "מן",
+      "gloss": "след като"
+    },
+    {
+      "surface": "שלחו",
+      "gloss": "ги отпъди"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ тях",
+      "marks": "Хушим и Баара"
+    },
+    {
+      "surface": "חושים",
+      "gloss": "Хушим"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Баара"
+    },
+    {
+      "surface": "בערא",
+      "gloss": "Баара"
+    },
+    {
+      "surface": "נשיו",
+      "gloss": "жените му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:47.720116Z",
+  "model": "glm-5.3"
+}

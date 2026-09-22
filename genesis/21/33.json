@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И посади Авраам ⟨а шитка⟩ в Беер-Шева, и призова там Името на Яхве, Ел Олам.",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "и посади"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "шитка"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "в Беер"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "и призова"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "Името на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "Олам"
+    }
+  ],
+  "timestamp": "2026-09-22T16:42:04.432074959Z",
+  "model": "glm-5.3"
+}

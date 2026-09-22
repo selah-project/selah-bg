@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 31:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "А вие знаете, че с всичката си сила служих ⟨את⟩ на баща ви.",
+  "tokens": [
+    {
+      "surface": "ואתנה",
+      "gloss": "А вие"
+    },
+    {
+      "surface": "ידעתן",
+      "gloss": "знаете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "с всичката"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "си сила"
+    },
+    {
+      "surface": "עבדתי",
+      "gloss": "служих"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "на баща ви"
+    },
+    {
+      "surface": "אביכן",
+      "gloss": "на баща ви"
+    }
+  ],
+  "timestamp": "2026-09-22T16:15:35.047572770Z",
+  "model": "glm-5.3"
+}

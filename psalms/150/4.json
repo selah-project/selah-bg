@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 150:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 150,
+  "translation": "Хвалете Го с тъпан и танц, хвалете Го с миним и угав!",
+  "tokens": [
+    {
+      "surface": "הללוהו",
+      "gloss": "Хвалете Го"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "с тъпан"
+    },
+    {
+      "surface": "ומחול",
+      "gloss": "и танц"
+    },
+    {
+      "surface": "הללוהו",
+      "gloss": "хвалете Го"
+    },
+    {
+      "surface": "במנים",
+      "gloss": "с миним"
+    },
+    {
+      "surface": "ועוגб",
+      "gloss": "и угав"
+    }
+  ],
+  "timestamp": "2026-09-22T15:14:44.223145327Z",
+  "model": "glm-5.3"
+}

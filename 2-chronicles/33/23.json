@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 33:23",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И не се смири пред Яхве, както се бе смирил Менаше, баща му, защото той, Амон, умножи вината.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "нכנע",
+      "gloss": "се смири"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כהכנע",
+      "gloss": "както се бе смирил"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "Менаше"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "баща му"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Амон"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "умножи"
+    },
+    {
+      "surface": "אשמה",
+      "gloss": "вината"
+    }
+  ],
+  "timestamp": "2026-09-22T16:12:19.326142304Z",
+  "model": "glm-5.3"
+}

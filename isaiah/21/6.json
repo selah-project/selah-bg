@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Защото така ми рече Адонай: иди, постави стража — каквото види, нека съобщи.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "постави"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "стража"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "каквото"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "види"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "съобщи"
+    }
+  ],
+  "timestamp": "2026-09-22T13:31:04.981927936Z",
+  "model": "glm-5.3"
+}

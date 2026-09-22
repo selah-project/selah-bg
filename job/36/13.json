@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 36:13",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "И нечестивците в сърце слагат гняв — не викат, щом ги свърже.",
+  "tokens": [
+    {
+      "surface": "וחנפי",
+      "gloss": "И нечестивците"
+    },
+    {
+      "surface": "לב",
+      "gloss": "в сърце"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "слагат"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гняв"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישועו",
+      "gloss": "викат"
+    },
+    {
+      "surface": "כי",
+      "gloss": "щом"
+    },
+    {
+      "surface": "אסרם",
+      "gloss": "ги свърже"
+    }
+  ],
+  "timestamp": "2026-09-22T15:32:03.775020007Z",
+  "model": "glm-5.3"
+}

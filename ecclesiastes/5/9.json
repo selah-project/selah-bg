@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Който обича сребро, не се насища със сребро, и който обича изобилие — без приход; и това е суета.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "обича"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "се насища"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребро"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и кой"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "обича"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "изобилие"
+    },
+    {
+      "surface": "לא",
+      "gloss": "без"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "приход"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "суета"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:32.288357618Z",
+  "model": "glm-5.3"
+}

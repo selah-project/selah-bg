@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И в осмия ден ще се обреже плътта на краята му.",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "и в"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "осмия ден"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "ще се обреже"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плътта"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "на краявата му"
+    }
+  ],
+  "timestamp": "2026-09-22T11:35:05.376374222Z",
+  "model": "glm-5.3"
+}

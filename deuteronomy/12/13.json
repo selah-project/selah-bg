@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Пази се за себе си, да не принасяш всеизгарянията си на всяко място, което видиш,",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "пази се"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за себе си"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "принасяш"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "всеизгарянията си"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "на всяко"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "място"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "видиш"
+    }
+  ],
+  "timestamp": "2026-09-22T12:07:26.064377915Z",
+  "model": "glm-5.3"
+}

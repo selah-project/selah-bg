@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Гадание е върху устните на царя — в съд устата му не ще изневери.",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "гадание"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "устните"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на царя"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "в съд"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "ще изневери"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "устата му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:00.127151391Z",
+  "model": "glm-5.3"
+}

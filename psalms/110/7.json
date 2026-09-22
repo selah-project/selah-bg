@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 110,
+  "translation": "От поток на пътя ще пие — затова ще вдигне глава.",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "от поток"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на пътя"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ще пие"
+    },
+    {
+      "surface": "על",
+      "gloss": "затова"
+    },
+    {
+      "surface": "כן",
+      "gloss": "затова"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ще вдигне"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "глава"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:29.430363210Z",
+  "model": "glm-5.3"
+}

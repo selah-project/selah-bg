@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Род отива и род идва, а земята стои вовеки.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "Род"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "отива"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "и род"
+    },
+    {
+      "surface": "בא",
+      "gloss": "идва"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "а земята"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "вовеки"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "стои"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:36.035015428Z",
+  "model": "glm-5.3"
+}

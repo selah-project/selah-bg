@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 6:21",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "син Елкан, син Йоел, син Азария, син Цефания",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Елкан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Йоел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азария"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "Цефания"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:21.779939917Z",
+  "model": "glm-5.3"
+}

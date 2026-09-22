@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Също и разхлабеният в делото си — брат е той на господаря, който руши.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "също"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "разхлабеният"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "в делото си"
+    },
+    {
+      "surface": "אח",
+      "gloss": "брат"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "на господаря"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "който руши"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:32.417734436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Живот на плътта ⟨е⟩ лекуващо сърце, а гниене на костите — завист.",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "Живот"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "на плътта"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърце"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "лекуващо"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "а гниене"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "на костите"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "завист"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:51.334256423Z",
+  "model": "glm-5.3"
+}

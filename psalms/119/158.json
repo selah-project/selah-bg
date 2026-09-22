@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 158,
+  "ref": "psalms 119:158",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Видях вероломни и се възмутих, че словото Ти не пазят.",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "Видях"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "вероломни"
+    },
+    {
+      "surface": "ואתקוטטה",
+      "gloss": "и се възмутих"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "че"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "словото Ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "пазят"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:23.245742088Z",
+  "model": "glm-5.3"
+}

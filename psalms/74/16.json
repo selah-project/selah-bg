@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 74:16",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 74,
+  "translation": "Твоя е денят, също Твоя е нощта; Ти устрои светилото и слънцето.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Твоя е"
+    },
+    {
+      "surface": "יום",
+      "gloss": "денят"
+    },
+    {
+      "surface": "אף",
+      "gloss": "също"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Твоя е"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "нощта"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "הכינות",
+      "gloss": "устрои"
+    },
+    {
+      "surface": "מאור",
+      "gloss": "светилото"
+    },
+    {
+      "surface": "ושמש",
+      "gloss": "и слънцето"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:19.289620570Z",
+  "model": "glm-5.3"
+}

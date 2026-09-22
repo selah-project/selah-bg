@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 1:14",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И рече Яхве към мене: От север ще се отвори злото върху всички жители на земята.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мене"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "от север"
+    },
+    {
+      "surface": "תפתח",
+      "gloss": "ще се отвори"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "злото"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жители"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земята"
+    }
+  ],
+  "timestamp": "2026-09-22T13:47:40.110906972Z",
+  "model": "glm-5.3"
+}

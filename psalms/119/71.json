@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 71,
+  "ref": "psalms 119:71",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Добро беше за мен, че бях смирен, за да науча наредбите ти.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "бях смирен"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "אלמד",
+      "gloss": "науча"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "наредбите ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:18.050892651Z",
+  "model": "glm-5.3"
+}

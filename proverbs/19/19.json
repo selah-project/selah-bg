@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 19:19",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "Суров по гняв носи наказание, защото ако го избавиш, и пак ще добавиш.",
+  "tokens": [
+    {
+      "surface": "גרל",
+      "gloss": "суров"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "гняв"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "носи"
+    },
+    {
+      "surface": "ענש",
+      "gloss": "наказание"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "избавиш"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "и пак"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "ще добавиш"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:16.223089870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 31:1",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "И рече Яхве на Моше ⟨Мойсей⟩, като каза:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше ⟨Мойсей⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "като каза"
+    }
+  ],
+  "timestamp": "2026-09-22T11:58:29.931665558Z",
+  "model": "glm-5.3"
+}

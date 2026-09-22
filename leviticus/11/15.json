@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "⟨את⟩ всеки гарван по вида му.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всеки гарван"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "гарван"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "по вида му"
+    }
+  ],
+  "timestamp": "2026-09-22T11:34:23.292871978Z",
+  "model": "glm-5.3"
+}

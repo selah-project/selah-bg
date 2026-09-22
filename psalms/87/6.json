@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 87:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 87,
+  "translation": "Яхве ще преброи, когато записва народите: този е роден там. Села.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יספר",
+      "gloss": "ще преброи"
+    },
+    {
+      "surface": "בכתוב",
+      "gloss": "когато записва"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народите"
+    },
+    {
+      "surface": "זה",
+      "gloss": "този"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "е роден"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:10.235098235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 4:14",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Скитаха се слепи из улиците, омърсиха се в кръв; не можеха да докоснат дрехите си.",
+  "tokens": [
+    {
+      "surface": "נעו",
+      "gloss": "скитаха се"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "слепи"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "из улиците"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "омърсиха се"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "в кръв"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "можеха"
+    },
+    {
+      "surface": "יגעו",
+      "gloss": "да докоснат"
+    },
+    {
+      "surface": "בלבשיהם",
+      "gloss": "дрехите си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:37:42.280755507Z",
+  "model": "glm-5.3"
+}

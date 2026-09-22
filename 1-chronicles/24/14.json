@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "на Билга петнадесетият, на Имер шестнадесетият",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "на Билга"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надесет"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "на Имер"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шест"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надесет"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:50.194943364Z",
+  "model": "glm-5.3"
+}

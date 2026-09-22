@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "Съкрушена е Моав; нададоха вик малките ѝ.",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "съкрушена е"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "нададоха"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "вик"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "малките ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T14:07:12.778429973Z",
+  "model": "glm-5.3"
+}

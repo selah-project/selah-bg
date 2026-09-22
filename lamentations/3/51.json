@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Окото ми измъчва душата ми заради всички дъщери на града ми.",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "Окото ми"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "измъчва"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "душата ми"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "заради всички"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дъщери"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "на града ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:38.956274054Z",
+  "model": "glm-5.3"
+}

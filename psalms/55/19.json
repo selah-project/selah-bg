@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 55:19",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 55,
+  "translation": "Откупи в мир душата ми от битка срещу мен, защото мнозина бяха с мен.",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Откупи"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "в мир"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата ми"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "от битка"
+    },
+    {
+      "surface": "לי",
+      "gloss": "срещу мен"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "ברבים",
+      "gloss": "мнозина"
+    },
+    {
+      "surface": "היו",
+      "gloss": "бяха"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "с мен"
+    }
+  ],
+  "timestamp": "2026-09-22T16:29:46.124637147Z",
+  "model": "glm-5.3"
+}

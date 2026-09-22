@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 21:33",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И ако отвори някой яма, или ако изкопае някой яма и не я покрие, и падне там вол или осел,",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "отвори"
+    },
+    {
+      "surface": "איש",
+      "gloss": "някой"
+    },
+    {
+      "surface": "בור",
+      "gloss": "яма"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "изкопае"
+    },
+    {
+      "surface": "איש",
+      "gloss": "някой"
+    },
+    {
+      "surface": "בר",
+      "gloss": "яма"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "я покрие"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "и падне"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "там"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вол"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "осел"
+    }
+  ],
+  "timestamp": "2026-09-22T11:21:56.776922027Z",
+  "model": "glm-5.3"
+}

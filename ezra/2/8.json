@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Зату: деветстотин четиридесет и пет.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "Зату"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "девет"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "и четиридесет"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "и пет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:47:48.776242629Z",
+  "model": "glm-5.3"
+}

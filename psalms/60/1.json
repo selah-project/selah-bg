@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 60,
+  "translation": "На ръководителя, върху Шушан Едут, михтам на Давид, да се учи.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "На ръководителя"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "Шушан"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "Едут"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "михтам"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "да се учи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:02:00.727979142Z",
+  "model": "glm-5.3"
+}

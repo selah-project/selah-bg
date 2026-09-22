@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 35:22",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "Ти видя, Яхве, не мълчи; Адонай, не се отдалечавай от мен.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Ти видя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "мълчи"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "се отдалечавай"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от мен"
+    }
+  ],
+  "timestamp": "2026-09-22T14:56:39.364389457Z",
+  "model": "glm-5.3"
+}

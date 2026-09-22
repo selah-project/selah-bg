@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 87:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 87,
+  "translation": "Яхве обича портите на Цион повече от всички жилища на Яков.",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "обича"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "портите"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "повече от всички"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "жилища"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:32.308776550Z",
+  "model": "glm-5.3"
+}

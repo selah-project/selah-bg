@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 9:26",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И им направи така, и ги избави от ръката на синовете на Израел, и не ги убиха.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И направи"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "ויצל",
+      "gloss": "и избави"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ги",
+      "marks": "тях"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "от ръката"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на синовете"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "הרגום",
+      "gloss": "ги убиха"
+    }
+  ],
+  "timestamp": "2026-09-22T12:18:33.871323647Z",
+  "model": "glm-5.3"
+}

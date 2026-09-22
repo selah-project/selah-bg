@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 2:4",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Увеличих делата си: построих си домове, посадих си лозя.",
+  "tokens": [
+    {
+      "surface": "הגדלתי",
+      "gloss": "Увеличих"
+    },
+    {
+      "surface": "מעשי",
+      "gloss": "делата си"
+    },
+    {
+      "surface": "בניתי",
+      "gloss": "построих"
+    },
+    {
+      "surface": "לי",
+      "gloss": "си"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "домове"
+    },
+    {
+      "surface": "נטעתי",
+      "gloss": "посадих"
+    },
+    {
+      "surface": "לי",
+      "gloss": "си"
+    },
+    {
+      "surface": "כרמים",
+      "gloss": "лозя"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:03.187882777Z",
+  "model": "glm-5.3"
+}

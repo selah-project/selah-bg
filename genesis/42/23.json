@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 42,
+  "translation": "И те не знаеха, че Йосеф слуша, защото преводачът ⟨беше⟩ между тях.",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "И те"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "знаеха"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "слуша"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "преводачът"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "между тях"
+    }
+  ],
+  "timestamp": "2026-09-22T11:10:53.017348830Z",
+  "model": "glm-5.3"
+}

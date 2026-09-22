@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И вървеше Давид, вървейки и растейки, и Яхве Цеваот ⟨бе⟩ с него.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "И вървеше"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "вървейки"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "и растейки"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с него"
+    }
+  ],
+  "timestamp": "2026-09-22T16:34:02.574120243Z",
+  "model": "glm-5.3"
+}

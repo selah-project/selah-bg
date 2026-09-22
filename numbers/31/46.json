@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "и души човешки шестнадесет хиляди",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "и души"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човешки"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шест"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надесет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляди"
+    }
+  ],
+  "timestamp": "2026-09-22T11:58:05.011692424Z",
+  "model": "glm-5.3"
+}

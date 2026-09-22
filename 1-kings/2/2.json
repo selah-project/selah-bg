@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 2:2",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Аз отивам по пътя на цялата земя; бъди силен и бъди ⟨мъж⟩:",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "отивам"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "по пътя"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на цялата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "וחזקת",
+      "gloss": "и бъди силен"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "и бъди"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "⟨мъж⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T13:02:04.572684860Z",
+  "model": "glm-5.3"
+}

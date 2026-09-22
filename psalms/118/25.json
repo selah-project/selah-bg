@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 118,
+  "translation": "Моля Ти се, Яхве, спаси сега, моля Ти се; Яхве, дай сега успех!",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "моля Ти се"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "спаси"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сега"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "моля Ти се"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "дай успех"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сега"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:12.041555692Z",
+  "model": "glm-5.3"
+}

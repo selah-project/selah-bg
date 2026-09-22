@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 29:4",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Цар със съд удържа земята, а човек на дарове я разрушава.",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "царь"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "със съд"
+    },
+    {
+      "surface": "יעמיד",
+      "gloss": "удържа"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "а човек"
+    },
+    {
+      "surface": "תרומות",
+      "gloss": "на дарове"
+    },
+    {
+      "surface": "יהרסנה",
+      "gloss": "я разрушава"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:11.596903886Z",
+  "model": "glm-5.3"
+}

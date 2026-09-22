@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "и ⟨את⟩ цялото сборище събери при входа на шатъра на срещата.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "цялото сборище"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялото"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "сборище"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "събери"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входа"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "шатъра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на срещата"
+    }
+  ],
+  "timestamp": "2026-09-22T11:33:41.451853349Z",
+  "model": "glm-5.3"
+}

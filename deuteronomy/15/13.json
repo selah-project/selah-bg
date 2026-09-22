@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 15:13",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "И когато го пратиш свободен от себе си, няма да го пратиш празен.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "И когато"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "го пратиш"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "свободен"
+    },
+    {
+      "surface": "מעמך",
+      "gloss": "от себе си"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשלחנו",
+      "gloss": "го пратиш"
+    },
+    {
+      "surface": "ריקם",
+      "gloss": "празен"
+    }
+  ],
+  "timestamp": "2026-09-22T12:07:24.172086940Z",
+  "model": "glm-5.3"
+}

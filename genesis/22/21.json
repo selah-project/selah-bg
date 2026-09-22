@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 22:21",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "⟨את⟩ Уц, първородния му, и ⟨את⟩ Буз, брат му, и ⟨את⟩ Кемуел, бащата на Арам.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Уц"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "първородния му"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Буз"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "Буз"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брат му"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Кемуел"
+    },
+    {
+      "surface": "קמואל",
+      "gloss": "Кемуел"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "бащата"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "на Арам"
+    }
+  ],
+  "timestamp": "2026-09-22T11:00:30.884121061Z",
+  "model": "glm-5.3"
+}

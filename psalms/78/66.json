@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "psalms 78:66",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 78,
+  "translation": "И порази неприятелите ⟨си⟩ назад: вечен срам им даде.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "и порази"
+    },
+    {
+      "surface": "צריו",
+      "gloss": "неприятелите ⟨си⟩"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "назад"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "срам"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечен"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "למו",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:00.035752798Z",
+  "model": "glm-5.3"
+}

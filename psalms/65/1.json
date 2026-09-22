@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 65,
+  "translation": "На диригента. Мизмор на Давид, песен.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "На диригента"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:02:30.401043355Z",
+  "model": "glm-5.3"
+}

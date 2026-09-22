@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 47,
+  "translation": "Защото Яхве, Всевишният, е страшен, велик Цар над цялата земя.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "Всевишният"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "страшен"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "Цар"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    }
+  ],
+  "timestamp": "2026-09-22T16:29:20.164203501Z",
+  "model": "glm-5.3"
+}

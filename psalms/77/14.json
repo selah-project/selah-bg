@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 77,
+  "translation": "Елохим, в светост ⟨е⟩ пътят Ти; кой ⟨е⟩ Ел велик като Елохим?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "в светост"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "пътят Ти"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "като Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:20.315651888Z",
+  "model": "glm-5.3"
+}

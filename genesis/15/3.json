@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 15:3",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "И рече Аврам: ето, на мен не си дал семе, и ето, син на дома ми ще наследи ⟨את⟩ мен.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "Аврам"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ето"
+    },
+    {
+      "surface": "לי",
+      "gloss": "на мен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "си дал"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "семе"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "на дома ми"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "ще наследи"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ мен",
+      "marks": "мен"
+    }
+  ],
+  "timestamp": "2026-09-22T10:58:19.018924990Z",
+  "model": "glm-5.3"
+}

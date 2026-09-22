@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И изпрати Шеломо при Хирам, да каже:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "и изпрати"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "Хирам"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "да каже"
+    }
+  ],
+  "timestamp": "2026-09-22T13:02:44.886639561Z",
+  "model": "glm-5.3"
+}

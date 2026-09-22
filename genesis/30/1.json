@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 30:1",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И видя Рахел, че не роди на Яков, и Рахел завидя на сестра си, и рече на Яков: дай ми синове, а ако няма — ⟨ ще ⟩ умра аз.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "и видя"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "на Яков"
+    },
+    {
+      "surface": "ותקנא",
+      "gloss": "и завидя"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    },
+    {
+      "surface": "באחתה",
+      "gloss": "на сестра си"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    },
+    {
+      "surface": "הבה",
+      "gloss": "дай"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "מתה",
+      "gloss": "умра"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    }
+  ],
+  "timestamp": "2026-09-22T11:04:44.475314154Z",
+  "model": "glm-5.3"
+}

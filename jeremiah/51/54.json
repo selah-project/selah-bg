@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 51,
+  "translation": "Глас на вопъл от Вавилон и голямо трошене от земята на халдеите.",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "Глас"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "на вопъл"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "от Вавилон"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "и трошене"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голямо"
+    },
+    {
+      "surface": "мארץ",
+      "gloss": "от земята"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "на халдеите"
+    }
+  ],
+  "timestamp": "2026-09-22T14:10:02.141665444Z",
+  "model": "glm-5.3"
+}

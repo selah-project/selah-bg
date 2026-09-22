@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Не съм ли ти написал ⟨отдавна⟩ със съвети и знание?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "не съм ли"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "написах"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "⟨отдавна⟩"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "със съвети"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "и знание"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:35.685423701Z",
+  "model": "glm-5.3"
+}

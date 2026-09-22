@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "Да живее Рувим и да не умре, и людата му да бъдат ⟨малобройни на брой⟩!",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "Да живее"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Рувим"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "умре"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и да бъдат"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "людата му"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "на брой"
+    }
+  ],
+  "timestamp": "2026-09-22T12:15:36.284440396Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 21:15",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "и ⟨את⟩ Холон и пасището ѝ, и ⟨את⟩ Двир и пасището ѝ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Холон"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "Холон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "пасището ѝ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "пасището ѝ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Двир"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Двир"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "пасището ѝ"
+    },
+    {
+      "surface": "מגרשה",
+      "gloss": "пасището ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T12:24:13.090631992Z",
+  "model": "glm-5.3"
+}

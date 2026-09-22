@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "И рече Яхве на Моше ⟨Моисей⟩: Видях ⟨את⟩ народа този, и ето — народ с корав врат е той.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше ⟨Моисей⟩"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "Видях"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народа този"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народа"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "с корав"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "врат"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е той"
+    }
+  ],
+  "timestamp": "2026-09-22T11:27:29.918957577Z",
+  "model": "glm-5.3"
+}

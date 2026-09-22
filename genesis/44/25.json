@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 44,
+  "translation": "И рече баща ни: върнете се, купете ни малко храна.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "баща ни"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "върнете се"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "купете"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "малко"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "храна"
+    }
+  ],
+  "timestamp": "2026-09-22T11:11:54.932209190Z",
+  "model": "glm-5.3"
+}

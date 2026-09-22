@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 149:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 149,
+  "translation": "Да хвалят името му с танц, с тимпан и арфа да му свирят.",
+  "tokens": [
+    {
+      "surface": "יהללו",
+      "gloss": "Да хвалят"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името му"
+    },
+    {
+      "surface": "במחול",
+      "gloss": "с танц"
+    },
+    {
+      "surface": "בתף",
+      "gloss": "с тимпан"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "и арфа"
+    },
+    {
+      "surface": "יזמרו",
+      "gloss": "да свирят"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:02.754900890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И започна Ной, човек на земята, и насади лозе.",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "И започна"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ной"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "на земята"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "и насади"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "лозе"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:32.405194870Z",
+  "model": "glm-5.3"
+}

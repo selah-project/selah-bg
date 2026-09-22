@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И даде Авраам ⟨את⟩ всичко, което имаше, на Ицхак ⟨Исаак⟩.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всичко"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "לו",
+      "gloss": "имаше"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "на Ицхак"
+    }
+  ],
+  "timestamp": "2026-09-22T11:02:22.056500956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "По-добър е беден и мъдър момък от стар и глупав цар, който не знае вече да се поучи.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "По-добър"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "момък"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "беден"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "и мъдър"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "от цар"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "стар"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "и глупав"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знае"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "да се поучи"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "вече"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:50.945947258Z",
+  "model": "glm-5.3"
+}

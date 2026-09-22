@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Бен-Авинадав — цяла Нефат-Дор; Тафат, дъщерята на Шеломо, беше му за жена.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Бен-"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "Авинадав"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цяла"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "Нефат"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "Дор"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "Тафат"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщерята"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "на Шеломо"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жена"
+    }
+  ],
+  "timestamp": "2026-09-22T13:00:12.833043706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 36:5",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "Ето, Ел ⟨е⟩ могъщ и не презира ⟨никого⟩; могъщ ⟨в⟩ сила ⟨и⟩ разум ⟨е той⟩.",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "могъщ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "презира ⟨никого⟩"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "могъщ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "сила"
+    },
+    {
+      "surface": "לב",
+      "gloss": "разум"
+    }
+  ],
+  "timestamp": "2026-09-22T15:31:50.594014369Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-samuel 30:30",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "и на ония в Хорма, и на ония в Бор-Ашан, и на ония в Атах.",
+  "tokens": [
+    {
+      "surface": "ולאשר",
+      "gloss": "и на ония в"
+    },
+    {
+      "surface": "בחרמה",
+      "gloss": "Хорма"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "и на ония в"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "Бор"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "Ашан"
+    },
+    {
+      "surface": "ולאשר",
+      "gloss": "и на ония в"
+    },
+    {
+      "surface": "בעתך",
+      "gloss": "Атах"
+    }
+  ],
+  "timestamp": "2026-09-22T12:46:08.199891141Z",
+  "model": "glm-5.3"
+}

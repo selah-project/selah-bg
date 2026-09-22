@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "и върху Кирятайим, и върху Бет-Гамул, и върху Бет-Меон.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и върху"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "Кирятайим"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и върху"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "-Гамул"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и върху"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "-Меон"
+    }
+  ],
+  "timestamp": "2026-09-22T14:07:06.252993522Z",
+  "model": "glm-5.3"
+}

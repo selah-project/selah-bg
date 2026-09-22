@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 29:1",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И продължи Иов ⟨да⟩ вдигне притчата си и каза:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "и продължи"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Иов"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "⟨да⟩ вдигне"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "притчата си"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    }
+  ],
+  "timestamp": "2026-09-22T15:29:57.009258361Z",
+  "model": "glm-5.3"
+}

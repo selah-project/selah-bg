@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "psalms 107:29",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 107,
+  "translation": "Той издига буря ⟨до⟩ тишина, и вълните им утихват.",
+  "tokens": [
+    {
+      "surface": "יקם",
+      "gloss": "издига"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "буря"
+    },
+    {
+      "surface": "לדממה",
+      "gloss": "⟨до⟩ тишина"
+    },
+    {
+      "surface": "ויחשו",
+      "gloss": "и утихват"
+    },
+    {
+      "surface": "גליהם",
+      "gloss": "вълните им"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:07.571893582Z",
+  "model": "glm-5.3"
+}

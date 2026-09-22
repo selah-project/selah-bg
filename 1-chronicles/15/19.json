@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 15:19",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "и певците Хейман, Асаф и Ейтан — с медни кимвали, за да се чува.",
+  "tokens": [
+    {
+      "surface": "והמשררים",
+      "gloss": "и певците"
+    },
+    {
+      "surface": "הימן",
+      "gloss": "Хейман"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "Асаф"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "и Ейтан"
+    },
+    {
+      "surface": "במצלתים",
+      "gloss": "с кимвали"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "медни"
+    },
+    {
+      "surface": "להשמיע",
+      "gloss": "за да се чува"
+    }
+  ],
+  "timestamp": "2026-09-22T16:01:19.659825829Z",
+  "model": "glm-5.3"
+}

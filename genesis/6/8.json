@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "А Ноах намери благоволение в очите на Яхве.",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "а Ноах"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "намери"
+    },
+    {
+      "surface": "חן",
+      "gloss": "благоволение"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очите на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:07.675382284Z",
+  "model": "glm-5.3"
+}

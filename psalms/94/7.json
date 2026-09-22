@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 94:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 94,
+  "translation": "И казаха: не ще види Ях, и не ще разбере Елохим на Яков.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И казаха"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ще види"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ще разбере"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:17.248154774Z",
+  "model": "glm-5.3"
+}

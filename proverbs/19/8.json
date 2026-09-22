@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 19:8",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "Който придобива сърце люби душата си; който пази разум ще намери добро.",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "придобива"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърце"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "люби"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душата си"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "пази"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "разум"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "да намери"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:27.360840368Z",
+  "model": "glm-5.3"
+}

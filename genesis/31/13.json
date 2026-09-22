@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 31:13",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Аз съм Ел Бет-Ел, дето помаза там стела, дето обеща на мен там обет; сега стани, излез от земята тази и се върни към земята на родината си.",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "האל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "дето"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "помаза"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "стела"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "дето"
+    },
+    {
+      "surface": "נדרת",
+      "gloss": "обеща"
+    },
+    {
+      "surface": "לי",
+      "gloss": "на мен"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "נדר",
+      "gloss": "обет"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сега"
+    },
+    {
+      "surface": "קום",
+      "gloss": "стани"
+    },
+    {
+      "surface": "צא",
+      "gloss": "излез"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "тази"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "и се върни"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "מולדתך",
+      "gloss": "на родината си"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:06.884197161Z",
+  "model": "glm-5.3"
+}

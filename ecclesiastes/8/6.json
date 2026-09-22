@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Защото на всяко желание има време и право, защото злото на човека е голямо върху него.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на всяко"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "желание"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "и право"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "злото"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "на човека"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "голямо"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "върху него"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:34.114945090Z",
+  "model": "glm-5.3"
+}

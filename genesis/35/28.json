@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "И бяха дните на Ицхак ⟨Исаак⟩ сто и осемдесет години.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И бяха"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дните на"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак ⟨Исаак⟩"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "сто"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "и осемдесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    }
+  ],
+  "timestamp": "2026-09-22T16:14:59.042927370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 28:21",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "и се върна в мир в дома на баща ми, и Яхве ще ми бъде ⟨за⟩ Елохим.",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "и се върна"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "в мир"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "на баща ми"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "и ще бъде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לי",
+      "gloss": "на мен"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:26.056761487Z",
+  "model": "glm-5.3"
+}

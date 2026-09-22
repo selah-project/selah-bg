@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "ezekiel 16:62",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И ще утвърда аз ⟨את⟩ завета Си с ⟨את⟩ теб, и ще познаеш, че аз ⟨съм⟩ Яхве.",
+  "tokens": [
+    {
+      "surface": "והקימותי",
+      "gloss": "и ще утвърда"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "завета Си"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "завета Си"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "с ⟨את⟩ теб"
+    },
+    {
+      "surface": "וידעת",
+      "gloss": "и ще познаеш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:16:46.975766871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Ой, земя на шумоленето на крила, която е отвъд реките на Куш ⟨Етиопия⟩!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ой"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "шумолене"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "крила"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "отвъд"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "реките"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    }
+  ],
+  "timestamp": "2026-09-22T13:30:46.418685280Z",
+  "model": "glm-5.3"
+}

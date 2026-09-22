@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 29:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И рече им: Спокойен ли е ⟨той⟩? И рекоха: Спокоен ⟨е⟩; и ето, Рахил, дъщеря му, идва с овцете.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "Спокоен ли"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨той⟩"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "И рекоха"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "Спокоен"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахил"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "дъщеря му"
+    },
+    {
+      "surface": "באה",
+      "gloss": "идва"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "овцете"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:49.944258199Z",
+  "model": "glm-5.3"
+}

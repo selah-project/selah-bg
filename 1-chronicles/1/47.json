@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 1:47",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И умря Хадад, и царува вместо него Самла от Масрека.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и умря"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "Хадад"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и царува"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "вместо него"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "Самла"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "от Масрека"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:41.416244088Z",
+  "model": "glm-5.3"
+}

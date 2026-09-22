@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Северен вятър ражда дъжд, и разгневени лица — ⟨скриващ⟩ език.",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "вятър"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "северен"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "ражда"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "дъжд"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "и лица"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "разгневени"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "език"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "⟨скриващ⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:28.478695017Z",
+  "model": "glm-5.3"
+}

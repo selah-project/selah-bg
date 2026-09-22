@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "И стана Авраам изотпред мъртвеца си, и говори към синовете на Хет, като каза:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "И стана"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "изотпред"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "мъртвеца си"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "חת",
+      "gloss": "на Хет"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "като каза"
+    }
+  ],
+  "timestamp": "2026-09-22T11:01:06.310139296Z",
+  "model": "glm-5.3"
+}

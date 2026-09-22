@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 69:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 69,
+  "translation": "На водача, върху шушаните, псом на Давид.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "на водача"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "שושנים",
+      "gloss": "шушаните"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "псом на Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:23.052099192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 53:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 53,
+  "translation": "За ръководителя, върху Махалат, поука ⟨от⟩ Давид.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "за ръководителя"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "מחלת",
+      "gloss": "Махалат"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "поука"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "⟨от⟩ Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T15:00:52.038565964Z",
+  "model": "glm-5.3"
+}

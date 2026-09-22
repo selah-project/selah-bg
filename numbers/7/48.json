@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 7:48",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "В седмия ден — князът на синовете на Ефраим, Елишама, син на Амиуд.",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "В деня"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "седмия"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князът"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на синовете"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраим"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "Елишама"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "Амиуд"
+    }
+  ],
+  "timestamp": "2026-09-22T11:47:19.914246309Z",
+  "model": "glm-5.3"
+}

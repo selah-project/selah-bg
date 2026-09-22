@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 15:7",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "А вие укрепете се, и да не отслабнат ръцете ви, защото има отплата за делото ви.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "а вие"
+    },
+    {
+      "surface": "חזקו",
+      "gloss": "укрепете се"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "отслабнат"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "ръцете ви"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "отплата"
+    },
+    {
+      "surface": "לפעלתכם",
+      "gloss": "за делото ви"
+    }
+  ],
+  "timestamp": "2026-09-22T16:08:32.334463338Z",
+  "model": "glm-5.3"
+}

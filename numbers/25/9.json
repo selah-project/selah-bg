@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И бяха умрелите в моравата двайсет и четири хиляди.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И бяха"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "умрелите"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "в моравата"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "четири"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двайсет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляди"
+    }
+  ],
+  "timestamp": "2026-09-22T11:54:51.815820275Z",
+  "model": "glm-5.3"
+}

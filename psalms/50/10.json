@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 50,
+  "translation": "Защото моя е всяка звер на гората, добитъкът на хиляда хълмове.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לי",
+      "gloss": "моя е"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяка"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "звер на"
+    },
+    {
+      "surface": "יער",
+      "gloss": "гората"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "добитъкът"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "на хълмовете"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляда"
+    }
+  ],
+  "timestamp": "2026-09-22T14:58:49.432285594Z",
+  "model": "glm-5.3"
+}

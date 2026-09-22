@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И дойдох в Ерусалим и бях там три дни.",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "И дойдох"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Ерусалим"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "и бях"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    }
+  ],
+  "timestamp": "2026-09-22T15:52:38.427428829Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "А синовете на Ицхар: Корах, Нефег и Зихри.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "а синовете"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "на Ицхар"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "и Нефег"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "и Зихри"
+    }
+  ],
+  "timestamp": "2026-09-22T11:14:44.261988053Z",
+  "model": "glm-5.3"
+}

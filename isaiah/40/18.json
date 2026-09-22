@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 40:18",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 40,
+  "translation": "И на кого ще уподобите Ел, и какво подобие ще наредите нему?",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "И на"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "תדמיון",
+      "gloss": "ще уподобите"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и какво"
+    },
+    {
+      "surface": "דמות",
+      "gloss": "подобие"
+    },
+    {
+      "surface": "תערכו",
+      "gloss": "ще наредите"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    }
+  ],
+  "timestamp": "2026-09-22T13:38:46.816260444Z",
+  "model": "glm-5.3"
+}

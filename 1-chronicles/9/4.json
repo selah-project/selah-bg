@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 9:4",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Утай син на Амиуд, син на Омри, син на Имри, син на Бани — от синовете на Перец, син на Юда.",
+  "tokens": [
+    {
+      "surface": "עותי",
+      "gloss": "Утай"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "на Амиуд"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עמרי",
+      "gloss": "на Омри"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "на Имри"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "на Бани"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "на Перец"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Юда"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:49.197284149Z",
+  "model": "glm-5.3"
+}

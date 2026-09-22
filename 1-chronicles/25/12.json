@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 25:12",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Петият — Нетания: синовете му и братята му — дванадесет.",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "Петият"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "Нетания"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синовете му"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "и братята му"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "дванадесет"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:31.318242196Z",
+  "model": "glm-5.3"
+}

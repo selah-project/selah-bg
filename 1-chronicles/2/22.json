@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И Сегув роди ⟨את⟩ Яир, и ⟨бе⟩ нему двадесет и три града в земята Гилад.",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "И Сегув"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яир"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "Яир"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и ⟨бе⟩"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "и три"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "града"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "Гилад"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:23.677385706Z",
+  "model": "glm-5.3"
+}

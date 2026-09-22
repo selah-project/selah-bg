@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Така рече Адонай Яхве: няма да устои и няма да бъде.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "няма"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "да устои"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "да бъде"
+    }
+  ],
+  "timestamp": "2026-09-22T13:26:11.310291761Z",
+  "model": "glm-5.3"
+}

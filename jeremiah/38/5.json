@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 38:5",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "И рече царят Цидкияу: ето, той е във вашата ръка, защото царят не може ⟨да ви откаже⟩ нищо.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "Цидкияу"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "בידכם",
+      "gloss": "във вашата ръка"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אין",
+      "gloss": "не"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "може"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "нищо"
+    }
+  ],
+  "timestamp": "2026-09-22T14:03:55.986616294Z",
+  "model": "glm-5.3"
+}

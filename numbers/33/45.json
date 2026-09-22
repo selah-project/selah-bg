@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 33:45",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И тръгнаха от Иим и се разположиха стан в Дивон ⟨на⟩ Гад.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И тръгнаха"
+    },
+    {
+      "surface": "מעיים",
+      "gloss": "от Иим"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и се разположиха стан"
+    },
+    {
+      "surface": "בדיבן",
+      "gloss": "в Дивон"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    }
+  ],
+  "timestamp": "2026-09-22T11:59:43.631720719Z",
+  "model": "glm-5.3"
+}

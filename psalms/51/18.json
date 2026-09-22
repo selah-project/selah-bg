@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 51:18",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 51,
+  "translation": "Защото не желаеш ⟨жертва⟩, ⟨иначе⟩ бих ⟨я⟩ дал; всеизгаряне не Ти е угодно.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחפץ",
+      "gloss": "желаеш"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "жертва"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "и бих дал"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "всеизгаряне"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "Ти е угодно"
+    }
+  ],
+  "timestamp": "2026-09-22T16:29:28.669551740Z",
+  "model": "glm-5.3"
+}

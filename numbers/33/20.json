@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 33:20",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И тръгнаха от Римон-Перец и опънаха ⟨стан⟩ в Ливна.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "и тръгнаха"
+    },
+    {
+      "surface": "מרמן",
+      "gloss": "от Римон"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "Перец"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и опънаха ⟨стан⟩"
+    },
+    {
+      "surface": "בלבנה",
+      "gloss": "в Ливна"
+    }
+  ],
+  "timestamp": "2026-09-22T16:19:21.695241654Z",
+  "model": "glm-5.3"
+}

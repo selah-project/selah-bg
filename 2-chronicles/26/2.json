@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 26:2",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Той построи ⟨את⟩ Ейлот и го върна на Йехуда, след като царят легна при бащите си.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Той"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "построи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ейлот"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "Ейлот"
+    },
+    {
+      "surface": "וישיבה",
+      "gloss": "и го върна"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "на Йехуда"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "след като"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "легна"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "עם",
+      "gloss": "при"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "бащите си"
+    }
+  ],
+  "timestamp": "2026-09-22T16:10:42.429620271Z",
+  "model": "glm-5.3"
+}

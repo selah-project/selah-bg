@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Разсъдък ще те пази, разум ще те опазва",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "разсъдък"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ще те пази"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "над теб"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "разум"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "ще те опазва"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:17.267349882Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 84:13",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 84,
+  "translation": "Яхве Цеваот, блажен ⟨е⟩ човекът, който уповава в теб.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "блажен"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човекът"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "уповава"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в теб"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:01.807247546Z",
+  "model": "glm-5.3"
+}

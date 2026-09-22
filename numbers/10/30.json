@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И рече на него: не ще ида, но към моята земя и към моето родно място ще ида.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "на него"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ще ида"
+    },
+    {
+      "surface": "כי",
+      "gloss": "но"
+    },
+    {
+      "surface": "אם",
+      "gloss": "само"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "моюта земя"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и към"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "моето родно място"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ще ида"
+    }
+  ],
+  "timestamp": "2026-09-22T11:49:26.629547537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Затова, пастири, чуйте ⟨את⟩ словото на Яхве:",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "затова"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "пастири"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чуйте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "словото"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T16:26:43.535638850Z",
+  "model": "glm-5.3"
+}

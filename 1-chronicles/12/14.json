@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Ирмеяху десетия, Махбанай единадесетия.",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмеяху"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": " десетия"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "Махбанай"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "единадесетия"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-09-22T16:01:00.238317307Z",
+  "model": "glm-5.3"
+}

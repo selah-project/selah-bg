@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 141:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 141,
+  "translation": "Постави, Яхве, стража на устата ми, пази вратата на устните ми.",
+  "tokens": [
+    {
+      "surface": "שיתה",
+      "gloss": "Постави"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שמרה",
+      "gloss": "страж"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "на устата ми"
+    },
+    {
+      "surface": "נצרה",
+      "gloss": "пази"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "דל",
+      "gloss": "вратата"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "на устните ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:14:30.386700650Z",
+  "model": "glm-5.3"
+}

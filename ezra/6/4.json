@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "три реда ⟨от⟩ големи камъни и ред ⟨от⟩ ново дърво; и разноските от дома на царя да се дадат.",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "редове"
+    },
+    {
+      "surface": "די",
+      "gloss": "от"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камък"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "големи"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "три"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "и ред"
+    },
+    {
+      "surface": "די",
+      "gloss": "от"
+    },
+    {
+      "surface": "אע",
+      "gloss": "дърво"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "ново"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "и разноските"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "на царя"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "да се дадат"
+    }
+  ],
+  "timestamp": "2026-09-22T15:50:37.429676917Z",
+  "model": "glm-5.3"
+}

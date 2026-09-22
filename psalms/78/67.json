@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "psalms 78:67",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 78,
+  "translation": "И отхвърли шатъра на Йосеф, и племето Ефраим не избра.",
+  "tokens": [
+    {
+      "surface": "וימאס",
+      "gloss": "и отхвърли"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "шатъра"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф ⟨Йосиф⟩"
+    },
+    {
+      "surface": "ובשבט",
+      "gloss": "и племето"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "избра"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:00.035909884Z",
+  "model": "glm-5.3"
+}

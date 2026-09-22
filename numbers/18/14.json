@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Всичко заклято в Израел твое ще бъде.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всичко"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "заклято"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Израел"
+    },
+    {
+      "surface": "לך",
+      "gloss": "твое"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ще бъде"
+    }
+  ],
+  "timestamp": "2026-09-22T11:52:52.202618018Z",
+  "model": "glm-5.3"
+}

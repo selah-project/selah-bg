@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 27:23",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Проклет да е онзи, който ляга с тъщата си; и ще рече целият народ: Амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Проклет"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ляга"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "חתנתו",
+      "gloss": "тъщата си"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и ще рече"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целият"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    }
+  ],
+  "timestamp": "2026-09-22T12:12:28.526815964Z",
+  "model": "glm-5.3"
+}

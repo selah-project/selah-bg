@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И рече: Възлюбих Те, Яхве, крепост моя.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "възлюбих Те"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "крепост моя"
+    }
+  ],
+  "timestamp": "2026-09-22T16:29:16.263274663Z",
+  "model": "glm-5.3"
+}

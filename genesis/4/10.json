@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И рече: какво си направил? гласът на кръвта на брата ти вика към Мен от земята.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "си направил"
+    },
+    {
+      "surface": "קול",
+      "gloss": "гласът"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "кръвта"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "брата ти"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "вика"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към Мен"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "земята"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:45.563571613Z",
+  "model": "glm-5.3"
+}

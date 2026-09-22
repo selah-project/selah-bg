@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Дни много воюва Йехошуа с ⟨את⟩ всички тези царе война.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "много"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "войува"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йехошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всички тези царе"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "царе"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "война"
+    }
+  ],
+  "timestamp": "2026-09-22T12:22:04.951636240Z",
+  "model": "glm-5.3"
+}

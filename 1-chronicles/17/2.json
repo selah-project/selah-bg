@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "И каза Натан на Давид: всичко, което е в сърцето ти, прави, защото Елохим е с тебе.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "в сърцето ти"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "прави"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "е с тебе"
+    }
+  ],
+  "timestamp": "2026-09-22T16:01:50.467944431Z",
+  "model": "glm-5.3"
+}

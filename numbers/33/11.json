@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 33:11",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И потеглиха от морето Суф и разпънаха стан в пустинята Син.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И потеглиха"
+    },
+    {
+      "surface": "מים",
+      "gloss": "от морето"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и разпънаха стан"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустинята"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Син"
+    }
+  ],
+  "timestamp": "2026-09-22T11:59:44.526225923Z",
+  "model": "glm-5.3"
+}

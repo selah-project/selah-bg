@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 98:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 98,
+  "translation": "С тръби и с глас на шофар, екнете пред царя, Яхве.",
+  "tokens": [
+    {
+      "surface": "בחצצרות",
+      "gloss": "С тръби"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "и с глас"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "на шофар"
+    },
+    {
+      "surface": "הריעו",
+      "gloss": "екнете"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:25.070237985Z",
+  "model": "glm-5.3"
+}

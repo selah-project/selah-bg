@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 41:19",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 41,
+  "translation": "Смята желязото за плява, медта — за гнило дърво.",
+  "tokens": [
+    {
+      "surface": "יחשב",
+      "gloss": "смята"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "за плява"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "желязото"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "за дърво"
+    },
+    {
+      "surface": "רקבון",
+      "gloss": "гнило"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "медта"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:35.306278769Z",
+  "model": "glm-5.3"
+}

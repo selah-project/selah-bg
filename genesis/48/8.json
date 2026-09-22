@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 48:8",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "И видя Израел ⟨את⟩ синовете на Йосеф и каза: кои са тези?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и видя"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "синовете на Йосеф"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "на Йосеф"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кои"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "са тези"
+    }
+  ],
+  "timestamp": "2026-09-22T16:16:05.678654680Z",
+  "model": "glm-5.3"
+}

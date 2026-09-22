@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 83:13",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 83,
+  "translation": "които казаха: превземете ⟨за⟩ нас ⟨את⟩ пасищата на Елохим.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "казаха"
+    },
+    {
+      "surface": "נירשה",
+      "gloss": "превземете"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "за нас"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пасищата"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "пасищата"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:22.912375479Z",
+  "model": "glm-5.3"
+}

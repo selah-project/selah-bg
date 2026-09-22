@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И заченна пак Лия, и роди шести син на Яков.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "И заченна"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "пак"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Лия"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "шести"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "на Яков"
+    }
+  ],
+  "timestamp": "2026-09-22T11:04:34.334865662Z",
+  "model": "glm-5.3"
+}

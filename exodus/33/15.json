@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 33:15",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И рече към него: ако Лицето ти не върви, не ни качвай оттук.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "към него"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "Лицето ти"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "вървящи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעלנו",
+      "gloss": "ни качвай"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "оттук"
+    }
+  ],
+  "timestamp": "2026-09-22T11:28:07.945231254Z",
+  "model": "glm-5.3"
+}

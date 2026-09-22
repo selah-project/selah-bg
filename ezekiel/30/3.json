@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Защото близо е денят, и близо е денят на Яхве — ден на облак, време на народите ще бъде.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "близо"
+    },
+    {
+      "surface": "יום",
+      "gloss": "денят"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "и близо"
+    },
+    {
+      "surface": "יום",
+      "gloss": "денят"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "на облак"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "на народите"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ще бъде"
+    }
+  ],
+  "timestamp": "2026-09-22T14:23:53.309321916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И от свещениците: Йедая, Йехоярив и Яхин.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "И от"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "свещениците"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Йедая"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "Йехоярив"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "и Яхин"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:13.570397241Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 9:25",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И братята им в селата си идват за седемте дни, от време до време, заедно с тези.",
+  "tokens": [
+    {
+      "surface": "ואחיהם",
+      "gloss": "И братята им"
+    },
+    {
+      "surface": "בחצריהם",
+      "gloss": "в селата си"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "идват"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "за седемте"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "מעת",
+      "gloss": "от време"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "עם",
+      "gloss": "заедно с"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:46.656657814Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И този умира с горчива душа, и не е ял от благото.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "И този"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "умира"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "с душа"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "горчива"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "яде"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "от благото"
+    }
+  ],
+  "timestamp": "2026-09-22T15:28:20.225232577Z",
+  "model": "glm-5.3"
+}

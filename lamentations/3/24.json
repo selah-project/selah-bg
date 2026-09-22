@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Дялът ми ⟨е⟩ Яхве, каза душата ми — затова ще Го чакам.",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "Дялът ми"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "каза"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата ми"
+    },
+    {
+      "surface": "על",
+      "gloss": "затова"
+    },
+    {
+      "surface": "כן",
+      "gloss": "това"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "ще чакам"
+    },
+    {
+      "surface": "לו",
+      "gloss": "Го"
+    }
+  ],
+  "timestamp": "2026-09-22T15:37:04.878102080Z",
+  "model": "glm-5.3"
+}

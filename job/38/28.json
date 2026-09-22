@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "Има ли дъждът баща, или кой роди капките роса?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "има ли"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "дъждът"
+    },
+    {
+      "surface": "אב",
+      "gloss": "баща"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "капките"
+    },
+    {
+      "surface": "טל",
+      "gloss": "роса"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:05.473819227Z",
+  "model": "glm-5.3"
+}

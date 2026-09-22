@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 75:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 75,
+  "translation": "Не вдигайте високо рога си, не говорете с дръзка шия.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תרימו",
+      "gloss": "вдигайте"
+    },
+    {
+      "surface": "למרום",
+      "gloss": "високо"
+    },
+    {
+      "surface": "קרנכם",
+      "gloss": "рога си"
+    },
+    {
+      "surface": "תדברו",
+      "gloss": "говорете"
+    },
+    {
+      "surface": "בצואר",
+      "gloss": "с шия"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "дръзка"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:35.983978184Z",
+  "model": "glm-5.3"
+}

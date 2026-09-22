@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 139:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 139,
+  "translation": "Защото няма дума на езика ми — ето, Яхве, ти я знаеш цялата.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "מלה",
+      "gloss": "дума"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "на езика ми"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ето"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаеш"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "я цялата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:59.616348099Z",
+  "model": "glm-5.3"
+}

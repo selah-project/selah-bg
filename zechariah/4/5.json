@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 4:5",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И отговори ангелът, говорещият в мен, и ми рече: Не знаеш ли какви са тези? И аз казах: Не, господарю мой.",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "и отговори"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ангелът"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "говорещият"
+    },
+    {
+      "surface": "בי",
+      "gloss": "в мен"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаеш ли"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "המה",
+      "gloss": "те"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и казах"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господарю мой"
+    }
+  ],
+  "timestamp": "2026-09-22T14:46:47.958798380Z",
+  "model": "glm-5.3"
+}

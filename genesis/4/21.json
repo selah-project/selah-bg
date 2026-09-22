@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И името на брата му ⟨беше⟩ Ювал; той беше баща на всеки, който държи кинор и угав.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "и името"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "на брата му"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "Ювал"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "баща"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на всеки"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "който държи"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "кинор"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "и угав"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:10.376333967Z",
+  "model": "glm-5.3"
+}

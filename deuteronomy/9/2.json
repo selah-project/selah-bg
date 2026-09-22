@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 9:2",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Народ велик и висок, синове на анаким, които ти знаеш, и ти си чул: кой ще устои пред синовете на Анак?",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "и висок"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "ענקים",
+      "gloss": "на анаким"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаеш"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "и ти"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "си чул"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "ще устои"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ענק",
+      "gloss": "Анак"
+    }
+  ],
+  "timestamp": "2026-09-22T12:06:20.956546031Z",
+  "model": "glm-5.3"
+}

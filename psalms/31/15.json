@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 31:15",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "А аз на Теб се надявах, Яхве; казах: Елохим мой си Ти.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А аз"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "на Теб"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "се надявах"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "казах"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мой"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си Ти"
+    }
+  ],
+  "timestamp": "2026-09-22T14:55:23.333462470Z",
+  "model": "glm-5.3"
+}

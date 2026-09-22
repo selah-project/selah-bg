@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "judges 20:9",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "А сега, това е думата, която ще направим на Гива: срещу нея по жребий.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "думата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ще направим"
+    },
+    {
+      "surface": "לגבעה",
+      "gloss": "на Гива"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "срещу нея"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "по жребий"
+    }
+  ],
+  "timestamp": "2026-09-22T12:34:34.979280727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "daniel 1:14",
+  "book": "daniel",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И той послуша ⟨им⟩ за тази дума, и ги изпита десет дни.",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "и послуша"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨им⟩"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "за думата"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "тази"
+    },
+    {
+      "surface": "וינסם",
+      "gloss": "и ги изпита"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "десет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:42:39.912199907Z",
+  "model": "glm-5.3"
+}

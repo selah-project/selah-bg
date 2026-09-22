@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 29:32",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И ще ядат Аарон и синовете му ⟨את⟩ месото на овена и ⟨את⟩ хляба, който е в кошницата, при входа на шатъра на срещата.",
+  "tokens": [
+    {
+      "surface": "ואכל",
+      "gloss": "и ще ядат"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "и синовете му"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "mesoto na ovena"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "mesoto"
+    },
+    {
+      "surface": "האיל",
+      "gloss": "na ovena"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "khlyaba"
+    },
+    {
+      "surface": "הלחם",
+      "gloss": "khlyaba"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "koito"
+    },
+    {
+      "surface": "בסל",
+      "gloss": "v koshnitsata"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "при входа"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "на шатъра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на срещата"
+    }
+  ],
+  "timestamp": "2026-09-22T11:25:32.158025444Z",
+  "model": "glm-5.3"
+}

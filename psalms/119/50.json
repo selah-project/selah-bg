@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "psalms 119:50",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Това ⟨е⟩ утехата ми в бедата ми, че Твоето слово ме съживи.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Това"
+    },
+    {
+      "surface": "נחמתי",
+      "gloss": "утехата ми"
+    },
+    {
+      "surface": "בעניי",
+      "gloss": "в бедата ми"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "Твоето слово"
+    },
+    {
+      "surface": "חיתני",
+      "gloss": "ме съживи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:38.941261969Z",
+  "model": "glm-5.3"
+}

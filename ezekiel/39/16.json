@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 39:16",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 39,
+  "translation": "И дори името на града — Хамона; и ще очистят земята.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "и дори"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "на града"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "Хамона"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "и ще очистят"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    }
+  ],
+  "timestamp": "2026-09-22T14:27:38.060422540Z",
+  "model": "glm-5.3"
+}

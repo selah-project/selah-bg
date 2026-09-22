@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 29:5",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И рече им: Познавате ли ⟨את⟩ Лаван, син на Нахор? И рекоха: Познаваме.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "הידעתם",
+      "gloss": "Познавате ли"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Лаван"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "Нахор"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "И рекоха"
+    },
+    {
+      "surface": "ידענו",
+      "gloss": "Познаваме"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:49.944010103Z",
+  "model": "glm-5.3"
+}

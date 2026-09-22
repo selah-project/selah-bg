@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 20:4",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И рече Йонатан на Давид: какво каже душата ти, и аз ще го сторя за теб.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "Йонатан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "каже"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "душата ти"
+    },
+    {
+      "surface": "ואעשה",
+      "gloss": "и ще го сторя"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за теб"
+    }
+  ],
+  "timestamp": "2026-09-22T12:43:24.876336844Z",
+  "model": "glm-5.3"
+}

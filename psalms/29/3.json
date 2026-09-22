@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Гласът на Яхве ⟨е⟩ над водите: Ел на славата гръми — Яхве над многото води!",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "гласът"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "המים",
+      "gloss": "водите"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "на славата"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "гръми"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многото"
+    }
+  ],
+  "timestamp": "2026-09-22T14:55:14.182590859Z",
+  "model": "glm-5.3"
+}

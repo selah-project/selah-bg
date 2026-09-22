@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 2:12",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И сега пратих мъдър мъж, знаещ разумение — Хурам, баща ми.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И сега"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "пратих"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мъдър"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "знаещ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "разумение"
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "Хурам"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "баща ми"
+    }
+  ],
+  "timestamp": "2026-09-22T16:05:27.406088156Z",
+  "model": "glm-5.3"
+}

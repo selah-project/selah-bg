@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 8:9",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Ако ⟨е⟩ стена тя, ще построим върху нея сребърна кула; а ако врата тя, ще я заключим с дъска от кедър.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "стена"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "נבנה",
+      "gloss": "ще построим"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "върху нея"
+    },
+    {
+      "surface": "טירת",
+      "gloss": "кула"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "сребърна"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "דלת",
+      "gloss": "врата"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "נצור",
+      "gloss": "ще заключим"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "я"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "дъска"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "от кедър"
+    }
+  ],
+  "timestamp": "2026-09-22T15:35:34.062444368Z",
+  "model": "glm-5.3"
+}

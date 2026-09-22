@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "psalms 18:35",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Учи ръцете ми за война, и меден лък свали мишците ми.",
+  "tokens": [
+    {
+      "surface": "מלמד",
+      "gloss": "Учи"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ръцете ми"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "за война"
+    },
+    {
+      "surface": "ונחתה",
+      "gloss": "и свали"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лък"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "меден"
+    },
+    {
+      "surface": "זרועתי",
+      "gloss": "мишците ми"
+    }
+  ],
+  "timestamp": "2026-09-22T14:53:37.163435938Z",
+  "model": "glm-5.3"
+}

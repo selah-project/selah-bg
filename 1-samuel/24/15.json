@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 24:15",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Подир кого излезе царят на Израел? Подир кого ти гониш? Подир умряло куче, подир една бълха.",
+  "tokens": [
+    {
+      "surface": "אחרי",
+      "gloss": "подир"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "излезе"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "подир"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "רדף",
+      "gloss": "гониш"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "подир"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "куче"
+    },
+    {
+      "surface": "מת",
+      "gloss": "умряло"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "подир"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "бълха"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "една"
+    }
+  ],
+  "timestamp": "2026-09-22T12:44:02.675045315Z",
+  "model": "glm-5.3"
+}

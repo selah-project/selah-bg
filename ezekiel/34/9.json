@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Затова, пастири, чуйте словото на Яхве:",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "затова"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "пастири"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чуйте"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:24:59.837022356Z",
+  "model": "glm-5.3"
+}

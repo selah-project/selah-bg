@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И за втората страна на Мишкана, към север: двадесет дъски.",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "и за страната"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "на Мишкана"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "втората"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "към"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "север"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "дъски"
+    }
+  ],
+  "timestamp": "2026-09-22T11:24:22.473553040Z",
+  "model": "glm-5.3"
+}

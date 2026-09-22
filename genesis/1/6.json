@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И рече Елохим: да бъде простор всред водите, и да разделя води от води.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "да бъде"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "простор"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "всред"
+    },
+    {
+      "surface": "המים",
+      "gloss": "водите"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и да бъде"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "разделящ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "למים",
+      "gloss": "от води"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:39.146635671Z",
+  "model": "glm-5.3"
+}

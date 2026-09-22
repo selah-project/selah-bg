@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 24:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Кой е той, царят на славата? Яхве Цеваот — той е царят на славата. Села.",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "Кой"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е той"
+    },
+    {
+      "surface": "זה",
+      "gloss": "този"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "на славата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "е царят"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "на славата"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-22T14:54:37.196633741Z",
+  "model": "glm-5.3"
+}

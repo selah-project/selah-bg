@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 23:6",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Пре минете в Таршиш; ридайте, жители на острова!",
+  "tokens": [
+    {
+      "surface": "עברו",
+      "gloss": "пре минете"
+    },
+    {
+      "surface": "תרשישה",
+      "gloss": "в Таршиш"
+    },
+    {
+      "surface": "הילילו",
+      "gloss": "ридайте"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "жители"
+    },
+    {
+      "surface": "אי",
+      "gloss": "на острова"
+    }
+  ],
+  "timestamp": "2026-09-22T13:32:04.040830261Z",
+  "model": "glm-5.3"
+}

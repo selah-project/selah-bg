@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "Мизмор на Давид, за да се помни.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Мизмор"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "за да се помни"
+    }
+  ],
+  "timestamp": "2026-09-22T16:29:19.206420695Z",
+  "model": "glm-5.3"
+}

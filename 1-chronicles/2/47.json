@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 2:47",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И синове на Йахдай: Регем, и Йотам, и Гешан, и Пелет, и Ейфа, и Шааф.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синове"
+    },
+    {
+      "surface": "יהדי",
+      "gloss": "Йахдай"
+    },
+    {
+      "surface": "רגם",
+      "gloss": "Регем"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "и Йотам"
+    },
+    {
+      "surface": "וגישן",
+      "gloss": "и Гешан"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "и Пелет"
+    },
+    {
+      "surface": "ועיפה",
+      "gloss": "и Ейфа"
+    },
+    {
+      "surface": "ושעף",
+      "gloss": "и Шааф"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:55.652175616Z",
+  "model": "glm-5.3"
+}

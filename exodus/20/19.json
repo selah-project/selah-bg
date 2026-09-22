@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 20:19",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И казаха на Моше: Говори ти с нас и ще чуем, а да не говори Елохим с нас, за да не умрем.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И казаха"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "Говори"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "с нас"
+    },
+    {
+      "surface": "ונשמעה",
+      "gloss": "и ще чуем"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "а да не"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "с нас"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "פן",
+      "gloss": "за да не"
+    },
+    {
+      "surface": "נמות",
+      "gloss": "умрем"
+    }
+  ],
+  "timestamp": "2026-09-22T11:20:45.400241283Z",
+  "model": "glm-5.3"
+}

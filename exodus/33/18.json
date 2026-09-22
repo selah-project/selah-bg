@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И рече: покажи ми, моля Ти, ⟨את⟩ Твоята слава.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "покажи ми"
+    },
+    {
+      "surface": "נא",
+      "gloss": "моля Ти"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Твоята слава"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "Твоята слава"
+    }
+  ],
+  "timestamp": "2026-09-22T11:28:08.642673015Z",
+  "model": "glm-5.3"
+}

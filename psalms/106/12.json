@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 106:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 106,
+  "translation": "И повярваха в думите му, пяха хвалата му.",
+  "tokens": [
+    {
+      "surface": "ויאמינו",
+      "gloss": "И повярваха"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "в думите му"
+    },
+    {
+      "surface": "ישירו",
+      "gloss": "пяха"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "хвалата му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:43.735061623Z",
+  "model": "glm-5.3"
+}

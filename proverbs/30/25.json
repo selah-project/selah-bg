@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 30:25",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Мравките — народ не силен, а приготвят в лятото храната си.",
+  "tokens": [
+    {
+      "surface": "הנמלים",
+      "gloss": "мравките"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עז",
+      "gloss": "силен"
+    },
+    {
+      "surface": "ויכינו",
+      "gloss": "а приготвят"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "в лятото"
+    },
+    {
+      "surface": "לחמם",
+      "gloss": "храната си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:12.246185536Z",
+  "model": "glm-5.3"
+}

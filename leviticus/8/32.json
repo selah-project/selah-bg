@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "А останалото от месото и от хляба в огън ще изгорите.",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "А останалото"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "от месото"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "и от хляба"
+    },
+    {
+      "surface": "באש",
+      "gloss": "в огън"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "ще изгорите"
+    }
+  ],
+  "timestamp": "2026-09-22T11:35:18.274523519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 13:4",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И това са имената им: за племето на Реувен — Шамуа, син на Закур.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "и това"
+    },
+    {
+      "surface": "שמותם",
+      "gloss": "са имената им"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "за племето"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "Реувен"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "Шамуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "на Закур"
+    }
+  ],
+  "timestamp": "2026-09-22T11:50:16.023114219Z",
+  "model": "glm-5.3"
+}

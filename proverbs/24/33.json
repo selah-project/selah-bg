@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Малко сън, малко дремка, малко прегръдане на ръце за лягане —",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "малко"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "сън"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "малко"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "дремка"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "малко"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "прегръдане"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ръце"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "за лягане"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:38.992394381Z",
+  "model": "glm-5.3"
+}

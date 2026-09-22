@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 120,
+  "translation": "Какво ще ти даде и какво ще ти прибави, език лъжлив?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ще даде"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и какво"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ще прибави"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "език"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "лъжлив"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:19.428413396Z",
+  "model": "glm-5.3"
+}

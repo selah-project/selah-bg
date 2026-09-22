@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И удари ⟨את⟩ Моав, и станаха моавците роби на Давид, носещи дар.",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "И удари"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Моав"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "и станаха"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "моавците"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "роби"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "носещи"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "дар"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:12.846270587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 4:1",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И рече Яхве на Моше, като ⟨каже⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "като ⟨каже⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T11:31:35.348638156Z",
+  "model": "glm-5.3"
+}

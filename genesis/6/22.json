@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И направи Ной според всичко, което Елохим му заповяда — така направи.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и направи"
+    },
+    {
+      "surface": "נח",
+      "gloss": "Ной"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "според всичко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповяда"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ нему",
+      "marks": "него"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    }
+  ],
+  "timestamp": "2026-09-22T10:55:10.660866610Z",
+  "model": "glm-5.3"
+}

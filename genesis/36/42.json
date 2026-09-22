@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "княз Кеназ, княз Теман, княз Мивцар.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "княз"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "Кеназ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "княз"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "Теман"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "княз"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "Мивцар"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:35.936333984Z",
+  "model": "glm-5.3"
+}

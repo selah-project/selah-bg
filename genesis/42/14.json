@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 42:14",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 42,
+  "translation": "И каза им Йосеф: това е, за което ви говорих, казвайки: разведчици сте вие.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И каза"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "това"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорих"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "разведчици"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    }
+  ],
+  "timestamp": "2026-09-22T11:10:49.032234675Z",
+  "model": "glm-5.3"
+}

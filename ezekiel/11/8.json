@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 11:8",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Меч страхувахте, и меч ще докарам върху вас — слово на Адонай Яхве.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "Меч"
+    },
+    {
+      "surface": "יראתם",
+      "gloss": "страхувахте"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "и меч"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "ще докарам"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "върху вас"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:14:09.027046061Z",
+  "model": "glm-5.3"
+}

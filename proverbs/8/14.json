@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Мое е съветът и разумността; аз ⟨съм⟩ проницателност; мое е силата.",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "мое е"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "съветът"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "и разумността"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "проницателност"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мое е"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "силата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:20.448310269Z",
+  "model": "glm-5.3"
+}

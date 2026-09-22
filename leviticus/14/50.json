@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И ще заколи ⟨את⟩ едната птица в глинен съд, върху жива вода.",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "и ще заколи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "едната птица"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "птицата"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "едната"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "съд"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "глинен"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "жива"
+    }
+  ],
+  "timestamp": "2026-09-22T16:17:43.358239030Z",
+  "model": "glm-5.3"
+}

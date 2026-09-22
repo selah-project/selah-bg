@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 30:31",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Защото от гласа на Яхве Ашур ще бъде сломен; с тояга ще порази.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "מקול",
+      "gloss": "от гласа"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ще бъде сломен"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "с тояга"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "ще порази"
+    }
+  ],
+  "timestamp": "2026-09-22T13:35:10.149664964Z",
+  "model": "glm-5.3"
+}

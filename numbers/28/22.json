@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 28:22",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "И един козел за греха ⟨за умилостивение⟩ върху вас.",
+  "tokens": [
+    {
+      "surface": "ושעיר",
+      "gloss": "И козел"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "греховна ⟨жертва⟩"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "да умилостиви"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-09-22T11:56:53.412128999Z",
+  "model": "glm-5.3"
+}

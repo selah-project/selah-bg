@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И зачена Билха, и роди на Яаков син.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "И зачена"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Билха"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "на Яаков"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    }
+  ],
+  "timestamp": "2026-09-22T16:15:35.371020200Z",
+  "model": "glm-5.3"
+}

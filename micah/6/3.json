@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Народо мой, какво ти направих, и с какво те уморих? Отговори ми.",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "Народо мой"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ти направих"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и с какво"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "те уморих"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "Отговори"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ми"
+    }
+  ],
+  "timestamp": "2026-09-22T14:43:06.927162691Z",
+  "model": "glm-5.3"
+}

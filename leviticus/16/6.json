@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 16:6",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И да приведе Арон ⟨את⟩ юнеца за греха, който е негов, и да умилостиви за себе си и за дома си.",
+  "tokens": [
+    {
+      "surface": "והקריב",
+      "gloss": "и да приведе"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Арон"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "юнеца"
+    },
+    {
+      "surface": "פר",
+      "gloss": "юнеца"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "за греха"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "לו",
+      "gloss": "негов"
+    },
+    {
+      "surface": "וכפר",
+      "gloss": "и да умилостиви"
+    },
+    {
+      "surface": "בעדו",
+      "gloss": "за себе си"
+    },
+    {
+      "surface": "ובעד",
+      "gloss": "и за"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "дома си"
+    }
+  ],
+  "timestamp": "2026-09-22T11:38:05.746450881Z",
+  "model": "glm-5.3"
+}

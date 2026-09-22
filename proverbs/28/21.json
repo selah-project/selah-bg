@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Да познаваш лица не е добро, и за къс хляб човек ще престъпи.",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "да познаваш"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "лица"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и за"
+    },
+    {
+      "surface": "פת",
+      "gloss": "къс"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляб"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "ще престъпи"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "човек"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:12.403835982Z",
+  "model": "glm-5.3"
+}

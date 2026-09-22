@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "На юдеите беше светлина, и радост, и веселие, и чест.",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "на юдеите"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "светлина"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "и радост"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "и веселие"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "и чест"
+    }
+  ],
+  "timestamp": "2026-09-22T15:42:29.936999378Z",
+  "model": "glm-5.3"
+}

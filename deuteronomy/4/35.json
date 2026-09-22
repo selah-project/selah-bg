@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "deuteronomy 4:35",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "На теб беше показано, за да познаеш, че Яхве — той е Елохим; няма ⟨друг⟩ освен него.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "беше показано"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "за да познаеш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨друг⟩"
+    },
+    {
+      "surface": "מלבדו",
+      "gloss": "освен него"
+    }
+  ],
+  "timestamp": "2026-09-22T12:04:10.421172204Z",
+  "model": "glm-5.3"
+}

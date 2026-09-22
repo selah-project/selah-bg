@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 5:27",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Ето, това го изследвахме — така е; чуй го, и ти познай за себе си.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това"
+    },
+    {
+      "surface": "חקרנוה",
+      "gloss": "изследвахме го"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "היא",
+      "gloss": "е"
+    },
+    {
+      "surface": "שמענה",
+      "gloss": "чуй го"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "и ти"
+    },
+    {
+      "surface": "דע",
+      "gloss": "познай"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за себе си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:24:23.366083581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Богатство и чест ⟨са⟩ с ⟨את⟩ мене, трайно имане и правда.",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "Богатство"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "и чест"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ мене",
+      "marks": "с мене"
+    },
+    {
+      "surface": "הון",
+      "gloss": "имане"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "трайно"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "и правда"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:34.781738092Z",
+  "model": "glm-5.3"
+}

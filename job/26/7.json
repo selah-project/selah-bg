@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 26:7",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Простира ⟨север⟩ над тоху, весва земята над нищо.",
+  "tokens": [
+    {
+      "surface": "נטה",
+      "gloss": "простира"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "север"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "тоху"
+    },
+    {
+      "surface": "תלה",
+      "gloss": "весва"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "מה",
+      "gloss": "нищо"
+    }
+  ],
+  "timestamp": "2026-09-22T15:29:31.844633679Z",
+  "model": "glm-5.3"
+}

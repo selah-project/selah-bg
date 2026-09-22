@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "joshua 15:60",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Кирят-Баал, тя ⟨е⟩ Кирят-Ярим, и ха-Раба — градове два, и селата им",
+  "tokens": [
+    {
+      "surface": "קרית",
+      "gloss": "Кирят-Баал"
+    },
+    {
+      "surface": "בעל",
+      "gloss": ""
+    },
+    {
+      "surface": "היא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "Кирят-Ярим"
+    },
+    {
+      "surface": "יערים",
+      "gloss": ""
+    },
+    {
+      "surface": "והרבה",
+      "gloss": "и ха-Раба"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "градове"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "два"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "и селата им"
+    }
+  ],
+  "timestamp": "2026-09-22T12:22:18.073114497Z",
+  "model": "glm-5.3"
+}

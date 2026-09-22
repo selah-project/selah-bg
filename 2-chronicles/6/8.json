@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 6:8",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И рече Яхве на Давид, баща ми: Понеже беше със сърцето ти да построиш дом за Името ми, добре стори, че беше със сърцето ти.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "баща ми"
+    },
+    {
+      "surface": "יען",
+      "gloss": "Понеже"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "че"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "עם",
+      "gloss": "със"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "сърцето ти"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "да построиш"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "за Името ми"
+    },
+    {
+      "surface": "הטיבות",
+      "gloss": "добре стори"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "עם",
+      "gloss": "със"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "сърцето ти"
+    }
+  ],
+  "timestamp": "2026-09-22T16:05:05.948540351Z",
+  "model": "glm-5.3"
+}

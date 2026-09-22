@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 7:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Шигайон на Давид, който пя към Яхве за думите на Куш, син на Яминий.",
+  "tokens": [
+    {
+      "surface": "שגיון",
+      "gloss": "Шигайон"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "שר",
+      "gloss": "пя"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "към Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "думите"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "Яминий"
+    }
+  ],
+  "timestamp": "2026-09-22T14:50:36.616020577Z",
+  "model": "glm-5.3"
+}

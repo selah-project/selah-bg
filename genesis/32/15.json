@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 32:15",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "Кози двеста и козли двайсет, овци двеста и овни двайсет.",
+  "tokens": [
+    {
+      "surface": "עזים",
+      "gloss": "Кози"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двеста"
+    },
+    {
+      "surface": "ותישים",
+      "gloss": "и козли"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двайсет"
+    },
+    {
+      "surface": "רחלים",
+      "gloss": "овци"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двеста"
+    },
+    {
+      "surface": "ואילים",
+      "gloss": "и овни"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двайсет"
+    }
+  ],
+  "timestamp": "2026-09-22T11:05:23.229016746Z",
+  "model": "glm-5.3"
+}

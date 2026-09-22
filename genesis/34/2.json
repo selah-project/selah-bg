@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 34:2",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "И я видя Шхем, синът на Хамор хивееца, князът на земята, и я взе, и легна с ⟨нея⟩, и я унизи.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и видя"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "я ⟨את⟩",
+      "marks": "я"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шхем"
+    },
+    {
+      "surface": "בן",
+      "gloss": "синът"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "на Хамор"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "хивееца"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "князът"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земята"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "и взе"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "я ⟨את⟩",
+      "marks": "я"
+    },
+    {
+      "surface": "וישכב",
+      "gloss": "и легна"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩ нея",
+      "marks": "нея"
+    },
+    {
+      "surface": "ויענה",
+      "gloss": "и я унизи"
+    }
+  ],
+  "timestamp": "2026-09-22T11:07:13.468724100Z",
+  "model": "glm-5.3"
+}

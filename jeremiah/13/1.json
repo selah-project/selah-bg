@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 13:1",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Така рече Яхве ⟨към⟩ мене: иди и си купи пояс от лен, и сложи го на кръста си, и във вода не го топи.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "⟨към⟩ мене"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "וקנית",
+      "gloss": "и си купи"
+    },
+    {
+      "surface": "לך",
+      "gloss": "си"
+    },
+    {
+      "surface": "אזור",
+      "gloss": "пояс"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "от лен"
+    },
+    {
+      "surface": "ושמתו",
+      "gloss": "и сложи го"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מתניך",
+      "gloss": "кръста си"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "и във вода"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבאהו",
+      "gloss": "го топи"
+    }
+  ],
+  "timestamp": "2026-09-22T13:53:38.088821681Z",
+  "model": "glm-5.3"
+}

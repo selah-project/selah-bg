@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Който гони правда и хесед, ще намери живот — правда и слава.",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "гони"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "правда"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "и хесед"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ще намери"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живот"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "правда"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "и слава"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:10.183103939Z",
+  "model": "glm-5.3"
+}

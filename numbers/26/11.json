@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "А синовете на Корах не умряха.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "а синовете"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Корах"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "умряха"
+    }
+  ],
+  "timestamp": "2026-09-22T11:56:12.926012474Z",
+  "model": "glm-5.3"
+}

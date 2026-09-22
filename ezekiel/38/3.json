@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 38:3",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "и кажи: Така каза Адонай Яхве: Ето Ме against тебе, Гог, княз, глава на Мешех и Тувал:",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "и кажи"
+    },
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ето Ме"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "срещу тебе"
+    },
+    {
+      "surface": "גוג",
+      "gloss": "Гог"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "княз"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "глава"
+    },
+    {
+      "surface": "משך",
+      "gloss": "на Мешех"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "и Тувал"
+    }
+  ],
+  "timestamp": "2026-09-22T14:27:52.769926699Z",
+  "model": "glm-5.3"
+}

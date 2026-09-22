@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 79:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 79,
+  "translation": "До кога, Яхве, ще се гневиш до край, ще пламти като огън твоята ревност?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מה",
+      "gloss": "кога"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תאנף",
+      "gloss": "ще се гневиш"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "до край"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "ще пламти"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "като"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огън"
+    },
+    {
+      "surface": "קנאתך",
+      "gloss": "твоята ревност"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:44.665959539Z",
+  "model": "glm-5.3"
+}

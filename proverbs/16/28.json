@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 16:28",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Човек изкривен пуска раздор, и шепотът разделя приятел.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Човек"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "изкривен"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "пуска"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "раздор"
+    },
+    {
+      "surface": "ונרגן",
+      "gloss": "и шепотът"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "разделя"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "приятел"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:56.729286005Z",
+  "model": "glm-5.3"
+}

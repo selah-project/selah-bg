@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "job 16:18",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Земьо, не покривай кръвта ми, и да няма място за вика ми!",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "земьо"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכסי",
+      "gloss": "покривай"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "кръвта ми"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "бъде"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "място"
+    },
+    {
+      "surface": "לזעקתי",
+      "gloss": "за вика ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:27:03.376121599Z",
+  "model": "glm-5.3"
+}

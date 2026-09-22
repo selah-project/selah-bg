@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 7:13",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Синове на Нефтали: Яхцеиел, и Гуни, и Йецер, и Шалум — синове на Билха.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синове"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "на Нефтали"
+    },
+    {
+      "surface": "יחציאל",
+      "gloss": "Яхцеиел"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "и Гуни"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "и Йецер"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "и Шалум"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "на Билха"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:03.158618791Z",
+  "model": "glm-5.3"
+}

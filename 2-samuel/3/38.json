@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 3:38",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И рече царят на слугите си: не знаете ли, че княз и велик падна днес в Израел?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "слугите си"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "не… ли"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "знаете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "שר",
+      "gloss": "княз"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "и велик"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "падна"
+    },
+    {
+      "surface": "היום",
+      "gloss": "днес"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T16:22:40.886976864Z",
+  "model": "glm-5.3"
+}

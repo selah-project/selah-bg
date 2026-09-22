@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "В дните ония аз, Даниел, бях в жалост три седмици дни.",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "В дните"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ония"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "Даниел"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "бях"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "в жалост"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "седмици"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    }
+  ],
+  "timestamp": "2026-09-22T15:47:32.589560531Z",
+  "model": "glm-5.3"
+}

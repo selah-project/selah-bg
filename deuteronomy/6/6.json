@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И да бъдат ⟨тези⟩ думите, които аз ти заповядвам днес, върху сърцето ти.",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "и да бъдат"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "думите"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "⟨тези⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ти заповядвам"
+    },
+    {
+      "surface": "היום",
+      "gloss": "днес"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "сърцето ти"
+    }
+  ],
+  "timestamp": "2026-09-22T12:02:54.797844115Z",
+  "model": "glm-5.3"
+}

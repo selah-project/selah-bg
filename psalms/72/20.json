@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 72,
+  "translation": "Свършиха се молитвите на Давид, син на Исай.",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "Свършиха се"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "молитвите"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "на Исай"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:40.280448429Z",
+  "model": "glm-5.3"
+}

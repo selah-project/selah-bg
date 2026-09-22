@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 11:28",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "и в Циклаг, и в Мехона и в селата ѝ.",
+  "tokens": [
+    {
+      "surface": "ובצקלג",
+      "gloss": "и в Циклаг"
+    },
+    {
+      "surface": "ובמכנה",
+      "gloss": "и в Мехона"
+    },
+    {
+      "surface": "ובבנתיה",
+      "gloss": "и в селата ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T15:54:59.465893562Z",
+  "model": "glm-5.3"
+}

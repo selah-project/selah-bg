@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 11:3",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Кажи на Рехавам, син на Шеломо, цар на Йехуда, и на целия Израел в Йехуда и Вениамин, казвайки:",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Кажи"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рехавам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "на Шеломо"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Йехуда"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целия"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "в Йехуда"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "и Вениамин"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T16:07:28.065278704Z",
+  "model": "glm-5.3"
+}

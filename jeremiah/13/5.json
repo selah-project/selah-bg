@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 13:5",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И отидох и го скрих в Пърат, както заповяда Яхве ⟨את⟩ мен.",
+  "tokens": [
+    {
+      "surface": "ואלך",
+      "gloss": "И отидох"
+    },
+    {
+      "surface": "ואטמנהו",
+      "gloss": "и го скрих"
+    },
+    {
+      "surface": "בפרת",
+      "gloss": "в Пърат"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповяда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ мен",
+      "marks": "мен"
+    }
+  ],
+  "timestamp": "2026-09-22T16:42:42.679699324Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 22:22",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Ако потиснеш го потискайки — ако извика извикайки към мен, ще чуя, ще чуя вика му.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "потиснеш"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "потискайки"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "צעק",
+      "gloss": "извика"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "извикайки"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мен"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "чуя"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "чуя"
+    },
+    {
+      "surface": "צעקתו",
+      "gloss": "вика му"
+    }
+  ],
+  "timestamp": "2026-09-22T11:22:05.661266509Z",
+  "model": "glm-5.3"
+}

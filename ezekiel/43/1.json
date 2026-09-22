@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 43:1",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 43,
+  "translation": "И ме заведе ⟨при⟩ портата, портата, която е обърната ⟨към⟩ изтока.",
+  "tokens": [
+    {
+      "surface": "ויולכני",
+      "gloss": "И ме заведе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨при⟩"
+    },
+    {
+      "surface": "השער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "שער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "е обърната"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "⟨към⟩"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "изтока"
+    }
+  ],
+  "timestamp": "2026-09-22T14:30:08.601680361Z",
+  "model": "glm-5.3"
+}

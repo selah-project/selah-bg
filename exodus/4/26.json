@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И остави той него; тогава каза тя: жених на кръв — за обрезанията.",
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "И остави"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "него"
+    },
+    {
+      "surface": "אז",
+      "gloss": "тогава"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "каза тя"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "жених"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "на кръв"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "за обрезанията"
+    }
+  ],
+  "timestamp": "2026-09-22T11:15:02.397057992Z",
+  "model": "glm-5.3"
+}

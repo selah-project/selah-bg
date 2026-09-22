@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Дай дял на седем и даже на осем, защото не знаеш какво зло ще бъде върху земята.",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "Дай"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "дял"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "на седем"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и даже"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "на осем"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "знаеш"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ще бъде"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:08.888408675Z",
+  "model": "glm-5.3"
+}

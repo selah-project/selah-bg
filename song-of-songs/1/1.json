@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Песента на песните, която ⟨е⟩ на Шеломо.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Песента"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "на песните"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "на Шеломо"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:51.886306318Z",
+  "model": "glm-5.3"
+}

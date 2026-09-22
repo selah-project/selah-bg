@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "За Нефтали — Ахира, син на Ейнан.",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "за Нефтали"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "Ахира"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "на Ейнан"
+    }
+  ],
+  "timestamp": "2026-09-22T11:44:34.421528840Z",
+  "model": "glm-5.3"
+}

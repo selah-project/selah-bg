@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "Вслушайте се, небесата, и ще говоря, и нека чуе земята думите на устата ми.",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "вслушайте се"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесата"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "и ще говоря"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "и нека чуе"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "думите"
+    },
+    {
+      "surface": "פי",
+      "gloss": "на устата ми"
+    }
+  ],
+  "timestamp": "2026-09-22T12:15:17.798106409Z",
+  "model": "glm-5.3"
+}

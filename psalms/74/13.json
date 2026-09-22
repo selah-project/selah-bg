@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 74:13",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 74,
+  "translation": "Ти разби със силата Си морето, стри главите на танините над водите.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "פוררת",
+      "gloss": "разби"
+    },
+    {
+      "surface": "בעזך",
+      "gloss": "със силата Си"
+    },
+    {
+      "surface": "ים",
+      "gloss": "морето"
+    },
+    {
+      "surface": "שברת",
+      "gloss": "стри"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главите"
+    },
+    {
+      "surface": "תנינים",
+      "gloss": "на танините"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "המים",
+      "gloss": "водите"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:19.289011015Z",
+  "model": "glm-5.3"
+}

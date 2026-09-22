@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 8:9",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И рече ⟨ѝ⟩ на мен: Влези и виж ⟨את⟩ мерзостите лошите, които те вършат тук.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "на мен"
+    },
+    {
+      "surface": "בא",
+      "gloss": "Влези"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и виж"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "мерзостите"
+    },
+    {
+      "surface": "התועבות",
+      "gloss": "мерзостите"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "лошите"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "הם",
+      "gloss": "те"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "вършат"
+    },
+    {
+      "surface": "פה",
+      "gloss": "тук"
+    }
+  ],
+  "timestamp": "2026-09-22T14:12:44.705976702Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 11:25",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И сега — по-добър ли си ти от Валак, син Ципор, цар Моав? Спори ли той със Израил, или воюва ли воюва с тях?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "и сега"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "по-добър"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ли"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מבלק",
+      "gloss": "от Валак"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "Ципор"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "הרוב",
+      "gloss": "спори"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ли"
+    },
+    {
+      "surface": "עם",
+      "gloss": "със"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израил"
+    },
+    {
+      "surface": "אם",
+      "gloss": "или"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "воюва"
+    },
+    {
+      "surface": "נלחם",
+      "gloss": "воюва"
+    },
+    {
+      "surface": "בם",
+      "gloss": "с тях"
+    }
+  ],
+  "timestamp": "2026-09-22T12:32:08.692603763Z",
+  "model": "glm-5.3"
+}

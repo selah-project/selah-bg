@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 9:9",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И видя ⟨את⟩ страданието на бащите ни в Мицраим, и ⟨את⟩ вика им чу при морето Суф.",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "И видя"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "страданието"
+    },
+    {
+      "surface": "עני",
+      "gloss": "страданието"
+    },
+    {
+      "surface": "אבתינו",
+      "gloss": "на бащите ни"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "в Мицраим"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "вика им"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "вика им"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "чу"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "ים",
+      "gloss": "морето"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "Суф"
+    }
+  ],
+  "timestamp": "2026-09-22T15:54:14.973183463Z",
+  "model": "glm-5.3"
+}

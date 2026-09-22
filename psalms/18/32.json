@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Защото кой е Елохин освен Яхве, и кой е скала освен Елохим ни?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елохин"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "освен"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и кой"
+    },
+    {
+      "surface": "צור",
+      "gloss": "скала"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "освен"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохим ни"
+    }
+  ],
+  "timestamp": "2026-09-22T14:53:48.288038833Z",
+  "model": "glm-5.3"
+}

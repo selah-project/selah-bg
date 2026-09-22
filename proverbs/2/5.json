@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Тогава ще разбереш страха от Яхве, и познанието за Елохим ще намериш.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тогава"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "ще разбереш"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "страх"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "и познание"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ще намериш"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:46.043300599Z",
+  "model": "glm-5.3"
+}

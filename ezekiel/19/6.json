@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 19:6",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И ходеше сред лъвове, млад лъв стана, и се научи да граби плячка, човек изяде.",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "И ходеше"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "сред"
+    },
+    {
+      "surface": "אריות",
+      "gloss": "лъвове"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "млад лъв"
+    },
+    {
+      "surface": "היה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "וילמד",
+      "gloss": "и се научи"
+    },
+    {
+      "surface": "לטרף",
+      "gloss": "да граби"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "плячка"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "изяде"
+    }
+  ],
+  "timestamp": "2026-09-22T14:18:21.086545404Z",
+  "model": "glm-5.3"
+}

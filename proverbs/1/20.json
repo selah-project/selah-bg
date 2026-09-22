@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Мъдростта навън вдига вопъл, по площадите дава гласа си.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Мъдростта"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "навън"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "вдига вопъл"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "по площадите"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "дава"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "гласа си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:34.926616255Z",
+  "model": "glm-5.3"
+}

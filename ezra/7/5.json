@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 7:5",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "син на Авишуа, син на Пинхас, син на Елеазар, син на Аарон свещеника, главата.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "Авишуа"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "Пинхас"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Елеазар"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свещеника"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "главата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:49:45.297678722Z",
+  "model": "glm-5.3"
+}

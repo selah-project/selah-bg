@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 36:32",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "И царува в Едом Бела, син на Беор, и името на града му беше Динхава.",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "И царува"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "в Едом"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "Бела"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "на Беор"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "и името"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "на града му"
+    },
+    {
+      "surface": "דנהבה",
+      "gloss": "Динхава"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:56.879372458Z",
+  "model": "glm-5.3"
+}

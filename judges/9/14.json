@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И рекоха всички дървета към къпината: иди ти, царувай над нас.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И рекоха"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "дървета"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "къпината"
+    },
+    {
+      "surface": "לך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царувай"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "над нас"
+    }
+  ],
+  "timestamp": "2026-09-22T12:29:36.040061669Z",
+  "model": "glm-5.3"
+}

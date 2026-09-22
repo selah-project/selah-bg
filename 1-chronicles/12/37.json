@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 12:37",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И от Асир — излизащи на войска, да наредят битка: четиридесет хиляди.",
+  "tokens": [
+    {
+      "surface": "ומאשר",
+      "gloss": "и от Асир"
+    },
+    {
+      "surface": "יוצאי",
+      "gloss": "излизащи"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "на войска"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "да наредят"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "битка"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четиридесет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляди"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:58.362276249Z",
+  "model": "glm-5.3"
+}

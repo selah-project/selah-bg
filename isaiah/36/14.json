@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 36:14",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "Така каза царят: не да ви заблуди Хизкияу ⟨Езекия⟩, защото не ще може да избави ⟨את⟩ вас.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "да заблуди"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкияу"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "ще може"
+    },
+    {
+      "surface": "להציל",
+      "gloss": "да избави"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "вас"
+    }
+  ],
+  "timestamp": "2026-09-22T13:37:05.671925103Z",
+  "model": "glm-5.3"
+}

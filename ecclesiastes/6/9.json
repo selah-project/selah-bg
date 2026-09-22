@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "По-добро ⟨е⟩ виждането на очите от скитането на душата; също и това ⟨е⟩ суета и мъчене на духа.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "по-добро"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "виждане"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "на очите"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "от скитането"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "на душата"
+    },
+    {
+      "surface": "גם",
+      "gloss": "също"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "суета"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "и мъчене"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "на духа"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:20.657171532Z",
+  "model": "glm-5.3"
+}

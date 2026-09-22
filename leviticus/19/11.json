@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 19:11",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "Не крадете, и не отричайте, и не лъжете — всеки ближния си:",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תגנבו",
+      "gloss": "крадете"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תכחשו",
+      "gloss": "отричайте"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשקרו",
+      "gloss": "лъжете"
+    },
+    {
+      "surface": "איש",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "ближния си"
+    }
+  ],
+  "timestamp": "2026-09-22T11:38:06.842416266Z",
+  "model": "glm-5.3"
+}

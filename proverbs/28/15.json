@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "⟨Като⟩ ръмжащ лъв и ⟨като⟩ ловуваща мечка — нечестив владетел над беден народ.",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "лъв"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "ръмжащ"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "и мечка"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "ловуваща"
+    },
+    {
+      "surface": "משל",
+      "gloss": "владетел"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "нечестив"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "беден"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:30.797391054Z",
+  "model": "glm-5.3"
+}

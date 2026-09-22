@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 129:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 129,
+  "translation": "Яхве е праведен — Той отряза въжетата на нечестивите.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "е праведен"
+    },
+    {
+      "surface": "קצץ",
+      "gloss": "отряза"
+    },
+    {
+      "surface": "עבות",
+      "gloss": "въжетата"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "на нечестивите"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:42.419079780Z",
+  "model": "glm-5.3"
+}

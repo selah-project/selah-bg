@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 6:54",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "и ⟨את⟩ Аялон с ⟨את⟩ пасищата ѝ, и ⟨את⟩ Гат-Римон с ⟨את⟩ пасищата ѝ;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Аялон"
+    },
+    {
+      "surface": "אילון",
+      "gloss": "Аялон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "пасищата ѝ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "пасищата ѝ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Гат-Римон"
+    },
+    {
+      "surface": "גת",
+      "gloss": "Гат"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "-Римон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "пасищата ѝ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "пасищата ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:45.788428285Z",
+  "model": "glm-5.3"
+}

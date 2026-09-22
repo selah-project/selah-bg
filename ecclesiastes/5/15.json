@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И това също е тежка болест: във всичко както дойде, така ще отиде; и каква полза има той, че се труди за вятъра?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "и също"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "лоша"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "болест"
+    },
+    {
+      "surface": "כל",
+      "gloss": "във всичко"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "както"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "дойде"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ще отиде"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и каква"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "полза"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за него"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "че се труди"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "за вятъра"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:27.657844832Z",
+  "model": "glm-5.3"
+}

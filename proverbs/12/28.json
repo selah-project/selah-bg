@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "На пътя на правдата ⟨има⟩ живот, а на пътеката ⟨му⟩ няма смърт.",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "на пътя"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "на правдата"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живот"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "а на пътеката"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "⟨на пътеката⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "няма"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смърт"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:22.196289751Z",
+  "model": "glm-5.3"
+}

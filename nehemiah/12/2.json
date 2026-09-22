@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Амария, Малух, Хатуш.",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "Амария"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "Малух"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "Хатуш"
+    }
+  ],
+  "timestamp": "2026-09-22T15:55:15.153292937Z",
+  "model": "glm-5.3"
+}

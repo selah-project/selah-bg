@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Не изкривявай правото на сиромаси́я си в съда му.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "изкривявай"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "правото"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "на сиромаси́я си"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "в съда му"
+    }
+  ],
+  "timestamp": "2026-09-22T11:21:40.070170847Z",
+  "model": "glm-5.3"
+}

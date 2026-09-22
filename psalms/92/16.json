@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 92,
+  "translation": "За да известят, че прав е Яхве, скалата ми, и няма ⟨в⟩ него неправда.",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "за да известят"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "прав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "скалата ми"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "неправда"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в него"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:36.424248167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 97:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 97,
+  "translation": "Мълниите му осветиха света; земята видя и се разтрепера.",
+  "tokens": [
+    {
+      "surface": "האירו",
+      "gloss": "осветиха"
+    },
+    {
+      "surface": "ברקיו",
+      "gloss": "мълниите му"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "света"
+    },
+    {
+      "surface": "ראתה",
+      "gloss": "видя"
+    },
+    {
+      "surface": "ותחל",
+      "gloss": "и се разтрепера"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:52.323576190Z",
+  "model": "glm-5.3"
+}

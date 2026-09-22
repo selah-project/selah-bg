@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 13:3",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Така каза Адонай Яхве: Горе за пророците безумни, които ходят след своя дух и нищо не са видели.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הוי",
+      "gloss": "горе"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "הנביאים",
+      "gloss": "пороците"
+    },
+    {
+      "surface": "הנבלים",
+      "gloss": "безумни"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ходят"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "след"
+    },
+    {
+      "surface": "רוחם",
+      "gloss": "своя дух"
+    },
+    {
+      "surface": "ולבלתי",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "са видели"
+    }
+  ],
+  "timestamp": "2026-09-22T14:15:11.639908620Z",
+  "model": "glm-5.3"
+}

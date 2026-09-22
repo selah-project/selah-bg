@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 43,
+  "translation": "И славата на Яхве влезе в дома през портата, чието лице ⟨е⟩ към изтока.",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "И славата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "בא",
+      "gloss": "влезе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "през"
+    },
+    {
+      "surface": "שער",
+      "gloss": "портата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "чието"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лице"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "към"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "изтока"
+    }
+  ],
+  "timestamp": "2026-09-22T14:30:08.602354454Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 34:9",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Защото е казал: не е от полза на мъж ⟨да бъде⟩ в угодата си с Елохим.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "е от полза"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "на мъж"
+    },
+    {
+      "surface": "ברצתו",
+      "gloss": "в угодата си"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T15:31:29.969262388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 86,
+  "translation": "Защото Си велик и вършиш чудеса — Ти ⟨си⟩ Елохим, Сам ⟨само⟩ Ти.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Си"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и вършиш"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "чудеса"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "Сам ⟨само⟩ Ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:11.298687480Z",
+  "model": "glm-5.3"
+}

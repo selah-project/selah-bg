@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "През всяко време обича приятелят, и брат за беда се ражда.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "през всяко"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "обича"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "приятелят"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "и брат"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "за беда"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "се ражда"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:11.025344436Z",
+  "model": "glm-5.3"
+}

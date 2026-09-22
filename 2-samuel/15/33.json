@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 15:33",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "И рече му Давид: ако преминеш ⟨את⟩ мене, ще ми бъдеш за бреме.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "עברת",
+      "gloss": "преминеш"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ мене"
+    },
+    {
+      "surface": "והית",
+      "gloss": "ще бъдеш"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "למשא",
+      "gloss": "за бреме"
+    }
+  ],
+  "timestamp": "2026-09-22T12:54:26.295222253Z",
+  "model": "glm-5.3"
+}

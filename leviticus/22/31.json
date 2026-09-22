@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "leviticus 22:31",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И пазете заповедите Ми и вършете ⟨את⟩ ги: Аз съм Яхве.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "И пазете"
+    },
+    {
+      "surface": "מצותי",
+      "gloss": "заповедите Ми"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "и вършете"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ги",
+      "marks": "заповедите Ми"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:40:36.014927332Z",
+  "model": "glm-5.3"
+}

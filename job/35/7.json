@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "Ако си праведен — какво ⟨му⟩ даваш, или какво от ръката ти ще приеме?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "си праведен"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "даваш"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨му⟩"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "от ръката ти"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ще приеме"
+    }
+  ],
+  "timestamp": "2026-09-22T15:32:13.411350873Z",
+  "model": "glm-5.3"
+}

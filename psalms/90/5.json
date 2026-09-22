@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 90:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 90,
+  "translation": "Разля ги като поток — сън са; в утринта като трева отминават.",
+  "tokens": [
+    {
+      "surface": "זרמתם",
+      "gloss": "разля ги"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сън"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "са"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "в утринта"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "като трева"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "отминават"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:47.719966740Z",
+  "model": "glm-5.3"
+}

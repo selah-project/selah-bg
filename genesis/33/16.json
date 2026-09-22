@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И се върна в онзи ден Исав по пътя си към Сеир.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И се върна"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онзи"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Исав"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "по пътя си"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "към Сеир"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:08.838440451Z",
+  "model": "glm-5.3"
+}

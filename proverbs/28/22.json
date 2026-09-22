@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Тревожен за богатство ⟨е⟩ човек с око зло, и не знае, че лишение ще го сполети.",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "тревожен"
+    },
+    {
+      "surface": "להון",
+      "gloss": "за богатство"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "עין",
+      "gloss": "око"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знае"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "лишение"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "ще го сполети"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:12.404092180Z",
+  "model": "glm-5.3"
+}

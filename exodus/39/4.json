@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 39,
+  "translation": "Рамена направиха му, съединени; при двата му края бе ⟨съединен⟩.",
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "рамена"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направиха"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "съединени"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "שני",
+      "gloss": "двата"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "му края"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "⟨съединен⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T11:30:08.528563599Z",
+  "model": "glm-5.3"
+}

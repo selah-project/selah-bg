@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Не ще помогне богатство в деня на яростта, а правдата ще избави от смърт.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "ще помогне"
+    },
+    {
+      "surface": "הון",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "на яростта"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "а правдата"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ще избави"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "от смърт"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:13.960114414Z",
+  "model": "glm-5.3"
+}

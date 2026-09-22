@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 10:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Стани, Яхве; Ел, издигни Своята ръка; не забравяй сиромасите.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "стани"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "издигни"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "Сво­ята ръка"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "забравяй"
+    },
+    {
+      "surface": "עניים",
+      "gloss": "сиромасите"
+    }
+  ],
+  "timestamp": "2026-09-22T14:51:28.888318445Z",
+  "model": "glm-5.3"
+}

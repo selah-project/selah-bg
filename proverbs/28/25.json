@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 28:25",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Широката душа разпалва свада, а който уповава на Яхве, ще се угои.",
+  "tokens": [
+    {
+      "surface": "רחב",
+      "gloss": "широката"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "разпалва"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "свада"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "а който уповава"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ידשן",
+      "gloss": "ще се угои"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:33.258143842Z",
+  "model": "glm-5.3"
+}

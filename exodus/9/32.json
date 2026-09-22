@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 9:32",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "А пшеницата и spelled не бяха поразени, защото бяха късни.",
+  "tokens": [
+    {
+      "surface": "והחטה",
+      "gloss": "А пшеницата"
+    },
+    {
+      "surface": "והכסמת",
+      "gloss": "и spelled"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נכו",
+      "gloss": "бяха поразени"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אפילת",
+      "gloss": "късни"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "бяха"
+    }
+  ],
+  "timestamp": "2026-09-22T11:16:21.690824405Z",
+  "model": "glm-5.3"
+}

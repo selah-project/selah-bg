@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 7:15",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Ето, измъчва се от беззаконие, и зачена измама, и роди лъжа.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "измъчва се"
+    },
+    {
+      "surface": "און",
+      "gloss": "от беззаконие"
+    },
+    {
+      "surface": "והרה",
+      "gloss": "и зачена"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "измама"
+    },
+    {
+      "surface": "וילד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лъжа"
+    }
+  ],
+  "timestamp": "2026-09-22T14:50:01.952851768Z",
+  "model": "glm-5.3"
+}

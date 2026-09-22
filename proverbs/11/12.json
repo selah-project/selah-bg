@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Който презира ближния си, lacking сърце, а човек на разбиране мълчи.",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "презира"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ближния си"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "липсва"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърце"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "а човек"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "на разбиране"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "мълчи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:49.200160656Z",
+  "model": "glm-5.3"
+}

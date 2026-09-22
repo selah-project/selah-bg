@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 30:7",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И зачене отново Билха ⟨Белха⟩, слугинята на Рахел, и роди втори син на Яаков.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "и зачене"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "отново"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "Билха"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "слугинята"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "на Рахел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שני",
+      "gloss": "втори"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "на Яаков"
+    }
+  ],
+  "timestamp": "2026-09-22T16:15:04.280680591Z",
+  "model": "glm-5.3"
+}

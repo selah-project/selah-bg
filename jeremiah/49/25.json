@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 49,
+  "translation": "Как не беше оставен градът на славата, градът на радостта ми!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "как"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "беше оставен"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "градът"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "на славата"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "градът"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "на радостта ми"
+    }
+  ],
+  "timestamp": "2026-09-22T14:07:56.621623137Z",
+  "model": "glm-5.3"
+}

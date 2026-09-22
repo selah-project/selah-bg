@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nehemiah 5:1",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И беше викът на народа и жените им голям ⟨към⟩ братята им, юдеите.",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "צעקת",
+      "gloss": "викът"
+    },
+    {
+      "surface": "העם",
+      "gloss": "на народа"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "и жените им"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "голям"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨към⟩"
+    },
+    {
+      "surface": "אחיהם",
+      "gloss": "братята им"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "юдеите"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:12.127292943Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 27:23",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Добре да знаеш лицето на своите овце, насочи сърцето си към стадата —",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "добре"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "да знаеш"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "на своите овце"
+    },
+    {
+      "surface": "שית",
+      "gloss": "насочи"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "сърцето си"
+    },
+    {
+      "surface": "לעדרים",
+      "gloss": "към стадата"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:42.249793410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 16:24",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И оставиха ⟨את⟩ него до сутринта, както заповяда Моше, и не вони, и червей не беше в него.",
+  "tokens": [
+    {
+      "surface": "ויניחו",
+      "gloss": "И оставиха"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "сутринта"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповяда"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "הבאיש",
+      "gloss": "вони"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "и червей"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в него"
+    }
+  ],
+  "timestamp": "2026-09-22T16:16:55.538090514Z",
+  "model": "glm-5.3"
+}

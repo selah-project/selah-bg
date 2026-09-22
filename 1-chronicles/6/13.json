@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И синовете на Самуил: първородният Вашни, и Авия.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синовете"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "на Самуил"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "първородният"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "Вашни"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "и Авия"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:27.407378179Z",
+  "model": "glm-5.3"
+}

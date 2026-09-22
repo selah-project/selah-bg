@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И домът Йосифов — също те — се качи към Бет Ел; и Яхве ⟨бе⟩ с тях.",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "и се качи"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домът"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосифов"
+    },
+    {
+      "surface": "גם",
+      "gloss": "също"
+    },
+    {
+      "surface": "הם",
+      "gloss": "те"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и Яхве"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "с тях"
+    }
+  ],
+  "timestamp": "2026-09-22T12:25:31.457656338Z",
+  "model": "glm-5.3"
+}

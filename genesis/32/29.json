@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 32:29",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "И каза: не Яков ще се нарича вече името ти, а Израел, защото си се борил с Елохим и с хора и си устоял.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ще се нарича"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "вече"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "името ти"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אם",
+      "gloss": "а"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "שרית",
+      "gloss": "си се борил"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "и с"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "хора"
+    },
+    {
+      "surface": "ותוכל",
+      "gloss": "и си устоял"
+    }
+  ],
+  "timestamp": "2026-09-22T16:15:21.749933603Z",
+  "model": "glm-5.3"
+}

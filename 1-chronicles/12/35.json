@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 12:35",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И от Нефтали — князе хиляда, и с тях със щит и копие тридесет и седем хиляди.",
+  "tokens": [
+    {
+      "surface": "ומנפתלי",
+      "gloss": "И от Нефтали"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "князе"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляда"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "и с тях"
+    },
+    {
+      "surface": "בצנה",
+      "gloss": "със щит"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "и копие"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридесет"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "и седем"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляди"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:37.869080415Z",
+  "model": "glm-5.3"
+}

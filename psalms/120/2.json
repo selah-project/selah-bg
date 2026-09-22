@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 120,
+  "translation": "Яхве, избави душата ми от устни на лъжа, от измамен език.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "избави"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата ми"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "от устни"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "на лъжа"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "от език"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "измамен"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:23.729717075Z",
+  "model": "glm-5.3"
+}

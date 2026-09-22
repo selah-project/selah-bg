@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 11:5",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "и Маасеяу син на Барух, син на Кол Хозе, син на Хазаяу, син на Адаяу, син на Йоярив, син на Захарияу, син на ⟨шелахите⟩",
+  "tokens": [
+    {
+      "surface": "ומעשיה",
+      "gloss": "и Маасеяу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барух"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Кол"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "Хозе"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חזיה",
+      "gloss": "Хазаяу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "Адаяу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "Йоярив"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Захарияу"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "השלני",
+      "gloss": "шелахите"
+    }
+  ],
+  "timestamp": "2026-09-22T15:54:58.426197228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 38:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "Няма здраво в плота ми пред гнева ти, няма мир в костите ми пред греха ми.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "здраво"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "в плота ми"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "זעמך",
+      "gloss": "гнева ти"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "בעצמי",
+      "gloss": "в костите ми"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "חטאתי",
+      "gloss": "греха ми"
+    }
+  ],
+  "timestamp": "2026-09-22T16:29:29.507929289Z",
+  "model": "glm-5.3"
+}

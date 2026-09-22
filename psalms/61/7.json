@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 61:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 61,
+  "translation": "Дни върху дните на царя ще добавиш, годините му като род и род.",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "Дни"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дните"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на царя"
+    },
+    {
+      "surface": "תוסיף",
+      "gloss": "ще добавиш"
+    },
+    {
+      "surface": "שנותיו",
+      "gloss": "годините му"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "като"
+    },
+    {
+      "surface": "דר",
+      "gloss": "род"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "и род"
+    }
+  ],
+  "timestamp": "2026-09-22T15:02:14.326281696Z",
+  "model": "glm-5.3"
+}

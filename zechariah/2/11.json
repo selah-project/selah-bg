@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "О, Цион, спасявай се, ти, която живееш при дъщерята Вавилон!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "О"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "спасявай се"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "която живееш"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщерята"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "Вавилон"
+    }
+  ],
+  "timestamp": "2026-09-22T14:45:58.822191393Z",
+  "model": "glm-5.3"
+}

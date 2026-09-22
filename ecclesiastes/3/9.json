@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Каква полза има ⟨този, който⟩ работи в онова, в което се труди?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "каква"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "полема"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "има ⟨този, който⟩ работи"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "в онова, в което"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "се трудитe"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:41.199945180Z",
+  "model": "glm-5.3"
+}

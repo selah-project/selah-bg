@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И златото на онази земя ⟨е⟩ добро; там ⟨е⟩ бедолах и камъкът шохам.",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "И златото"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земята"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онази"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "бедолахът"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "и камъкът"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "шохам"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:20.834124551Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 61:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 61,
+  "translation": "Чуй, Елохим, вика ми, приклони ухо към молитвата ми.",
+  "tokens": [
+    {
+      "surface": "שמעה",
+      "gloss": "Чуй"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "רנתי",
+      "gloss": "вика ми"
+    },
+    {
+      "surface": "הקשיבה",
+      "gloss": "приклони ухо"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "към молитвата ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:02:24.683310550Z",
+  "model": "glm-5.3"
+}

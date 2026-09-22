@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 25:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "На Давид. Към Теб, Яхве, душата си ще въздигна.",
+  "tokens": [
+    {
+      "surface": "לדוד",
+      "gloss": "На Давид"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "Към Теб"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата си"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ще въздигна"
+    }
+  ],
+  "timestamp": "2026-09-22T14:54:56.278929096Z",
+  "model": "glm-5.3"
+}

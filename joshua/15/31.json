@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 15:31",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "и Циклаг и Мадмана и Сансана,",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "и Циклаг"
+    },
+    {
+      "surface": "ומדמנה",
+      "gloss": "и Мадмана"
+    },
+    {
+      "surface": "וסנסנה",
+      "gloss": "и Сансана"
+    }
+  ],
+  "timestamp": "2026-09-22T12:22:14.429291823Z",
+  "model": "glm-5.3"
+}

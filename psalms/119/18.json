@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 119:18",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Разкрий очите ми, за да видя чудесата от Тората ти.",
+  "tokens": [
+    {
+      "surface": "גל",
+      "gloss": "Разкрий"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "очите ми"
+    },
+    {
+      "surface": "ואביטה",
+      "gloss": "за да видя"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "чудесата"
+    },
+    {
+      "surface": "מתורתך",
+      "gloss": "от Тората ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:25.022860032Z",
+  "model": "glm-5.3"
+}

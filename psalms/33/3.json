@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "Пейте нему песен нова; добре свирете с тръбен вик.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "Пейте"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песен"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "нова"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "добре свирете"
+    },
+    {
+      "surface": "נגן",
+      "gloss": ""
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "с тръбен вик"
+    }
+  ],
+  "timestamp": "2026-09-22T14:56:50.778632502Z",
+  "model": "glm-5.3"
+}

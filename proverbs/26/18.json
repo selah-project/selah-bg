@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 26:18",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Като луд, който хвърля пламъци — стрели и смърт,",
+  "tokens": [
+    {
+      "surface": "כמתלהלה",
+      "gloss": "като луд"
+    },
+    {
+      "surface": "הירה",
+      "gloss": "който хвърля"
+    },
+    {
+      "surface": "זקים",
+      "gloss": "пламъци"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "стрели"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "и смърт"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:35.697924606Z",
+  "model": "glm-5.3"
+}

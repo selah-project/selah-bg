@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 18:18",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "и премина към рамото срещу Арава, на север, и слезе към Арава:",
+  "tokens": [
+    {
+      "surface": "ועבר",
+      "gloss": "и премина"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "כתף",
+      "gloss": "рамото"
+    },
+    {
+      "surface": "מול",
+      "gloss": "срещу"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Арава"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "на север"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "и слезе"
+    },
+    {
+      "surface": "הערבתה",
+      "gloss": "към Арава"
+    }
+  ],
+  "timestamp": "2026-09-22T12:22:43.962312188Z",
+  "model": "glm-5.3"
+}

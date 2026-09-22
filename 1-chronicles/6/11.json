@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Елкана, синовете на Елкана: Цофай неговият син, и Нахат неговият син.",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "Елкана"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "на Елкана"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "Цофай"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "неговият син"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "и Нахат"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "неговият син"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:07.560472963Z",
+  "model": "glm-5.3"
+}

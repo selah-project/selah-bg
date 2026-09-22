@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 24:24",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И тя му рече: дъщеря на Бетуел съм аз, син на Милка, която роди на Нахор.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И тя рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщеря"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "Бетуел"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Милка"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "на Нахор"
+    }
+  ],
+  "timestamp": "2026-09-22T11:02:14.614734172Z",
+  "model": "glm-5.3"
+}

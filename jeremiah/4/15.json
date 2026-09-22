@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 4:15",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Защото глас обявява от Дан и разгласява беда от планината Ефраим.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "обявява"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "от Дан"
+    },
+    {
+      "surface": "ומשמיע",
+      "gloss": "и разгласява"
+    },
+    {
+      "surface": "און",
+      "gloss": "беда"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "от планината"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраим"
+    }
+  ],
+  "timestamp": "2026-09-22T13:48:39.102061739Z",
+  "model": "glm-5.3"
+}

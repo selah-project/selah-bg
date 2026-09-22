@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 87:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 87,
+  "translation": "И певци като играещи — всички мои извори ⟨са⟩ в теб.",
+  "tokens": [
+    {
+      "surface": "ושרים",
+      "gloss": "и певци"
+    },
+    {
+      "surface": "כחללים",
+      "gloss": "като играещи"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "מעיני",
+      "gloss": "мои извори"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в теб"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:10.235268522Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 30:12",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Поколение — чисто в очите си, а от нечистотата си не е измито.",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "поколение"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "чисто"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в очите си"
+    },
+    {
+      "surface": "ומצאתו",
+      "gloss": "а от нечистотата си"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "רחץ",
+      "gloss": "е измито"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:54.132866021Z",
+  "model": "glm-5.3"
+}

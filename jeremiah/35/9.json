@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 35:9",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "и да не строим къщи за <…> обитаване, и лозе, и нива, и семе да няма за нас —",
+  "tokens": [
+    {
+      "surface": "ולבלתי",
+      "gloss": "и да не"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "строим"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "къщи"
+    },
+    {
+      "surface": "לשבתנו",
+      "gloss": "за <нашето> обитаване"
+    },
+    {
+      "surface": "וכרם",
+      "gloss": "и лозе"
+    },
+    {
+      "surface": "ושדה",
+      "gloss": "и нива"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "и семе"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "да има"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "за нас"
+    }
+  ],
+  "timestamp": "2026-09-22T14:01:04.090001867Z",
+  "model": "glm-5.3"
+}

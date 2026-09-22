@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 10:6",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Няма като теб, Яхве; велик си Ти и велико ⟨е⟩ Името Ти в мощта.",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "като теб"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "и велико"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "Името Ти"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "в мощта"
+    }
+  ],
+  "timestamp": "2026-09-22T13:50:44.906053888Z",
+  "model": "glm-5.3"
+}

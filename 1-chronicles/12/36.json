@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И от данита — нареждащи битка двадесет и осем хиляди и шестстотин.",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "И от"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "данита"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "нареждащи"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "битка"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "и осем"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляди"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "и шест"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:37.869212775Z",
+  "model": "glm-5.3"
+}

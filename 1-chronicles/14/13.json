@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И пак добавиха филистимите и се разляха в долината.",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "и пак добавиха"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "още"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "филистимите"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "и се разляха"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "в долината"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:49.380490791Z",
+  "model": "glm-5.3"
+}

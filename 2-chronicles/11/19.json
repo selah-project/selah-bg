@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 11:19",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И му роди синове: ⟨את⟩ Йеус, и ⟨את⟩ Шемария, и ⟨את⟩ Заам.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Йеус"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "Йеус"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Шемария"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "Шемария"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Заам"
+    },
+    {
+      "surface": "זהם",
+      "gloss": "Заам"
+    }
+  ],
+  "timestamp": "2026-09-22T16:07:04.822815899Z",
+  "model": "glm-5.3"
+}

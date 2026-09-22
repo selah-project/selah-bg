@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ruth 4:20",
+  "book": "ruth",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И Аминадав роди ⟨את⟩ Нахшон, и Нахшон роди ⟨את⟩ Салма.",
+  "tokens": [
+    {
+      "surface": "ועמינדב",
+      "gloss": "и Аминадав"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Нахшон"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "Нахшон"
+    },
+    {
+      "surface": "ונחשון",
+      "gloss": "и Нахшон"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Салма"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Салма"
+    }
+  ],
+  "timestamp": "2026-09-22T15:35:57.116372489Z",
+  "model": "glm-5.3"
+}

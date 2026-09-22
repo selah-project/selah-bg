@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 25:6",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "и кажете така: За живота! И ти — мир, и домът ти — мир, и всичко, което е твое — мир.",
+  "tokens": [
+    {
+      "surface": "ואמרתם",
+      "gloss": "и кажете"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "за живота"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "и ти"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "וביתך",
+      "gloss": "и домът ти"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и всичко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "לך",
+      "gloss": "е твое"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    }
+  ],
+  "timestamp": "2026-09-22T12:45:37.904679194Z",
+  "model": "glm-5.3"
+}

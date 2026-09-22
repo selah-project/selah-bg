@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jonah 2:9",
+  "book": "jonah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Пазещите суети на лъжата — своето хесед оставят.",
+  "tokens": [
+    {
+      "surface": "משמרים",
+      "gloss": "Пазещите"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "суети"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "на лъжата"
+    },
+    {
+      "surface": "חסדם",
+      "gloss": "своето хесед"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "оставят"
+    }
+  ],
+  "timestamp": "2026-09-22T14:39:30.386316078Z",
+  "model": "glm-5.3"
+}

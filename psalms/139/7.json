@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 139:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 139,
+  "translation": "Къде да отида от Твоя Дух, и къде от лицето Ти да избягам?",
+  "tokens": [
+    {
+      "surface": "אנה",
+      "gloss": "Къде"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "да отида"
+    },
+    {
+      "surface": "מרוחך",
+      "gloss": "от Твоя Дух"
+    },
+    {
+      "surface": "ואנה",
+      "gloss": "и къде"
+    },
+    {
+      "surface": "מפניך",
+      "gloss": "от лицето Ти"
+    },
+    {
+      "surface": "אברח",
+      "gloss": "да избягам"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:55.528377310Z",
+  "model": "glm-5.3"
+}

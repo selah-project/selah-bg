@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Вратата се върти на пантите си, и мързеливият — на леглото си.",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "вратата"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "се върти"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "пантите си"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "и мързеливият"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "леглото си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:21.292904806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 5:12",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Излъгаха Яхве и казаха: не е Той, и зло няма да дойде върху нас, и меч и глад не ще видим.",
+  "tokens": [
+    {
+      "surface": "כחשו",
+      "gloss": "Излъгаха"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "и казаха"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е Той"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ще дойде"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "върху нас"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "и меч"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "и глад"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ще видим"
+    }
+  ],
+  "timestamp": "2026-09-22T13:48:35.041268868Z",
+  "model": "glm-5.3"
+}

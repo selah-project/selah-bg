@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 25:24",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И изпълниха се дните ѝ да роди, и ето — близнаци в утробата ѝ.",
+  "tokens": [
+    {
+      "surface": "וימלאו",
+      "gloss": "и изпълниха се"
+    },
+    {
+      "surface": "ימיה",
+      "gloss": "дните ѝ"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "да роди"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "תומם",
+      "gloss": "близнаци"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "в утробата ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T11:02:17.873379725Z",
+  "model": "glm-5.3"
+}

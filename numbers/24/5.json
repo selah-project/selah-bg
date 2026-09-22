@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 24:5",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Колко добри са шатрите ти, Яков, Мишканите ти, Израел!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Колко"
+    },
+    {
+      "surface": "טבו",
+      "gloss": "добри са"
+    },
+    {
+      "surface": "אהליך",
+      "gloss": "шатрите ти"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    },
+    {
+      "surface": "משכנתיך",
+      "gloss": "Мишканите ти"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T11:55:22.345729802Z",
+  "model": "glm-5.3"
+}

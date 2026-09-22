@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 57:2",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 57,
+  "translation": "Ще влезе в мир, ще почиват на леглата си, ходещият право пред ⟨него⟩.",
+  "tokens": [
+    {
+      "surface": "יבוא",
+      "gloss": "Ще влезе"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "в мир"
+    },
+    {
+      "surface": "ינוחו",
+      "gloss": "ще почиват"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "משכבותם",
+      "gloss": "леглата си"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ходещият"
+    },
+    {
+      "surface": "נכחו",
+      "gloss": "право"
+    }
+  ],
+  "timestamp": "2026-09-22T13:43:55.320665778Z",
+  "model": "glm-5.3"
+}

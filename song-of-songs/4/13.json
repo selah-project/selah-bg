@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Израстъците ти ⟨са⟩ градина от наркове с плодове отборни, ⟨с⟩ къпини с нард:",
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "израстъците ти"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "градина"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "от наркове"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "плодове"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "отборни"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "купени"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "нард"
+    }
+  ],
+  "timestamp": "2026-09-22T15:34:08.802253120Z",
+  "model": "glm-5.3"
+}

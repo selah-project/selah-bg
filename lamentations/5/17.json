@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Затова е болно сърцето ни, заради тези неща потъмняха очите ни.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "Затова"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨е⟩"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "болно"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "сърцето ни"
+    },
+    {
+      "surface": "על",
+      "gloss": "заради"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "потъмняха"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "очите ни"
+    }
+  ],
+  "timestamp": "2026-09-22T16:32:17.430033868Z",
+  "model": "glm-5.3"
+}

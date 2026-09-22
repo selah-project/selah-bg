@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 6:10",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И ще знаят, че аз съм Яхве; не напразно говорих да им причиня злото ⟨това⟩.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "и ще знаят"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "напразно"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорих"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да причиня"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "злото"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "това"
+    }
+  ],
+  "timestamp": "2026-09-22T14:12:09.556109394Z",
+  "model": "glm-5.3"
+}

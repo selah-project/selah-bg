@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Ето, красива си, приятелко моя — ето, красива си; очите ти ⟨са⟩ гълъби.",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "ето"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "красива"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "приятелко моя"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ето"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "красива"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "очите ти"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "гълъби"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:31.303667442Z",
+  "model": "glm-5.3"
+}

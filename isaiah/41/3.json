@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "isaiah 41:3",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 41,
+  "translation": "Преследва ги, минава в мир — път с нозете си не е стъпвал.",
+  "tokens": [
+    {
+      "surface": "ירדפם",
+      "gloss": "Преследва ги"
+    },
+    {
+      "surface": "יעבור",
+      "gloss": "минава"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "в мир"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "път"
+    },
+    {
+      "surface": "ברגליו",
+      "gloss": "с нозете си"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "е стъпвал"
+    }
+  ],
+  "timestamp": "2026-09-22T16:25:12.752137310Z",
+  "model": "glm-5.3"
+}

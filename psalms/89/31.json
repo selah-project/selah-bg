@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 89:31",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 89,
+  "translation": "Ако синовете му оставят Тора моя и в наредбите ми не ходят —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "יעזבו",
+      "gloss": "оставят"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синовете му"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "Тора моя"
+    },
+    {
+      "surface": "ובמשפטי",
+      "gloss": "и в наредбите ми"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ילכון",
+      "gloss": "ходят"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:45.640752195Z",
+  "model": "glm-5.3"
+}

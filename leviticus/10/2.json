@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И излезе огън отпред Яхве и погълна ⟨את⟩ ги, и умряха пред Яхве.",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "и излезе"
+    },
+    {
+      "surface": "אש",
+      "gloss": "огън"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "отпред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "и погълна"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ги",
+      "marks": "тях (Надав и Авиу)"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "и умряха"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:35:53.095151678Z",
+  "model": "glm-5.3"
+}

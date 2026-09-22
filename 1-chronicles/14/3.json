@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 14:3",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И взе Давид още жени в Йерушалаим ⟨Йерусалим⟩, и роди Давид още синове и дъщери.",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "И взе"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "още"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жени"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "в Йерушалаим"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "още"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и дъщери"
+    }
+  ],
+  "timestamp": "2026-09-22T16:01:02.376232673Z",
+  "model": "glm-5.3"
+}

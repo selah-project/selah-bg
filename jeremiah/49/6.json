@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 49:6",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 49,
+  "translation": "И след това ще върна ⟨את⟩ пленничеството на синовете на Амон — слово на Яхве.",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "И след"
+    },
+    {
+      "surface": "כן",
+      "gloss": "това"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ще върна"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "пленничеството"
+    },
+    {
+      "surface": "שבות",
+      "gloss": "пленничеството"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "Амон"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:07:48.315913552Z",
+  "model": "glm-5.3"
+}

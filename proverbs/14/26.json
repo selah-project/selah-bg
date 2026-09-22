@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 14:26",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "В страха от Яхве ⟨е⟩ силна опора, и за децата му ще има прибежище.",
+  "tokens": [
+    {
+      "surface": "ביראת",
+      "gloss": "В страха от"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "опора"
+    },
+    {
+      "surface": "עז",
+      "gloss": "силна"
+    },
+    {
+      "surface": "ולבניו",
+      "gloss": "и за децата му"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ще има"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "прибежище"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:44.759424042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Където ⟨е⟩ думата на царя — ⟨там е⟩ власт, и кой ще каже нему: какво правиш?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "където"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "думата"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на царя"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "власт"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "и кой"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ще каже"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ному"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "правиш"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:22.310423742Z",
+  "model": "glm-5.3"
+}

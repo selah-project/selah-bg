@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "А ако ⟨е⟩ жена, тогава оценката ти ще бъде тридесет сикъла.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨е⟩ тя"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "тогава ще бъде"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "оценката ти"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "тридесет"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "сикъла"
+    }
+  ],
+  "timestamp": "2026-09-22T16:17:23.518991331Z",
+  "model": "glm-5.3"
+}

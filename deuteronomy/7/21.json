@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 7:21",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Да не се боиш от тях, защото Яхве, твоят Елохим, е всред теб — Ел велик и страшен.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תערץ",
+      "gloss": "ще се боиш"
+    },
+    {
+      "surface": "מפניהם",
+      "gloss": "от тях"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твоят Елохим"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "всред теб"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "и страшен"
+    }
+  ],
+  "timestamp": "2026-09-22T12:04:32.783250347Z",
+  "model": "glm-5.3"
+}

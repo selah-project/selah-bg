@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 9:2",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Закла своето заклано, смеси виното си, също нареди трапезата си.",
+  "tokens": [
+    {
+      "surface": "טבחה",
+      "gloss": "Закла"
+    },
+    {
+      "surface": "טבחה",
+      "gloss": "своето заклано"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "смеси"
+    },
+    {
+      "surface": "יינה",
+      "gloss": "виното си"
+    },
+    {
+      "surface": "אף",
+      "gloss": "също"
+    },
+    {
+      "surface": "ערכה",
+      "gloss": "нареди"
+    },
+    {
+      "surface": "שלחנה",
+      "gloss": "трапезата си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:31.601285319Z",
+  "model": "glm-5.3"
+}

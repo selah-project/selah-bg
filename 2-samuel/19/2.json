@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 19:2",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И биде съобщено на Йоав: ето, царят плаче и скърби за Авшалом.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "и биде съобщено"
+    },
+    {
+      "surface": "ליואב",
+      "gloss": "на Йоав"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "בכה",
+      "gloss": "плаче"
+    },
+    {
+      "surface": "ויתאבל",
+      "gloss": "и скърби"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "אבשלם",
+      "gloss": "Авшалом"
+    }
+  ],
+  "timestamp": "2026-09-22T12:57:00.385232092Z",
+  "model": "glm-5.3"
+}

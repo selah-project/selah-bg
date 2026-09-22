@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 36:41",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "княз Охоливама, княз Ела, княз Пинон.",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "княз"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "Охоливама"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "княз"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Ела"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "княз"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "Пинон"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:35.936087006Z",
+  "model": "glm-5.3"
+}

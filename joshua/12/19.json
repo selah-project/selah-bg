@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 12:19",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "царят на Мадон, един; царят на Хацор, един;",
+  "tokens": [
+    {
+      "surface": "мלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "на Мадон"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "на Хацор"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    }
+  ],
+  "timestamp": "2026-09-22T12:20:33.617945779Z",
+  "model": "glm-5.3"
+}

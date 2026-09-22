@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 91:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 91,
+  "translation": "Защото ⟨той⟩ ще те избави от примката на ловеца и от гибелния мор.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨той⟩"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "ще те избави"
+    },
+    {
+      "surface": "מפח",
+      "gloss": "от примката"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "на ловене"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "от мор"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "гибелен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:03.273053859Z",
+  "model": "glm-5.3"
+}

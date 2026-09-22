@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 37:4",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "И рече ми: пророкувай над тези кости и кажи им: сухи кости, чуйте словото на Яхве.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "הנבא",
+      "gloss": "пророкувай"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "костите"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "и кажи"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "кости"
+    },
+    {
+      "surface": "היבשות",
+      "gloss": "сухи"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чуйте"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:27:49.177459760Z",
+  "model": "glm-5.3"
+}

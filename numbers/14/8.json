@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 14:8",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Ако Яхве благоволи в нас, ще ни въведе ⟨את⟩ нас в тази земя и ще я даде на нас — земя, която тече с мляко и мед.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "благоволи"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "в нас"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "и ще въведе"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ нас",
+      "marks": "нас"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "тази"
+    },
+    {
+      "surface": "ונתנה",
+      "gloss": "и ще я даде"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "на нас"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "тече"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "с мляко"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "и мед"
+    }
+  ],
+  "timestamp": "2026-09-22T11:50:22.651126296Z",
+  "model": "glm-5.3"
+}

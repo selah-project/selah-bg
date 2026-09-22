@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 45,
+  "translation": "Така рече Яхве, Елохим на Израел, за тебе, Барух:",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "за тебе"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барух"
+    }
+  ],
+  "timestamp": "2026-09-22T14:06:13.398144830Z",
+  "model": "glm-5.3"
+}

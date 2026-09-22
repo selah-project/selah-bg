@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 32:22",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "И даде им ⟨את⟩ земята тази, която се закле на бащите им да им дадеш, земя, тичаща мляко и мед.",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земята тази"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "тази"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "נשבעת",
+      "gloss": "се закле"
+    },
+    {
+      "surface": "לאבותם",
+      "gloss": "на бащите им"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "да дадеш"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "тичеща"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "мляко"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "и мед"
+    }
+  ],
+  "timestamp": "2026-09-22T14:02:11.501194073Z",
+  "model": "glm-5.3"
+}

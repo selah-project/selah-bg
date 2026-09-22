@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 27:32",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "И всяка десятина от говеда и овце — всяко, което мине под тоягата, десетото ще бъде свято за Яхве.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и всяка"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "десят"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "от говеда"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "и овце"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "мине"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "тоягата"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "десетото"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ще бъде"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свято"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:44:30.758637801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И рече Натан на царя: Всичко, което е в сърцето ти, върви, върши, защото Яхве е с тебе.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "Натан"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "כל",
+      "gloss": "Всичко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "в сърцето ти"
+    },
+    {
+      "surface": "לך",
+      "gloss": "върви"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "върши"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "е с тебе"
+    }
+  ],
+  "timestamp": "2026-09-22T12:50:30.174981854Z",
+  "model": "glm-5.3"
+}

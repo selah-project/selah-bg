@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 120,
+  "translation": "Дълго е обитавала душата ми ⟨заедно⟩ с този, който мрази мира.",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "дълго"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "е обитавала"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨−⟩"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата ми"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "който мрази"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мира"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:27.987122906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Като хладна вода за изнемощяла душа — добра вест от далечна земя.",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "хладна"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "изнемощяла"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "и добра вест"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добра"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "от земя"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "далечна"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:22.517096828Z",
+  "model": "glm-5.3"
+}

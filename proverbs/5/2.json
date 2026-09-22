@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "за да пазиш размисъла, и знание устните ти да пазят.",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "за да пазиш"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "размисъла"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "и знание"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "устните ти"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "да пазят"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:05.639539582Z",
+  "model": "glm-5.3"
+}

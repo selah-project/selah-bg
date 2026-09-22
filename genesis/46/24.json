@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 46:24",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 46,
+  "translation": "А синовете на Нефтали: Яхцеел, и Гуни, и Йецер, и Шилем.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синовете"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "на Нефтали"
+    },
+    {
+      "surface": "יחצאל",
+      "gloss": "Яхцеел"
+    },
+    {
+      "surface": "וגוני",
+      "gloss": "и Гуни"
+    },
+    {
+      "surface": "ויצר",
+      "gloss": "и Йецер"
+    },
+    {
+      "surface": "ושלם",
+      "gloss": "и Шилем"
+    }
+  ],
+  "timestamp": "2026-09-22T11:11:30.163654554Z",
+  "model": "glm-5.3"
+}

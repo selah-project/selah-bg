@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И ако наистина се яде на третия ден — грозота е ⟨той⟩, няма да се приеме.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "наистина се яде"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "се яде"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "на"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третия ден"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "грозота"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨той⟩ е"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ще се приеме"
+    }
+  ],
+  "timestamp": "2026-09-22T11:38:53.277207698Z",
+  "model": "glm-5.3"
+}

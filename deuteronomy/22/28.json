@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 22:28",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Ако намери човек момиче, девица, която не е годена, и я улови, и легне с нея, и бъдат намерени —",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "намери"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "נער",
+      "gloss": "момиче"
+    },
+    {
+      "surface": "בתולה",
+      "gloss": "девица"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ארשה",
+      "gloss": "е годена"
+    },
+    {
+      "surface": "ותפשה",
+      "gloss": "и я улови"
+    },
+    {
+      "surface": "ושכב",
+      "gloss": "и легне"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "с нея"
+    },
+    {
+      "surface": "ונמצאו",
+      "gloss": "и бъдат намерени"
+    }
+  ],
+  "timestamp": "2026-09-22T12:11:35.946292186Z",
+  "model": "glm-5.3"
+}

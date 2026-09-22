@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "⟨את⟩ ме заведе и ме накара да ходя в тъмнина, а не ⟨в⟩ светлина.",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ ме",
+      "marks": "мен"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "заведе"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и накара да ходи"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "в тъмнина"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светлина"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:47.487781253Z",
+  "model": "glm-5.3"
+}

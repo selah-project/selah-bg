@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "И Яаков нарече ⟨את⟩ името на мястото, където Елохим беше говорил ⟨את⟩ него там, Бет Ел.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "и нарече"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "името"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "на мястото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "където"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "беше говорил"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    }
+  ],
+  "timestamp": "2026-09-22T16:15:32.190142441Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Всяка вдовица и сираче не ще потискате.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "всяка"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "вдовица"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "и сираче"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "ще потискате"
+    }
+  ],
+  "timestamp": "2026-09-22T11:22:05.660965469Z",
+  "model": "glm-5.3"
+}

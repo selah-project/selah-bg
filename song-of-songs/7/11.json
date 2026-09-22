@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Аз съм на моя възлюбен, и към мене е копнежът му.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "на моя възлюбен"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "и към мене"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "копнежът му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:35:18.675790100Z",
+  "model": "glm-5.3"
+}

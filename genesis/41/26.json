@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 41,
+  "translation": "Седемте добри крави седем години са; и седемте добри класове седем години са — сън един е той.",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "седем"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "крави"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "добрите"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седем"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "са"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и седем"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "класовете"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "добрите"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седем"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "са"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "сън"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    }
+  ],
+  "timestamp": "2026-09-22T11:09:14.687760046Z",
+  "model": "glm-5.3"
+}

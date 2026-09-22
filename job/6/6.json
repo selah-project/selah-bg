@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Яде ли се безвкусно нещо без сол? Или има ли вкус в сока на халамут?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "Яде ли се"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "безвкусно нещо"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "без"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "сол"
+    },
+    {
+      "surface": "אם",
+      "gloss": "или"
+    },
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "вкус"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "в сока"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "халамут"
+    }
+  ],
+  "timestamp": "2026-09-22T15:24:31.477464859Z",
+  "model": "glm-5.3"
+}

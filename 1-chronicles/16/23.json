@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 16:23",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Пейте на Яхве, цялата земя; известявайте от ден на ден Неговото спасение.",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "пейте"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "известявайте"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "от ден"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "ישועתו",
+      "gloss": "Неговото спасение"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:25.033334037Z",
+  "model": "glm-5.3"
+}

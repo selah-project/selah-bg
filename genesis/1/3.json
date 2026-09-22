@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И рече Елохим: да бъде светлина; и бе светлина.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "да бъде"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светлина"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и бе"
+    },
+    {
+      "surface": "אור",
+      "gloss": "светлина"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:39.997234344Z",
+  "model": "glm-5.3"
+}

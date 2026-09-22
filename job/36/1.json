@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "И добави Елиу и рече:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "И добави"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "Елиу"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-22T16:32:43.045472221Z",
+  "model": "glm-5.3"
+}

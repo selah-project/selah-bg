@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Аз легнах и заспах, събудих се, защото Яхве ме крепи.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "легнах"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "и заспах"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "събудих се"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "ме крепи"
+    }
+  ],
+  "timestamp": "2026-09-22T14:50:33.643708731Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 3:19",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Малък и голям е там, и робът е свободен от господаря си.",
+  "tokens": [
+    {
+      "surface": "קטן",
+      "gloss": "Малък"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "и голям"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "и робът"
+    },
+    {
+      "surface": "חפשי",
+      "gloss": "свободен"
+    },
+    {
+      "surface": "מאדניו",
+      "gloss": "от господаря си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:23:26.829916477Z",
+  "model": "glm-5.3"
+}

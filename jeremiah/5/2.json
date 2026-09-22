@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 5:2",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И ако кажат „жив е Яхве“ — сигурно налук се заклеват.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "кажат"
+    },
+    {
+      "surface": "לכן",
+      "gloss": "сигурно"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "налук"
+    },
+    {
+      "surface": "ישבעו",
+      "gloss": "се заклеват"
+    }
+  ],
+  "timestamp": "2026-09-22T13:49:28.635263251Z",
+  "model": "glm-5.3"
+}

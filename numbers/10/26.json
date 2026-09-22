@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 10:26",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И над войнството на племето на сыновете Асиър — Пагиел, син на Охран.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и над"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "войнството"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "племето"
+    },
+    {
+      "surface": "בני",
+      "gloss": "сыновете"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "Асиър"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "Пагиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "Охран"
+    }
+  ],
+  "timestamp": "2026-09-22T11:48:39.816421435Z",
+  "model": "glm-5.3"
+}

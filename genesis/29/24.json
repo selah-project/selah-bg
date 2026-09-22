@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 29:24",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И даде Лаван на нея ⟨את⟩ Зилпа, робинята си — на Леа, дъщеря си, за робиня.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И даде"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "לה",
+      "gloss": "на нея"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Зилпа"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "Зилпа"
+    },
+    {
+      "surface": "שפחתו",
+      "gloss": "робинята си"
+    },
+    {
+      "surface": "ללאה",
+      "gloss": "на Леа"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "дъщеря си"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "за робиня"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:30.298837635Z",
+  "model": "glm-5.3"
+}

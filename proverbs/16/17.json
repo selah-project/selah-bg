@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 16:17",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Пътят на правите е да се отклони от зло; който пази душата си, пази пътя си.",
+  "tokens": [
+    {
+      "surface": "מסלת",
+      "gloss": "пътят"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "на правите"
+    },
+    {
+      "surface": "סור",
+      "gloss": "да се отклони"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "от зло"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "пази"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "душата си"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "пази"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "пътя си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:14.898243581Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 4:11",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И рече Яхве към него: Кой поставя уста на човека? Или кой прави ням, или глух, или зрящ, или сляп? Не съм ли Аз, Яхве?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "към него"
+    },
+    {
+      "surface": "מי",
+      "gloss": "Кой"
+    },
+    {
+      "surface": "שם",
+      "gloss": "поставя"
+    },
+    {
+      "surface": "פה",
+      "gloss": "уста"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "на човека"
+    },
+    {
+      "surface": "או",
+      "gloss": "Или"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "ישום",
+      "gloss": "прави"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ням"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "глух"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "פקח",
+      "gloss": "зрящ"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "עור",
+      "gloss": "сляп"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "Не съм ли"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:15:24.238464466Z",
+  "model": "glm-5.3"
+}

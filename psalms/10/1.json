@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 10:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Защо, Яхве, стоиш надалеч, криеш се във времената на бедата?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Защо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "стоиш"
+    },
+    {
+      "surface": "ברחוק",
+      "gloss": "надалеч"
+    },
+    {
+      "surface": "תעלים",
+      "gloss": "криеш се"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "във времената"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "на бедата"
+    }
+  ],
+  "timestamp": "2026-09-22T14:52:29.730684069Z",
+  "model": "glm-5.3"
+}

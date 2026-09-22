@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 2:18",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Защото домът ѝ се наклони към смъртта и пътищата ѝ към Рефаим.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "שחה",
+      "gloss": "се наклони"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "מות",
+      "gloss": "смъртта"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "домът ѝ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и към"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "Рефаим"
+    },
+    {
+      "surface": "מעגלотיה",
+      "gloss": "пътищата ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:22.545620210Z",
+  "model": "glm-5.3"
+}

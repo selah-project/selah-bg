@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 5:13",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Младежи носиха мелничния камък, и юноши при дърва се препънаха.",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "младежи"
+    },
+    {
+      "surface": "טחון",
+      "gloss": "мельничния камък"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "носиха"
+    },
+    {
+      "surface": "ונערים",
+      "gloss": "и юноши"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "при дърва"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "се препънаха"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:18.531308886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 99:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 99,
+  "translation": "Яхве ⟨е⟩ велик в Цион и ⟨е⟩ возвишен над всички народи.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "в Цион"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "и возвишен"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Той"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народите"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:34.660790785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 47:6",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 47,
+  "translation": "И рече ми: видя ли, човешки сине? И ме заведе и ме върна на брега на потока.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "הראית",
+      "gloss": "видя"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човешки"
+    },
+    {
+      "surface": "ויולכני",
+      "gloss": "и ме заведе"
+    },
+    {
+      "surface": "וישבני",
+      "gloss": "и ме върна"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "брега"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "на потока"
+    }
+  ],
+  "timestamp": "2026-09-22T14:30:41.035281922Z",
+  "model": "glm-5.3"
+}

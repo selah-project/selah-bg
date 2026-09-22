@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 16:23",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И стана след всичкото ти зло: горко, горко ти — оракул на Адонай Яхве",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И стана"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "след"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичкото"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "ти зло"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "горко"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "горко"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "оракул"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:16:10.360158541Z",
+  "model": "glm-5.3"
+}

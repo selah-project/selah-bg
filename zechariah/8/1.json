@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И биде слово от Яхве Цеваот, ⟨думайки⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И биде"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨думайки⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T14:47:16.976111342Z",
+  "model": "glm-5.3"
+}

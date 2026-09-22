@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Чуйте и внемнете, не се надувайте, защото Яхве говори.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "чуйте"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "и внемнете"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "се надувайте"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    }
+  ],
+  "timestamp": "2026-09-22T13:52:47.273633272Z",
+  "model": "glm-5.3"
+}

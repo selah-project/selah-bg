@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 65:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 65,
+  "translation": "Утвождда планините със силата си, препасан ⟨си⟩ с мощ.",
+  "tokens": [
+    {
+      "surface": "מכין",
+      "gloss": "утвождда"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "планините"
+    },
+    {
+      "surface": "בכחו",
+      "gloss": "със силата си"
+    },
+    {
+      "surface": "נאזר",
+      "gloss": "препасан"
+    },
+    {
+      "surface": "בגבורה",
+      "gloss": "с мощ"
+    }
+  ],
+  "timestamp": "2026-09-22T15:02:35.279417031Z",
+  "model": "glm-5.3"
+}

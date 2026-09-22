@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Горко на онзи, който гради град с кръв, и основава крепост с неправда!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "горко"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "който гради"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "с кръв"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "и основава"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "крепост"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "с неправда"
+    }
+  ],
+  "timestamp": "2026-09-22T16:28:08.221178023Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "За всичко — определено време, и час за всяко желание под небесата.",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "За всичко"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "определено време"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "и час"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "за всяко"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "желание"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:01.375742864Z",
+  "model": "glm-5.3"
+}

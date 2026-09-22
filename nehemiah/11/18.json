@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Всички левити в светия град — двеста осемдесет и четирима.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всички"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левити"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "в"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "светия град"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "двеста"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "осемдесет"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "и четирима"
+    }
+  ],
+  "timestamp": "2026-09-22T15:55:30.361507318Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 18:16",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Голотината на жената на брата ти не разкривай — голотина на брата ти е тя.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "голотината"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "на жената"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "на брата ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "разкривай"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "голотина"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "на брата ти"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е тя"
+    }
+  ],
+  "timestamp": "2026-09-22T11:37:50.139137285Z",
+  "model": "glm-5.3"
+}

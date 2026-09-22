@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 40,
+  "translation": "И отговори Яхве ⟨את⟩ Иов от бурята и рече:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И отговори"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Иов"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Иов"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "от"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "бурята"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-22T15:32:51.362061815Z",
+  "model": "glm-5.3"
+}

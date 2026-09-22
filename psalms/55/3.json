@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 55:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 55,
+  "translation": "Вними ме и ми отговори; томя се в размисъла си и се вопя.",
+  "tokens": [
+    {
+      "surface": "הקשיבה",
+      "gloss": "Вними"
+    },
+    {
+      "surface": "לי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "וענני",
+      "gloss": "и ми отговори"
+    },
+    {
+      "surface": "אריד",
+      "gloss": "томя се"
+    },
+    {
+      "surface": "בשיחי",
+      "gloss": "в размисъла си"
+    },
+    {
+      "surface": "ואהימה",
+      "gloss": "и се вопя"
+    }
+  ],
+  "timestamp": "2026-09-22T15:00:54.396310906Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 116,
+  "translation": "Аз казах в бързината ⟨си⟩: всеки човек е лъжец.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "казах"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "в бързината ⟨си⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "е лъжец"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:55.601910370Z",
+  "model": "glm-5.3"
+}

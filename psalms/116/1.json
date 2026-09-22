@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 116:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 116,
+  "translation": "Обичам, защото Яхве чу ⟨את⟩ гласа ми, моите молби.",
+  "tokens": [
+    {
+      "surface": "אהבתי",
+      "gloss": "Обичам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "чу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гласа ми"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "гласа ми"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "моите молби"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:07.039240937Z",
+  "model": "glm-5.3"
+}

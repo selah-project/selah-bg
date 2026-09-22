@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 3:25",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Не се бой от внезапен ужас и от погибелта на нечестивите, когато дойде.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "се бой"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "от ужас"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "внезапен"
+    },
+    {
+      "surface": "ומשאת",
+      "gloss": "и от погибелта"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "на нечестивите"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когато"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "дойде"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:26.887912807Z",
+  "model": "glm-5.3"
+}

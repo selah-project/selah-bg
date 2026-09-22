@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 15:14",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "А и ⟨את⟩ народа, комуто ще служат, Аз ще съдя; и след това ще излязат с голямо имане.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "А и"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "народа"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "народа"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "комуто"
+    },
+    {
+      "surface": "יעבדו",
+      "gloss": "ще служат"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ще съдя"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "и след"
+    },
+    {
+      "surface": "כן",
+      "gloss": "това"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "ще излязат"
+    },
+    {
+      "surface": "ברכש",
+      "gloss": "с имане"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "голямо"
+    }
+  ],
+  "timestamp": "2026-09-22T10:58:43.779407774Z",
+  "model": "glm-5.3"
+}

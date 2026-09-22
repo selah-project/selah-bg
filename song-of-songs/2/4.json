@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Въведе ме в ⟨дом на⟩ виното дом, и знамето му над мен ⟨е⟩ любов.",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "Въведе ме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "היין",
+      "gloss": "на виното"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "и знамето му"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "над мен"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "любов"
+    }
+  ],
+  "timestamp": "2026-09-22T15:34:24.716589128Z",
+  "model": "glm-5.3"
+}

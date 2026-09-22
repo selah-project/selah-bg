@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И синовете на Гомер: Ашкеназ и Рифат, и Тогарма.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синовете"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "на Гомер"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "Ашкеназ"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "и Рифат"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "и Тогарма"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:25.523949484Z",
+  "model": "glm-5.3"
+}

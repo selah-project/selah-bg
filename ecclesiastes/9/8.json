@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "През всяко време дрехите ти да бъдат бели, и масло на главата ти да не липсва.",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "през всяко"
+    },
+    {
+      "surface": "עת",
+      "gloss": "време"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "да бъдат"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "дрехите ти"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "бели"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "и масло"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "главата ти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "да не"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "липсва"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:35.698646641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 35:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "И дойде Яков в Луз, който е в земята Ханаан — той е Бет Ел — той и целият народ, който с него.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И дойде"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "в Луз"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Ханаан"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той е"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и целият"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с него"
+    }
+  ],
+  "timestamp": "2026-09-22T11:07:16.620570019Z",
+  "model": "glm-5.3"
+}

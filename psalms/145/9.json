@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 145:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 145,
+  "translation": "Добър ⟨е⟩ Яхве към всички, и милостите Му — над всички дела Му.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Добър"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "към всички"
+    },
+    {
+      "surface": "ורחמיו",
+      "gloss": "и милостите Му"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "дела Му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:00.396195439Z",
+  "model": "glm-5.3"
+}

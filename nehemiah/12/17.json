@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 12:17",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "На Авиа — Зихри; на Миниамин; на Моадия — Пилтай.",
+  "tokens": [
+    {
+      "surface": "לאביה",
+      "gloss": "на Авиа"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "Зихри"
+    },
+    {
+      "surface": "למנימין",
+      "gloss": "на Миниамин"
+    },
+    {
+      "surface": "למועדיה",
+      "gloss": "на Моадия"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "Пилтай"
+    }
+  ],
+  "timestamp": "2026-09-22T15:55:19.625998761Z",
+  "model": "glm-5.3"
+}

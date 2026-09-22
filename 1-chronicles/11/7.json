@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И се настани Давид в крепостта; затова го нарекоха градът на Давид.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "И се настани"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "в крепостта"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "כן",
+      "gloss": "това"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "нарекоха"
+    },
+    {
+      "surface": "לו",
+      "gloss": "го"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:26.074136366Z",
+  "model": "glm-5.3"
+}

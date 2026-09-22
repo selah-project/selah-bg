@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "за Езра — Мешулам; за Амария — Йехоханан.",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "за Езра"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешулам"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "за Амария"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "Йехоханан"
+    }
+  ],
+  "timestamp": "2026-09-22T15:54:59.731400960Z",
+  "model": "glm-5.3"
+}

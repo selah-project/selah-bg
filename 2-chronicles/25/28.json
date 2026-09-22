@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И го понесоха на конете, и погребаха ⟨את⟩ него с бащите му в град Юда.",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "и го понесоха"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "конете"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "и погребаха"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "бащите му"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "в град"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Юда"
+    }
+  ],
+  "timestamp": "2026-09-22T16:11:17.372969956Z",
+  "model": "glm-5.3"
+}

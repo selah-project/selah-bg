@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Возненавидях събранието на злодеите и със злите няма да седя.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "возненавидях"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "събранието"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "на злодеите"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "и със"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "злите"
+    },
+    {
+      "surface": "לא",
+      "gloss": "няма"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "да седя"
+    }
+  ],
+  "timestamp": "2026-09-22T14:55:02.352303256Z",
+  "model": "glm-5.3"
+}

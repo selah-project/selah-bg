@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 49,
+  "translation": "От Асер — тлъст е хлябът му, и той дава деликатеси на цар.",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "от Асер"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "тлъст"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "хлябът му"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "и той"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дава"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "деликатеси"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на цар"
+    }
+  ],
+  "timestamp": "2026-09-22T11:13:19.860543100Z",
+  "model": "glm-5.3"
+}

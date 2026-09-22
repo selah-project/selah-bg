@@ -1,0 +1,90 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 40:16",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 40,
+  "translation": "И Гдалия, синът на Ахикам, каза на Йоханан, синът на Кареах: не прави ⟨את⟩ нещото това, защото лъжа говориш за Ишмаел.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    },
+    {
+      "surface": "גדליהו",
+      "gloss": "Гдалия"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אחיקם",
+      "gloss": "на Ахикам"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יוחנן",
+      "gloss": "Йоханан"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "Кареах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעש",
+      "gloss": "прави"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "нещото това"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "нещото"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "това"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лъжа"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говориш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "за"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "Ишмаел"
+    }
+  ],
+  "timestamp": "2026-09-22T14:03:47.781870801Z",
+  "model": "glm-5.3"
+}

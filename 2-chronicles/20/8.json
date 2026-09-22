@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 20:8",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "и се заселиха в нея, и съградиха Ти в нея светилище за Твоето име, казвайки:",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "и се заселиха"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в нея"
+    },
+    {
+      "surface": "ויבנו",
+      "gloss": "и съградиха"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "בה",
+      "gloss": "в нея"
+    },
+    {
+      "surface": "מקדש",
+      "gloss": "светилище"
+    },
+    {
+      "surface": "לשמך",
+      "gloss": "за Твоето име"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T16:09:25.509430002Z",
+  "model": "glm-5.3"
+}

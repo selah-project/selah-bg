@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 106:13",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 106,
+  "translation": "Побързаха — забравиха делата Му, не изчакаха съвета Му.",
+  "tokens": [
+    {
+      "surface": "מהרו",
+      "gloss": "побързаха"
+    },
+    {
+      "surface": "שכחו",
+      "gloss": "забравиха"
+    },
+    {
+      "surface": "מעשיו",
+      "gloss": "делата Му"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "изчакаха"
+    },
+    {
+      "surface": "לעצתו",
+      "gloss": "съвета Му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:17.480774312Z",
+  "model": "glm-5.3"
+}

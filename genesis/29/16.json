@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "А Лаван имаше две дъщери; името на голямата ⟨бе⟩ Леа, а името на малката — Рахил.",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "А Лаван"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "две"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "дъщери"
+    },
+    {
+      "surface": "שם",
+      "gloss": "името"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "на голямата"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "Леа"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а името"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "на малката"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахил"
+    }
+  ],
+  "timestamp": "2026-09-22T16:15:27.726834805Z",
+  "model": "glm-5.3"
+}

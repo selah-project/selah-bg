@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "и Хацар-Шуал, и Вала, и Ацем.",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "и Хацар"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Шуал"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "и Вала"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "и Ацем"
+    }
+  ],
+  "timestamp": "2026-09-22T12:23:19.752068802Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 37:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "Лошият крои ⟨с plan⟩ срещу праведния и скърца със зъби срещу него.",
+  "tokens": [
+    {
+      "surface": "זמם",
+      "gloss": "крои"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "лошият"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "срещу праведния"
+    },
+    {
+      "surface": "וחרק",
+      "gloss": "и скърца"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "срещу него"
+    },
+    {
+      "surface": "שניו",
+      "gloss": "със зъби"
+    }
+  ],
+  "timestamp": "2026-09-22T14:56:58.339307794Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Не бъди припрен да тръгнеш от лицето му, не заставай в лошо дело, защото всичко, което поиска, ⟨царят⟩ прави.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "бъди припрен"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "от лицето му"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "да тръгнеш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "заставай"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "в дело"
+    },
+    {
+      "surface": "רע",
+      "gloss": "лошо"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "поиска"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "прави"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:22.308771652Z",
+  "model": "glm-5.3"
+}

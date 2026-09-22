@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 32:25",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "И Яаков остана сам, и се бори ⟨⟨един⟩⟩ мъж с него до изгряването на зората.",
+  "tokens": [
+    {
+      "surface": "ויותר",
+      "gloss": "И остана"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "לבדו",
+      "gloss": "сам"
+    },
+    {
+      "surface": "ויאבק",
+      "gloss": "и се бори"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с него"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "изгряването"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "на зората"
+    }
+  ],
+  "timestamp": "2026-09-22T11:05:06.761692543Z",
+  "model": "glm-5.3"
+}

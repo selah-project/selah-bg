@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 23:22",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Слушай баща си, този който те е родил, и не презирай майка си, когато остарее.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "слушай"
+    },
+    {
+      "surface": "לאביך",
+      "gloss": "баща си"
+    },
+    {
+      "surface": "זה",
+      "gloss": "този"
+    },
+    {
+      "surface": "ילדך",
+      "gloss": "който те е родил"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תבוז",
+      "gloss": "презирай"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когато"
+    },
+    {
+      "surface": "זקנה",
+      "gloss": "остарее"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "майка си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:41.149895608Z",
+  "model": "glm-5.3"
+}

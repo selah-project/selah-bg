@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "И рече му царят: върви в мир. И стана и отиде в Хеврон.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "לך",
+      "gloss": "върви"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "в мир"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "в Хеврон"
+    }
+  ],
+  "timestamp": "2026-09-22T12:53:53.157317613Z",
+  "model": "glm-5.3"
+}

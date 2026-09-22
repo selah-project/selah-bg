@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 9:12",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Ето, сграбчи — кой ще го върне? Кой ще му каже: какво правиш?",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ето"
+    },
+    {
+      "surface": "יחתף",
+      "gloss": "сграбчи"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "ישיבנו",
+      "gloss": "ще го върне"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ще каже"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "правиш"
+    }
+  ],
+  "timestamp": "2026-09-22T15:24:17.378283536Z",
+  "model": "glm-5.3"
+}

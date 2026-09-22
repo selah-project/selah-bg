@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "И отговориха синовете на Хет ⟨את⟩ Авраам, като му казаха:",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "и отговориха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "חת",
+      "gloss": "на Хет"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авраам"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "като казаха"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-22T11:01:02.003166870Z",
+  "model": "glm-5.3"
+}

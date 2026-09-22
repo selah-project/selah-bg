@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 10:2",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "и върху подписаните ⟨бе⟩ Неемия הтиршата, син на Ахалja, и Цидкия",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и върху"
+    },
+    {
+      "surface": "החתומים",
+      "gloss": "подписаните"
+    },
+    {
+      "surface": "נחמיה",
+      "gloss": "Неемия"
+    },
+    {
+      "surface": "התרשתא",
+      "gloss": "тиршата"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חכליה",
+      "gloss": "на Ахалja"
+    },
+    {
+      "surface": "וצדקיה",
+      "gloss": "и Цидкия"
+    }
+  ],
+  "timestamp": "2026-09-22T15:54:35.247989025Z",
+  "model": "glm-5.3"
+}

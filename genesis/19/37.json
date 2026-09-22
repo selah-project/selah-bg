@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 19:37",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И роди първородната син, и нарече името му Моав; той ⟨е⟩ баща на Моав до този ден.",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "הבכירה",
+      "gloss": "първородната"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "и нарече"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "името му"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "баща на"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "този ден"
+    }
+  ],
+  "timestamp": "2026-09-22T11:00:10.989077177Z",
+  "model": "glm-5.3"
+}

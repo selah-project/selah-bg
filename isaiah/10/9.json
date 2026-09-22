@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 10:9",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Не е ли Калне като Кархемиш? Не е ли Хамат като Арпад? Не е ли Шомрон като Дамаск?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "не е ли"
+    },
+    {
+      "surface": "ככרכמיש",
+      "gloss": "като Кархемиш"
+    },
+    {
+      "surface": "כלנו",
+      "gloss": "Калне"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ли"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כארפד",
+      "gloss": "като Арпад"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "Хамат"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ли"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כדמשק",
+      "gloss": "като Дамаск"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шомрон"
+    }
+  ],
+  "timestamp": "2026-09-22T13:28:20.126680723Z",
+  "model": "glm-5.3"
+}

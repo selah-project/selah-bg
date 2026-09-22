@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 39:8",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 39,
+  "translation": "Ето, идва и ще стане — твърдение на Адонай Яхве; това е денят, за който говорих.",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "באה",
+      "gloss": "идва"
+    },
+    {
+      "surface": "ונהיתה",
+      "gloss": "и ще стане"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "твърдение"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "היום",
+      "gloss": "денят"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорих"
+    }
+  ],
+  "timestamp": "2026-09-22T14:28:10.070584437Z",
+  "model": "glm-5.3"
+}

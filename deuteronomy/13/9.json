@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Не ще склониш нему, и не ще послушаш нему, и не ще пощади окото ти него, и не ще пощадиш, и не ще покриеш него.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "склониш"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "послушаш"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "пощади"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "окото ти"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "него"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "пощадиши"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "покриеш"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "него"
+    }
+  ],
+  "timestamp": "2026-09-22T12:07:05.591781067Z",
+  "model": "glm-5.3"
+}

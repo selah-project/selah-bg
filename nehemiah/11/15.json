@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 11:15",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "А от левитите: Шемая, син на Хашув, син на Азрикам, син на Хашавя, син на Буни;",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "а от"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитите"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемая"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "на Хашув"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "на Азрикам"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "на Хашавя"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בוני",
+      "gloss": "на Буни"
+    }
+  ],
+  "timestamp": "2026-09-22T15:55:21.574344112Z",
+  "model": "glm-5.3"
+}

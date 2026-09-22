@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "psalms 119:56",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Това ми бе ⟨съдбата⟩, защото твоите повеления пазих.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "това"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ми бе"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "твоите повеления"
+    },
+    {
+      "surface": "נצרתי",
+      "gloss": "пазих"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:31.699516322Z",
+  "model": "glm-5.3"
+}

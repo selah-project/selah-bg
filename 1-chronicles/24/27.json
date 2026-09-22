@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 24:27",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Синове на Мерари ⟨бяха⟩ от Яазия, синът му: Шоам, и Закур, и Иври.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "Мерари"
+    },
+    {
+      "surface": "ליעזיהו",
+      "gloss": "от Яазия"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    },
+    {
+      "surface": "ושהם",
+      "gloss": "и Шоам"
+    },
+    {
+      "surface": "וזכור",
+      "gloss": "и Закур"
+    },
+    {
+      "surface": "ועברי",
+      "gloss": "и Иври"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:50.725628073Z",
+  "model": "glm-5.3"
+}

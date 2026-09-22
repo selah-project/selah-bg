@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И рече Яхве на Каин: защо пламна в тебе и защо падна лицето ти?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Каин"
+    },
+    {
+      "surface": "למה",
+      "gloss": "защо"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "пламна"
+    },
+    {
+      "surface": "לך",
+      "gloss": "в тебе"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "и защо"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "падна"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицето ти"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:30.730522089Z",
+  "model": "glm-5.3"
+}

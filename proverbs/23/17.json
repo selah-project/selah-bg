@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Да не завижда сърцето ти на грешниците, а ⟨да бъде⟩ в страха от Яхве целия ден.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "да завижда"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "сърцето ти"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "на грешниците"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אם",
+      "gloss": "само"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "в страха"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целия"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:14.036377279Z",
+  "model": "glm-5.3"
+}

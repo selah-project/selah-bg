@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 11:5",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И Рехавам живя в Йерусалим, и построи градове за крепост в Йехуда.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и живя"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "Рехавам"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "в Йерусалим"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "и построи"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "градове"
+    },
+    {
+      "surface": "למצור",
+      "gloss": "за крепост"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "в Йехуда"
+    }
+  ],
+  "timestamp": "2026-09-22T16:06:16.073868411Z",
+  "model": "glm-5.3"
+}

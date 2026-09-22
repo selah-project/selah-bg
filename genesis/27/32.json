@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 27:32",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "И рече му Ицхак, баща му: кой си ти? И рече: аз съм синът ти, първородния ти, Есав.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "баща му"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "синът ти"
+    },
+    {
+      "surface": "בכרך",
+      "gloss": "първородния ти"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    }
+  ],
+  "timestamp": "2026-09-22T11:04:28.583432165Z",
+  "model": "glm-5.3"
+}

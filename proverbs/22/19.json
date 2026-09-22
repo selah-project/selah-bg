@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 22:19",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Да бъде твоето упование в Яхве — затова те известих днес, даже тебе.",
+  "tokens": [
+    {
+      "surface": "להיות",
+      "gloss": "да бъде"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "в Яхве"
+    },
+    {
+      "surface": "מבטחך",
+      "gloss": "твоето упование"
+    },
+    {
+      "surface": "הודעתיך",
+      "gloss": "те известих"
+    },
+    {
+      "surface": "היום",
+      "gloss": "днес"
+    },
+    {
+      "surface": "אף",
+      "gloss": "даже"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "тебе"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:35.683475250Z",
+  "model": "glm-5.3"
+}

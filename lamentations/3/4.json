@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Изтощи плътта ми и кожата ми; строши костите ми.",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "Източи"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "плътта ми"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "и кожата ми"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "строши"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "костите ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:47.490596993Z",
+  "model": "glm-5.3"
+}

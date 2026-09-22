@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 45:10",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 45,
+  "translation": "Горе на този, който казва на баща: какво раждаш? — и на жена: какво родиш?",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "горе"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "който казва"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "на баща"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "תוליד",
+      "gloss": "раждаш"
+    },
+    {
+      "surface": "ולאשה",
+      "gloss": "и на жена"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "תחילין",
+      "gloss": "родиш"
+    }
+  ],
+  "timestamp": "2026-09-22T13:40:06.714130287Z",
+  "model": "glm-5.3"
+}

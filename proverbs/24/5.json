@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Мъж мъдър ⟨е⟩ със сила, и мъж на знание укрепява сила.",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мъдър"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "със сила"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "и мъж"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "на знание"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "укрепява"
+    },
+    {
+      "surface": "כח",
+      "gloss": "сила"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:53.139399989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 2:9",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И видях, и ето — ръка простряна към мене; и ето — в нея свитък на книга.",
+  "tokens": [
+    {
+      "surface": "ואראה",
+      "gloss": "И видях"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ръка"
+    },
+    {
+      "surface": "שלוחה",
+      "gloss": "простряна"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мене"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в нея"
+    },
+    {
+      "surface": "מגלת",
+      "gloss": "свитък"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "на книга"
+    }
+  ],
+  "timestamp": "2026-09-22T14:11:14.325676024Z",
+  "model": "glm-5.3"
+}

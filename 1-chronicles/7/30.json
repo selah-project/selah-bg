@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Синове на Асер: Имна и Ишва и Ишви и Брия и Серах, сестра им.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синове"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "на Асер"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "Имна"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "и Ишва"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "и Ишви"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "и Брия"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "и Серах"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "сестра им"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:57.971460449Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 109:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 109,
+  "translation": "За водача. Псалом на Давид. Елохим на хвалата ми, не мълчи.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "за водача"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалом"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "תהלתי",
+      "gloss": "на хвалата ми"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "мълчи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:43.577115237Z",
+  "model": "glm-5.3"
+}

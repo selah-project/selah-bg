@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И синът му, първородният, ⟨бе⟩ Авдон, и Цур, и Киш, и Ваал, и Надав.",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "и синът му"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "първородният"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "Авдон"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "и Цур"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "и Киш"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "и Ваал"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "и Надав"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:55.511588122Z",
+  "model": "glm-5.3"
+}

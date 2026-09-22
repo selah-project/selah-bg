@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И Йоав, син на Цруя, беше над войската; и Йошафат, син на Ахилуд, ⟨беше⟩ летописец.",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "и Йоав"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "на Цруя"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "войската"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "и Йошафат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "на Ахилуд"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "летописец"
+    }
+  ],
+  "timestamp": "2026-09-22T16:01:36.541767141Z",
+  "model": "glm-5.3"
+}

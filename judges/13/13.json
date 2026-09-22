@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 13:13",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И рече ангелът на Яхве на Маноах: от всичко, което казах на жената, тя да пази.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ангелът"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "Маноах"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "от всичко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "казах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "тя да пази"
+    }
+  ],
+  "timestamp": "2026-09-22T12:31:27.193995351Z",
+  "model": "glm-5.3"
+}

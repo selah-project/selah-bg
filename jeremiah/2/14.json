@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Роб ли е Израил, или роден в дома? Защо стана на разграбване?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "Роб ли"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израил"
+    },
+    {
+      "surface": "אם",
+      "gloss": "или"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "роден"
+    },
+    {
+      "surface": "בית",
+      "gloss": "в дома"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "защо"
+    },
+    {
+      "surface": "היה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "на разграбване"
+    }
+  ],
+  "timestamp": "2026-09-22T13:46:44.366962636Z",
+  "model": "glm-5.3"
+}

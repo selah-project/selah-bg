@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Уповавайте в Яхве до вечни времена, защото в Ях Яхве е скала вечности.",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "уповавайте"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "в Яхве"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "до"
+    },
+    {
+      "surface": "עד",
+      "gloss": "вечни времена"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "в Ях"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צור",
+      "gloss": "скала"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "вечността"
+    }
+  ],
+  "timestamp": "2026-09-22T13:32:15.667379047Z",
+  "model": "glm-5.3"
+}

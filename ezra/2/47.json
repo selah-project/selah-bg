@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezra 2:47",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Гидел, синовете на Гахар, синовете на Реая.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "Гидел"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "Гахар"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "Реая"
+    }
+  ],
+  "timestamp": "2026-09-22T15:49:14.319313846Z",
+  "model": "glm-5.3"
+}

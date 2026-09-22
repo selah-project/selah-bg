@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "Ден на ден излива слово, и нощ на нощ показва знание.",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "на ден"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "излива"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "и нощ"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "на нощ"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "показва"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знание"
+    }
+  ],
+  "timestamp": "2026-09-22T14:53:54.292884519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 78,
+  "translation": "И предаде силата си на плен, и славата си — в ръката на враг.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "и предаде"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "на плен"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "силата си"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "и славата си"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "в ръката"
+    },
+    {
+      "surface": "צר",
+      "gloss": "на враг"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:12.022694768Z",
+  "model": "glm-5.3"
+}

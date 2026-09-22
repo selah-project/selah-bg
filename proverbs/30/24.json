@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 30:24",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Четири ⟨са⟩ дребни на земята, но те са мъдри, мъдри ⟨изключително⟩:",
+  "tokens": [
+    {
+      "surface": "ארבעה",
+      "gloss": "Четири"
+    },
+    {
+      "surface": "הם",
+      "gloss": "са"
+    },
+    {
+      "surface": "קטני",
+      "gloss": "дребни"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на земята"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "но те"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мъдри"
+    },
+    {
+      "surface": "מחכמים",
+      "gloss": "мъдри изключително"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:37.718926366Z",
+  "model": "glm-5.3"
+}

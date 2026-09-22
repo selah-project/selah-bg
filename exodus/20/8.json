@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Помни ⟨את⟩ деня на съботата, за да го осветиш.",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "Помни"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "деня"
+    },
+    {
+      "surface": "יום",
+      "gloss": "деня"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "на съботата"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "за да го осветиш"
+    }
+  ],
+  "timestamp": "2026-09-22T11:19:45.147076395Z",
+  "model": "glm-5.3"
+}

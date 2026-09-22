@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 66:21",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 66,
+  "translation": "И даже от тях ще взема за свещеници, за левити, каза Яхве.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "и даже"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "от тях"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "ще взема"
+    },
+    {
+      "surface": "לכהנים",
+      "gloss": "за свещеници"
+    },
+    {
+      "surface": "ללוים",
+      "gloss": "за левити"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T13:46:15.429451011Z",
+  "model": "glm-5.3"
+}

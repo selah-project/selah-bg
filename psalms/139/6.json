@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 139:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 139,
+  "translation": "Знание, чудно за мен, издигнато — не мога го.",
+  "tokens": [
+    {
+      "surface": "פלאיה",
+      "gloss": "чудно"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "Знание"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "за мен"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "издигнато"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "мога"
+    },
+    {
+      "surface": "לה",
+      "gloss": "го"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:55.528184253Z",
+  "model": "glm-5.3"
+}

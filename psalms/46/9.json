@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 46:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 46,
+  "translation": "Елате, вижте делата на Яхве, който сложи опустошения на земята",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "Елате"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "вижте"
+    },
+    {
+      "surface": "מפעלות",
+      "gloss": "делата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "שם",
+      "gloss": "сложи"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "опустошения"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земята"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:04.499350623Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 42:17",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 42,
+  "translation": "И умря Ийов, стар и сит ⟨от⟩ дни.",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "и умря"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "стар"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и сит ⟨от⟩"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:24.200634164Z",
+  "model": "glm-5.3"
+}

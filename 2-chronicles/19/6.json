@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 19:6",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И рече на съдиите: Вижте какво правите, защото не на човек съдите, а на Яхве, а Той е с вас в делото на съда.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "השפטים",
+      "gloss": "съдиите"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "Вижте"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "правите"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "на човек"
+    },
+    {
+      "surface": "תשפטו",
+      "gloss": "съдите"
+    },
+    {
+      "surface": "כי",
+      "gloss": "а"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "ועמכם",
+      "gloss": "а Той е с вас"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "в делото"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "на съда"
+    }
+  ],
+  "timestamp": "2026-09-22T16:10:14.022255607Z",
+  "model": "glm-5.3"
+}

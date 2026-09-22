@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "psalms 89:44",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 89,
+  "translation": "Дори върна острието на меча му и не го утвърди в битката.",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "Дори"
+    },
+    {
+      "surface": "תשיב",
+      "gloss": "върна"
+    },
+    {
+      "surface": "צור",
+      "gloss": "острието"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "на меча му"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "הקימתו",
+      "gloss": "го утвърди"
+    },
+    {
+      "surface": "במלחמה",
+      "gloss": "в битката"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:32.829640620Z",
+  "model": "glm-5.3"
+}

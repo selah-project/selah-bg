@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "Синове на Рахел: Йосеф и Бинямин.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синове"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "на Рахел"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "и Бинямин"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:53.196936458Z",
+  "model": "glm-5.3"
+}

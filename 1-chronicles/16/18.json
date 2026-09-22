@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "като каже: Тебе ще дам земята Кенаан, въже ⟨на⟩ наследството ви.",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "като каже"
+    },
+    {
+      "surface": "לך",
+      "gloss": "Тебе"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ще дам"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "Кенаан"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "въже"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "наследството ви"
+    }
+  ],
+  "timestamp": "2026-09-22T16:01:00.057819412Z",
+  "model": "glm-5.3"
+}

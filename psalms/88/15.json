@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 88:15",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 88,
+  "translation": "Защо, Яхве, отхвърляш душата ми, скриваш лицето Си от мен?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Защо"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "отхвърляш"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата ми"
+    },
+    {
+      "surface": "תסתיר",
+      "gloss": "скриваш"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицето Си"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от мен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:25.112528346Z",
+  "model": "glm-5.3"
+}

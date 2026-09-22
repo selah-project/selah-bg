@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И не отвечай срещу ближния си ⟨като⟩ лъжлив свидетел.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "И не"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "отговаряй"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "срещу ближния си"
+    },
+    {
+      "surface": "עד",
+      "gloss": "свидетел"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "лъжлив"
+    }
+  ],
+  "timestamp": "2026-09-22T12:02:42.249689975Z",
+  "model": "glm-5.3"
+}

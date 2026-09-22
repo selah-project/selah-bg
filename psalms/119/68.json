@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 119:68",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Ти си добър и правиш добро; научи ме на своите наредби.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "добър"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ומטיב",
+      "gloss": "и правиш добро"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "научи ме"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "своите наредби"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:22.220280742Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "Не се обръщайте към идолите и богове изляни не си правете; аз ⟨съм⟩ Яхве, Елохим ваш.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "се обръщайте"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "идолите"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "и богове"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "изляни"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "правете"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "си"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "Елохим ваш"
+    }
+  ],
+  "timestamp": "2026-09-22T11:39:02.915138709Z",
+  "model": "glm-5.3"
+}

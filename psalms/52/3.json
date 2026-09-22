@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 52:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 52,
+  "translation": "защо се хвалиш в злото, силни? Хесед ⟨е⟩ на Ел целия ден.",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "защо"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "се хвалиш"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "в злото"
+    },
+    {
+      "surface": "הגבור",
+      "gloss": "силни"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "хесед"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на Ел"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целия"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    }
+  ],
+  "timestamp": "2026-09-22T15:00:48.033779603Z",
+  "model": "glm-5.3"
+}

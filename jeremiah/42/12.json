@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 42:12",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 42,
+  "translation": "И ще дам вам милости, и ще се смили ⟨את⟩ над вас, и ще върне ⟨את⟩ ви към земята ви.",
+  "tokens": [
+    {
+      "surface": "ואתן",
+      "gloss": "И ще дам"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "вам"
+    },
+    {
+      "surface": "רחמים",
+      "gloss": "милости"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "и ще се смили"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "вас"
+    },
+    {
+      "surface": "והשיב",
+      "gloss": "и ще върне"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ ви",
+      "marks": "ви"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "אדמתכם",
+      "gloss": "земята ви"
+    }
+  ],
+  "timestamp": "2026-09-22T14:06:47.382696271Z",
+  "model": "glm-5.3"
+}

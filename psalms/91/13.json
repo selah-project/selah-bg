@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 91:13",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 91,
+  "translation": "Върху лъв и шамп ще тъпчеш, ще газиш млад лъв и танин.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "лъв"
+    },
+    {
+      "surface": "ופתן",
+      "gloss": "и шамп"
+    },
+    {
+      "surface": "תדרך",
+      "gloss": "ще тъпчеш"
+    },
+    {
+      "surface": "תרמס",
+      "gloss": "ще газиш"
+    },
+    {
+      "surface": "כפיר",
+      "gloss": "млад лъв"
+    },
+    {
+      "surface": "ותנין",
+      "gloss": "и танин"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:42.542342074Z",
+  "model": "glm-5.3"
+}

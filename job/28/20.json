@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 28:20",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "А мъдростта откъде идва, и кое е мястото на разума?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "а мъдростта"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "откъде"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "идва"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "и кое"
+    },
+    {
+      "surface": "זה",
+      "gloss": "е"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "мястото"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "на разума"
+    }
+  ],
+  "timestamp": "2026-09-22T15:29:59.045700701Z",
+  "model": "glm-5.3"
+}

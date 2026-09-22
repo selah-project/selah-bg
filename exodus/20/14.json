@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Не прелюбодействай.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "прелюбодействай"
+    }
+  ],
+  "timestamp": "2026-09-22T16:16:45.128912607Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И синовете на Йетер: Йефуне, и Писпа, и Ара.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синовете"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "на Йетер"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "Йефуне"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "и Писпа"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "и Ара"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:46.427153599Z",
+  "model": "glm-5.3"
+}

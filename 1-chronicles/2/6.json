@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И синове на Зерах: Зимри, и Ейтан, и Хейман, и Калкол, и Дара — всички петима.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синове"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "на Зерах"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "Зимри"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "и Ейтан"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "и Хейман"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "и Калкол"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "и Дара"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "всички"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "петима"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:28.398838829Z",
+  "model": "glm-5.3"
+}

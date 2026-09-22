@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 38:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "Смърдят, тлеят синините ми поради глупостта ми.",
+  "tokens": [
+    {
+      "surface": "הבאישו",
+      "gloss": "смърдят"
+    },
+    {
+      "surface": "נמקו",
+      "gloss": "тлеят"
+    },
+    {
+      "surface": "חבורתי",
+      "gloss": "синините ми"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "поради"
+    },
+    {
+      "surface": "אולתי",
+      "gloss": "глупостта ми"
+    }
+  ],
+  "timestamp": "2026-09-22T16:29:18.693217724Z",
+  "model": "glm-5.3"
+}

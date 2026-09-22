@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Синове на Ицхар: Шеломит, главата.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синове"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "Ицхар"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "Шеломит"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "главата"
+    }
+  ],
+  "timestamp": "2026-09-22T16:03:00.480714189Z",
+  "model": "glm-5.3"
+}

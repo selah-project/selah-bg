@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 2:6",
+  "book": "zephaniah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И ще бъде поясът на морето пасбища, ливади за пастири и огради за стадо.",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "и ще бъде"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "поясът"
+    },
+    {
+      "surface": "הים",
+      "gloss": "морето"
+    },
+    {
+      "surface": "נות",
+      "gloss": "пасбища"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ливади"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "за пастири"
+    },
+    {
+      "surface": "וגדרות",
+      "gloss": "и огради"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "за стадо"
+    }
+  ],
+  "timestamp": "2026-09-22T14:44:33.764590326Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "На върха на височините, при пътя, при кръстопътищата стои тя.",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "На върха"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "на височините"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "при"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пътя"
+    },
+    {
+      "surface": "בית",
+      "gloss": "при ⟨кръсто⟩"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "пътищата"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "стои тя"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:22.801132449Z",
+  "model": "glm-5.3"
+}

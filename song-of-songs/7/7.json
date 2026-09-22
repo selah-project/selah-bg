@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Колко си красива и колко си приятна, любов, сред ⟨насладите⟩!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "колко"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "красива си"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и колко"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "приятна си"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "любов"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "сред наслади"
+    }
+  ],
+  "timestamp": "2026-09-22T16:32:09.017312878Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Само в земята Гошен, където бяха синовете на Израел, нямаше град.",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "Само"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "Гошен"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "където"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    },
+    {
+      "surface": "לא",
+      "gloss": "нямаше"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "град"
+    }
+  ],
+  "timestamp": "2026-09-22T16:16:28.927727108Z",
+  "model": "glm-5.3"
+}

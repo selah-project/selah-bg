@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 35:21",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "И тръгна Израел и опъна шатъра си отвъд Мигдал-Едер.",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "И тръгна"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "и опъна"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "шатъра си"
+    },
+    {
+      "surface": "מהלאה",
+      "gloss": "отвъд"
+    },
+    {
+      "surface": "למגדל",
+      "gloss": "<Мигдал>"
+    },
+    {
+      "surface": "עדר",
+      "gloss": "<Едер>"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:53.196359593Z",
+  "model": "glm-5.3"
+}

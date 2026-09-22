@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Който премества камъни, ще бъде наранен от тях; който цепи дърва, ще бъде застрашен от тях.",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "премества"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "камъни"
+    },
+    {
+      "surface": "יעצב",
+      "gloss": "ще бъде наранен"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "от тях"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "цепи"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "дърва"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "ще бъде застрашен"
+    },
+    {
+      "surface": "בם",
+      "gloss": "от тях"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:37.586562606Z",
+  "model": "glm-5.3"
+}

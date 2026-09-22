@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Отдръпва ухото си от слушането на Тора — дори молитвата му ⟨е⟩ мерзост.",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "отдръпва"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ухото си"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "от слушането"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дори"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "молитвата му"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "мерзост"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:56.252199504Z",
+  "model": "glm-5.3"
+}

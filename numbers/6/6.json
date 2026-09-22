@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "През всичките дни на посвещаването му на Яхве при мъртва душа не ще влезе.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "През всичките"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "на посвещаването му"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душа"
+    },
+    {
+      "surface": "מת",
+      "gloss": "мъртва"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ще влезе"
+    }
+  ],
+  "timestamp": "2026-09-22T11:47:09.798261769Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 51:18",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 51,
+  "translation": "Суета са те, дело на измами; в часа на <посещението им> ще погинат.",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "суета"
+    },
+    {
+      "surface": "המה",
+      "gloss": "са те"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "дело"
+    },
+    {
+      "surface": "תעתעים",
+      "gloss": "на измами"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "в часа"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "на посещението им"
+    },
+    {
+      "surface": "יאבדו",
+      "gloss": "ще погинат"
+    }
+  ],
+  "timestamp": "2026-09-22T14:09:29.705948946Z",
+  "model": "glm-5.3"
+}

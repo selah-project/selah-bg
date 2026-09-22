@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 6:40",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И дадоха им ⟨את⟩ Хеврон в земята Йехуда и ⟨את⟩ пасищата му наоколо.",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "и дадоха"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хеврон"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "Хеврон"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Йехуда"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "пасищата му"
+    },
+    {
+      "surface": "סביבתיה",
+      "gloss": "наоколо"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:32.974117955Z",
+  "model": "glm-5.3"
+}

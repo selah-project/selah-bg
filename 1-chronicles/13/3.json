@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 13:3",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "и да върнем ⟨את⟩ ковчега на Елохим nostro при нас, защото не го потърсихме в дните на Саул.",
+  "tokens": [
+    {
+      "surface": "ונסבה",
+      "gloss": "и да върнем"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ковчега"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "на Елохим nostro"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "при нас"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "דרשנהו",
+      "gloss": "го потърсихме"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "в дните"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "на Саул"
+    }
+  ],
+  "timestamp": "2026-09-22T16:01:13.471761606Z",
+  "model": "glm-5.3"
+}

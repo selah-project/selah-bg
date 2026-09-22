@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И ако не Ме послушате и не изпълните ⟨את⟩ всичките тези заповеди,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "послушате"
+    },
+    {
+      "surface": "לי",
+      "gloss": "Мен"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "изпълните"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всичките тези заповеди"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичките"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "заповеди"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "тези"
+    }
+  ],
+  "timestamp": "2026-09-22T11:43:21.687352651Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 23:30",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Бенаяху пиратониеца; Хидай от потоците на Гааш;",
+  "tokens": [
+    {
+      "surface": "בניהו",
+      "gloss": "Бенаяху"
+    },
+    {
+      "surface": "פרעתני",
+      "gloss": "пиратониеца"
+    },
+    {
+      "surface": "הדי",
+      "gloss": "Хидай"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "от потоците"
+    },
+    {
+      "surface": "געש",
+      "gloss": "Гааш"
+    }
+  ],
+  "timestamp": "2026-09-22T12:59:05.401557607Z",
+  "model": "glm-5.3"
+}

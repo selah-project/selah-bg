@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "за Харим — Адна; за Мерайот — Хелкай.",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "за Харим"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "Адна"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "за Мерайот"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "Хелкай"
+    }
+  ],
+  "timestamp": "2026-09-22T15:54:59.732093913Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 147:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 147,
+  "translation": "Строи Йерусалим Яхве, изгонените на Израел ще събере.",
+  "tokens": [
+    {
+      "surface": "בונה",
+      "gloss": "Строи"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "Йерусалим"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נדחי",
+      "gloss": "изгонените"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    },
+    {
+      "surface": "יכנס",
+      "gloss": "ще събере"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:17.230174005Z",
+  "model": "glm-5.3"
+}

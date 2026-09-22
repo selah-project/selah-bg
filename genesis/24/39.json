@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И казах на господаря си: може би жената няма да тръгне след мен.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и казах"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "господаря си"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "може би"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ще тръгне"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "след мен"
+    }
+  ],
+  "timestamp": "2026-09-22T11:02:12.744977901Z",
+  "model": "glm-5.3"
+}

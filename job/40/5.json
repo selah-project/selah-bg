@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 40:5",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 40,
+  "translation": "Едно говорих, и не ще отговоря; и две — и не ще добавя.",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "Едно"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорих"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אענה",
+      "gloss": "ще отговоря"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "и две"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אוסיף",
+      "gloss": "ще добавя"
+    }
+  ],
+  "timestamp": "2026-09-22T15:32:51.359774746Z",
+  "model": "glm-5.3"
+}

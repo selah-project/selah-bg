@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 15:17",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "По-добра е трапеза от зеленчуци и любов там, от угоен вол и омраза с него.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "По-добра"
+    },
+    {
+      "surface": "ארחת",
+      "gloss": "трапеза"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "от зеленчуци"
+    },
+    {
+      "surface": "ואהבה",
+      "gloss": "и любов"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "משור",
+      "gloss": "вол"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "угоен"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "и омраза"
+    },
+    {
+      "surface": "בו",
+      "gloss": "с него"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:22.092377662Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 6:23",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И ⟨את⟩ ни изведе оттам, за да ни въведе, да ни даде ⟨את⟩ земята, за която се закле на бащите ни.",
+  "tokens": [
+    {
+      "surface": "ואותנו",
+      "gloss": "и ⟨את⟩ ни",
+      "marks": "нас"
+    },
+    {
+      "surface": "הוציא",
+      "gloss": "изведе"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оттам"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "הביא",
+      "gloss": "въведе"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "⟨את⟩ ни",
+      "marks": "нас"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "да даде"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "земята"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "נשבע",
+      "gloss": "се закле"
+    },
+    {
+      "surface": "לאבתינו",
+      "gloss": "на бащите ни"
+    }
+  ],
+  "timestamp": "2026-09-22T12:03:52.180880153Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Нови са всяка сутрин — голяма ⟨е⟩ верността Ти.",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "Нови"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "всяка сутрин"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "голяма"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "верността Ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:37:04.876474297Z",
+  "model": "glm-5.3"
+}

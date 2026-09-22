@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "И това да ти е знакът от ⟨את⟩ Яхве, че Яхве ще извърши ⟨את⟩ словото, това, което говори.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "и това"
+    },
+    {
+      "surface": "לך",
+      "gloss": "да ти"
+    },
+    {
+      "surface": "האות",
+      "gloss": "е знакът"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "от ⟨את⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "че"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ще извърши"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "словото"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "словото"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "това"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    }
+  ],
+  "timestamp": "2026-09-22T13:36:59.632829266Z",
+  "model": "glm-5.3"
+}

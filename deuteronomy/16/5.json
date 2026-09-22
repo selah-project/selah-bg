@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 16:5",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Не можеш да заколеш ⟨את⟩ Песах в един от портите си, който Яхве, твоят Елохим, ти дава.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "можеш"
+    },
+    {
+      "surface": "לזבח",
+      "gloss": "да заколеш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Песах"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "Песах"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "в един"
+    },
+    {
+      "surface": "שעריך",
+      "gloss": "от портите си"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твоят Елохим"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дава"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-22T12:07:54.423597021Z",
+  "model": "glm-5.3"
+}

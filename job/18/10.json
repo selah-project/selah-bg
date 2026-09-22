@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 18:10",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Скрита в земята е въжето му, и капанът му — на пътя.",
+  "tokens": [
+    {
+      "surface": "טמון",
+      "gloss": "скрита"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "חבלו",
+      "gloss": "въжето му"
+    },
+    {
+      "surface": "ומלכדתו",
+      "gloss": "и капанът му"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "на"
+    },
+    {
+      "surface": "נתיב",
+      "gloss": "пътя"
+    }
+  ],
+  "timestamp": "2026-09-22T15:27:04.574067025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 1:3",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "За аромата на маслата ти — добри ⟨са⟩; изляно масло ⟨е⟩ името ти; затова девиците те обичат.",
+  "tokens": [
+    {
+      "surface": "לריח",
+      "gloss": "за аромата"
+    },
+    {
+      "surface": "שמניך",
+      "gloss": "маслата ти"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "добри"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "масло"
+    },
+    {
+      "surface": "תורק",
+      "gloss": "изляно"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "името ти"
+    },
+    {
+      "surface": "על",
+      "gloss": "поради"
+    },
+    {
+      "surface": "כן",
+      "gloss": "това"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "девици"
+    },
+    {
+      "surface": "אהבוך",
+      "gloss": "те обичат"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:51.890343751Z",
+  "model": "glm-5.3"
+}

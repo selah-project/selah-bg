@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-kings 1:22",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И ето, тя още говореше с краля, когато Натан пророкът дойде.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "עודנה",
+      "gloss": "още"
+    },
+    {
+      "surface": "מדברת",
+      "gloss": "говореше"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "краля"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "а Натан"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророкът"
+    },
+    {
+      "surface": "בא",
+      "gloss": "дойде"
+    }
+  ],
+  "timestamp": "2026-09-22T13:00:12.725501815Z",
+  "model": "glm-5.3"
+}

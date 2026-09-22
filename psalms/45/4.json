@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 45,
+  "translation": "Опаши меча си върху бедрото, могъщи — величието ти и славата ти.",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "опаши"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "меча си"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "бедрото"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "могъщи"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "величието ти"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "и славата ти"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:42.885643966Z",
+  "model": "glm-5.3"
+}

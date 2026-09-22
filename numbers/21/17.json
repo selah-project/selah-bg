@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Тогава Израел изпея ⟨את⟩ тази песен: Издигни се, кладенецо! Отговаряйте му!",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тогава"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "изпея"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "песен"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "песента"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "тази"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "издигни се"
+    },
+    {
+      "surface": "באר",
+      "gloss": "кладенецо"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "отговаряйте"
+    },
+    {
+      "surface": "לה",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-22T11:53:34.554672661Z",
+  "model": "glm-5.3"
+}

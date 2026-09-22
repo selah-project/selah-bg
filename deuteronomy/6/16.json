@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 6:16",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Не изкушавайте ⟨את⟩ Яхве, вашия Елохим, както изкушихте в Маса.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תנסו",
+      "gloss": "изкушавайте"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "вашия Елохим"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "נסיתם",
+      "gloss": "изкушихте"
+    },
+    {
+      "surface": "במסה",
+      "gloss": "в Маса"
+    }
+  ],
+  "timestamp": "2026-09-22T12:03:33.327496678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "царят на Шимрон-Мерон, един; царят на Ахшаф, един;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "Шимрон"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "Мерон"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "на Ахшаф"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    }
+  ],
+  "timestamp": "2026-09-22T12:20:33.618076533Z",
+  "model": "glm-5.3"
+}

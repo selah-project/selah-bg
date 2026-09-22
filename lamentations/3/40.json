@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Нека изследваме пътищата си и изпитаме, и се върнем към Яхве.",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "изследваме"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "пътищата си"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "и изпитаме"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "и се върнем"
+    },
+    {
+      "surface": "עד",
+      "gloss": "към"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:57.074962438Z",
+  "model": "glm-5.3"
+}

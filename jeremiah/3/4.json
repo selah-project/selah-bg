@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 3:4",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Не ме ли отсега наричаш: „мой бащо, ти си другарят на младостта ми“?",
+  "tokens": [
+    {
+      "surface": "הלוא",
+      "gloss": "Не ме ли"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "отсега"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "наричаш"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ме"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "мой баща"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "другарят"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "на младостта ми"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-22T13:48:10.146513603Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 136:18",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 136,
+  "translation": "И уби царе могъщи, защото до вечността ⟨е⟩ хеседът Му.",
+  "tokens": [
+    {
+      "surface": "ויהרג",
+      "gloss": "И уби"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "царе"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "могъщи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "до вечността"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "хеседът Му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:47.369008295Z",
+  "model": "glm-5.3"
+}

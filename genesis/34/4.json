@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 34:4",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "И рече Шхем на Хамор, баща си: вземи ми ⟨את⟩ това момиче за жена.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "Шхем"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "Хамор"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "баща си"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "думайки"
+    },
+    {
+      "surface": "קח",
+      "gloss": "вземи"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "момичето"
+    },
+    {
+      "surface": "הילדה",
+      "gloss": "момичето"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "това"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жена"
+    }
+  ],
+  "timestamp": "2026-09-22T11:07:13.469066349Z",
+  "model": "glm-5.3"
+}

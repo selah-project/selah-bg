@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ruth 4:22",
+  "book": "ruth",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И Овед роди ⟨את⟩ Исея, и Исей роди ⟨את⟩ Давид.",
+  "tokens": [
+    {
+      "surface": "ועבד",
+      "gloss": "И Овед"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Исея"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "Исея"
+    },
+    {
+      "surface": "וישי",
+      "gloss": "и Исей"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Давид"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T15:35:00.419751042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И говори Моше на синовете на Израил да направят пасхата.",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "и говори"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израил"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "да направят"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "пасхата"
+    }
+  ],
+  "timestamp": "2026-09-22T11:49:29.073576386Z",
+  "model": "glm-5.3"
+}

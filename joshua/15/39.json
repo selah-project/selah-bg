@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Лакиш и Воцкат и Еглон",
+  "tokens": [
+    {
+      "surface": "לכיש",
+      "gloss": "Лакиш"
+    },
+    {
+      "surface": "ובצקת",
+      "gloss": "и Воцкат"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "и Еглон"
+    }
+  ],
+  "timestamp": "2026-09-22T12:22:13.424338595Z",
+  "model": "glm-5.3"
+}

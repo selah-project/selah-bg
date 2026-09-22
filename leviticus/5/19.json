@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Принос за вина е той — виновен е станал виновен пред Яхве.",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "Принос за вина"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е той"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "виновен е"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "станал виновен"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "пред Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:32:13.895772663Z",
+  "model": "glm-5.3"
+}

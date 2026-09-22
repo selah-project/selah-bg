@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 42:20",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 42,
+  "translation": "Видя много неща, но не пазиш; отворени уши, но не чува.",
+  "tokens": [
+    {
+      "surface": "ראית",
+      "gloss": "Видя"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "много неща"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "пазиш"
+    },
+    {
+      "surface": "פקוח",
+      "gloss": "отворени"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "уши"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "чува"
+    }
+  ],
+  "timestamp": "2026-09-22T13:38:57.646911624Z",
+  "model": "glm-5.3"
+}

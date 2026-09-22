@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 3:7",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Загради ме и не ще изляза; натежа медта ⟨оковите⟩ ми.",
+  "tokens": [
+    {
+      "surface": "גדר",
+      "gloss": "Загради"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "мен"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אצא",
+      "gloss": "ще изляза"
+    },
+    {
+      "surface": "הכביד",
+      "gloss": "натежа"
+    },
+    {
+      "surface": "נחשתי",
+      "gloss": "медта ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:45.972980075Z",
+  "model": "glm-5.3"
+}

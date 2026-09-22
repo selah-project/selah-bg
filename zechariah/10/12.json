@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zechariah 10:12",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И ще ги укрепя в Яхве, и в Името Му ще ходят — неум, Яхве.",
+  "tokens": [
+    {
+      "surface": "וגברתים",
+      "gloss": "и ще ги укрепя"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "в Яхве"
+    },
+    {
+      "surface": "ובשמו",
+      "gloss": "и в Името Му"
+    },
+    {
+      "surface": "יתהלכו",
+      "gloss": "ще ходят"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "неум"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:47:36.860369241Z",
+  "model": "glm-5.3"
+}

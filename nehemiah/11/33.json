@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Хацор, Рама, Гитайим.",
+  "tokens": [
+    {
+      "surface": "חצור",
+      "gloss": "Хацор"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "Рама"
+    },
+    {
+      "surface": "גתים",
+      "gloss": "Гитайим"
+    }
+  ],
+  "timestamp": "2026-09-22T15:55:06.952025588Z",
+  "model": "glm-5.3"
+}

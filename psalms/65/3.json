@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 65,
+  "translation": "Чуващ молитва, до Теб всяка плът ще дойде.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Чуващ"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "молитва"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "до Теб"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяка"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плът"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ще дойде"
+    }
+  ],
+  "timestamp": "2026-09-22T15:02:30.401611141Z",
+  "model": "glm-5.3"
+}

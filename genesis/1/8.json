@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 1:8",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И нарече Елохим простора небеса. И беше вечер, и беше утро — ден втори.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И нарече"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לרקיע",
+      "gloss": "простора"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "небеса"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "вечер"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и беше"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "утро"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "שני",
+      "gloss": "втори"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:39.147054122Z",
+  "model": "glm-5.3"
+}

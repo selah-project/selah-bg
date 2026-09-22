@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "jeremiah 50:36",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 50,
+  "translation": "Меч върху лъжците, и ще оглупеят; меч върху силните ѝ, и ще се уплашат.",
+  "tokens": [
+    {
+      "surface": "חרב",
+      "gloss": "Меч"
+    },
+    {
+      "surface": "אל",
+      "gloss": "върху"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "лъжците"
+    },
+    {
+      "surface": "ונאלו",
+      "gloss": "и ще оглупеят"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "меч"
+    },
+    {
+      "surface": "אל",
+      "gloss": "върху"
+    },
+    {
+      "surface": "גבוריה",
+      "gloss": "силните ѝ"
+    },
+    {
+      "surface": "וחתו",
+      "gloss": "и ще се уплашат"
+    }
+  ],
+  "timestamp": "2026-09-22T14:07:55.913943383Z",
+  "model": "glm-5.3"
+}

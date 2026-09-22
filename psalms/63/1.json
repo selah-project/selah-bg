@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 63,
+  "translation": "Псалом на Давид, когато беше в пустинята Юда.",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "Псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "когато беше"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустинята"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Юда"
+    }
+  ],
+  "timestamp": "2026-09-22T15:02:40.014177411Z",
+  "model": "glm-5.3"
+}

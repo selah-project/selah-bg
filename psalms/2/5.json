@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 2:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Тогава ще им говори в гнева Си и в яростта Си ще ги смути.",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "тогава"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ще говори"
+    },
+    {
+      "surface": "אלימו",
+      "gloss": "им"
+    },
+    {
+      "surface": "באפו",
+      "gloss": "в гнева Си"
+    },
+    {
+      "surface": "ובחרונו",
+      "gloss": "и в яростта Си"
+    },
+    {
+      "surface": "יבהלמו",
+      "gloss": "ще ги смути"
+    }
+  ],
+  "timestamp": "2026-09-22T16:28:30.257594667Z",
+  "model": "glm-5.3"
+}

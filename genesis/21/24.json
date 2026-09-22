@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И рече Авраам: Аз ще се закълна.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "ще се закълна"
+    }
+  ],
+  "timestamp": "2026-09-22T11:00:32.133784163Z",
+  "model": "glm-5.3"
+}

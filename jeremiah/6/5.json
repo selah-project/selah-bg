@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 6:5",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Станете и да се възкачим нощем, и да разрушим дворците ѝ.",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "Станете"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "и да се възкачим"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "нощем"
+    },
+    {
+      "surface": "ונשחיתה",
+      "gloss": "и да разрушим"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "дворците ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T13:48:33.034500714Z",
+  "model": "glm-5.3"
+}

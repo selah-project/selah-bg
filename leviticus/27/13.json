@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 27:13",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "И ако откупи ⟨я⟩, нека прибави петата ⟨ѝ част⟩ върху твоята оценка.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "откупи"
+    },
+    {
+      "surface": "יגאלנה",
+      "gloss": "я"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "нека прибави"
+    },
+    {
+      "surface": "חמישתו",
+      "gloss": "петата ⟨ѝ част⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "твоята оценка"
+    }
+  ],
+  "timestamp": "2026-09-22T11:44:24.905118760Z",
+  "model": "glm-5.3"
+}

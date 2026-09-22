@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И рече: „Дума ⟨имам⟩ към тебе.“ А тя рече: „Говори.“",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дума"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨имам⟩"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "към тебе"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "а тя рече"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    }
+  ],
+  "timestamp": "2026-09-22T13:00:40.300649467Z",
+  "model": "glm-5.3"
+}

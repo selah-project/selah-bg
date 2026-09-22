@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 42,
+  "translation": "И ги затвори ⟨את⟩ тях под стража три дни.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "и ги затвори"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ тях",
+      "marks": "ги"
+    },
+    {
+      "surface": "אל",
+      "gloss": "под"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "стража"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    }
+  ],
+  "timestamp": "2026-09-22T11:10:34.735879503Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 16:17",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Не за насилие в ръцете ми, и молитвата ми е чиста.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насилие"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "в дланите ми"
+    },
+    {
+      "surface": "ותפלתי",
+      "gloss": "и молитвата ми"
+    },
+    {
+      "surface": "זכה",
+      "gloss": "чиста"
+    }
+  ],
+  "timestamp": "2026-09-22T15:27:03.373914016Z",
+  "model": "glm-5.3"
+}

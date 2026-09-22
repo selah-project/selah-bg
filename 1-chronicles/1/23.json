@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "и ⟨את⟩ Офир, и ⟨את⟩ Хавила, и ⟨את⟩ Йовав; всички тези ⟨са⟩ синове на Йоктан.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Офир"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "Офир"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Хавила"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "Хавила"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Йовав"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "Йовав"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "Йоктан"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:20.278219919Z",
+  "model": "glm-5.3"
+}

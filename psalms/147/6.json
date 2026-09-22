@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 147:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 147,
+  "translation": "Яхве издига смирените, до земята низва нечестивите.",
+  "tokens": [
+    {
+      "surface": "מעודד",
+      "gloss": "издига"
+    },
+    {
+      "surface": "ענוים",
+      "gloss": "смирените"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "משפיל",
+      "gloss": "низва"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "нечестивите"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "до"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земята"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:10.793207983Z",
+  "model": "glm-5.3"
+}

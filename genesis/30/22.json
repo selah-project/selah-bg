@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 30:22",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И си спомни Елохим ⟨את⟩ Рахел, и чу Елохим нея, и отвори ⟨את⟩ утробата ѝ.",
+  "tokens": [
+    {
+      "surface": "ויזכר",
+      "gloss": "И си спомни"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рахел"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "и чу"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "нея"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "и отвори"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "утробата ѝ"
+    },
+    {
+      "surface": "רחמה",
+      "gloss": "утробата ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T11:04:04.674625483Z",
+  "model": "glm-5.3"
+}

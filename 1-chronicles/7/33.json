@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 7:33",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И синовете на Яфлет: Пасах, и Бимхал, и Ашват. Това са синовете на Яфлет.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синовете"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "на Яфлет"
+    },
+    {
+      "surface": "פסך",
+      "gloss": "Пасах"
+    },
+    {
+      "surface": "ובמהל",
+      "gloss": "и Бимхал"
+    },
+    {
+      "surface": "ועשות",
+      "gloss": "и Ашват"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "Това са"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "на Яфлет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:42.668096065Z",
+  "model": "glm-5.3"
+}

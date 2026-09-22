@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Думата, която беше към Ирмияху ⟨את⟩ ⟨от⟩ Яхве, казвайки:",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Думата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "Ирмияху"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ ⟨от⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T13:55:58.113279825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "За племето на Вениамин — Елидад, син на Кислон.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "за племето"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "Вениамин"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "Елидад"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "Кислон"
+    }
+  ],
+  "timestamp": "2026-09-22T11:59:54.773248926Z",
+  "model": "glm-5.3"
+}

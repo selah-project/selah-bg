@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 50,
+  "translation": "Адонай Яхве отвори ухо за мен, а аз не се разбунтувах, назад не отстъпих.",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "отвори"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мен"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "ухо"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "а аз"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "се разбунтувах"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "назад"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "отстъпих"
+    }
+  ],
+  "timestamp": "2026-09-22T13:42:53.102974454Z",
+  "model": "glm-5.3"
+}

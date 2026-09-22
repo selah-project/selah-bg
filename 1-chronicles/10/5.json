@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И видя носачът на оръжието му, че умря Шаул, и падна и той на меча, и умря.",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "и видя"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "носачът"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "оръжието му"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "מת",
+      "gloss": "умря"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Шаул"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "и падна"
+    },
+    {
+      "surface": "גם",
+      "gloss": "също"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "меча"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умря"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:06.767524262Z",
+  "model": "glm-5.3"
+}

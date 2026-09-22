@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 42:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 42,
+  "translation": "На диригента. Поука на синовете на Корах.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "На диригента"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "Поука"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "на синовете"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "на Корах"
+    }
+  ],
+  "timestamp": "2026-09-22T14:58:28.415424532Z",
+  "model": "glm-5.3"
+}

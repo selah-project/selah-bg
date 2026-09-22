@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И това ⟨е⟩ Тора на ашама: светиня на светини е той.",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "И това"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "на ашама"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "светиня"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "на светини"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е той"
+    }
+  ],
+  "timestamp": "2026-09-22T11:33:00.098309172Z",
+  "model": "glm-5.3"
+}

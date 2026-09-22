@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "за Адия — Захария; за Гинетон — Мешулам.",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "за Адия"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "Захария"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "за Гинетон"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "Мешулам"
+    }
+  ],
+  "timestamp": "2026-09-22T15:54:59.732314001Z",
+  "model": "glm-5.3"
+}

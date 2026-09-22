@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 6:25",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Яхве да озари лицето си към тебе и да ти се умилостиви.",
+  "tokens": [
+    {
+      "surface": "יאר",
+      "gloss": "да озари"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицето си"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "към тебе"
+    },
+    {
+      "surface": "ויחנך",
+      "gloss": "и да ти се умилостиви"
+    }
+  ],
+  "timestamp": "2026-09-22T11:46:48.468422826Z",
+  "model": "glm-5.3"
+}

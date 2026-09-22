@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 90:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 90,
+  "translation": "Преди планините да се родят и да си родил земята и tevel ⟨света⟩, и от вечност до вечност Ти си Ел.",
+  "tokens": [
+    {
+      "surface": "בטרם",
+      "gloss": "Преди"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "планините"
+    },
+    {
+      "surface": "ילדו",
+      "gloss": "да се родят"
+    },
+    {
+      "surface": "ותחולל",
+      "gloss": "и да си родил"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "и tevel"
+    },
+    {
+      "surface": "ומעולם",
+      "gloss": "и от вечност"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечност"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:44.116783085Z",
+  "model": "glm-5.3"
+}

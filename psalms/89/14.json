@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 89,
+  "translation": "Твоя е ⟨рамото⟩ със сила; мощна е ръката ти, висока е дясницата ти.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "твоя е"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "⟨рамото⟩"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "сила"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "мощна е"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ръката ти"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "висока е"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "дясницата ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:47.984270965Z",
+  "model": "glm-5.3"
+}

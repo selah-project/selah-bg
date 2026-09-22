@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 28:6",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Затова така каза Адонай Яхве: понеже даде ⟨את⟩ сърцето си като сърце на Елохим —",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "затова"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יען",
+      "gloss": "понеже"
+    },
+    {
+      "surface": "תתך",
+      "gloss": "даде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "сърцето си"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "сърцето си"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "като сърце"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T14:22:29.042603451Z",
+  "model": "glm-5.3"
+}

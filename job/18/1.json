@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 18:1",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И отговори Балдад ⟨за⟩ Сухийца и рече:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И отговори"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "Балдад"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "Сухийца"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-22T15:27:54.073823212Z",
+  "model": "glm-5.3"
+}

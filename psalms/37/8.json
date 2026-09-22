@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 37:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "Отслабни от гняв и остави яростта; не се разгаряй — това води само ⟨къ⟩ зло.",
+  "tokens": [
+    {
+      "surface": "הרף",
+      "gloss": "Отслабни"
+    },
+    {
+      "surface": "מאף",
+      "gloss": "от гняв"
+    },
+    {
+      "surface": "ועזב",
+      "gloss": "и остави"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "яростта"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "се разгаряй"
+    },
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "להרע",
+      "gloss": "⟨къ⟩ зло"
+    }
+  ],
+  "timestamp": "2026-09-22T16:29:17.905858795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Хеседите на Яхве — защото не се изчерпихме ние, защото не свършиха милосърдията Му.",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "Хеседите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "се изчерпихме ние"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "свършиха"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "милосърдията Му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:37:04.875281311Z",
+  "model": "glm-5.3"
+}

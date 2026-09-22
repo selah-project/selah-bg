@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 31:47",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "И нарече го Лаван Йегар Сахадута, а Яаков го нарече Галед.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И нарече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "го"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "Лаван"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "Йегар"
+    },
+    {
+      "surface": "שהדותא",
+      "gloss": "Сахадута"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "а Яаков"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "нарече"
+    },
+    {
+      "surface": "לו",
+      "gloss": "го"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "Галед"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:23.398645911Z",
+  "model": "glm-5.3"
+}

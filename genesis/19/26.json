@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 19:26",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И погледна жена му иззад него, и стана стълб сол.",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "И погледна"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жена му"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "иззад него"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "стълб"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "сол"
+    }
+  ],
+  "timestamp": "2026-09-22T10:59:54.851990785Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "psalms 18:48",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Ел, който дава отмъщения на мене и покорява народи под мене.",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "който дава"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "отмъщения"
+    },
+    {
+      "surface": "לי",
+      "gloss": "на мене"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "и покорява"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "народи"
+    },
+    {
+      "surface": "תחתי",
+      "gloss": "под мене"
+    }
+  ],
+  "timestamp": "2026-09-22T14:53:38.948915471Z",
+  "model": "glm-5.3"
+}

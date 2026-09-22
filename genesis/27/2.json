@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 27:2",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "И рече: ето, сега остарях, не зная деня на смъртта си.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сега"
+    },
+    {
+      "surface": "זקנתי",
+      "gloss": "остарях"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "зная"
+    },
+    {
+      "surface": "יום",
+      "gloss": "деня"
+    },
+    {
+      "surface": "מותי",
+      "gloss": "на смъртта си"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:19.413138712Z",
+  "model": "glm-5.3"
+}

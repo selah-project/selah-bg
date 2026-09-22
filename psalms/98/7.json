@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 98:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 98,
+  "translation": "Нека екне морето и пълнотата му, вселената и жителите ѝ.",
+  "tokens": [
+    {
+      "surface": "ירעם",
+      "gloss": "Нека екне"
+    },
+    {
+      "surface": "הים",
+      "gloss": "морето"
+    },
+    {
+      "surface": "ומלאו",
+      "gloss": "и пълнотата му"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "вселената"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "и жителите"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:25.070520446Z",
+  "model": "glm-5.3"
+}

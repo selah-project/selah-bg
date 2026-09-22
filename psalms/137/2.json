@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 137,
+  "translation": "На върбите всред тя окачихме нашите кинори.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "върбите"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "всред нея"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "окачихме"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "нашите кинори"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:53.205844199Z",
+  "model": "glm-5.3"
+}

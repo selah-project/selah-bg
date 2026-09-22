@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 135:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 135,
+  "translation": "Защото аз познах, че велик е Яхве, и Адонай наш — над всички богове.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "познах"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "велик"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואדנינו",
+      "gloss": "и Адонай наш"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "над всички"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "богове"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:37.200398890Z",
+  "model": "glm-5.3"
+}

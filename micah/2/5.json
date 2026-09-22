@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "micah 2:5",
+  "book": "micah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Затова няма да има за теб хвърлящ въже по жребие в събранието на Яхве.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "Затова"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ще има"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за теб"
+    },
+    {
+      "surface": "משליך",
+      "gloss": "хвърлящ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "въже"
+    },
+    {
+      "surface": "בגורל",
+      "gloss": "по жребие"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "в събранието"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:40:29.142190861Z",
+  "model": "glm-5.3"
+}

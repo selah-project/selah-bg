@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Не послуша глас, не прие наказание; в Яхве не се упова, към своя Елохим не приближи.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "послуша"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "прие"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "наказание"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "в Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "се упова"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "своя Елохим"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "приближи"
+    }
+  ],
+  "timestamp": "2026-09-22T14:44:21.936251187Z",
+  "model": "glm-5.3"
+}

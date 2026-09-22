@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Защото в много мъдрост има много досада, и който увеличава познание, увеличава болка.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "в много"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мъдрост"
+    },
+    {
+      "surface": "רב",
+      "gloss": "много"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "досада"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "и увеличава"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "познание"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "увеличава"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "болка"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:15.443987534Z",
+  "model": "glm-5.3"
+}

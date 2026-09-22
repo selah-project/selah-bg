@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 106:11",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 106,
+  "translation": "И водите покриха притеснителите им — нито един от тях не остана.",
+  "tokens": [
+    {
+      "surface": "ויכסו",
+      "gloss": "И покриха"
+    },
+    {
+      "surface": "מים",
+      "gloss": "водите"
+    },
+    {
+      "surface": "צריהם",
+      "gloss": "притеснителите им"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "от тях"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נותר",
+      "gloss": "остана"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:43.734803049Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Раби владееха над нас — избавител няма от ръката им.",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "раби"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "владееха"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "над нас"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "⟨избавител⟩ откъсващ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "от ръката им"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:18.889030316Z",
+  "model": "glm-5.3"
+}

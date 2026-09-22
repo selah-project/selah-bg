@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 9:8",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И рече им Моше: стойте, и ще чуя какво ще заповяда Яхве за вас.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "стойте"
+    },
+    {
+      "surface": "ואשמעה",
+      "gloss": "и ще чуя"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "יצוה",
+      "gloss": "ще заповяда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-09-22T11:49:13.119426886Z",
+  "model": "glm-5.3"
+}

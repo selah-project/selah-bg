@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Плод на смирението — страхът от Яхве: богатство и слава и живот.",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "Плод"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "на смирението"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "страхът"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "от Яхве"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "богатство"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "и слава"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "и живот"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:29.443381797Z",
+  "model": "glm-5.3"
+}

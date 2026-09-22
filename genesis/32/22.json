@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 32:22",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "И премина дарът пред лицето му, а той нощува през онази нощ в стана.",
+  "tokens": [
+    {
+      "surface": "ותעבר",
+      "gloss": "и премина"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "дарът"
+    },
+    {
+      "surface": "על",
+      "gloss": "пред"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицето му"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "а той"
+    },
+    {
+      "surface": "לן",
+      "gloss": "нощува"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "през нощта"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онази"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "в стана"
+    }
+  ],
+  "timestamp": "2026-09-22T11:05:07.540299628Z",
+  "model": "glm-5.3"
+}

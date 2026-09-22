@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 12:6",
+  "book": "hosea",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "А Яхве, Елохим на Цеваот — Яхве е споменът Му.",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "А Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "הצבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "זכרו",
+      "gloss": "споменът Му"
+    }
+  ],
+  "timestamp": "2026-09-22T14:34:34.561411778Z",
+  "model": "glm-5.3"
+}

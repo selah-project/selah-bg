@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 46,
+  "translation": "И синовете на Рувим: Ханох, и Фалу, и Хецрон, и Карми.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синовете"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "на Рувим"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "Ханох"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "и Фалу"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "и Хецрон"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "и Карми"
+    }
+  ],
+  "timestamp": "2026-09-22T11:11:33.516963884Z",
+  "model": "glm-5.3"
+}

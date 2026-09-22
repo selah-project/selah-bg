@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 16:21",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Не си посаждай Ашера от всякакво дърво до олтара на Яхве, твоя Елохим, който ще направиш ⟨за себе си⟩.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תטע",
+      "gloss": "си посаждай"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨за себе си⟩"
+    },
+    {
+      "surface": "אשרה",
+      "gloss": "Ашера"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всякакво"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "дърво"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "до"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "олтара"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твоя Елохим"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ще направиш"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за себе си"
+    }
+  ],
+  "timestamp": "2026-09-22T12:08:53.871821611Z",
+  "model": "glm-5.3"
+}

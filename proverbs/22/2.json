@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Богат и беден се срещат; Правителят на всички тях ⟨е⟩ Яхве.",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "Богат"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "и беден"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "се срещат"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "Правителят"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "на всички тях"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:29.439821907Z",
+  "model": "glm-5.3"
+}

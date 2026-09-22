@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Натинимите: синовете на Циха, синовете на Хасуфа, синовете на Таваот.",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "Натинимите"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "Циха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "Хасуфа"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "Таваот"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:57.036283114Z",
+  "model": "glm-5.3"
+}

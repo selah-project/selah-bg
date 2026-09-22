@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И дрехата, ако има в нея язва цараат — в дреха от вълна или в дреха от лен.",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "и дрехата"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "има"
+    },
+    {
+      "surface": "בו",
+      "gloss": "в нея"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "язва"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "цараат"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "в дреха"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "вълна"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "в дреха"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "лен"
+    }
+  ],
+  "timestamp": "2026-09-22T11:36:40.001984446Z",
+  "model": "glm-5.3"
+}

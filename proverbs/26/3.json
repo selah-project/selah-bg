@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Бич за коня, юздата за магарето, и прът за гърба на глупците.",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "бич"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "за коня"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "узда"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "за магарето"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "и прът"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "за гърба"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "на глупците"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:36.620807736Z",
+  "model": "glm-5.3"
+}

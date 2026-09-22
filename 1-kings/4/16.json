@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Баана, син на Хушай — в Ашер и в Беалот.",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "Баана"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "Хушай"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "в Ашер"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "и в Беалот"
+    }
+  ],
+  "timestamp": "2026-09-22T13:00:40.413269934Z",
+  "model": "glm-5.3"
+}

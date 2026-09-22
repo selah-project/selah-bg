@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ecclesiastes 7:28",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "което още търсеше душата ми и не намерих: един мъж измежду хиляда намерих, а жена във всичките тези не намерих.",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "още"
+    },
+    {
+      "surface": "בקשה",
+      "gloss": "търсеше"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "душата ми"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "намерих"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "измежду хиляда"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "намерих"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "а жена"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "във всичките"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "намерих"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:05.286605253Z",
+  "model": "glm-5.3"
+}

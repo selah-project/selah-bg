@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Цялата община на Израел да направи ⟨את⟩ него.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "цялата"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "община"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "да направи"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него (пасхата)"
+    }
+  ],
+  "timestamp": "2026-09-22T11:18:28.960125965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И това са имената на синовете на Гершом: Ливни и Шими.",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "И това"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "са имената"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на синовете"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "на Гершом"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "Ливни"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "и Шими"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:09.429542090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 37:3",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "И рече ми: човешки сине, ще оживеят ли тези кости? И аз казах: Адонай Яхве, Ти знаеш.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "בן",
+      "gloss": "сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човешки"
+    },
+    {
+      "surface": "התחיינה",
+      "gloss": "ще оживеят ли"
+    },
+    {
+      "surface": "העצמות",
+      "gloss": "тези кости"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и казах"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаеш"
+    }
+  ],
+  "timestamp": "2026-09-22T14:27:49.177211594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Отвориха срещу мен устата си, лъв разкъсващ и ревящ.",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "отвориха"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "срещу мен"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "устата си"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "лъв"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "разкъсващ"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "и ревящ"
+    }
+  ],
+  "timestamp": "2026-09-22T14:54:00.135225460Z",
+  "model": "glm-5.3"
+}

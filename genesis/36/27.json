@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "Тези са синовете на Ецер: Билхан и Зааван и Акан.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Тези"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "на Ецер"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "Билхан"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "и Зааван"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "и Акан"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:26.392436334Z",
+  "model": "glm-5.3"
+}

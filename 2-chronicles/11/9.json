@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "и ⟨את⟩ Адорайим, и ⟨את⟩ Лахиш, и ⟨את⟩ Азека;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Адорайим"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "Адорайим"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Лахиш"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "Лахиш"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Азека"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "Азека"
+    }
+  ],
+  "timestamp": "2026-09-22T16:06:24.879207132Z",
+  "model": "glm-5.3"
+}

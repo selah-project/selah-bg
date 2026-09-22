@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 8:29",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "А в Гивеон живееха бащата на Гивеон ⟨Юиел⟩, а името на жена му ⟨бе⟩ Мааха.",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "а в Гивеон"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "живееха"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "бащата на"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "Гивеон"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "а името на"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "жена му"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "Мааха"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:55.511286034Z",
+  "model": "glm-5.3"
+}

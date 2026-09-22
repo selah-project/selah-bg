@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 74:17",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 74,
+  "translation": "Ти постави всички граници на земята; лято и зима Ти ги оформи.",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "постави"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "גבולות",
+      "gloss": "граници"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "на земята"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "лято"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "и зима"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "יצרתם",
+      "gloss": "ги оформи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:26.593172516Z",
+  "model": "glm-5.3"
+}

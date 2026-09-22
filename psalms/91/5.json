@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 91,
+  "translation": "Няма да се боиш от трепет нощен, от стрела летяща денем,",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "няма да"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "се боиш"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "от трепет"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "нощен"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "от стрела"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "летяща"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "денем"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:53.959778656Z",
+  "model": "glm-5.3"
+}

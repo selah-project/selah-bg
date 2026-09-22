@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И синовете на Йехоня ⟨затворника⟩: Шеалтиел, синът му,",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синовете"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "Йехоня"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "⟨затворника⟩"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "Шеалтиел"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:33.426126690Z",
+  "model": "glm-5.3"
+}

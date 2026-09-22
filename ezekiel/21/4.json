@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И ще види всяка плът, че Аз, Яхве, запалих ⟨я⟩ — не ще угасне.",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "И ще види"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяка"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плът"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "запалих ⟨я⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ще угасне"
+    }
+  ],
+  "timestamp": "2026-09-22T14:19:52.712672214Z",
+  "model": "glm-5.3"
+}

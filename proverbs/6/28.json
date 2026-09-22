@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Или ще ходи ли човек по жарта, а нозете му да не се палят?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Или"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "ще ходи ли"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "жарта"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "а нозете му"
+    },
+    {
+      "surface": "לא",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תכוינה",
+      "gloss": "се палят"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:03.922433903Z",
+  "model": "glm-5.3"
+}

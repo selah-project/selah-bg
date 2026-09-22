@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Глупакът — в деня ⟨се⟩ познава гнева му, а покриващият срам ⟨е⟩ хитър.",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "глупакът"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "познава"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "гнева му"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "а покриващият"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "срам"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "хитър"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:22.494045382Z",
+  "model": "glm-5.3"
+}

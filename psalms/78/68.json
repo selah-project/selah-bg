@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "psalms 78:68",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 78,
+  "translation": "И избра ⟨את⟩ племето Юда, ⟨את⟩ планината Цион, която обикна.",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "и избра"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "племето"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "племето"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Юда"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "планината"
+    },
+    {
+      "surface": "הר",
+      "gloss": "планината"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "обикна"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:00.036078984Z",
+  "model": "glm-5.3"
+}

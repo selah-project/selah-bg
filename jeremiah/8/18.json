@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 8:18",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Изчезна ми утехата от скръбта; върху мене сърцето ми тъгува.",
+  "tokens": [
+    {
+      "surface": "מבליגיתי",
+      "gloss": "Изчезна ми утехата"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "от"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "скръбта"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "върху мене"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "сърцето ми"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "тъгува"
+    }
+  ],
+  "timestamp": "2026-09-22T13:51:25.152582302Z",
+  "model": "glm-5.3"
+}

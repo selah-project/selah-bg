@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 24:22",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Но ще бъде Кейн за изгаряне; до кога? Ашур ще те отведе в плен.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "но"
+    },
+    {
+      "surface": "אם",
+      "gloss": "само"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ще бъде"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "за изгаряне"
+    },
+    {
+      "surface": "קין",
+      "gloss": "Кейн"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מה",
+      "gloss": "кого"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "תשבך",
+      "gloss": "ще те отведе в плен"
+    }
+  ],
+  "timestamp": "2026-09-22T11:55:02.183228777Z",
+  "model": "glm-5.3"
+}

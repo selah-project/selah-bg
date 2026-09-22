@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "hosea 2:6",
+  "book": "hosea",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И ⟨את⟩ синовете ѝ не ще пожаля, защото синове на блудство са те.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "синовете ѝ"
+    },
+    {
+      "surface": "בניה",
+      "gloss": "синовете ѝ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ארחם",
+      "gloss": "ще пожаля"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "זנונים",
+      "gloss": "на блудство"
+    },
+    {
+      "surface": "המה",
+      "gloss": "са те"
+    }
+  ],
+  "timestamp": "2026-09-22T14:32:40.154854849Z",
+  "model": "glm-5.3"
+}

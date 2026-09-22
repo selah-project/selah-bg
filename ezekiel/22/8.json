@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 22:8",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Светините Ми презря, и ⟨את⟩ съботите Ми оскверни.",
+  "tokens": [
+    {
+      "surface": "קדשי",
+      "gloss": "Светините Ми"
+    },
+    {
+      "surface": "בזית",
+      "gloss": "презря"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "съботите Ми"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "съботите Ми"
+    },
+    {
+      "surface": "חללת",
+      "gloss": "оскверни"
+    }
+  ],
+  "timestamp": "2026-09-22T14:18:49.959320808Z",
+  "model": "glm-5.3"
+}

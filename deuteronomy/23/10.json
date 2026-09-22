@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Кога излезеш лагер ⟨срещу⟩ враговете си, пази се от всяко зло нещо.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "излезеш"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "лагер"
+    },
+    {
+      "surface": "על",
+      "gloss": "срещу"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "враговете си"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "пази се"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "от всяко"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "нещо"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-09-22T12:10:55.422572264Z",
+  "model": "glm-5.3"
+}

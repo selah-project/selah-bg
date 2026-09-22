@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "⟨את⟩ морето — едно, и ⟨את⟩ воловете — дванадесет под него.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "морето"
+    },
+    {
+      "surface": "הים",
+      "gloss": "морето"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "едно"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "воловете"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "воловете"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "два"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "на десет"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "под него"
+    }
+  ],
+  "timestamp": "2026-09-22T16:05:32.048338787Z",
+  "model": "glm-5.3"
+}

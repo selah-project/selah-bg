@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 140:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 140,
+  "translation": "Казах на Яхве: Ел мой си Ти; внемли, Яхве, на гласа на молбата ми.",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "Казах"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "Ел мой"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си Ти"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "внемли"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "קול",
+      "gloss": "гласа"
+    },
+    {
+      "surface": "תחנוני",
+      "gloss": "на молбата ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:14:21.617888225Z",
+  "model": "glm-5.3"
+}

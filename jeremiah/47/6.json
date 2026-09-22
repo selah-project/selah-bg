@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 47:6",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 47,
+  "translation": "Ой, мечо на Яхве, до кога няма да утихнеш? Върни се в ножницата ⟨си⟩, успокой се и замълчи.",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "Ой"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "мечо"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "кога"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תשקטי",
+      "gloss": "ще утихнеш"
+    },
+    {
+      "surface": "האספי",
+      "gloss": "върни се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨в⟩"
+    },
+    {
+      "surface": "תערך",
+      "gloss": "ножницата"
+    },
+    {
+      "surface": "הרגעי",
+      "gloss": "успокой се"
+    },
+    {
+      "surface": "ודמי",
+      "gloss": "и замълчи"
+    }
+  ],
+  "timestamp": "2026-09-22T14:05:24.095082096Z",
+  "model": "glm-5.3"
+}

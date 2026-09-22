@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 3:12",
+  "book": "habakkuk",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "В яростта си крачиш по земята, в гнева си тъпчеш народите.",
+  "tokens": [
+    {
+      "surface": "בזעם",
+      "gloss": "в яростта"
+    },
+    {
+      "surface": "תצעד",
+      "gloss": "крачиш"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "по земята"
+    },
+    {
+      "surface": "באף",
+      "gloss": "в гнева"
+    },
+    {
+      "surface": "תדוש",
+      "gloss": "тъпчеш"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народите"
+    }
+  ],
+  "timestamp": "2026-09-22T14:43:51.686319766Z",
+  "model": "glm-5.3"
+}

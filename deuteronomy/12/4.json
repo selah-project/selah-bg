@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Няма да сторите така на Яхве, вашия Елохим.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Няма"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "да сторите"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "вашия Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T12:07:42.689110141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 7:36",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Синовете на Йерихон: триста четиридесет и пет.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "на Йерихон"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "триста"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четиридесет"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "и пет"
+    }
+  ],
+  "timestamp": "2026-09-22T16:33:00.484667965Z",
+  "model": "glm-5.3"
+}

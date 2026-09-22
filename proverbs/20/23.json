@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Мързост за Яхве ⟨са⟩ камък и камък, и везни на измама не ⟨са⟩ добри.",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "Мързост"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "за Яхве"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "камък"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "и камък"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "и везни"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "на измама"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добри"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:00.959105055Z",
+  "model": "glm-5.3"
+}

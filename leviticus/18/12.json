@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "Голотата на сестра на баща ти не откривай — плът на баща ти е тя.",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "голотата"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "на сестра"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "на баща ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "откривай"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "плът"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "на баща ти"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е тя"
+    }
+  ],
+  "timestamp": "2026-09-22T11:37:48.914794890Z",
+  "model": "glm-5.3"
+}

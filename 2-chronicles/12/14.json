@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 12:14",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И върши злото, защото не приготви сърцето си да търси ⟨את⟩ Яхве.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и върши"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "злото"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הכין",
+      "gloss": "приготви"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "сърцето си"
+    },
+    {
+      "surface": "לדרוש",
+      "gloss": "да търси"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T16:08:01.666416Z",
+  "model": "glm-5.3"
+}

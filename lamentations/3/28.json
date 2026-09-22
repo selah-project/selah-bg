@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Нека седи сам и мълчи, защото ⟨го⟩ е възложил ⟨има⟩ върху него.",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "Нека седи"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "сам"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "и мълчи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "⟨го⟩ е възложил"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "върху него"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:51.904705442Z",
+  "model": "glm-5.3"
+}

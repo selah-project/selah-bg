@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 116:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 116,
+  "translation": "Пази Яхве простодушните; бях сломен, и мен спаси.",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "Пази"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "простодушните"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דלותי",
+      "gloss": "бях сломен"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "и на мен"
+    },
+    {
+      "surface": "יהושיע",
+      "gloss": "спаси"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:25.466573894Z",
+  "model": "glm-5.3"
+}

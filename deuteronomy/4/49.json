@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "deuteronomy 4:49",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И цялата Арава отвъд Ярден, на изток, и до морето на Арава, под склоновете на Писга.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и цялата"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "Арава"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "отвъд"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "Ярден"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "на изток"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "ים",
+      "gloss": "морето"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "на Арава"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "אשדת",
+      "gloss": "склоновете"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "на Писга"
+    }
+  ],
+  "timestamp": "2026-09-22T12:02:39.603111140Z",
+  "model": "glm-5.3"
+}

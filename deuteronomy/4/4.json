@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "А вие, прилепените в Яхве, вашия Елохим, живи сте всички вие днес.",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "А вие"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "прилепените"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "в Яхве"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "вашия Елохим"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живи"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "всички вие"
+    },
+    {
+      "surface": "היום",
+      "gloss": "днес"
+    }
+  ],
+  "timestamp": "2026-09-22T12:03:18.082366964Z",
+  "model": "glm-5.3"
+}

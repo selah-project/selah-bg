@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 21:22",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Град на силните изкачи мъдрият и свали опората на увереността му.",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "на силните"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "изкачи"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мъдрият"
+    },
+    {
+      "surface": "וירד",
+      "gloss": "и свали"
+    },
+    {
+      "surface": "עז",
+      "gloss": "опората"
+    },
+    {
+      "surface": "מבטחה",
+      "gloss": "на увереността му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:10.184666764Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 6:13",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Нима няма помощь в мен, и мъдрост ⟨е⟩ прогонена от мен?",
+  "tokens": [
+    {
+      "surface": "האם",
+      "gloss": "нима"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "помощта ми"
+    },
+    {
+      "surface": "בי",
+      "gloss": "в мен"
+    },
+    {
+      "surface": "ותשיה",
+      "gloss": "и мъдрост"
+    },
+    {
+      "surface": "נדחה",
+      "gloss": "прогонена"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "от мен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:25:09.585856194Z",
+  "model": "glm-5.3"
+}

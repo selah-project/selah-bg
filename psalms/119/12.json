@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Благословен си ти, Яхве; научи ме повеленията си.",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "Благословен"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "си ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "научи ме"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "повеленията ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:40.745784066Z",
+  "model": "glm-5.3"
+}

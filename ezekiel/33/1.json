@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 33:1",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И беше слово от Яхве към мене, което казва:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мене"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "което казва"
+    }
+  ],
+  "timestamp": "2026-09-22T14:24:48.904149832Z",
+  "model": "glm-5.3"
+}

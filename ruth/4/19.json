@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ruth 4:19",
+  "book": "ruth",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И Хецрон роди ⟨את⟩ Рам, и Рам роди ⟨את⟩ Аминадав.",
+  "tokens": [
+    {
+      "surface": "וחצרון",
+      "gloss": "и Хецрон"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рам"
+    },
+    {
+      "surface": "רם",
+      "gloss": "Рам"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "и Рам"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Аминадав"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "Аминадав"
+    }
+  ],
+  "timestamp": "2026-09-22T15:35:57.114393027Z",
+  "model": "glm-5.3"
+}

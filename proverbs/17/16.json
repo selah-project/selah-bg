@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "Защо това — цена в ръката на глупака, за да купи мъдрост, а разум няма?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "Защо"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "цена"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "в ръката"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "на глупака"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "да купи"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мъдрост"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "а разум"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:59.225122624Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 12:20",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Измама ⟨е⟩ в сърцето на кроящите зло, а на съветващите мир — радост.",
+  "tokens": [
+    {
+      "surface": "מרמה",
+      "gloss": "измама"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "в сърцето"
+    },
+    {
+      "surface": "חרשי",
+      "gloss": "на кроящите"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "וליעצי",
+      "gloss": "а на съветващите"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "мир"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "радост"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:19.969545969Z",
+  "model": "glm-5.3"
+}

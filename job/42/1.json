@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 42:1",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 42,
+  "translation": "И отговори Ийов ⟨את⟩ Яхве и каза:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И отговори"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яхве"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:56.412702992Z",
+  "model": "glm-5.3"
+}

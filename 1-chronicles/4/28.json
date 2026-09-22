@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 4:28",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И живяха в Беер-Шева, и в Молада, и в Хацар-Шуал.",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "и живяха"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "в Беер"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "и в Молада"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "и в Хацар"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "Шуал"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:52.230814048Z",
+  "model": "glm-5.3"
+}

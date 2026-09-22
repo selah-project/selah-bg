@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 27:2",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Така рече Яхве към мене: направи си окови и иго, и ги сложи на врата си.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мене"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "לך",
+      "gloss": "си"
+    },
+    {
+      "surface": "מוסרות",
+      "gloss": "окови"
+    },
+    {
+      "surface": "ומטות",
+      "gloss": "и иго"
+    },
+    {
+      "surface": "ונתתם",
+      "gloss": "и сложи"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "врата си"
+    }
+  ],
+  "timestamp": "2026-09-22T13:58:33.022032958Z",
+  "model": "glm-5.3"
+}

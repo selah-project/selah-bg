@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "и Михаел, и Ишпа, и Йоха — синове ⟨на⟩ Берия.",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "и Михаел"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "и Ишпа"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "и Йоха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "Берия"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:59.162922334Z",
+  "model": "glm-5.3"
+}

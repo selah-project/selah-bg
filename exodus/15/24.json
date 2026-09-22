@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "И ропта народът срещу Моше, казвайки: какво да пием?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "и ропта"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народът"
+    },
+    {
+      "surface": "על",
+      "gloss": "срещу"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "да пием"
+    }
+  ],
+  "timestamp": "2026-09-22T11:18:08.733769038Z",
+  "model": "glm-5.3"
+}

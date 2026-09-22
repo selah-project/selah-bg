@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 34:20",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 34,
+  "translation": "Затова така им каза Адонай Яхве: ето Аз, и Аз ще съдя между животно угоено и между животно изтощено.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "затова"
+    },
+    {
+      "surface": "כה",
+      "gloss": "така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ето"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "ושפטתי",
+      "gloss": "и ще съдя"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "שה",
+      "gloss": "животно"
+    },
+    {
+      "surface": "בריה",
+      "gloss": "угоено"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и между"
+    },
+    {
+      "surface": "שה",
+      "gloss": "животно"
+    },
+    {
+      "surface": "רזה",
+      "gloss": "изтощено"
+    }
+  ],
+  "timestamp": "2026-09-22T14:25:19.378138600Z",
+  "model": "glm-5.3"
+}

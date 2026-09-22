@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 140,
+  "translation": "Знам, че Яхве ще върши съд на угнетения, право на сиромасите.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Знам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ще върши"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דין",
+      "gloss": "съд"
+    },
+    {
+      "surface": "עני",
+      "gloss": "на угнетения"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "право"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "на сиромасите"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:41.308249074Z",
+  "model": "glm-5.3"
+}

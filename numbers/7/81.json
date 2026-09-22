@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "numbers 7:81",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "един юнец, син на стадото, един овен, един агнец, син на годината си, за всеизгаряне;",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "юнец"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "на стадото"
+    },
+    {
+      "surface": "איל",
+      "gloss": "овен"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "агнец"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "на годината си"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "за всеизгаряне"
+    }
+  ],
+  "timestamp": "2026-09-22T11:48:32.141654948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "И Ещон роди ⟨את⟩ Бет-Рафа, и ⟨את⟩ Пасеах, и ⟨את⟩ Тхина, бащата на Ир-Нахаш; това са мъжете на Реха.",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "И Ещон"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Бет-Рафа"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "Рафа"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Пасеах"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Пасеах"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Тхина"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "Тхина"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "бащата на"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "Ир"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "Нахаш"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "това са"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мъжете на"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "Реха"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:58.666318672Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 136,
+  "ref": "psalms 119:136",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Потоци вода стекоха от очите ми, защото не пазиха Твоята Тора.",
+  "tokens": [
+    {
+      "surface": "פלגי",
+      "gloss": "потоци"
+    },
+    {
+      "surface": "מים",
+      "gloss": "вода"
+    },
+    {
+      "surface": "ירדו",
+      "gloss": "стекоха"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "от очите ми"
+    },
+    {
+      "surface": "על",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמרו",
+      "gloss": "пазиха"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "Твоята Тора"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:01.938843704Z",
+  "model": "glm-5.3"
+}

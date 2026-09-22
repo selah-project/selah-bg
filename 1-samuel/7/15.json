@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И съдеше Шмуел ⟨את⟩ Израел през всичките дни на живота си.",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "И съдеше"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "Шмуел"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "כל",
+      "gloss": "през всичките"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дни"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "на живота си"
+    }
+  ],
+  "timestamp": "2026-09-22T12:37:05.314319743Z",
+  "model": "glm-5.3"
+}

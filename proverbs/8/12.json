@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Аз, мъдростта, обитавам с ловкост и знание на промисли откривам.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мъдростта"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "обитавам"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "с ловкост"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "и знание"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "на промисли"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "откривам"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:06.591302769Z",
+  "model": "glm-5.3"
+}

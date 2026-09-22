@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 29:31",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И ⟨את⟩ овена на посвещението ще вземеш, и ще свариш ⟨את⟩ месото му на свято място.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "овена на посвещението"
+    },
+    {
+      "surface": "איל",
+      "gloss": "овена"
+    },
+    {
+      "surface": "המלאים",
+      "gloss": "на посвещението"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ще вземеш"
+    },
+    {
+      "surface": "ובשלת",
+      "gloss": "и ще свариш"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Mesoto му"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "Mesoto mu"
+    },
+    {
+      "surface": "במקם",
+      "gloss": "на място"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "свято"
+    }
+  ],
+  "timestamp": "2026-09-22T11:25:32.157742704Z",
+  "model": "glm-5.3"
+}

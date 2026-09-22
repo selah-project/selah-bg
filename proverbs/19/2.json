@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "Също душата без знание не ⟨е⟩ добра, а който бърза с нозете си — съгрешава.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Също"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "без"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знание"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душата"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добра"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "а бърза"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "с нозете си"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "съгрешава"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:58.393799453Z",
+  "model": "glm-5.3"
+}

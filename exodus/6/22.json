@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "А синовете на Узиил: Мишаел, Елцафан и Ситри.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "а синовете"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "на Узиил"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "Мишаел"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "и Елцафан"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "и Ситри"
+    }
+  ],
+  "timestamp": "2026-09-22T11:14:44.262215893Z",
+  "model": "glm-5.3"
+}

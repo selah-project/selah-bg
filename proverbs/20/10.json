@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Камък и камък, ефа и ефа — и двете са мерзост за Яхве.",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "камък"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "и камък"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ефа"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "и ефа"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "мерзост"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "двете"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:45.462034737Z",
+  "model": "glm-5.3"
+}

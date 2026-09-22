@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 2:9",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "А Аз ще бъда за нея — слово на Яхве — стена от огън наоколо, и за слава ще бъда всред нея.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "А Аз"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ще бъда"
+    },
+    {
+      "surface": "לה",
+      "gloss": "за нея"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חומת",
+      "gloss": "стена"
+    },
+    {
+      "surface": "אש",
+      "gloss": "от огън"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколо"
+    },
+    {
+      "surface": "ולכבוד",
+      "gloss": "и за слава"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ще бъда"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "всред нея"
+    }
+  ],
+  "timestamp": "2026-09-22T14:45:58.818866685Z",
+  "model": "glm-5.3"
+}

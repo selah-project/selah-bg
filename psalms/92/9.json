@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 92,
+  "translation": "А ти ⟨си⟩ на високо вовеки, Яхве.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "на високо"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "вовеки"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:28.089406396Z",
+  "model": "glm-5.3"
+}

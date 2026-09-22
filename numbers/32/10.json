@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "И пламна гневът ⟨носът⟩ на Яхве в онзи ден и Той се закле, казвайки:",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "И пламна"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гневът ⟨носът⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в деня"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онзи"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "и се закле"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T11:58:16.629705662Z",
+  "model": "glm-5.3"
+}

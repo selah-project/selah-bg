@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Защото дължина на дни и години на живот и мир ще ти добавят.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "дължина"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "и години"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живот"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "и мир"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "ще добавят"
+    },
+    {
+      "surface": "לך",
+      "gloss": "на теб"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:25.408578248Z",
+  "model": "glm-5.3"
+}

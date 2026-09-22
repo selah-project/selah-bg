@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 43:15",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 43,
+  "translation": "I ⟨am⟩ Yahweh, your Holy One, the Creator of Israel, your King.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "I"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Yahweh"
+    },
+    {
+      "surface": "קדושכם",
+      "gloss": "your Holy One"
+    },
+    {
+      "surface": "בורא",
+      "gloss": "Creator"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "of Israel"
+    },
+    {
+      "surface": "מלככם",
+      "gloss": "your King"
+    }
+  ],
+  "timestamp": "2026-09-22T13:38:12.177574945Z",
+  "model": "glm-5.3"
+}

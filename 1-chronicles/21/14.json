@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "И даде Яхве мор в Израел, и паднаха от Израел седемдесет хиляди мъже.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "И даде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "мор"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "в Израел"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "и паднаха"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "от Израел"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "седемдесет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляди"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъже"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:39.799033418Z",
+  "model": "glm-5.3"
+}

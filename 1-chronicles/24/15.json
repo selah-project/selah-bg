@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "на Хезир седемнадесетият, на Хапицец осемнадесетият",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "на Хезир"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "седем"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надесет"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "на Хапицец"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "осем"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надесет"
+    }
+  ],
+  "timestamp": "2026-09-22T16:02:50.195908370Z",
+  "model": "glm-5.3"
+}

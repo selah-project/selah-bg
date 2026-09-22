@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 13:3",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "И тръгна по етапите си от юг до Бет Ел, до мястото, където беше шатърът му там в началото, между Бет Ел и Гай.",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "и тръгна"
+    },
+    {
+      "surface": "למסעיו",
+      "gloss": "по етапите си"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "от юг"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "и до"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "мястото"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "където"
+    },
+    {
+      "surface": "היה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "шатърът му"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "в началото"
+    },
+    {
+      "surface": "בין",
+      "gloss": "между"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "и между"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Гай"
+    }
+  ],
+  "timestamp": "2026-09-22T10:57:39.342312726Z",
+  "model": "glm-5.3"
+}

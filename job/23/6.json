@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 23:6",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "С голяма ли сила ще се съди с мен? Не — само той би ⟨внимал⟩ в мен.",
+  "tokens": [
+    {
+      "surface": "הברב",
+      "gloss": "С голяма ли"
+    },
+    {
+      "surface": "כח",
+      "gloss": "сила"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ще се съди"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "с мен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "ישם",
+      "gloss": "⟨внимал⟩"
+    },
+    {
+      "surface": "בי",
+      "gloss": "в мен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:28:24.888756244Z",
+  "model": "glm-5.3"
+}

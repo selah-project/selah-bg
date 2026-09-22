@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Хефер Мехератееца, Ахия Пелонееца,",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "Хефер"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "Мехератееца"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "Ахия"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "Пелонееца"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:31.975216352Z",
+  "model": "glm-5.3"
+}

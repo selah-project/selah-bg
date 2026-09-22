@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 14:14",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Яхве ще се бори за вас, а вие мълчете.",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ילחם",
+      "gloss": "ще се бори"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "а вие"
+    },
+    {
+      "surface": "תחרישון",
+      "gloss": "мълчете"
+    }
+  ],
+  "timestamp": "2026-09-22T11:18:48.186305325Z",
+  "model": "glm-5.3"
+}

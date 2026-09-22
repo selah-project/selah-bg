@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "царят на Кедеш — един; царят на Йокнеам в Кармел — един;",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "Кедеш"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "Йокнеам"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "в Кармел"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    }
+  ],
+  "timestamp": "2026-09-22T12:20:31.540100763Z",
+  "model": "glm-5.3"
+}

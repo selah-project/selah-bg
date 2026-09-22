@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И ще падне пронизан всред вас, и ще познаете, че Аз ⟨съм⟩ Яхве.",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "и ще падне"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "пронизан"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "всред вас"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "и ще познаете"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:12:05.022016281Z",
+  "model": "glm-5.3"
+}

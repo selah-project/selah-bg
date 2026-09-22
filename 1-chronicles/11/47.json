@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Елиел, и Овед, и Йаасиеел мецовееца.",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "Елиел"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "и Овед"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "и Йаасиеел"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "мецовееца"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:24.329875816Z",
+  "model": "glm-5.3"
+}

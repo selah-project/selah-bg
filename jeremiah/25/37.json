@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 25:37",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И замлъкнаха пасищата на мира от лицето на пламенния гняв на Яхве.",
+  "tokens": [
+    {
+      "surface": "ונדמו",
+      "gloss": "и замлъкнаха"
+    },
+    {
+      "surface": "נאות",
+      "gloss": "пасищата"
+    },
+    {
+      "surface": "השלום",
+      "gloss": "на мира"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "от лицето"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "пламенния"
+    },
+    {
+      "surface": "אף",
+      "gloss": "гняв"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T13:56:40.882208132Z",
+  "model": "glm-5.3"
+}

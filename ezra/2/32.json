@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Харим — триста и двайсет.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "на Харим"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "триста"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "триста"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "и двайсет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:48:31.969932989Z",
+  "model": "glm-5.3"
+}

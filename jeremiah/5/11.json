@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 5:11",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Защото с измяна са Me изневерили домът Израилев и домът Юдов, слово на Яхве.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "בגוד",
+      "gloss": "с измяна"
+    },
+    {
+      "surface": "בגדו",
+      "gloss": "са изневерили"
+    },
+    {
+      "surface": "בי",
+      "gloss": "на Мен"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домът"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израилев"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и домът"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Юдов"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T13:48:35.040927945Z",
+  "model": "glm-5.3"
+}

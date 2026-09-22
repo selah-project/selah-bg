@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 28:10",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Виж сега, защото Яхве те избра да построиш дом за светилище — бъди силен и го извърши.",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Виж"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "сега"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בחר",
+      "gloss": "избра"
+    },
+    {
+      "surface": "בך",
+      "gloss": "тебе"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "да построиш"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "למקדש",
+      "gloss": "за светилище"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "бъди силен"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и го извърши"
+    }
+  ],
+  "timestamp": "2026-09-22T16:04:41.875316258Z",
+  "model": "glm-5.3"
+}

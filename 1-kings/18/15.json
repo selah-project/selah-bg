@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 18:15",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И рече Илия: жив е Яхве Цеваот, пред когото стоя, че днес ще се явя нему.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "Илия"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "пред когото"
+    },
+    {
+      "surface": "עמדתי",
+      "gloss": "стоя"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "пред него"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "היום",
+      "gloss": "днес"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ще се явя"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "нему"
+    }
+  ],
+  "timestamp": "2026-09-22T13:10:25.988042151Z",
+  "model": "glm-5.3"
+}

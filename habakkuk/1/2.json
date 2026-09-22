@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "habakkuk 1:2",
+  "book": "habakkuk",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "До кога, Яхве, ще викам и няма да чуеш? Ще извикам към Тебе ⟨за⟩ насилие и няма да спасиш?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "кога"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "שועתי",
+      "gloss": "ще викам"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "да чуеш"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ще извикам"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "към Тебе"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "⟨за⟩ насилие"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "да спасиш"
+    }
+  ],
+  "timestamp": "2026-09-22T14:43:16.551346706Z",
+  "model": "glm-5.3"
+}

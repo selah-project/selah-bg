@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И рече Яхве на Йехошуа ⟨Иисус⟩: стани ти; защо това ти падаш на лицето си?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йехошуа"
+    },
+    {
+      "surface": "קם",
+      "gloss": "стани"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "למה",
+      "gloss": "защо"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "падаш"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "лицето си"
+    }
+  ],
+  "timestamp": "2026-09-22T12:19:21.981731511Z",
+  "model": "glm-5.3"
+}

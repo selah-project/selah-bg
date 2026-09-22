@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "и Хашува, и Охел, и Берехия, и Хасадия, Йушав-Хесед — пет.",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "и Хашува"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "и Охел"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "и Берехия"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "и Хасадия"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "Йушав-"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "Хесед"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:33.426748469Z",
+  "model": "glm-5.3"
+}

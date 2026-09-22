@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Дрехата ти не овехтя от тебе, и нозете ти не се подуха — тези четиридесет години.",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "Дрехата ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "вלתה",
+      "gloss": "овехтя"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "от тебе"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "и нозете ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "се подуха"
+    },
+    {
+      "surface": "זה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "четиридесет"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    }
+  ],
+  "timestamp": "2026-09-22T12:06:12.061877511Z",
+  "model": "glm-5.3"
+}

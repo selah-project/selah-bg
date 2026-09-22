@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 31:21",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Не се бои за дома си от снега, защото целият ѝ дом е облечен в алено.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "се бои"
+    },
+    {
+      "surface": "לביתה",
+      "gloss": "за дома си"
+    },
+    {
+      "surface": "משלג",
+      "gloss": "от снега"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целият"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ѝ дом"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "облечен"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "в алено"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:27.202512032Z",
+  "model": "glm-5.3"
+}

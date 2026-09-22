@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Мъдростта дава сила на мъдрия — повече от десет владетели, които бяха в града.",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "Мъдростта"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "дава сила"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "на мъдрия"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "повече от десет"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "владетели"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "היו",
+      "gloss": "бяха"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "в града"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:52.013236153Z",
+  "model": "glm-5.3"
+}

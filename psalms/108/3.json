@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 108,
+  "translation": "Събуди се, невел и кинор; аз ще събуждам зората.",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "Събуди се"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "невел"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "и кинор"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "аз ще събуждам"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "зората"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:16.533356367Z",
+  "model": "glm-5.3"
+}

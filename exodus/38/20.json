@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 38:20",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "И всички колчета на Мишкана и на двора наоколо — мед.",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "и всички"
+    },
+    {
+      "surface": "היתדת",
+      "gloss": "колчета"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "на Мишкана"
+    },
+    {
+      "surface": "ולחצר",
+      "gloss": "и на двора"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколо"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "мед"
+    }
+  ],
+  "timestamp": "2026-09-22T11:29:37.386038353Z",
+  "model": "glm-5.3"
+}

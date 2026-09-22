@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И стана вечер и стана утро — ден трети.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И стана"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "вечер"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "утро"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "трети"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:24.457655803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "Шест дни ще работиш и ще свършиш цялата си работа",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "Шест"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ще работиш"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "и ще свършиш"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялата"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "си работа"
+    }
+  ],
+  "timestamp": "2026-09-22T11:21:01.550804741Z",
+  "model": "glm-5.3"
+}

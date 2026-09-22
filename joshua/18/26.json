@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "и hа-Мицпа, и hа-Кфира, и hа-Моца.",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "и hа-Мицпа"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "и hа-Кфира"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "и hа-Моца"
+    }
+  ],
+  "timestamp": "2026-09-22T12:22:53.429690273Z",
+  "model": "glm-5.3"
+}

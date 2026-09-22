@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 1:15",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Синко, не ходи по пътя с ⟨את⟩ тях; въздържай крака си от пътеките им.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синко"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ходи"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "по пътя"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ тях",
+      "marks": "с тях"
+    },
+    {
+      "surface": "מנע",
+      "gloss": "въздържай"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "крака си"
+    },
+    {
+      "surface": "מנתיבתם",
+      "gloss": "от пътеките им"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:36.206557810Z",
+  "model": "glm-5.3"
+}

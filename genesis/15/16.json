@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 15:16",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "И четвърто поколение ще се върне тук, защото не е пълно виното на аморееца до сега.",
+  "tokens": [
+    {
+      "surface": "ודור",
+      "gloss": "И поколение"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "четвърто"
+    },
+    {
+      "surface": "ישובו",
+      "gloss": "ще се върне"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "тук"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "пълно"
+    },
+    {
+      "surface": "עון",
+      "gloss": "виното"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "на аморееца"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "сега"
+    }
+  ],
+  "timestamp": "2026-09-22T10:58:43.779697080Z",
+  "model": "glm-5.3"
+}

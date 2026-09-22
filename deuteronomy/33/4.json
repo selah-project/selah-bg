@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "Тора заповяда нам Моше — наследство за събранието на Яков.",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "Тора"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповяда"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "нам"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "наследство"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "на събранието"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    }
+  ],
+  "timestamp": "2026-09-22T12:15:06.773160966Z",
+  "model": "glm-5.3"
+}

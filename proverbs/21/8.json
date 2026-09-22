@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Изкривен и чужд е пътят на ⟨човека⟩, а чистият — право е делото му.",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "изкривен"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пътят"
+    },
+    {
+      "surface": "איש",
+      "gloss": "⟨човека⟩"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "и чужд"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "а чистият"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "право"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "делото му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:55.224732158Z",
+  "model": "glm-5.3"
+}

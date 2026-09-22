@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-chronicles 18:24",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И рече Михайху: ето, ти ще видиш в онзи ден, когато влезеш стая в стая, за да се скриеш.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Михайху"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ето, ти"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ще видиш"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "в"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онзи ден"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "когато"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "влезеш"
+    },
+    {
+      "surface": "חדר",
+      "gloss": "стая"
+    },
+    {
+      "surface": "בחדר",
+      "gloss": "в стая"
+    },
+    {
+      "surface": "להחבא",
+      "gloss": "за да се скриеш"
+    }
+  ],
+  "timestamp": "2026-09-22T16:08:44.138690061Z",
+  "model": "glm-5.3"
+}

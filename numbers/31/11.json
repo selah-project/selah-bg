@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "И взеха ⟨את⟩ цялата плячка и ⟨את⟩ целия улов — в хора и в добитък.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "И взеха"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цялата"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялата"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "плячка"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "целия"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целия"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "улов"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "в хора"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "и в добитък"
+    }
+  ],
+  "timestamp": "2026-09-22T11:58:41.406916878Z",
+  "model": "glm-5.3"
+}

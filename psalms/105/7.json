@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 105:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 105,
+  "translation": "Той ⟨е⟩ Яхве, Елохимът ни; по цялата земя ⟨са⟩ съдите Му.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Той"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "Елохимът ни"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "по цялата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "съдите Му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:09.085087532Z",
+  "model": "glm-5.3"
+}

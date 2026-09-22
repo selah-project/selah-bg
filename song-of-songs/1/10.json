@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Красиви са страните ти с редове ⟨мъниста⟩, вратът ти с нанизи.",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "красиви са"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "страните ти"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "с редове"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "вратът ти"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "с нанизи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:40.675787365Z",
+  "model": "glm-5.3"
+}

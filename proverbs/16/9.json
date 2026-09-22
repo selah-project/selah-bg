@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 16:9",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Сърцето на човека обмисля пътя му, а Яхве утвърждава стъпките му.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "сърцето"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на човека"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "обмисля"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "пътя му"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "а Яхве"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "утвърждава"
+    },
+    {
+      "surface": "צעדו",
+      "gloss": "стъпките му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:00.125139309Z",
+  "model": "glm-5.3"
+}

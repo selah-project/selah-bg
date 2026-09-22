@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 4:10",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Слушай, синко мой, и приеми думите ми, и ще се умножат за тебе години живот.",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "Слушай"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синко мой"
+    },
+    {
+      "surface": "וקח",
+      "gloss": "и приеми"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "думите ми"
+    },
+    {
+      "surface": "וירבו",
+      "gloss": "и ще се умножат"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за тебе"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "години"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живот"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:49.219407131Z",
+  "model": "glm-5.3"
+}

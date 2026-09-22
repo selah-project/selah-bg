@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 4:1",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Слушайте, синове, поуката на баща и се вслушайте да познаете разум.",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "Слушайте"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "поуката"
+    },
+    {
+      "surface": "אב",
+      "gloss": "на баща"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "и се вслушайте"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "да познаете"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "разум"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:31.654562990Z",
+  "model": "glm-5.3"
+}

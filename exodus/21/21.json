@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Обаче ако ден или два дня стои ⟨той⟩, не ще бъде наказан, защото ⟨той⟩ е среброто му.",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "обаче"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "два дня"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "стои"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "ще бъде наказан"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "среброто му"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨той⟩ е"
+    }
+  ],
+  "timestamp": "2026-09-22T11:21:55.490389368Z",
+  "model": "glm-5.3"
+}

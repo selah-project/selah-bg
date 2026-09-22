@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 10:25",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Халохеш, Пилха, Шовек,",
+  "tokens": [
+    {
+      "surface": "הלוחש",
+      "gloss": "Халохеш"
+    },
+    {
+      "surface": "פלחא",
+      "gloss": "Пилха"
+    },
+    {
+      "surface": "שובק",
+      "gloss": "Шовек"
+    }
+  ],
+  "timestamp": "2026-09-22T15:54:39.022678988Z",
+  "model": "glm-5.3"
+}

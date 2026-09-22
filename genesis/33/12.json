@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 33:12",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И рече: да тръгнем и да вървим, и аз ще вървя пред тебе.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "נסעה",
+      "gloss": "да тръгнем"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "и да вървим"
+    },
+    {
+      "surface": "ואלכה",
+      "gloss": "и аз ще вървя"
+    },
+    {
+      "surface": "לנגדך",
+      "gloss": "пред тебе"
+    }
+  ],
+  "timestamp": "2026-09-22T11:05:34.421238951Z",
+  "model": "glm-5.3"
+}

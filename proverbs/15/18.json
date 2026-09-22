@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 15:18",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Човек на гняв подбужда разпра, а бавен към гняв укротява спор.",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Човек"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "на гняв"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "подбужда"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "разпра"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "а бавен"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "към гняв"
+    },
+    {
+      "surface": "ישקיט",
+      "gloss": "укротява"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "спор"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:22.094721097Z",
+  "model": "glm-5.3"
+}

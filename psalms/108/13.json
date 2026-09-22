@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 108,
+  "translation": "Дай ни помощ от беда, и суета ⟨е⟩ спасението на човека.",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "Дай"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "помощ"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "от беда"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "и суета"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "спасението"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на човека"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:03.330165906Z",
+  "model": "glm-5.3"
+}

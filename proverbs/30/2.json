@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 30:2",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Защото по-скотски съм аз от ⟨какъвто и да е⟩ човек, и разум човешки нямам аз;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "בער",
+      "gloss": "по-скотски"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "съм аз"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "от човек"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "בינת",
+      "gloss": "разум"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човешки"
+    },
+    {
+      "surface": "לי",
+      "gloss": "на мен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:55.114925428Z",
+  "model": "glm-5.3"
+}

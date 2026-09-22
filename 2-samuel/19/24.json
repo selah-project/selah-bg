@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И рече царят на Шимей: няма да умреш. И се закле царят нему.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "Шимей"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ще умреш"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "и се закле"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    }
+  ],
+  "timestamp": "2026-09-22T12:57:10.038963632Z",
+  "model": "glm-5.3"
+}

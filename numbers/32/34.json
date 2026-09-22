@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "И построиха синовете на Гад ⟨את⟩ Дивон и ⟨את⟩ Атарот и ⟨את⟩ Ароер.",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "И построиха"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "גד",
+      "gloss": "Гад"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Дивон"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "Дивон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Атарот"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "Атарот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Ароер"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "Ароер"
+    }
+  ],
+  "timestamp": "2026-09-22T11:58:44.530664050Z",
+  "model": "glm-5.3"
+}

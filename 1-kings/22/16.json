@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 22:16",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И му рече царят: докога да те кълна да ми говориш само истина в името на Яхве?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "עד",
+      "gloss": "докога"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "колко"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "пъти"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "משבעך",
+      "gloss": "да те кълна"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "да"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "говориш"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истина"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "в името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T13:12:42.702739607Z",
+  "model": "glm-5.3"
+}

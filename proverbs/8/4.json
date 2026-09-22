@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "Към вас, о мъже, викам, и гласът ми — към човешките синове.",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "Към вас"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "о мъже"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "викам"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "и гласът ми"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "на човеците"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:22.802428459Z",
+  "model": "glm-5.3"
+}

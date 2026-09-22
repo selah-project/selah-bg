@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Виж, дадох пред теб днес ⟨את⟩ живота и ⟨את⟩ доброто, и ⟨את⟩ смъртта и ⟨את⟩ злото —",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Виж"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дадох"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "пред теб"
+    },
+    {
+      "surface": "היום",
+      "gloss": "днес"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "живота"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "живота"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "доброто"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "доброто"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "смъртта"
+    },
+    {
+      "surface": "המות",
+      "gloss": "смъртта"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "злото"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "злото"
+    }
+  ],
+  "timestamp": "2026-09-22T12:14:11.052743652Z",
+  "model": "glm-5.3"
+}

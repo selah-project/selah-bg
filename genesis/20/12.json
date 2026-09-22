@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И наистина тя е сестра ми, дъщеря на баща ми, само не дъщеря на майка ми — и стана ми за жена.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "и"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "наистина"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "сестра ми"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщеря"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "на баща ми"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщеря"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "на майка ми"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "и стана"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жена"
+    }
+  ],
+  "timestamp": "2026-09-22T11:00:25.998088197Z",
+  "model": "glm-5.3"
+}

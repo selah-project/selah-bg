@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 6:7",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И беше със сърцето на Давид, баща ми, да построи дом за Името на Яхве, Елохим на Израел.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "עם",
+      "gloss": "със"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "сърцето"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "баща ми"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "да построи"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "за Името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израел"
+    }
+  ],
+  "timestamp": "2026-09-22T16:05:05.948300915Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "Слънцето изгря над земята, и Лот ⟨влезе⟩ в Цоар.",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "слънцето"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "изгря"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "и Лот"
+    },
+    {
+      "surface": "בא",
+      "gloss": "влезе"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "в Цоар"
+    }
+  ],
+  "timestamp": "2026-09-22T16:15:06.402531897Z",
+  "model": "glm-5.3"
+}

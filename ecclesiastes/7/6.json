@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Защото като пращенето на тръните под котлена, така е смяхът на глупака — и това е хевел.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "като гласа на"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "тръните"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "под"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "котлена"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "смяхът на"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "глупака"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хевел"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:42.956228006Z",
+  "model": "glm-5.3"
+}

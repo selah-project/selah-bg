@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-kings 22:48",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И цар нямаше в Едом — наместник ⟨бе⟩ цар.",
+  "tokens": [
+    {
+      "surface": "ומלך",
+      "gloss": "и цар"
+    },
+    {
+      "surface": "אין",
+      "gloss": "нямаше"
+    },
+    {
+      "surface": "באדום",
+      "gloss": "в Едом"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "наместник"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    }
+  ],
+  "timestamp": "2026-09-22T13:12:43.708863184Z",
+  "model": "glm-5.3"
+}

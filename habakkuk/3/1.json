@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Молитва на Авакум, пророка, върху шигайоните.",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "Молитва"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "на Авакум"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророка"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "шигайоните"
+    }
+  ],
+  "timestamp": "2026-09-22T14:44:01.602035386Z",
+  "model": "glm-5.3"
+}

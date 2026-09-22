@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 21:30",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Няма мъдрост, и няма разум, и няма съвет срещу Яхве.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мъдрост"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "разум"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "съвет"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "срещу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:21.195359238Z",
+  "model": "glm-5.3"
+}

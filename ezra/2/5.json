@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Арах: седемстотин седемдесет и пет.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "Арах"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седем"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "пет"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "и седемдесет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:47:48.771253161Z",
+  "model": "glm-5.3"
+}

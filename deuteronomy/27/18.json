@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 27:18",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Проклет ⟨да бъде⟩ този, който заблуждава сляп на пътя; и ще рече целият народ: амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Проклет"
+    },
+    {
+      "surface": "משגה",
+      "gloss": "заблуждава"
+    },
+    {
+      "surface": "עור",
+      "gloss": "сляп"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на пътя"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и ще рече"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целият"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "амен"
+    }
+  ],
+  "timestamp": "2026-09-22T12:12:29.392870005Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 10:3",
+  "book": "daniel",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Хляб вожделен не ядох, и месо и вино не влезе в устата ми, и миро не помазах ⟨се⟩, до изпълването на три седмици дни.",
+  "tokens": [
+    {
+      "surface": "לחם",
+      "gloss": "Хляб"
+    },
+    {
+      "surface": "חמדות",
+      "gloss": "вожделен"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "ядох"
+    },
+    {
+      "surface": "ובשר",
+      "gloss": "и месо"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "и вино"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "בא",
+      "gloss": "влезе"
+    },
+    {
+      "surface": "אל",
+      "gloss": "в"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устата"
+    },
+    {
+      "surface": "וסוך",
+      "gloss": "и миро"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "סכתי",
+      "gloss": "помазах"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מלאת",
+      "gloss": "изпълването"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "три"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "седмици"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    }
+  ],
+  "timestamp": "2026-09-22T15:47:32.590795919Z",
+  "model": "glm-5.3"
+}

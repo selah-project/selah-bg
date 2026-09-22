@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "и Рамот ⟨את⟩ и ⟨את⟩ пасищата му, и Анем ⟨את⟩ и ⟨את⟩ пасищата му",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Рамот"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "Рамот"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "пасищата му"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "пасищата му"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Анем"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "Анем"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "пасищата му"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "пасищата му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:39.002993629Z",
+  "model": "glm-5.3"
+}

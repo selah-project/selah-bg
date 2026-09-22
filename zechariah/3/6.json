@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И засвидетелства ангелът на Яхве на Йехошуа, като каза:",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "И засвидетелства"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ангелът"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "на Йехошуа"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "като каза"
+    }
+  ],
+  "timestamp": "2026-09-22T16:28:31.354764771Z",
+  "model": "glm-5.3"
+}

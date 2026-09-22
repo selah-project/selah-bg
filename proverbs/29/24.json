@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 29:24",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Съучастник на крадец мрази ⟨своята⟩ душа: клетва ще чуе и няма да издаде.",
+  "tokens": [
+    {
+      "surface": "חולק",
+      "gloss": "Съучастник"
+    },
+    {
+      "surface": "עם",
+      "gloss": "на"
+    },
+    {
+      "surface": "גנב",
+      "gloss": "крадец"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "мрази"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "⟨своята⟩ душа"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "клетва"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ще чуе"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "да издаде"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:25.689567326Z",
+  "model": "glm-5.3"
+}

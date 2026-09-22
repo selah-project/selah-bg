@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Ти минаваш днес ⟨את⟩ границата на Моав, ⟨את⟩ Ар:",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "минаваш"
+    },
+    {
+      "surface": "היום",
+      "gloss": "днес"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "границата на Моав"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "границата"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "Моав"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ар"
+    },
+    {
+      "surface": "ער",
+      "gloss": "Ар"
+    }
+  ],
+  "timestamp": "2026-09-22T12:01:42.165551445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 7:10",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И ето, жена — насреща му, с облекло на блудница и коварна на сърце.",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "жена"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "насреща му"
+    },
+    {
+      "surface": "שית",
+      "gloss": "с облекло"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "на блудница"
+    },
+    {
+      "surface": "ונצרת",
+      "gloss": "и коварна"
+    },
+    {
+      "surface": "לב",
+      "gloss": "на сърце"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:53.599181764Z",
+  "model": "glm-5.3"
+}

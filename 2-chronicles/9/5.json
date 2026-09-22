@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 9:5",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И рече на царя: истинна е думата, която чух в земята си, за думите ти и за мъдростта ти.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "истинна"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "думата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "чух"
+    },
+    {
+      "surface": "בארצי",
+      "gloss": "в земята си"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "דבריך",
+      "gloss": "думите ти"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и за"
+    },
+    {
+      "surface": "חכמתך",
+      "gloss": "мъдростта ти"
+    }
+  ],
+  "timestamp": "2026-09-22T16:07:34.148893213Z",
+  "model": "glm-5.3"
+}

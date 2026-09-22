@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Има нещо, за което ще се каже: Виж, това е ново — то вече е било от вечни времена, които са били преди нас.",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "има"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "нещо"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "ще се каже"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "виж"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ново"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "вече"
+    },
+    {
+      "surface": "היה",
+      "gloss": "е било"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "от вечни времена"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "היה",
+      "gloss": "са били"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "преди нас"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:35.668917323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "Весело сърце прави добро на тялото, а разбит дух изсушава костите.",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "сърце"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "весело"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "прави добро"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "на тялото"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "а дух"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "разбит"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "изсушава"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "костите"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:58.914390967Z",
+  "model": "glm-5.3"
+}

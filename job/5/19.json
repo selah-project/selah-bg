@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 5:19",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "В шест беди ще те избави, и в седем зло не ще те докосне.",
+  "tokens": [
+    {
+      "surface": "בשש",
+      "gloss": "В шест"
+    },
+    {
+      "surface": "צרות",
+      "gloss": "беди"
+    },
+    {
+      "surface": "יצילך",
+      "gloss": "ще те избави"
+    },
+    {
+      "surface": "ובשבע",
+      "gloss": "и в седем"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "ще докосне"
+    },
+    {
+      "surface": "בך",
+      "gloss": "те"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-09-22T15:25:11.527072612Z",
+  "model": "glm-5.3"
+}

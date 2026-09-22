@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 29:28",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И Яков направи така и изпълни тази седмица, и даде му ⟨את⟩ Рахел, дъщеря си, нему за жена.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и направи"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "и изпълни"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "седмица"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "тази"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "и даде"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Рахел"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "Рахел"
+    },
+    {
+      "surface": "בתו",
+      "gloss": "дъщеря си"
+    },
+    {
+      "surface": "לו",
+      "gloss": "нему"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "за жена"
+    }
+  ],
+  "timestamp": "2026-09-22T16:15:19.372280720Z",
+  "model": "glm-5.3"
+}

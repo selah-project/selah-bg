@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И с върха на древните планини, и с най-доброто на вечните хълмове.",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "и с върха"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "на планините"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "древните"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "и с най-доброто"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "на хълмовете"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечните"
+    }
+  ],
+  "timestamp": "2026-09-22T12:14:32.426685931Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Проклет да бъде кошът ти и проклет да бъде съдът ти за месене.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "проклет"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "кошът ти"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "и съдът ти за месене"
+    }
+  ],
+  "timestamp": "2026-09-22T12:13:44.972041918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "joshua 15:57",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Кайн, Гива и Тимна — градове десет, и селата им",
+  "tokens": [
+    {
+      "surface": "הקין",
+      "gloss": "Кайн"
+    },
+    {
+      "surface": "גבעה",
+      "gloss": "Гива"
+    },
+    {
+      "surface": "ותמנה",
+      "gloss": "и Тимна"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "градове"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "десет"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "и селата им"
+    }
+  ],
+  "timestamp": "2026-09-22T12:22:18.072507668Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 29:9",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Защото в лъжа те пророкуват на вас в името Ми — не ги пратих Аз, твърди Яхве.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "в лъжа"
+    },
+    {
+      "surface": "הם",
+      "gloss": "те"
+    },
+    {
+      "surface": "נבאים",
+      "gloss": "пророкуват"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "на вас"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "в името Ми"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שלחתים",
+      "gloss": "пратих ги"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "твърди"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T13:59:05.245324778Z",
+  "model": "glm-5.3"
+}

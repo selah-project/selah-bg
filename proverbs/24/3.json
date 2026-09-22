@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "С мъдрост ⟨се⟩ строи къща, и с разум ⟨се⟩ утвърждава.",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "с мъдрост"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "⟨се⟩ строи"
+    },
+    {
+      "surface": "בית",
+      "gloss": "къща"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "и с разум"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "⟨се⟩ утвърждава"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:57.719219800Z",
+  "model": "glm-5.3"
+}

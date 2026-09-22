@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И ⟨את⟩ хорите в планината им Сеир, до Ел-Паран, който е при пустинята.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "хорите"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "хорите"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "в планината им"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "Сеир"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "איל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "Паран"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "пустинята"
+    }
+  ],
+  "timestamp": "2026-09-22T10:57:25.134246166Z",
+  "model": "glm-5.3"
+}

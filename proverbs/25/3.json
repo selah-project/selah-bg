@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 25:3",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Небеса ⟨са⟩ на високо, и земя — на дълбоко, и сърце на царе — без изследване.",
+  "tokens": [
+    {
+      "surface": "שמים",
+      "gloss": "Небеса"
+    },
+    {
+      "surface": "לרום",
+      "gloss": "на високо"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "и земя"
+    },
+    {
+      "surface": "לעמק",
+      "gloss": "на дълбоко"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "и сърце"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "на царе"
+    },
+    {
+      "surface": "אין",
+      "gloss": "без"
+    },
+    {
+      "surface": "חקר",
+      "gloss": "изследване"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:30.704198129Z",
+  "model": "glm-5.3"
+}

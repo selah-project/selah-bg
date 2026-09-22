@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 44:15",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 44,
+  "translation": "И рече им Йосеф: Какво е делото това, което сторихте? Не знаете ли, че гадаее човек като мен?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "е делото"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "това"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "сторихте"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתם",
+      "gloss": "знаете ли"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "гадаее"
+    },
+    {
+      "surface": "ינחש",
+      "gloss": "ще гадаее"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "като"
+    },
+    {
+      "surface": "כמני",
+      "gloss": "мен"
+    }
+  ],
+  "timestamp": "2026-09-22T11:10:59.552422949Z",
+  "model": "glm-5.3"
+}

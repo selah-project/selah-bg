@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "Човек, човек от дома на Израил, който заколи вол, или агне, или коза, в стана, или който заколи извън стана,",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Човек"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "от дома"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израил"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "заколи"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вол"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "агне"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "עז",
+      "gloss": "коза"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "в стана"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "заколи"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "извън"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "стана"
+    }
+  ],
+  "timestamp": "2026-09-22T11:38:34.377808932Z",
+  "model": "glm-5.3"
+}

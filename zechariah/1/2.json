@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Разгневи се Яхве върху бащите ви — гневи се.",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "разгневи се"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "бащите ви"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "гневи се"
+    }
+  ],
+  "timestamp": "2026-09-22T14:45:34.761249564Z",
+  "model": "glm-5.3"
+}

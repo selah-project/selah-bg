@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 116,
+  "translation": "Повярвах, ⟨защото⟩ говоря — аз бях много наскърбен.",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "Повярвах"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨защото⟩"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "говоря"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "бях наскърбен"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "много"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:55.601763831Z",
+  "model": "glm-5.3"
+}

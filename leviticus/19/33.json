@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 19:33",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И ако се засели ⟨при⟩ ⟨את⟩ тебе пришълец в земята ви, не потискайте ⟨את⟩ него.",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "и ако"
+    },
+    {
+      "surface": "יגור",
+      "gloss": "се засели"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ тебе"
+    },
+    {
+      "surface": "גר",
+      "gloss": "пришълец"
+    },
+    {
+      "surface": "בארצכם",
+      "gloss": "в земята ви"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תונו",
+      "gloss": "потискайте"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него"
+    }
+  ],
+  "timestamp": "2026-09-22T11:39:41.448542299Z",
+  "model": "glm-5.3"
+}

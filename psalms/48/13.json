@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 48:13",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "Заобиколете Цион и я обходете, пребройте кулите ѝ.",
+  "tokens": [
+    {
+      "surface": "סבו",
+      "gloss": "Заобиколете"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "והקיפוה",
+      "gloss": "и я обходете"
+    },
+    {
+      "surface": "сפרו",
+      "gloss": "пребройте"
+    },
+    {
+      "surface": "מגדליה",
+      "gloss": "кулите ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T14:58:49.113902409Z",
+  "model": "glm-5.3"
+}

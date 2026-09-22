@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "извор на градини, кладенец с живи води и потоци, ⟨които текат⟩ от Ливан!",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "извор"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "на градини"
+    },
+    {
+      "surface": "באר",
+      "gloss": "кладенец"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живи"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "и потоци"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "Ливан"
+    }
+  ],
+  "timestamp": "2026-09-22T15:34:08.812805388Z",
+  "model": "glm-5.3"
+}

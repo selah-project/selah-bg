@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "защото Яхве ще бъде ⟨в⟩ твоя хълбок и ще пази крака ти от улавяне.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ще бъде"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "⟨в⟩ твоя хълбок"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "и ще пази"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "крака ти"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "от улавяне"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:26.888143721Z",
+  "model": "glm-5.3"
+}

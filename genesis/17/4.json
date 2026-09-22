@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "Аз — ето, заветът Ми ⟨е⟩ с ⟨את⟩ тебе, и ще станеш баща на множество народи.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "заветът Ми"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ тебе",
+      "marks": "тебе"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "и ще станеш"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "баща"
+    },
+    {
+      "surface": "המון",
+      "gloss": "множество"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "народи"
+    }
+  ],
+  "timestamp": "2026-09-22T10:59:59.604966995Z",
+  "model": "glm-5.3"
+}

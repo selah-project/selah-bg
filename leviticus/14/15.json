@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И вземе свещеникът от лога маслото и излее върху дланта на свещеника лявата.",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "и вземе"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свещеникът"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "от лога"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "маслото"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "и излее"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "כף",
+      "gloss": "дланта"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "на свещеника"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "лявата"
+    }
+  ],
+  "timestamp": "2026-09-22T11:37:06.190803884Z",
+  "model": "glm-5.3"
+}

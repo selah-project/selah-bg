@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 94,
+  "translation": "Защото към правда ще се върне съдът и след него всички прави по сърце.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "עד",
+      "gloss": "към"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "правда"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ще се върне"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "съдът"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "и след него"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "правите"
+    },
+    {
+      "surface": "לב",
+      "gloss": "по сърце"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:57.961242315Z",
+  "model": "glm-5.3"
+}

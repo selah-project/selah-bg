@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 21:11",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "и за всяка душа умряла няма да влиза; за баща си и за майка си няма да се осквернява.",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и за"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяка"
+    },
+    {
+      "surface": "נפשת",
+      "gloss": "душа"
+    },
+    {
+      "surface": "מת",
+      "gloss": "умряла"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ще влиза"
+    },
+    {
+      "surface": "לאביו",
+      "gloss": "за баща си"
+    },
+    {
+      "surface": "ולאמו",
+      "gloss": "и за майка си"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ще се осквернява"
+    }
+  ],
+  "timestamp": "2026-09-22T11:40:42.791019424Z",
+  "model": "glm-5.3"
+}

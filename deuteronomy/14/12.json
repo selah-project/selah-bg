@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И това, което не ще ядете от тях: орела, брадатия лешояд и осояда.",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "и това"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ще ядете"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "от тях"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "орела"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "и брадатия лешояд"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "и осояда"
+    }
+  ],
+  "timestamp": "2026-09-22T12:06:45.692419231Z",
+  "model": "glm-5.3"
+}

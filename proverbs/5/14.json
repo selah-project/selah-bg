@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Почти бях във всяко зло, сред събрание и общност.",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "почти"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "бях"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "във всяко"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "бתוך",
+      "gloss": "сред"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "събрание"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "и общност"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:18.019837888Z",
+  "model": "glm-5.3"
+}

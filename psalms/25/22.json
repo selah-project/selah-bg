@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 25:22",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Избави, Елохим, ⟨את⟩ Израел от всичките му тесноти!",
+  "tokens": [
+    {
+      "surface": "פדה",
+      "gloss": "Избави"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Израел"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "от всичките"
+    },
+    {
+      "surface": "צרותיו",
+      "gloss": "му тесноти"
+    }
+  ],
+  "timestamp": "2026-09-22T14:54:31.965279388Z",
+  "model": "glm-5.3"
+}

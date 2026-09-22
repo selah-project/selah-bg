@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 39,
+  "translation": "Върху лицето на полето ще паднеш, защото Аз говорих,oracle на Адонай Яхве.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "на полето"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "ще паднеш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "говорих"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "твърдение"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:28:10.064722248Z",
+  "model": "glm-5.3"
+}

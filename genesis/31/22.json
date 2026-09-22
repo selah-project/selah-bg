@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "И биде съобщено на Лаван на третия ден, че избягал Яаков.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "и биде съобщено"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "на Лаван"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "на ден"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "третия"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "избягал"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    }
+  ],
+  "timestamp": "2026-09-22T11:05:41.768910140Z",
+  "model": "glm-5.3"
+}

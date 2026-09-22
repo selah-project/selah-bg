@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 8:28",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И изгори Йехошуа ⟨את⟩ Гай и я направи вечна развалина, пустош до този ден.",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "И изгори"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йехошуа"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Гай"
+    },
+    {
+      "surface": "העי",
+      "gloss": "Гай"
+    },
+    {
+      "surface": "וישימה",
+      "gloss": "и я направи"
+    },
+    {
+      "surface": "תל",
+      "gloss": "руина"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "вечна"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "пустош"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    }
+  ],
+  "timestamp": "2026-09-22T12:18:36.163361258Z",
+  "model": "glm-5.3"
+}

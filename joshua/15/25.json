@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 15:25",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "и Хацор Хадата, и Криот-Хецрон — той ⟨е⟩ Хацор,",
+  "tokens": [
+    {
+      "surface": "וחצור",
+      "gloss": "и Хацор"
+    },
+    {
+      "surface": "חדתה",
+      "gloss": "Хадата"
+    },
+    {
+      "surface": "וקריות",
+      "gloss": "и Криот"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "Хецрон"
+    },
+    {
+      "surface": "היא",
+      "gloss": "той ⟨е⟩"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "Хацор"
+    }
+  ],
+  "timestamp": "2026-09-22T12:22:23.983697735Z",
+  "model": "glm-5.3"
+}

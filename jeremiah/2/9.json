@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 2:9",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Затова още ще се съдя ⟨את⟩ с вас, оракул на Яхве, и ⟨с⟩ ⟨את⟩ децата на децата ви ще се съдя.",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "затова"
+    },
+    {
+      "surface": "עד",
+      "gloss": "още"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ще се съдя"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ с вас"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "оракул"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "децата"
+    },
+    {
+      "surface": "בניכם",
+      "gloss": "на децата ви"
+    },
+    {
+      "surface": "אריב",
+      "gloss": "ще се съдя"
+    }
+  ],
+  "timestamp": "2026-09-22T13:46:04.485999871Z",
+  "model": "glm-5.3"
+}

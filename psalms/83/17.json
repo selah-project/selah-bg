@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 83:17",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 83,
+  "translation": "Покрий лицата им със срам, и нека търсят името Ти, Яхве.",
+  "tokens": [
+    {
+      "surface": "מלא",
+      "gloss": "покрий"
+    },
+    {
+      "surface": "פניהם",
+      "gloss": "лицата им"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "срам"
+    },
+    {
+      "surface": "ויבקשו",
+      "gloss": "и нека търсят"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "името Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:19.135096432Z",
+  "model": "glm-5.3"
+}

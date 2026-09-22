@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-chronicles 18:22",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И сега, ето, Яхве даде дух на лъжа в устата на тези твои пророци, и Яхве говори против тебе зло.",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "И сега"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "на лъжа"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "в устата"
+    },
+    {
+      "surface": "נביאיך",
+      "gloss": "на твоите"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и Яхве"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "против тебе"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    }
+  ],
+  "timestamp": "2026-09-22T16:08:44.138279291Z",
+  "model": "glm-5.3"
+}

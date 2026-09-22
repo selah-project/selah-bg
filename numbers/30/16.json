@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 30:16",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И ако наруши ⟨את⟩ тях след чуването му, той ще понесе ⟨את⟩ вината ѝ.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "И ако"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "наруши"
+    },
+    {
+      "surface": "יפר",
+      "gloss": "наруши"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ тях",
+      "marks": "тях (обетите)"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "след"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чуването му"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "ще понесе"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "вината ѝ"
+    },
+    {
+      "surface": "עונה",
+      "gloss": "вината ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T11:59:09.658990533Z",
+  "model": "glm-5.3"
+}

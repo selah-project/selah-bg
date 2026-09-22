@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И станаха ⟨те⟩ горчивост на духа за Ицхак и за Ривка.",
+  "tokens": [
+    {
+      "surface": "ותהיין",
+      "gloss": "И станаха"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "горчивост"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "на духа"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "за Ицхак"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "и за Ривка"
+    }
+  ],
+  "timestamp": "2026-09-22T11:02:32.822822562Z",
+  "model": "glm-5.3"
+}

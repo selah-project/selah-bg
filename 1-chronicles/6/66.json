@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "1-chronicles 6:66",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И ⟨את⟩ Хешбон и ⟨את⟩ пасищата ѝ, и ⟨את⟩ Яазер и ⟨את⟩ пасищата ѝ.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Хешбон"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "Хешбон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "пасищата ѝ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "пасищата ѝ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Яазер"
+    },
+    {
+      "surface": "יעזיר",
+      "gloss": "Яазер"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "пасищата ѝ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "пасищата ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:19.087518676Z",
+  "model": "glm-5.3"
+}

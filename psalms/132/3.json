@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 132,
+  "translation": "„Ако вляза в шатъра на дома си, ако се кача на одъра на постелята си —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "вляза"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "в шатъра"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "на дома си"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "се кача"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "одъра"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "на постелята си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:13:31.728559861Z",
+  "model": "glm-5.3"
+}

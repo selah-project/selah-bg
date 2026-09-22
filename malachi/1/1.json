@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Бреме на словото на Яхве към Израел, чрез ръката на Малки.\n",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "Бреме"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "на словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "чрез ръката"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "на Малки"
+    }
+  ],
+  "timestamp": "2026-09-22T14:48:19.262087607Z",
+  "model": "glm-5.3"
+}

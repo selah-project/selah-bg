@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 25:28",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И обичаше Ицхак ⟨את⟩ Есав, защото лов имаше в устата си, а Ривка обичаше ⟨את⟩ Яков.",
+  "tokens": [
+    {
+      "surface": "ויאהב",
+      "gloss": "И обичаше"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Есав"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "Есав"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "лов"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "в устата му"
+    },
+    {
+      "surface": "ורבקה",
+      "gloss": "а Ривка"
+    },
+    {
+      "surface": "אהבת",
+      "gloss": "обичаше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Яков"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яков"
+    }
+  ],
+  "timestamp": "2026-09-22T11:02:36.487661986Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezekiel 39:22",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 39,
+  "translation": "И ще познае домът Израилев, че аз съм Яхве, техният Елохим, от онзи ден нататък.",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "и ще познае"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домът"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израилев"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "техният Елохим"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "היום",
+      "gloss": "онзи ден"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "онзи"
+    },
+    {
+      "surface": "והלאה",
+      "gloss": "нататък"
+    }
+  ],
+  "timestamp": "2026-09-22T14:28:37.388087801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Добро е да седи на ъгъла на покрива — от жена, караща се, и дом на съжителство.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "Добро"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "да седи"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "ъгъла"
+    },
+    {
+      "surface": "גג",
+      "gloss": "покрива"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "от ⟨жена⟩"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "караща се"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "и дом"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "на съжителство"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:55.613209550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Не правете като всичко, което ние правим тук днес: всеки — всичко право в очите му.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "правете"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "като всичко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ние"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "правим"
+    },
+    {
+      "surface": "פה",
+      "gloss": "тук"
+    },
+    {
+      "surface": "היום",
+      "gloss": "днес"
+    },
+    {
+      "surface": "איש",
+      "gloss": "всеки"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "право"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "в очите му"
+    }
+  ],
+  "timestamp": "2026-09-22T12:07:19.068728580Z",
+  "model": "glm-5.3"
+}

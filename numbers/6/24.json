@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 6:24",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Да те благослови Яхве и да те пази!",
+  "tokens": [
+    {
+      "surface": "יברכך",
+      "gloss": "Да те благослови"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "וישמרך",
+      "gloss": "и да те пази"
+    }
+  ],
+  "timestamp": "2026-09-22T11:46:47.761037740Z",
+  "model": "glm-5.3"
+}

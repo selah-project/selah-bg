@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 9:14",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И взеха ⟨онези⟩ мъже от припасите им, а ⟨את⟩ устата на Яхве не питаха.",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "и взеха"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "мъжете"
+    },
+    {
+      "surface": "мצידם",
+      "gloss": "от припасите им"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "а ⟨את⟩"
+    },
+    {
+      "surface": "פי",
+      "gloss": "устата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "питаха"
+    }
+  ],
+  "timestamp": "2026-09-22T12:18:36.940846113Z",
+  "model": "glm-5.3"
+}

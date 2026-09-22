@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 45,
+  "translation": "Защото това ⟨са⟩ две години гладът всред земята, и още пет години, в които няма оран и жътва.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "две"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "години гладът"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "всред"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "и още"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "в които"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "оран"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "и жътва"
+    }
+  ],
+  "timestamp": "2026-09-22T11:12:34.656025806Z",
+  "model": "glm-5.3"
+}

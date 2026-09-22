@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Не бъди сред пиячките на вино, сред лакомите за месо, ⟨за тях⟩.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "бъди"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "сред пиячките"
+    },
+    {
+      "surface": "יין",
+      "gloss": "на вино"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "сред лакомите"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "за месо"
+    },
+    {
+      "surface": "למו",
+      "gloss": "⟨за тях⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:14.041535128Z",
+  "model": "glm-5.3"
+}

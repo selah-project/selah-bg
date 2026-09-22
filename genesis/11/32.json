@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И станаха дните на Терах пет години и двеста години; и умря Терах в Харан.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И станаха"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дните"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "на Терах"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "пет"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "години"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "и двеста"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "години"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "и умря"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "Терах"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "в Харан"
+    }
+  ],
+  "timestamp": "2026-09-22T10:58:09.790614769Z",
+  "model": "glm-5.3"
+}

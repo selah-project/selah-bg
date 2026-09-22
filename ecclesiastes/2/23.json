@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Защото всичките му дни са болки, и задачата му е досада; дори нощем сърцето му не си ляга. И това е хевел.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичките"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "дните му"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "болки"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "и досада"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "занятието му"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дори"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "нощем"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "сяга"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "сърцето му"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "хевел"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е"
+    }
+  ],
+  "timestamp": "2026-09-22T16:44:17.803959785Z",
+  "model": "glm-5.3"
+}

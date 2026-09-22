@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 47:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 47,
+  "translation": "Пейте на Елохим, пейте, пейте на нашия цар, пейте!",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "Пейте"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "пейте"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "пейте"
+    },
+    {
+      "surface": "למלכנו",
+      "gloss": "на нашия цар"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "пейте"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:40.614963532Z",
+  "model": "glm-5.3"
+}

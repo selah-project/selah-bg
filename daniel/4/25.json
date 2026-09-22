@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Всичко това постигна Навухаднецар, царя.",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "Всичко това"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "постигна"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "Навухаднецар"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-09-22T15:44:56.086435185Z",
+  "model": "glm-5.3"
+}

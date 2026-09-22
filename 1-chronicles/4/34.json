@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "и Мешовав, и Ямлех, и Йоша, син на Амацйа.",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "и Мешовав"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и Ямлех"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "и Йоша"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "Амацйа"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:47.154428664Z",
+  "model": "glm-5.3"
+}

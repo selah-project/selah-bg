@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 37:5",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "Така каза Адонай Яхве на тези кости: ето, Аз довеждам във вас дух и ще живеете.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לעצמות",
+      "gloss": "на костите"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "מביא",
+      "gloss": "довеждам"
+    },
+    {
+      "surface": "בכם",
+      "gloss": "във вас"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "וחייתם",
+      "gloss": "и ще живеете"
+    }
+  ],
+  "timestamp": "2026-09-22T14:27:08.963570972Z",
+  "model": "glm-5.3"
+}

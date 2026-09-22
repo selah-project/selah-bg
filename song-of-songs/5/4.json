@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "Възлюбеният ми подаде ръката си през отвора, и утробата ми се развълнува за него.",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "възлюбеният ми"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "подаде"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ръката си"
+    },
+    {
+      "surface": "מן",
+      "gloss": "през"
+    },
+    {
+      "surface": "החר",
+      "gloss": "отвора"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "и утробата ми"
+    },
+    {
+      "surface": "המו",
+      "gloss": "се развълнува"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "за него"
+    }
+  ],
+  "timestamp": "2026-09-22T15:34:36.803201074Z",
+  "model": "glm-5.3"
+}

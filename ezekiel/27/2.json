@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "А ти, човеко, въздигни плач за Цор ⟨Тир⟩:",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "שא",
+      "gloss": "въздигни"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "צר",
+      "gloss": "Цор ⟨Тир⟩"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "плач"
+    }
+  ],
+  "timestamp": "2026-09-22T16:27:15.865062550Z",
+  "model": "glm-5.3"
+}

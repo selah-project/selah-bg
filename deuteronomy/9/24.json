@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 9:24",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Бунтовни бяхте с Яхве от деня, в който познах ⟨את⟩ вас.",
+  "tokens": [
+    {
+      "surface": "ממרים",
+      "gloss": "бунтовни"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "бяхте"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "от деня"
+    },
+    {
+      "surface": "דעתי",
+      "gloss": "познах"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "вас"
+    }
+  ],
+  "timestamp": "2026-09-22T12:05:10.289278789Z",
+  "model": "glm-5.3"
+}

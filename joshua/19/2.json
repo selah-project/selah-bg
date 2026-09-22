@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 19:2",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И имаха в своето наследство Беер-Шева, и Шева, и Молада.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "и бе"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "בנחלתם",
+      "gloss": "в тяхното наследство"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Беер"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и Шева"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "и Молада"
+    }
+  ],
+  "timestamp": "2026-09-22T12:23:19.751931972Z",
+  "model": "glm-5.3"
+}

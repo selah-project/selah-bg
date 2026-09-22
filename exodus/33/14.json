@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 33:14",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И рече: Лицето ми ще върви, и ще дам ти покой.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "פני",
+      "gloss": "Лицето ми"
+    },
+    {
+      "surface": "ילכו",
+      "gloss": "ще върви"
+    },
+    {
+      "surface": "והנחתי",
+      "gloss": "и ще дам покой"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-22T11:28:07.944995661Z",
+  "model": "glm-5.3"
+}

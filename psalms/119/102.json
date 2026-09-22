@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "От Твоите правди не се отклоних, защото Ти ме научи.",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "от Твоите правди"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "се отклоних"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "ме научи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:43.199281480Z",
+  "model": "glm-5.3"
+}

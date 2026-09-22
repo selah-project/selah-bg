@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 11:9",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "и Йоел син на Зихри, надзирател над тях; и Йехуда син на Хаснуа, втори над града.",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "и Йоел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "на Зихри"
+    },
+    {
+      "surface": "פקיד",
+      "gloss": "надзирател"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "над тях"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "и Йехуда"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "הסנואה",
+      "gloss": "на Хаснуа"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "града"
+    },
+    {
+      "surface": "משנה",
+      "gloss": "втори"
+    }
+  ],
+  "timestamp": "2026-09-22T15:55:20.946102195Z",
+  "model": "glm-5.3"
+}

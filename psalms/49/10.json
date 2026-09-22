@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 49,
+  "translation": "и да живее още завинаги, и да не види изгнилостта.",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "и да живее"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "още"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "завинаги"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "да види"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "изгнилостта"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:19.790239993Z",
+  "model": "glm-5.3"
+}

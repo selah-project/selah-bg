@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "и ⟨את⟩ всяка врана по нейния вид;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "всяка врана"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяка"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "врана"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "по нейния вид"
+    }
+  ],
+  "timestamp": "2026-09-22T12:06:45.644779532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 80:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 80,
+  "translation": "На диригента. За Шошаним. Свидетелство. За Асаф. Псалом.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "на диригента"
+    },
+    {
+      "surface": "אל",
+      "gloss": "за"
+    },
+    {
+      "surface": "ששנים",
+      "gloss": "Шошаним"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "свидетелство"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "за Асаф"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалом"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:45.117259900Z",
+  "model": "glm-5.3"
+}

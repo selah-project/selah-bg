@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 21:26",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 21,
+  "translation": "Заедно на пръст лягат, и червей ги покрива.",
+  "tokens": [
+    {
+      "surface": "יחד",
+      "gloss": "Заедно"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "пръст"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "лягат"
+    },
+    {
+      "surface": "ורמה",
+      "gloss": "и червей"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "покрива"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "ги"
+    }
+  ],
+  "timestamp": "2026-09-22T15:28:20.227294948Z",
+  "model": "glm-5.3"
+}

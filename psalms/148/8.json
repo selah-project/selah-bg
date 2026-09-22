@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 148,
+  "translation": "Огън и град, сняг и пара, вихрушка вятър, вършещи словото Му!",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "Огън"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "и град"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "сняг"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "и пара"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "вятър"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "вихрушка"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "вършещи"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "словото Му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:15.374859760Z",
+  "model": "glm-5.3"
+}

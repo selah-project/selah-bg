@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Махрай нетофатиеца, Хелед, син на Ваана, нетофатиеца.",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "Махрай"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "нетофатиеца"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "Хелед"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син на"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "Ваана"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "нетофатиеца"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:44.881890087Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 26:9",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "А на Мешелемия ⟨бяха⟩ синове и братя, синове на сила, осемнадесет.",
+  "tokens": [
+    {
+      "surface": "ולמשלמיהו",
+      "gloss": "а на Мешелемия"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    },
+    {
+      "surface": "ואחים",
+      "gloss": "и братя"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "на сила"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "осем"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надесет"
+    }
+  ],
+  "timestamp": "2026-09-22T16:03:14.977973568Z",
+  "model": "glm-5.3"
+}

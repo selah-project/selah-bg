@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 81,
+  "translation": "На водача, върху гититската ⟨мелодия⟩, на Асаф.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "на водача"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "гититската"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "на Асаф"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:35.526962832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 4:18",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Шими, син на Ела, в Benjamin.",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "Шими"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אלא",
+      "gloss": "на Ела"
+    },
+    {
+      "surface": "בבנימן",
+      "gloss": "в Benjamin"
+    }
+  ],
+  "timestamp": "2026-09-22T13:02:20.433840239Z",
+  "model": "glm-5.3"
+}

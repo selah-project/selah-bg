@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 29:8",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И пазете ⟨את⟩ думите на завета този и ги вършете, за да успявате ⟨את⟩ всичко, което вършите.",
+  "tokens": [
+    {
+      "surface": "ושמרתם",
+      "gloss": "и пазете"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "думите"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "думите"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "на завета"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "този"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "и вършете"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ тях"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "תשכילו",
+      "gloss": "успявате"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всичко"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "вършите"
+    }
+  ],
+  "timestamp": "2026-09-22T12:13:02.900264216Z",
+  "model": "glm-5.3"
+}

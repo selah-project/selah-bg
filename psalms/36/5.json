@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "Беззаконие замисля ⟨той⟩ на ложето си; застава ⟨той⟩ на път, не добър; зло не отхвърля.",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "беззаконие"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "замисля"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "ложето си"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "застава"
+    },
+    {
+      "surface": "על",
+      "gloss": "на"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "път"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добър"
+    },
+    {
+      "surface": "רע",
+      "gloss": "зло"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "отхвърля"
+    }
+  ],
+  "timestamp": "2026-09-22T14:56:57.878757339Z",
+  "model": "glm-5.3"
+}

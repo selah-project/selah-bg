@@ -1,0 +1,105 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 5:12",
+  "book": "esther",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И каза Аман: дори не въведе Естир, царицата, с царя на пира, който направи, никого освен ⟨את⟩ мен; и утре съм поканен при нея с царя.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И каза"
+    },
+    {
+      "surface": "המן",
+      "gloss": "Аман"
+    },
+    {
+      "surface": "אף",
+      "gloss": "дори"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הביאה",
+      "gloss": "въведе"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "Естир"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "царицата"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "המשתה",
+      "gloss": "пира"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "כי",
+      "gloss": "освен"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨дали⟩"
+    },
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ мен"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "и"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "утре"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "קרוא",
+      "gloss": "поканен"
+    },
+    {
+      "surface": "לה",
+      "gloss": "при нея"
+    },
+    {
+      "surface": "עם",
+      "gloss": "с"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    }
+  ],
+  "timestamp": "2026-09-22T15:41:35.043186859Z",
+  "model": "glm-5.3"
+}

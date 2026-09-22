@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 83,
+  "translation": "Дори Ашур се присъедини към тях; бяха ⟨рамо⟩ за синовете на Лот. Села.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "дори"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "се присъедини"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "към тях"
+    },
+    {
+      "surface": "היו",
+      "gloss": "бяха"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "⟨рамо⟩"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "за синовете"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "на Лот"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "Села"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:27.908825910Z",
+  "model": "glm-5.3"
+}

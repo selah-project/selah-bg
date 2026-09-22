@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 24:1",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Не ревнувай ⟨против⟩ злите хора, и не пожелавай да бъдеш ⟨את⟩ тях.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "ревнувай"
+    },
+    {
+      "surface": "באנשי",
+      "gloss": "⟨против⟩ хората"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "злите"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и не"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "пожелавай"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "да бъдеш"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ тях",
+      "marks": "с тях"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:57.715107001Z",
+  "model": "glm-5.3"
+}

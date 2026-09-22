@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "Хвани щита и ⟨еблея⟩, и се издигни в помощта ми.",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "Хвани"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "щита"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "и ⟨еблея⟩"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "и се издигни"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "в помощта ми"
+    }
+  ],
+  "timestamp": "2026-09-22T16:29:37.478462914Z",
+  "model": "glm-5.3"
+}

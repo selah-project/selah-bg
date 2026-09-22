@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "Ужас, и яма, и примка върху теб, жителю на Моав — слово на Яхве.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ужас"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "и яма"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "и примка"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "върху теб"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "жителю"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "на Моав"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:07:22.476194829Z",
+  "model": "glm-5.3"
+}

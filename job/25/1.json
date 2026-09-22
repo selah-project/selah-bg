@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 25:1",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "И отговори Билдад Сухиеца и рече:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И отговори"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "Билдад"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "Сухиеца"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-22T15:29:33.296585489Z",
+  "model": "glm-5.3"
+}

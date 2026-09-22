@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 44:16",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 44,
+  "translation": "Думата, която ти говори към нас в името на Яхве — не я слушаме от тебе.",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "Думата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ти говори"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "към нас"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "в името"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "не"
+    },
+    {
+      "surface": "שמעים",
+      "gloss": "я слушаме"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "от тебе"
+    }
+  ],
+  "timestamp": "2026-09-22T14:05:53.073457921Z",
+  "model": "glm-5.3"
+}

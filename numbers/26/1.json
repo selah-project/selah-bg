@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И рече Яхве на Моше ⟨Мойсей⟩ и на Елазар, син на Аарон, свещеника, и каза:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "и на"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "Елазар"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свещеника"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "и каза"
+    }
+  ],
+  "timestamp": "2026-09-22T11:56:15.155011453Z",
+  "model": "glm-5.3"
+}

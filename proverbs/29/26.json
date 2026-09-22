@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 29:26",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "Мнозина търсят лицето на владетеля, а от Яхве ⟨е⟩ съдът на човека.",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "мнозина"
+    },
+    {
+      "surface": "מבקשים",
+      "gloss": "търсят"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "на владетеля"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "а от Яхве"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "съдът"
+    },
+    {
+      "surface": "איש",
+      "gloss": "на човека"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:47.259000609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 55,
+  "translation": "Страх и трепет влизат в мен, и тръпнещ ужас ме покри.",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "страх"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "и трепет"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "влизат"
+    },
+    {
+      "surface": "בי",
+      "gloss": "в мен"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "и ме покри"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "тръпнещ ужас"
+    }
+  ],
+  "timestamp": "2026-09-22T15:00:38.026150857Z",
+  "model": "glm-5.3"
+}

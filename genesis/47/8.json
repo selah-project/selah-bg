@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 47:8",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 47,
+  "translation": "И рече Фараон на Яаков: колко са дните на годините на живота ти?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Фараон"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "колко"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дните"
+    },
+    {
+      "surface": "שני",
+      "gloss": "на годините"
+    },
+    {
+      "surface": "חייך",
+      "gloss": "на живота ти"
+    }
+  ],
+  "timestamp": "2026-09-22T11:12:24.336088955Z",
+  "model": "glm-5.3"
+}

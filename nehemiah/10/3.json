@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 10:3",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Серая, Азарая, Ирмая",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "Серая"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Азарая"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "Ирмая"
+    }
+  ],
+  "timestamp": "2026-09-22T15:54:35.249733526Z",
+  "model": "glm-5.3"
+}

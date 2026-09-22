@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 11:26",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И чу жената на Урия, че умря Урия, мъжът ѝ, и оплака господаря си.",
+  "tokens": [
+    {
+      "surface": "ותשמע",
+      "gloss": "И чу"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жената"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "на Урия"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "מת",
+      "gloss": "умря"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "Урия"
+    },
+    {
+      "surface": "אישה",
+      "gloss": "мъжът ѝ"
+    },
+    {
+      "surface": "ותספד",
+      "gloss": "и оплака"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨за⟩"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "господаря си"
+    }
+  ],
+  "timestamp": "2026-09-22T12:51:34.460502508Z",
+  "model": "glm-5.3"
+}

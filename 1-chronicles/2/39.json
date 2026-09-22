@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И Ацария роди ⟨את⟩ Хелец, и Хелец роди ⟨את⟩ Елеаса.",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "И Ацария"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хелец"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "Хелец"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "и Хелец"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Елеаса"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "Елеаса"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:43.278331586Z",
+  "model": "glm-5.3"
+}

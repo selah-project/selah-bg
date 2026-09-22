@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 35:13",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "И градовете, които дадете, шест града за убежище ще бъдат за вас.",
+  "tokens": [
+    {
+      "surface": "והערים",
+      "gloss": "и градовете"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "дадете"
+    },
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "града"
+    },
+    {
+      "surface": "מקלט",
+      "gloss": "за убежище"
+    },
+    {
+      "surface": "תהיינה",
+      "gloss": "ще бъдат"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-09-22T12:00:39.266334943Z",
+  "model": "glm-5.3"
+}

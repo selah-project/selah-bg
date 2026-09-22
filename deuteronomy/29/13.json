@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "И не ⟨את⟩ вас единствено Аз сключвам ⟨את⟩ завета този и ⟨את⟩ проклятието това.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ вас",
+      "marks": "вас"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "единствено"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "сключвам"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "завета"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "завета"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "този"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "проклятието"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "проклятието"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "това"
+    }
+  ],
+  "timestamp": "2026-09-22T12:13:34.434822553Z",
+  "model": "glm-5.3"
+}

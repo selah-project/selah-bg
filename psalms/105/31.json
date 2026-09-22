@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 105,
+  "translation": "Рече — и дойде смес от рояци, въшки по цялата им граница.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "Рече"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "и дойде"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "смес от рояци"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "въшки"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "по цялата"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "им граница"
+    }
+  ],
+  "timestamp": "2026-09-22T15:09:37.080982262Z",
+  "model": "glm-5.3"
+}

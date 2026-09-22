@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 12:3",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Също и аз имам ⟨на мен⟩ сърце като вашето; не съм паднал под вас; и ⟨את⟩ кого няма като тези?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Също"
+    },
+    {
+      "surface": "לי",
+      "gloss": "и на мен"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "сърце"
+    },
+    {
+      "surface": "כמוכם",
+      "gloss": "като вашето"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "съм паднал"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    },
+    {
+      "surface": "מכם",
+      "gloss": "под вас"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "кого"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кого"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "като"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези"
+    }
+  ],
+  "timestamp": "2026-09-22T15:26:24.021143555Z",
+  "model": "glm-5.3"
+}

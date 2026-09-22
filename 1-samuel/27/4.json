@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 27:4",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "И беше съобщено на Шаул, че Давид избяга в Гат; и той не добави още да го търси.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "И беше съобщено"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "на Шаул"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "избяга"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "גת",
+      "gloss": "в Гат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "добави"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "още"
+    },
+    {
+      "surface": "לבקשו",
+      "gloss": "да го търси"
+    }
+  ],
+  "timestamp": "2026-09-22T12:47:18.691697394Z",
+  "model": "glm-5.3"
+}

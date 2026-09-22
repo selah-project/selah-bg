@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Носилка направи си царят Шеломо ⟨Соломон⟩ от дърветата на Ливан.",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "носилка"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "לו",
+      "gloss": "си"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "Шеломо ⟨Соломон⟩"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "от дърветата"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "на Ливан"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:39.640948642Z",
+  "model": "glm-5.3"
+}

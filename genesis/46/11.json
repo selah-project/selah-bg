@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 46,
+  "translation": "И синовете на Леви: Гершон, Кехат и Мерари.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "и синовете"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "на Леви"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "Гершон"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "Кехат"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "и Мерари"
+    }
+  ],
+  "timestamp": "2026-09-22T11:11:33.517322059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 30:23",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "И решиха всички събрани да правят седем дни други, и направиха седем дни радост.",
+  "tokens": [
+    {
+      "surface": "ויועצו",
+      "gloss": "И решиха"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "събрани"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "да правят"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седем"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "други"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "и направиха"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "седем"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "дни"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "радост"
+    }
+  ],
+  "timestamp": "2026-09-22T16:13:01.108535189Z",
+  "model": "glm-5.3"
+}

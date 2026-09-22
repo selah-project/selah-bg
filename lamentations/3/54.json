@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Залиха се води над главата ми; рекох: ⟨съм⟩ отсечен.",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "залиха се"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "главата ми"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "рекох"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "отсечен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:37:02.381651759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 4:4",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Прилепна езикът на сучещото дете към небцето му от жажда; малките искат хляб, но раздаващ няма за тях.",
+  "tokens": [
+    {
+      "surface": "דבק",
+      "gloss": "Прилепна"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "езикът"
+    },
+    {
+      "surface": "יונק",
+      "gloss": "на сучещото"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "חכו",
+      "gloss": "небцето му"
+    },
+    {
+      "surface": "בצמא",
+      "gloss": "от жажда"
+    },
+    {
+      "surface": "עוללים",
+      "gloss": "малките"
+    },
+    {
+      "surface": "שאלו",
+      "gloss": "искат"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляб"
+    },
+    {
+      "surface": "פרש",
+      "gloss": "раздаващ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "להם",
+      "gloss": "за тях"
+    }
+  ],
+  "timestamp": "2026-09-22T15:37:49.415859985Z",
+  "model": "glm-5.3"
+}

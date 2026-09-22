@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-kings 8:60",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "за да знаят всички народи на земята, че Яхве ⟨е⟩ Елохимът — няма ⟨друг⟩.",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знаят"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "народите"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "на земята"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨е⟩"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "Елохимът"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨друг⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T13:04:36.690210215Z",
+  "model": "glm-5.3"
+}

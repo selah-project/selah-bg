@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И рече ѝ дъщерята на Парох: иди. И момичето отиде и повика ⟨את⟩ майката на детето.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ѝ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщерята"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "на Парох"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "иди"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "и отиде"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "момичето"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "и повика"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "майката"
+    },
+    {
+      "surface": "אם",
+      "gloss": "майката"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "на детето"
+    }
+  ],
+  "timestamp": "2026-09-22T11:13:59.875290229Z",
+  "model": "glm-5.3"
+}

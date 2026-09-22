@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "psalms 119:65",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "Добро си сторил ⟨с⟩ раба си, Яхве, според ⟨словото си⟩.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "си сторил"
+    },
+    {
+      "surface": "עם",
+      "gloss": "⟨с⟩"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "раба си"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "според словото си"
+    }
+  ],
+  "timestamp": "2026-09-22T16:30:26.696677359Z",
+  "model": "glm-5.3"
+}

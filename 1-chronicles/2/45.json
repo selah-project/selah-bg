@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И син на Шамай ⟨беше⟩ Маон, и Маон ⟨беше⟩ баща на Бет Цур.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "и син"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "Шамай"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "Маон"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "и Маон"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "баща"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "צור",
+      "gloss": "Цур"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:55.651474282Z",
+  "model": "glm-5.3"
+}

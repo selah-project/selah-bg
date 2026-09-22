@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 27:10",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Защото баща ми и майка ми ме оставиха, а Яхве ще ме приеме.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "баща ми"
+    },
+    {
+      "surface": "ואמי",
+      "gloss": "и майка ми"
+    },
+    {
+      "surface": "עזבוני",
+      "gloss": "ме оставиха"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "а Яхве"
+    },
+    {
+      "surface": "יאספני",
+      "gloss": "ще ме приеме"
+    }
+  ],
+  "timestamp": "2026-09-22T16:29:19.606595860Z",
+  "model": "glm-5.3"
+}

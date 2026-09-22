@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Синовете на Исав: Елифаз, Реуел, и Йеуш, и Яалам, и Корах.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "на Исав"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "Елифаз"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "Реуел"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "и Йеуш"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "и Яалам"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "и Корах"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:46.316581219Z",
+  "model": "glm-5.3"
+}

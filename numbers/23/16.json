@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 23:16",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "И се срещна Яхве с Билам и тури дума в устата му, и рече: върни се при Валак и така говори.",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "И се срещна"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "с"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "Билам"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "и тури"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дума"
+    },
+    {
+      "surface": "בפיו",
+      "gloss": "в устата му"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "върни се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "Валак"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "и така"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "говориш"
+    }
+  ],
+  "timestamp": "2026-09-22T11:55:37.513167453Z",
+  "model": "glm-5.3"
+}

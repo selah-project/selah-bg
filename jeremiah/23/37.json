@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Така да кажеш на пророка: какво ти е отговорил Яхве, и какво е говорил Яхве?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "да кажеш"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "пророка"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "ти е отговорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "и какво"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "е говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T13:57:38.805662083Z",
+  "model": "glm-5.3"
+}

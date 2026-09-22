@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "До кога ще виждам знаме, ще чувам глас ⟨на⟩ шофар?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "щe виждам"
+    },
+    {
+      "surface": "נס",
+      "gloss": "знаме"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "щe чувам"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "шофар"
+    }
+  ],
+  "timestamp": "2026-09-22T13:48:19.797869104Z",
+  "model": "glm-5.3"
+}

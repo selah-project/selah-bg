@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 42:2",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 42,
+  "translation": "Зная, че всичко можеш, и не ще бъде отнет от тебе ⟨никакъв⟩ замисъл.",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "Зная"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "можеш"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יבצר",
+      "gloss": "ще бъде отнет"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "от тебе"
+    },
+    {
+      "surface": "מזמה",
+      "gloss": "замисъл"
+    }
+  ],
+  "timestamp": "2026-09-22T15:33:56.414683921Z",
+  "model": "glm-5.3"
+}

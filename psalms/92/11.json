@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 92:11",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 92,
+  "translation": "И издигна като реем рога ми, с разкошно масло съм помазан.",
+  "tokens": [
+    {
+      "surface": "ותרם",
+      "gloss": "И издигна"
+    },
+    {
+      "surface": "כראים",
+      "gloss": "като реем"
+    },
+    {
+      "surface": "קרני",
+      "gloss": "рога ми"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "помазан"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "с масло"
+    },
+    {
+      "surface": "רענן",
+      "gloss": "разкошно"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:28.089853905Z",
+  "model": "glm-5.3"
+}

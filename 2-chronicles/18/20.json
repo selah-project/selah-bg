@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-chronicles 18:20",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И излезе духът, и застана пред Яхве, и каза: Аз ще го подмамя. А Яхве му рече: С какво?",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "И излезе"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "духът"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "и застана"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и каза"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "אפתנו",
+      "gloss": "ще го подмамя"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "А … рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "במה",
+      "gloss": "С какво"
+    }
+  ],
+  "timestamp": "2026-09-22T16:08:50.489545451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 18:13",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И преминаха оттам планината Ефраим, и дойдоха до дома на Мика.",
+  "tokens": [
+    {
+      "surface": "ויעברו",
+      "gloss": "и преминаха"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оттам"
+    },
+    {
+      "surface": "הר",
+      "gloss": "планината"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "Ефраим"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "и дойдоха"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дома"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "на Мика"
+    }
+  ],
+  "timestamp": "2026-09-22T12:34:17.871095914Z",
+  "model": "glm-5.3"
+}

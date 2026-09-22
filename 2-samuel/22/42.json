@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "2-samuel 22:42",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Гледаха, а няма избавител — към Яхве, и не им отговори.",
+  "tokens": [
+    {
+      "surface": "ישעו",
+      "gloss": "Гледаха"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "а няма"
+    },
+    {
+      "surface": "משיע",
+      "gloss": "избавител"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "им отговори"
+    }
+  ],
+  "timestamp": "2026-09-22T12:58:59.128352110Z",
+  "model": "glm-5.3"
+}

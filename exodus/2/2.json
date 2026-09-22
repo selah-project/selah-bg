@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 2:2",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И заченна жената и роди син, и видя ⟨את⟩ него, че добър е той, и го скри три месеца.",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "И заченна"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "жената"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בן",
+      "gloss": "си⟨н⟩"
+    },
+    {
+      "surface": "ותרא",
+      "gloss": "и видя"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добър"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "е той"
+    },
+    {
+      "surface": "ותצפנהו",
+      "gloss": "и го скри"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "три"
+    },
+    {
+      "surface": "ירחים",
+      "gloss": "месеца"
+    }
+  ],
+  "timestamp": "2026-09-22T11:14:21.218553113Z",
+  "model": "glm-5.3"
+}

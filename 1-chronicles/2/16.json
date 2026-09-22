@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 2:16",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И сестрите им Цруя и Авигей; и синовете на Цруя: Авшай, и Йоав, и Асаел — трима.",
+  "tokens": [
+    {
+      "surface": "ואחיתיהם",
+      "gloss": "И сестрите им"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "Цруя"
+    },
+    {
+      "surface": "ואביגיל",
+      "gloss": "и Авигей"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "и синовете"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "на Цруя"
+    },
+    {
+      "surface": "אבשי",
+      "gloss": "Авшай"
+    },
+    {
+      "surface": "ויואב",
+      "gloss": "и Йоав"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "и Аса"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ел"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "трима"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:54.412255201Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 150,
+  "translation": "Всичко, що диша, нека хвали Ях; хвалете Ях!",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "що диша"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "нека хвали"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "хвалете"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    }
+  ],
+  "timestamp": "2026-09-22T15:14:40.402422877Z",
+  "model": "glm-5.3"
+}

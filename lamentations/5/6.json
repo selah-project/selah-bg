@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "На Мицраим ⟨Мизраим⟩ дадохме ръка, на Ашур ⟨Асирия⟩ — да се наситим хляб.",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "дадохме"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ръка"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "да се наситим"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "хляб"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:18.886659082Z",
+  "model": "glm-5.3"
+}

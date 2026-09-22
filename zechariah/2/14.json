@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 2:14",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Пей и се радвай, дъщеро Цион, защото ето, Аз идвам и ще обитавам всред теб — слово на Яхве.",
+  "tokens": [
+    {
+      "surface": "רני",
+      "gloss": "Пей"
+    },
+    {
+      "surface": "ושמחי",
+      "gloss": "и се радвай"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщеро"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ето, Аз"
+    },
+    {
+      "surface": "בא",
+      "gloss": "идвам"
+    },
+    {
+      "surface": "ושכנתי",
+      "gloss": "и ще обитавам"
+    },
+    {
+      "surface": "בתוכך",
+      "gloss": "всред теб"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:46:17.986914619Z",
+  "model": "glm-5.3"
+}

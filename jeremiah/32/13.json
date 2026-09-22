@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 32:13",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "И заповядах на ⟨את⟩ Барух ⟨Мовеч⟩ пред очите им, като казах:",
+  "tokens": [
+    {
+      "surface": "ואצוה",
+      "gloss": "И заповядах"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Барух"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "Барух"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "пред очите им"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "като казах"
+    }
+  ],
+  "timestamp": "2026-09-22T14:01:18.598198245Z",
+  "model": "glm-5.3"
+}

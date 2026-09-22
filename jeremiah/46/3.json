@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 46:3",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 46,
+  "translation": "Подредете щитовете малки и големи и приближете за битка!",
+  "tokens": [
+    {
+      "surface": "ערכו",
+      "gloss": "подредете"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "щита"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "и големия щит"
+    },
+    {
+      "surface": "וגשו",
+      "gloss": "и приближете"
+    },
+    {
+      "surface": "лמלחמה",
+      "gloss": "за битка"
+    }
+  ],
+  "timestamp": "2026-09-22T14:06:00.640969502Z",
+  "model": "glm-5.3"
+}

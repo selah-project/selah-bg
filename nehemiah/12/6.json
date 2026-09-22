@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Шемая, и Йоярив, Йедая.",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "Шемая"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "и Йоярив"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "Йедая"
+    }
+  ],
+  "timestamp": "2026-09-22T16:33:00.680881936Z",
+  "model": "glm-5.3"
+}

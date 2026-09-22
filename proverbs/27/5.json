@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "По-добра е откритата укора от скрита любов.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "по-добра"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "укора"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "открита"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "от любов"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "скрита"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:54.648038795Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 16:1",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И Сараи, жената на Аврам, не му роди; а ⟨имаше⟩ робиня египтянка, чието име ⟨беше⟩ Агар.",
+  "tokens": [
+    {
+      "surface": "ושרי",
+      "gloss": "И Сараи"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "жената"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "на Аврам"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "ולה",
+      "gloss": "а на нея"
+    },
+    {
+      "surface": "שפחה",
+      "gloss": "робиня"
+    },
+    {
+      "surface": "מצרית",
+      "gloss": "египтянка"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "и името ѝ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "Агар"
+    }
+  ],
+  "timestamp": "2026-09-22T10:59:30.025394647Z",
+  "model": "glm-5.3"
+}

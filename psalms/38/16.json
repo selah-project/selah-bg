@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 38:16",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "Защото на Теб, Яхве, чаках; Ти ще отговориш, Адонай, Елохим мой.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Защото"
+    },
+    {
+      "surface": "לך",
+      "gloss": "на Теб"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הוחלתי",
+      "gloss": "чаках"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ще отговориш"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим мой"
+    }
+  ],
+  "timestamp": "2026-09-22T14:58:03.662064660Z",
+  "model": "glm-5.3"
+}

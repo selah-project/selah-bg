@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 44:16",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 44,
+  "translation": "Цял ден срамът ми ⟨е⟩ пред мен, и позорът на лицето ме покри.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Цял"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "כלמתי",
+      "gloss": "срамът ми"
+    },
+    {
+      "surface": "נגדי",
+      "gloss": "пред мен"
+    },
+    {
+      "surface": "ובשת",
+      "gloss": "и позорът"
+    },
+    {
+      "surface": "פני",
+      "gloss": "на лицето"
+    },
+    {
+      "surface": "כסתני",
+      "gloss": "ме покри"
+    }
+  ],
+  "timestamp": "2026-09-22T14:59:03.823318963Z",
+  "model": "glm-5.3"
+}

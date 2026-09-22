@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 31:25",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "И заповяда Моше ⟨את⟩ левитите, носещите ковчега на завета на Яхве, казвайки:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "и заповяда"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "левитите"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "левитите"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "носещите"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ковчега"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "на завета"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "казвайки"
+    }
+  ],
+  "timestamp": "2026-09-22T12:15:38.712152055Z",
+  "model": "glm-5.3"
+}

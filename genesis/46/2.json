@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 46:2",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 46,
+  "translation": "И рече Елохим на Израел в нощни видения: Яаков, Яаков! А той рече: Ето ме.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "на Израел"
+    },
+    {
+      "surface": "במראת",
+      "gloss": "в видения"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "нощни"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ето ме"
+    }
+  ],
+  "timestamp": "2026-09-22T11:11:54.292575477Z",
+  "model": "glm-5.3"
+}

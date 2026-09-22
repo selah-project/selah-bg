@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 9:3",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Всяко пълзящо нещо, което е живо, ще ви бъде за храна; като зеления тревичен plants — виж по-долу — дадох ви ⟨את⟩ всичко.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всяко"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "пълзящо нещо"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "то"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живо"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ще бъде"
+    },
+    {
+      "surface": "לאכלה",
+      "gloss": "за храна"
+    },
+    {
+      "surface": "כירק",
+      "gloss": "както зеления"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "тревче"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дадох"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всичко"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:10.733950989Z",
+  "model": "glm-5.3"
+}

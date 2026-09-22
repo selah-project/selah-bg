@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Понеже ако ти отказваш да пусниш, и още държиш за тях,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Понеже"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "отказваш"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "да пусниш"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "и още"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "държиш"
+    },
+    {
+      "surface": "בם",
+      "gloss": "за тях"
+    }
+  ],
+  "timestamp": "2026-09-22T11:17:02.787258412Z",
+  "model": "glm-5.3"
+}

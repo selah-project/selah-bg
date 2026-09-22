@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 69:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 69,
+  "translation": "Спаси ме, Елохим, защото дойдоха води до душата.",
+  "tokens": [
+    {
+      "surface": "הושיעני",
+      "gloss": "спаси ме"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "באו",
+      "gloss": "дойдоха"
+    },
+    {
+      "surface": "מים",
+      "gloss": "води"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "душата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:23.052271505Z",
+  "model": "glm-5.3"
+}

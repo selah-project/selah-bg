@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И възлезе оттам към Вир-Шева.",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "и възлезе"
+    },
+    {
+      "surface": "משם",
+      "gloss": "оттам"
+    },
+    {
+      "surface": "באר",
+      "gloss": "Вир"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "Шева"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:13.744876237Z",
+  "model": "glm-5.3"
+}

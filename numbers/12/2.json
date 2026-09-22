@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 12:2",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И казаха: нима само на Моше ⟨Мойсей⟩ е говорил Яхве? Нима не говори и на нас? И чу Яхве.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "и казаха"
+    },
+    {
+      "surface": "הרק",
+      "gloss": "нима само"
+    },
+    {
+      "surface": "אך",
+      "gloss": "само"
+    },
+    {
+      "surface": "במשה",
+      "gloss": "на Моше ⟨Мойсей⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говорил"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "нима не"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "на нас"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "говори"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "и чу"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:50:51.215983785Z",
+  "model": "glm-5.3"
+}

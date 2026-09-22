@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 2:15",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И още ръката на Яхве беше върху тях, за да ги порази изсред стана, додето свършиха.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "и още"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ръката"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "בם",
+      "gloss": "върху тях"
+    },
+    {
+      "surface": "להמם",
+      "gloss": "за да ги порази"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "изсред"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "עד",
+      "gloss": "додето"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "свършиха"
+    }
+  ],
+  "timestamp": "2026-09-22T12:01:16.698235403Z",
+  "model": "glm-5.3"
+}

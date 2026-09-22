@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Думата на Яхве, която биде ⟨към⟩ Йоил, син на Петуел:",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "Думата"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "която"
+    },
+    {
+      "surface": "היה",
+      "gloss": "биде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨към⟩"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "Йоил"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "на Петуел"
+    }
+  ],
+  "timestamp": "2026-09-22T14:35:32.277428311Z",
+  "model": "glm-5.3"
+}

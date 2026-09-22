@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Блажен ⟨е⟩ човекът, който намери мъдрост, и човекът, който изведе разум.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Блажен"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човекът"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "намери"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мъдрост"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "и човекът"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "изведе"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "разум"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:06.542998793Z",
+  "model": "glm-5.3"
+}

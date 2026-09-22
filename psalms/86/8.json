@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 86:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 86,
+  "translation": "Няма като теб сред елохим, Адонай, и няма като делата ти.",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "כמוך",
+      "gloss": "като теб"
+    },
+    {
+      "surface": "באלהים",
+      "gloss": "сред елохим"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "כמעשיך",
+      "gloss": "като делата ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:43.647133935Z",
+  "model": "glm-5.3"
+}

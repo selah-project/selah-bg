@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "По-добра ⟨е⟩ мъдростта от оръжията на войната, и един грешник губи много добро.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "По-добра"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мъдростта"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "от оръжията"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "на войната"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "и един грешник"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "един"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "губи"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добро"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "много"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:24.726349935Z",
+  "model": "glm-5.3"
+}

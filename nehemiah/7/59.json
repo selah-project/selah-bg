@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "nehemiah 7:59",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Синове на Шефатия, синове на Хатил, синове на Похерет-hацеваим, синове на Амон.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "Шефатия"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "חטיל",
+      "gloss": "Хатил"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "פכרת",
+      "gloss": "Похерет"
+    },
+    {
+      "surface": "הצביים",
+      "gloss": "-хацеваим"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синове"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "Амон"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:54.831373940Z",
+  "model": "glm-5.3"
+}

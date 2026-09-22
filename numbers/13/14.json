@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "За племето Нефтали — Нахви, син на Вофси.",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "за племето"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "Нефтали"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "Нахви"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "Вофси"
+    }
+  ],
+  "timestamp": "2026-09-22T11:49:50.743654984Z",
+  "model": "glm-5.3"
+}

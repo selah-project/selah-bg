@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Той ще ти заема, а ти нему няма да заемаш; той ще бъде глава, а ти ще бъдеш опашка.",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "Той"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "ще ти заема"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "ще му заемаш"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ще бъде"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "глава"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "а ти"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ще бъдеш"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "опашка"
+    }
+  ],
+  "timestamp": "2026-09-22T12:13:06.725255683Z",
+  "model": "glm-5.3"
+}

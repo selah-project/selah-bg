@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Не се отклонявай надясно, нито наляво; отстрани крака си от злото.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תט",
+      "gloss": "се отклонявай"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "надясно"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "нито наляво"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "отстрани"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "крака си"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "от злото"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:55.765249026Z",
+  "model": "glm-5.3"
+}

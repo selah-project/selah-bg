@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 4:16",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "да не се развратите и да си направите изваяние — образ на всяко подобие, форма на мъжки или женски.",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "да не"
+    },
+    {
+      "surface": "תשחתון",
+      "gloss": "се развратите"
+    },
+    {
+      "surface": "ועשיתם",
+      "gloss": "и да направите"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "си"
+    },
+    {
+      "surface": "פסל",
+      "gloss": "изваяние"
+    },
+    {
+      "surface": "תמונת",
+      "gloss": "образ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяко"
+    },
+    {
+      "surface": "סמל",
+      "gloss": "подобие"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "форма"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "мъжки"
+    },
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "женски"
+    }
+  ],
+  "timestamp": "2026-09-22T12:03:08.544814315Z",
+  "model": "glm-5.3"
+}

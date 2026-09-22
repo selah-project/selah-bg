@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "син на Амацi, син на Бани, син на Шемер.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "на Амаци"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בני",
+      "gloss": "на Бани"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "на Шемер"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:23.544422233Z",
+  "model": "glm-5.3"
+}

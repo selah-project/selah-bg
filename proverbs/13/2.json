@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "От плода на устата на човек ще яде добро, а душата на вероломните — насилие.",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "От плода"
+    },
+    {
+      "surface": "פי",
+      "gloss": "на устата"
+    },
+    {
+      "surface": "איש",
+      "gloss": "на човек"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ще яде"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "а душата"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "на вероломните"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "насилие"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:32.497427270Z",
+  "model": "glm-5.3"
+}

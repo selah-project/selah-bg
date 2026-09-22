@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "В онова време царят Ахаз прати при царете на Ашур да му помогне.",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "В"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "онова време"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "прати"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "Ахаз"
+    },
+    {
+      "surface": "על",
+      "gloss": "при"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "царете"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "Ашур"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "да помогне"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    }
+  ],
+  "timestamp": "2026-09-22T16:11:47.773536504Z",
+  "model": "glm-5.3"
+}

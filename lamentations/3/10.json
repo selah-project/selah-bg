@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Мечка, дебнеща ⟨е⟩ той за мен, лъв в скривалища.",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "Мечка"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "дебнеща"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨е⟩ той"
+    },
+    {
+      "surface": "לי",
+      "gloss": "за мен"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "лъв"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "в скривалища"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:37.671799268Z",
+  "model": "glm-5.3"
+}

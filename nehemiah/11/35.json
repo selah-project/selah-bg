@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Лод и Оно, долината на занаятчиите.",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "Лод"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "и Оно"
+    },
+    {
+      "surface": "גי",
+      "gloss": "долината"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "на занаятчиите"
+    }
+  ],
+  "timestamp": "2026-09-22T15:55:06.955359459Z",
+  "model": "glm-5.3"
+}

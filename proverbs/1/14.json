@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Жребия си хвърли ⟨сред⟩ нас — една кесия ще бъде за всички ни.",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "жребия ти"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "хвърли"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "⟨сред⟩ нас"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "кесия"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "една"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ще бъде"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "за всички ни"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:36.206376767Z",
+  "model": "glm-5.3"
+}

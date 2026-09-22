@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Поставен ⟨е⟩ безумецът на големи висоти, а богати в нисина седят.",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "поставен"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "безумецът"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "на висоти"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "големи"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "а богати"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "в нисина"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "седят"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:01.538166612Z",
+  "model": "glm-5.3"
+}

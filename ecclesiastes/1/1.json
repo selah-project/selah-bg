@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Думи на Кохелет, син на Давид, цар в Йерусалим.",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "Думи"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "Кохелет"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "Давид"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "цар"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "в Йерусалим"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:36.029798489Z",
+  "model": "glm-5.3"
+}

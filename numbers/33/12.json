@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 33:12",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "И потеглиха от пустинята Син и разпънаха стан в Дофка.",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "И потеглиха"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "от пустинята"
+    },
+    {
+      "surface": "סין",
+      "gloss": "Син"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "и разпънаха стан"
+    },
+    {
+      "surface": "בדפקה",
+      "gloss": "в Дофка"
+    }
+  ],
+  "timestamp": "2026-09-22T11:59:44.526355420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 8:7",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И заведе ⟨את⟩ мен до входа на двора; и видях, и ето — една дупка в стената.",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "И заведе"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ме",
+      "marks": "мен"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "входа"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "на двора"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "и видях"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "и ето"
+    },
+    {
+      "surface": "חר",
+      "gloss": "дупка"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "една"
+    },
+    {
+      "surface": "בקיר",
+      "gloss": "в стената"
+    }
+  ],
+  "timestamp": "2026-09-22T14:12:22.398284170Z",
+  "model": "glm-5.3"
+}

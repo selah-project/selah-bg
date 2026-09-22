@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 31:2",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Виж, повиках по име Бецалел, син на Ури, син на Хур, от племето на Йехуда:",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "Виж"
+    },
+    {
+      "surface": "קראתי",
+      "gloss": "повиках"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "по име"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "Бецалел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "на Ури"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "חור",
+      "gloss": "на Хур"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "от племето"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Йехуда"
+    }
+  ],
+  "timestamp": "2026-09-22T11:25:00.303051035Z",
+  "model": "glm-5.3"
+}

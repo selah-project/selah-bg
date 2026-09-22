@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 82:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 82,
+  "translation": "Стани, Елохим, съди ⟨я⟩ земята, защото Ти ще наследиш всички народи.",
+  "tokens": [
+    {
+      "surface": "קומה",
+      "gloss": "Стани"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "съди"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨я⟩ земята"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "Ти"
+    },
+    {
+      "surface": "תנחל",
+      "gloss": "ще наследиш"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "народи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:18.703744637Z",
+  "model": "glm-5.3"
+}

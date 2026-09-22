@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 88:18",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 88,
+  "translation": "Обградиха ме като води цял ден, обкръжиха ме заедно.",
+  "tokens": [
+    {
+      "surface": "סבוני",
+      "gloss": "Обградиха ме"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "като води"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цял"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "הקיפו",
+      "gloss": "обкръжиха"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ме"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "заедно"
+    }
+  ],
+  "timestamp": "2026-09-22T15:06:06.716265197Z",
+  "model": "glm-5.3"
+}

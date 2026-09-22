@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 4:33",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 4,
+  "translation": "Слушал ли е народ глас на Елохим, говорещ от средата на огъня, както ти чу — и остана жив?",
+  "tokens": [
+    {
+      "surface": "השמע",
+      "gloss": "Слушал ли е"
+    },
+    {
+      "surface": "עם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "глас"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "говорещ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "от средата"
+    },
+    {
+      "surface": "האש",
+      "gloss": "огъня"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "чу"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "и остана жив"
+    }
+  ],
+  "timestamp": "2026-09-22T12:04:10.420693401Z",
+  "model": "glm-5.3"
+}

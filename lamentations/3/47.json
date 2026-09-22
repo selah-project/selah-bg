@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Ужас и пропаст станаха за нас, опустошение и разруха.",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "Ужас"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "и пропаст"
+    },
+    {
+      "surface": "היה",
+      "gloss": "станаха"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "за нас"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "опустошение"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "и разруха"
+    }
+  ],
+  "timestamp": "2026-09-22T16:32:43.668498622Z",
+  "model": "glm-5.3"
+}

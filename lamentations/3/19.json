@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Спомни страданието ми и скитането ми — пелин и отрова.",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "Спомни"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "страданието ми"
+    },
+    {
+      "surface": "ומרודי",
+      "gloss": "и скитането ми"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "пелин"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "и отрова"
+    }
+  ],
+  "timestamp": "2026-09-22T15:37:01.010893710Z",
+  "model": "glm-5.3"
+}

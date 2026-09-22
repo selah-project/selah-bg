@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Не давай сън на очите си, нито дрямка на клепачите си;",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "давай"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "сън"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "на очите си"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "нито дрямка"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "на клепачите си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:45.904261530Z",
+  "model": "glm-5.3"
+}

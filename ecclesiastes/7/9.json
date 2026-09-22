@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Не се бързай в духа си да се гневиш, защото гневът в пазвата на глупците почива.",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "се бързай"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "в духа си"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "да се гневиш"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "гневът"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "в пазвата"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "на глупците"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "почива"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:54.475969733Z",
+  "model": "glm-5.3"
+}

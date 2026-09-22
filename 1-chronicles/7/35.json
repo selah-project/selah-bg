@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И син на Хелем, неговия брат: Цофах, и Имна, и Шелеш, и Амал.",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "И син"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "на Хелем"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "неговия брат"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "Цофах"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "и Имна"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "и Шелеш"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "и Амал"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:42.668564110Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "Рече мързеливият: лъв ⟨е⟩ навън, посред площадите ще бъда убит.",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "мързеливият"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "лъв"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "навън"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "посред"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "площадите"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "ще бъда убит"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:29.240868089Z",
+  "model": "glm-5.3"
+}

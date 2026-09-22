@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Синове на Шем: Елам, и Ашур, и Арпахшад, и Луд, и Арам.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синове"
+    },
+    {
+      "surface": "שם",
+      "gloss": "на Шем"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "Елам"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "и Ашур"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "и Арпахшад"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "и Луд"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "и Арам"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:51.671514259Z",
+  "model": "glm-5.3"
+}

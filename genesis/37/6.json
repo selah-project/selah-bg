@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 37:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "И рече им: Чуйте, моля, този сън, който сънувах.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "Чуйте"
+    },
+    {
+      "surface": "נא",
+      "gloss": "моля"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "сънът"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "חלמתי",
+      "gloss": "сънувах"
+    }
+  ],
+  "timestamp": "2026-09-22T11:07:48.623246718Z",
+  "model": "glm-5.3"
+}

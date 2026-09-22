@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "А синовете на Палу: Елиав.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "А синовете на"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "Палу"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "Елиав"
+    }
+  ],
+  "timestamp": "2026-09-22T11:55:25.076564573Z",
+  "model": "glm-5.3"
+}

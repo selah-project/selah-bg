@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 41:11",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 41,
+  "translation": "А ти, Яхве, помилвай ме и ме вдигни, и ще им въздам.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "помилвай ме"
+    },
+    {
+      "surface": "והקימני",
+      "gloss": "и ме вдигни"
+    },
+    {
+      "surface": "ואשלמה",
+      "gloss": "и ще въздам"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    }
+  ],
+  "timestamp": "2026-09-22T14:58:13.519134194Z",
+  "model": "glm-5.3"
+}

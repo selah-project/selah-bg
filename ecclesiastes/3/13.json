@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И също всеки човек — да яде и да пие и да вижда добро в целия си труд; дар от Елохим ⟨е⟩ това.",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "и също"
+    },
+    {
+      "surface": "כל",
+      "gloss": "веки"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човек"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "да яде"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "и да пие"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "и да вижда"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "в целия"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "си труд"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "дар"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨е⟩ това"
+    }
+  ],
+  "timestamp": "2026-09-22T15:38:48.851595424Z",
+  "model": "glm-5.3"
+}

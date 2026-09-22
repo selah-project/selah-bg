@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 11:2",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И извика народът към Моше ⟨Мойсей⟩, и се помоли Моше към Яхве, и утихна огънят.",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "И извика"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народът"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "и се помоли"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ותשקע",
+      "gloss": "и утихна"
+    },
+    {
+      "surface": "האש",
+      "gloss": "огънят"
+    }
+  ],
+  "timestamp": "2026-09-22T11:49:48.537886760Z",
+  "model": "glm-5.3"
+}

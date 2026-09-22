@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 73,
+  "translation": "А аз бях неразумен и не знаех; добитък бях при Теб.",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "а аз"
+    },
+    {
+      "surface": "בער",
+      "gloss": "бях неразумен"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "знаех"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "добитък"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "бях"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "при Теб"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:52.265703954Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "Тези са синовете на Дишан: Уц и Аран.",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "Тези"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "на Дишан"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "Уц"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "и Аран"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:26.392574561Z",
+  "model": "glm-5.3"
+}

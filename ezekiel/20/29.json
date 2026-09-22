@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezekiel 20:29",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И казах им: какво е бамата, където вие отивате? И ⟨бе⟩ наречено името ѝ Бама до този ден.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "И казах"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "הבמה",
+      "gloss": "е бамата"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "където"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "отивате"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "И ⟨бе⟩ наречено"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "името ѝ"
+    },
+    {
+      "surface": "במה",
+      "gloss": "Бама"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "този ден"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨този⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T14:18:30.803324729Z",
+  "model": "glm-5.3"
+}

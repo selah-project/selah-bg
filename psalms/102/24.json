@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 102:24",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 102,
+  "translation": "Той смири на пътя силата ми, съкрати дните ми",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "Той смири"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "на пътя"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "силата ми"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "съкрати"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "дните ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:19.809969884Z",
+  "model": "glm-5.3"
+}

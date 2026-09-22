@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 102,
+  "translation": "Дните ми като сянка простряна са, а аз като трева съхна.",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "Дните ми"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "като сянка"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "простряна"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а аз"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "като трева"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "съхна"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:25.284627210Z",
+  "model": "glm-5.3"
+}

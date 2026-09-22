@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 9:30",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "А ти и рабите ти — знам, че още не се боите от лицето на Яхве, Елохим.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А ти"
+    },
+    {
+      "surface": "ועבדיך",
+      "gloss": "и рабите ти"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "знам"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "още не"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "се боите"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "от лицето на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T11:16:21.690408118Z",
+  "model": "glm-5.3"
+}

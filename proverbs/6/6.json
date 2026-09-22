@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Иди при мравката, мързеливи, виж пътищата ѝ и стани мъдър.",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "Иди"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "мравката"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "мързеливи"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "виж"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "пътищата ѝ"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "и стани мъдър"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:46.257913040Z",
+  "model": "glm-5.3"
+}

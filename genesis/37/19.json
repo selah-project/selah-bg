@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "И рекоха един другиму: Ето, господарят на сънищата иде.",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "И рекоха"
+    },
+    {
+      "surface": "איש",
+      "gloss": "един"
+    },
+    {
+      "surface": "אל",
+      "gloss": "другиму"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "брат си"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "господарят"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "на сънищата"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "този"
+    },
+    {
+      "surface": "בא",
+      "gloss": "иде"
+    }
+  ],
+  "timestamp": "2026-09-22T11:07:46.717038691Z",
+  "model": "glm-5.3"
+}

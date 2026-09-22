@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 9:9",
+  "book": "esther",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "и ⟨את⟩ Парманщa и ⟨את⟩ Арисай и ⟨את⟩ Аридай и ⟨את⟩ Вайзата",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Парманща"
+    },
+    {
+      "surface": "פרמשתא",
+      "gloss": "Парманща"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Арисай"
+    },
+    {
+      "surface": "אריסי",
+      "gloss": "Арисай"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Аридай"
+    },
+    {
+      "surface": "ארדי",
+      "gloss": "Аридай"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Вайзата"
+    },
+    {
+      "surface": "ויזתא",
+      "gloss": "Вайзата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:42:37.401917257Z",
+  "model": "glm-5.3"
+}

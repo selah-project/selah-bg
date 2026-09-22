@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 104,
+  "translation": "Излиза човекът за делото си и за труда си до вечерта.",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "излиза"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човекът"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "за делото си"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "и за труда си"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "до"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "вечерта"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:36.348909798Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "син на Цуф, син на Елкана, син на Махат, син на Амасай.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "Цуф"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "Елкана"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "Махат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "Амасай"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:26.569041740Z",
+  "model": "glm-5.3"
+}

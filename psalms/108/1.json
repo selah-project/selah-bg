@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 108,
+  "translation": "Песен, псалом на Давид.",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "Песен"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "псалом"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:16.532601112Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 12:2",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Сине човешки, всред дом на бунт ти седиш; очи имат ⟨за⟩ да видят, и не видяха; уши имат ⟨за⟩ да чуят, и не чуха; защото дом на бунт са те.",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "Сине"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "човешки"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "всред"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "на бунт"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "седиш"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨които⟩"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "очи"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имат"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "да видят"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "видяха"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "уши"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имат"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "да чуят"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "чуха"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "בית",
+      "gloss": "дом"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "на бунт"
+    },
+    {
+      "surface": "הם",
+      "gloss": "са те"
+    }
+  ],
+  "timestamp": "2026-09-22T14:15:01.185983617Z",
+  "model": "glm-5.3"
+}

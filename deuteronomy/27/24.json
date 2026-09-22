@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 27:24",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Проклет да е онзи, който поразява ближния си в скривано; и ще рече целият народ: Амен.",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "Проклет"
+    },
+    {
+      "surface": "מכה",
+      "gloss": "поразява"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ближния си"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "в скривано"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "и ще рече"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целият"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "Амен"
+    }
+  ],
+  "timestamp": "2026-09-22T12:12:28.527125317Z",
+  "model": "glm-5.3"
+}

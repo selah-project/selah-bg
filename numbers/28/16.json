@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "И в първия месец, на четиринадесетия ден от месеца — Песах за Яхве.",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "и в месеца"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "първия"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "на четири"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надесет"
+    },
+    {
+      "surface": "יום",
+      "gloss": "деня"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "от месеца"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "Песах"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "за Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:57:32.936990424Z",
+  "model": "glm-5.3"
+}

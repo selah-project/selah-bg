@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 45:5",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 45,
+  "translation": "Аз съм Яхве, и няма друг; освен Мен няма Елохим; препасах те, а ти не Ме позна.",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "и няма"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "друг"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "освен Мен"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "אאזרך",
+      "gloss": "препасах те"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "ידעתני",
+      "gloss": "Ме позна"
+    }
+  ],
+  "timestamp": "2026-09-22T13:40:48.732597788Z",
+  "model": "glm-5.3"
+}

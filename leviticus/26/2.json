@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 26:2",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "⟨את⟩ съботите Ми пазете и светилището Ми почитайте: Аз съм Яхве.",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "съботите Ми"
+    },
+    {
+      "surface": "שבתתי",
+      "gloss": "съботите Ми"
+    },
+    {
+      "surface": "תשמרו",
+      "gloss": "пазете"
+    },
+    {
+      "surface": "ומקדשי",
+      "gloss": "и светилището Ми"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "почитайте"
+    },
+    {
+      "surface": "אני",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:42:55.588540075Z",
+  "model": "glm-5.3"
+}

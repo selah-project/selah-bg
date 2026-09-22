@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 30:28",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 30,
+  "translation": "Гущерът се хваща с две ръце, а ⟨е⟩ в палатите на царя.",
+  "tokens": [
+    {
+      "surface": "שממית",
+      "gloss": "гущерът"
+    },
+    {
+      "surface": "בידים",
+      "gloss": "с две ръце"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "се хваща"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "а тя"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "в палатите"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "на царя"
+    }
+  ],
+  "timestamp": "2026-09-22T15:22:12.246722101Z",
+  "model": "glm-5.3"
+}

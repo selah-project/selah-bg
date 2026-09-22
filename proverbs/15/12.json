@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 15:12",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Насмешникът не обича онзи, който го изобличава; при мъдрите няма да отиде.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "обича"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "Насмешникът"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "онзи, който изобличава"
+    },
+    {
+      "surface": "לו",
+      "gloss": "го"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "мъдрите"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ще отиде"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:48.130057577Z",
+  "model": "glm-5.3"
+}

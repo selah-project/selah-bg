@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 80:14",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 80,
+  "translation": "Изравнява я глиган от гората, и пасе я звярът от полето.",
+  "tokens": [
+    {
+      "surface": "יכרסמנה",
+      "gloss": "изравнява я"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "глиган"
+    },
+    {
+      "surface": "מיער",
+      "gloss": "от гората"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "и звярът"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "от полето"
+    },
+    {
+      "surface": "ירענה",
+      "gloss": "пасе я"
+    }
+  ],
+  "timestamp": "2026-09-22T15:05:33.342521273Z",
+  "model": "glm-5.3"
+}

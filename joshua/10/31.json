@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 10:31",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "И премина Йехошуа и цял Израел с него от Ливна към Лахиш, и опля camps срещу нея, и воюва с нея.",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "И премина"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "Йехошуа"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "и цял"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Израел"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "с него"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "от Ливна"
+    },
+    {
+      "surface": "לכישה",
+      "gloss": "към Лахиш"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "и опля camps"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "срещу нея"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "и воюва"
+    },
+    {
+      "surface": "בה",
+      "gloss": "с нея"
+    }
+  ],
+  "timestamp": "2026-09-22T12:21:23.946429259Z",
+  "model": "glm-5.3"
+}

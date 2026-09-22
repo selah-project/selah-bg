@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 45:2",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 45,
+  "translation": "И издаде ⟨את⟩ гласа си в плач, и чуха Мицраим ⟨Мисир⟩, и чу домът на Паро.",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "издаде"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "гласа си"
+    },
+    {
+      "surface": "קלו",
+      "gloss": "гласа си"
+    },
+    {
+      "surface": "בבכי",
+      "gloss": "в плач"
+    },
+    {
+      "surface": "וישמעו",
+      "gloss": "и чуха"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    },
+    {
+      "surface": "וישמע",
+      "gloss": "и чу"
+    },
+    {
+      "surface": "בית",
+      "gloss": "домът"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    }
+  ],
+  "timestamp": "2026-09-22T11:12:40.185556088Z",
+  "model": "glm-5.3"
+}

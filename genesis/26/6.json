@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "И Ицхак живя в Герар.",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "и живя"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "Ицхак"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "в Герар"
+    }
+  ],
+  "timestamp": "2026-09-22T11:03:04.329822768Z",
+  "model": "glm-5.3"
+}

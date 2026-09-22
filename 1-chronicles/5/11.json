@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "А синовете на Гад срещу тях се заселиха в земята Башан до Салха.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "а синовете"
+    },
+    {
+      "surface": "גד",
+      "gloss": "на Гад"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "срещу тях"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "се заселиха"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "в земята"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "Башан"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "Салха"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:37.450926448Z",
+  "model": "glm-5.3"
+}

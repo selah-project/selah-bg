@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 1:5",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Бащите ви — къде са те? А пророците — ще живеят ли довека?",
+  "tokens": [
+    {
+      "surface": "אבותיכם",
+      "gloss": "Бащите ви"
+    },
+    {
+      "surface": "איה",
+      "gloss": "къде"
+    },
+    {
+      "surface": "הם",
+      "gloss": "те"
+    },
+    {
+      "surface": "והנבאים",
+      "gloss": "а пророците"
+    },
+    {
+      "surface": "הלעולם",
+      "gloss": "довека"
+    },
+    {
+      "surface": "יחיו",
+      "gloss": "ще живеят"
+    }
+  ],
+  "timestamp": "2026-09-22T14:45:53.453549322Z",
+  "model": "glm-5.3"
+}

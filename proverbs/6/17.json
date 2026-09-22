@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Очи надменни, език лъжовен, и ръце, проливащи невинна кръв,",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "очи"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "надменни"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "език"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "лъжовен"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "и ръце"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "проливащи"
+    },
+    {
+      "surface": "דם",
+      "gloss": "кръв"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "невинна"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:01.543940156Z",
+  "model": "glm-5.3"
+}

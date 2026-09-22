@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 3:22",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И ще бъдат живот за душата ти и благодат за гърлото ти.",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "И ще бъдат"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "живот"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "за душата ти"
+    },
+    {
+      "surface": "וחן",
+      "gloss": "и благодат"
+    },
+    {
+      "surface": "לגרגרתיך",
+      "gloss": "за гърлото ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:47.309011179Z",
+  "model": "glm-5.3"
+}

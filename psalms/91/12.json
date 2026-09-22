@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 91:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 91,
+  "translation": "На длани ще те понесат, да не би да удриш в камък крака си.",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "длани"
+    },
+    {
+      "surface": "ישאונך",
+      "gloss": "ще те понесат"
+    },
+    {
+      "surface": "פן",
+      "gloss": "да не би"
+    },
+    {
+      "surface": "תגף",
+      "gloss": "да удриш"
+    },
+    {
+      "surface": "באבן",
+      "gloss": "в камък"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "крака си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:07:26.684035899Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 25:8",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Добър и прав ⟨е⟩ Яхве, затова напътства грешниците в пътя.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "добър"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "и прав"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "על",
+      "gloss": "затова"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "יורה",
+      "gloss": "напътства"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "грешниците"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "в пътя"
+    }
+  ],
+  "timestamp": "2026-09-22T14:55:02.139055651Z",
+  "model": "glm-5.3"
+}

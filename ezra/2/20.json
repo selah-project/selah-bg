@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Гивар — деветдесет и петима.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "на Гивар"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "деветдесет"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "и петима"
+    }
+  ],
+  "timestamp": "2026-09-22T15:48:29.263168868Z",
+  "model": "glm-5.3"
+}

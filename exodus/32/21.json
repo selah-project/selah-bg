@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "И рече Моше на Аарон: какво ти направи този народ, че докара върху него голям грях?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "Аарон"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "направи"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "העם",
+      "gloss": "този народ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "докара"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "върху него"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "грях"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "голям"
+    }
+  ],
+  "timestamp": "2026-09-22T11:27:06.732675936Z",
+  "model": "glm-5.3"
+}

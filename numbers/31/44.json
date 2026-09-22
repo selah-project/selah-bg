@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "и говеда — шест и трийсет хиляди,",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "и говеда"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "шест"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "и трийсет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляди"
+    }
+  ],
+  "timestamp": "2026-09-22T16:19:13.685463915Z",
+  "model": "glm-5.3"
+}

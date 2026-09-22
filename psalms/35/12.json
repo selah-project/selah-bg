@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 35:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "въздават ми зло за добро, ограбване на душата ми.",
+  "tokens": [
+    {
+      "surface": "ישלמוני",
+      "gloss": "въздават ми"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "за"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "добро"
+    },
+    {
+      "surface": "שכול",
+      "gloss": "ограбване"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "на душата ми"
+    }
+  ],
+  "timestamp": "2026-09-22T14:56:26.230438034Z",
+  "model": "glm-5.3"
+}

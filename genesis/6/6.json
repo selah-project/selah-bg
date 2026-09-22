@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 6:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "И се разкая Яхве, че сътвори ⟨את⟩ човека на земята, и се опечали до сърцето си.",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "и се разкая"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "сътвори"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "човека"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човека"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "на земята"
+    },
+    {
+      "surface": "ויתעצב",
+      "gloss": "и се опечали"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "сърцето си"
+    }
+  ],
+  "timestamp": "2026-09-22T10:56:07.674531830Z",
+  "model": "glm-5.3"
+}

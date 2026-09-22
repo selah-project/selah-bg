@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "lamentations 3:60",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Видя цялото им отмъщение, всички им помисли ⟨срещу⟩ мен.",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "Видя"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялото"
+    },
+    {
+      "surface": "נקמתם",
+      "gloss": "им отмъщение"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "מחשבתם",
+      "gloss": "им помисли"
+    },
+    {
+      "surface": "לי",
+      "gloss": "срещу мен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:37:03.660813565Z",
+  "model": "glm-5.3"
+}

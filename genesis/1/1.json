@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "В начало сътвори Елохим ⟨את⟩ небесата и ⟨את⟩ земята.",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "В начало"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "сътвори"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "Елохим"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "небесата"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "небесата"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "земята"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земята"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:39.996679482Z",
+  "model": "glm-5.3"
+}

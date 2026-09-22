@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И нарече човекът ⟨с⟩ името на жена си Хава, защото тя беше майка на всичко живо.",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "И нарече"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "човекът"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨с⟩ име"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "на жена си"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "Хава"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "беше"
+    },
+    {
+      "surface": "אם",
+      "gloss": "майка"
+    },
+    {
+      "surface": "כל",
+      "gloss": "на всичко"
+    },
+    {
+      "surface": "חי",
+      "gloss": "живо"
+    }
+  ],
+  "timestamp": "2026-09-22T16:15:31.589848453Z",
+  "model": "glm-5.3"
+}

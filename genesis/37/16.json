@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 37:16",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "А той рече: ⟨את⟩ братята си търся. Кажи ми сега де пасат те.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "братята си"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "братята си"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "аз"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "търся"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "кажи"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сега"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "де"
+    },
+    {
+      "surface": "הם",
+      "gloss": "те"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "пасат"
+    }
+  ],
+  "timestamp": "2026-09-22T11:07:34.110428058Z",
+  "model": "glm-5.3"
+}

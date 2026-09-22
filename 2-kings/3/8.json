@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И рече: по кой път да се качим? А той рече: по пътя на пустинята Едом.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече:"
+    },
+    {
+      "surface": "אי",
+      "gloss": "по кой"
+    },
+    {
+      "surface": "זה",
+      "gloss": "този"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "път"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "да се качим"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "А той рече:"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "пътя"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "на пустинята"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "Едом"
+    }
+  ],
+  "timestamp": "2026-09-22T13:13:46.448891669Z",
+  "model": "glm-5.3"
+}

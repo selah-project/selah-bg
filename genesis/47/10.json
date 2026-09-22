@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 47:10",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 47,
+  "translation": "И благослови Яаков ⟨את⟩ Паро и излезе от пред Паро.",
+  "tokens": [
+    {
+      "surface": "ויברך",
+      "gloss": "и благослови"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Паро"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "и излезе"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "от пред"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "Паро"
+    }
+  ],
+  "timestamp": "2026-09-22T11:11:51.762625713Z",
+  "model": "glm-5.3"
+}

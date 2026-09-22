@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "за Шимон — Шлумиел, син на Цуришадай;",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "за Шимон"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "Шлумиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "на Цуришадай"
+    }
+  ],
+  "timestamp": "2026-09-22T11:44:27.108804138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Добро ⟨е⟩ огорчение от смях, защото в злото на лицето става добро сърцето.",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "добро"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "огорчение"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "от смях"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "в злото"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "на лицето"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "става добро"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърцето"
+    }
+  ],
+  "timestamp": "2026-09-22T15:40:15.206901989Z",
+  "model": "glm-5.3"
+}

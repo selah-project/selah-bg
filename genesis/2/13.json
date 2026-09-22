@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И името на втората река ⟨е⟩ Гихон — тя ⟨е⟩ тази, която обикаля ⟨את⟩ цялата земя Куш.",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "и името"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "реката"
+    },
+    {
+      "surface": "השני",
+      "gloss": "втората"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "Гихон"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "обикалящата"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "цялата земя Куш"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялата"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "Куш"
+    }
+  ],
+  "timestamp": "2026-09-22T10:54:35.237567610Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 48:25",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "Отсечен е рогът на Моав, и рамото му се строши — изрече Яхве.",
+  "tokens": [
+    {
+      "surface": "נגדעה",
+      "gloss": "отсечен е"
+    },
+    {
+      "surface": "קרן",
+      "gloss": "рогът"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "на Моав"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "и рамото му"
+    },
+    {
+      "surface": "נשברה",
+      "gloss": "се строши"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изрече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T16:26:30.221623899Z",
+  "model": "glm-5.3"
+}

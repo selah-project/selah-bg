@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "И в дом на пирове не влизай, да седнеш ⟨את⟩ ги — да ядеш и да пиеш.",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "и в дом"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "на пирове"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "влизай"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "да седнеш"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ ги",
+      "marks": "да седнеш с тях"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "да ядеш"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "и да пиеш"
+    }
+  ],
+  "timestamp": "2026-09-22T13:53:02.446802337Z",
+  "model": "glm-5.3"
+}

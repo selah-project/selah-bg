@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 17:27",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "Сдържащ думите си познава знание, и хладен на духа ⟨е⟩ човек на разум.",
+  "tokens": [
+    {
+      "surface": "חושך",
+      "gloss": "сдържащ"
+    },
+    {
+      "surface": "אמריו",
+      "gloss": "думите си"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "познава"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "знание"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "и хладен"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "дух"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "разум"
+    }
+  ],
+  "timestamp": "2026-09-22T15:19:34.359052540Z",
+  "model": "glm-5.3"
+}

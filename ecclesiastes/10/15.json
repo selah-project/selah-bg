@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 10,
+  "translation": "Трудът на глупците го изморява, че не знае да отиде до град.",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "трудът"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "на глупците"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "го изморява"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "че"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "знае"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "да отиде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "до"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "град"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:47.275280392Z",
+  "model": "glm-5.3"
+}

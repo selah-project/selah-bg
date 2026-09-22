@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 7:6",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И когато ядете и когато пиете — не вие ли сте ядещите, и вие пиещите?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "И когато"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ядете"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "и когато"
+    },
+    {
+      "surface": "תשתו",
+      "gloss": "пиете"
+    },
+    {
+      "surface": "הלוא",
+      "gloss": "не"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "האכלים",
+      "gloss": "ядещите"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "и вие"
+    },
+    {
+      "surface": "השתים",
+      "gloss": "пиещите"
+    }
+  ],
+  "timestamp": "2026-09-22T14:46:30.261659524Z",
+  "model": "glm-5.3"
+}

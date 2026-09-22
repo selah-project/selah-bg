@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Защото разорение обмисля сърцето им, и злина говорят устните им.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "שד",
+      "gloss": "разорение"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "обмисля"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "сърцето им"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "и злина"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "устните им"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "говорят"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:57.717346854Z",
+  "model": "glm-5.3"
+}

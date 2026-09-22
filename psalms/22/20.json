@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 22:20",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "А Ти, Яхве, не се отдалечавай; сило моя, на помощ ми бързай.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А Ти"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אל",
+      "gloss": "не"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "се отдалечавай"
+    },
+    {
+      "surface": "אילותי",
+      "gloss": "сило моя"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "на помощ ми"
+    },
+    {
+      "surface": "חושה",
+      "gloss": "бързай"
+    }
+  ],
+  "timestamp": "2026-09-22T14:53:51.825806302Z",
+  "model": "glm-5.3"
+}

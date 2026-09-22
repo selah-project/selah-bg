@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 28:3",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 28,
+  "translation": "Ето, ти си мъдър повече от Даниел — всяка тайна не ⟨е⟩ скрита от теб:",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "Ето"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "мъдър"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "מדנאל",
+      "gloss": "повече от Даниел"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяка"
+    },
+    {
+      "surface": "סתום",
+      "gloss": "тайна"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "עממוך",
+      "gloss": "⟨е⟩ скрита от теб"
+    }
+  ],
+  "timestamp": "2026-09-22T14:23:50.917189250Z",
+  "model": "glm-5.3"
+}

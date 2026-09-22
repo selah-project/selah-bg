@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 5:6",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И казах: какво е тя? И рече: това е ефата, която излиза. И рече: това е окото им по цялата земя.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и казах"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "היא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това е"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ефата"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "която излиза"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това е"
+    },
+    {
+      "surface": "עינם",
+      "gloss": "окото им"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "по цялата"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земя"
+    }
+  ],
+  "timestamp": "2026-09-22T14:46:43.890472959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Сърцето на мъжа ѝ се доверява на нея, и плячка не ще липсва.",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "се доверява"
+    },
+    {
+      "surface": "בה",
+      "gloss": "на нея"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърцето"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "на мъжа ѝ"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "и плячка"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ще липсва"
+    }
+  ],
+  "timestamp": "2026-09-22T15:23:07.451205641Z",
+  "model": "glm-5.3"
+}

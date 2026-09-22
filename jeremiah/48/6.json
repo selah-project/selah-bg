@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 48:6",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "Бягайте, спасете душите си, и бъдете като ароер в пустинята.",
+  "tokens": [
+    {
+      "surface": "נסו",
+      "gloss": "Бягайте"
+    },
+    {
+      "surface": "מלטו",
+      "gloss": "спасете"
+    },
+    {
+      "surface": "נפשכם",
+      "gloss": "душите си"
+    },
+    {
+      "surface": "ותהיינה",
+      "gloss": "и бъдете"
+    },
+    {
+      "surface": "כערוער",
+      "gloss": "като ароер"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "в пустинята"
+    }
+  ],
+  "timestamp": "2026-09-22T14:07:15.121468415Z",
+  "model": "glm-5.3"
+}

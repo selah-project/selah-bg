@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "Всички завеси на двора наоколо ⟨бяха⟩ от преплетен лен.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "завеси"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "на двора"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "наоколо"
+    },
+    {
+      "surface": "שש",
+      "gloss": "лен"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "преплетен"
+    }
+  ],
+  "timestamp": "2026-09-22T11:29:14.553124925Z",
+  "model": "glm-5.3"
+}

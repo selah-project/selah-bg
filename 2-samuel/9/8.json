@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 9:8",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И се поклонѝ и рече: какъв е слугата ти, та обърна се ⟨към⟩ мъртво куче като мене?",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "се поклонѝ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какъв"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "слугата ти"
+    },
+    {
+      "surface": "כי",
+      "gloss": "та"
+    },
+    {
+      "surface": "פנית",
+      "gloss": "обърна се"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨към⟩"
+    },
+    {
+      "surface": "הכלב",
+      "gloss": "кучето"
+    },
+    {
+      "surface": "המת",
+      "gloss": "мъртво"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "כמוני",
+      "gloss": "като мене"
+    }
+  ],
+  "timestamp": "2026-09-22T12:50:52.523339302Z",
+  "model": "glm-5.3"
+}

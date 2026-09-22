@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "един космат от козите за жертва за грях;",
+  "tokens": [
+    {
+      "surface": "שְׂעִיר",
+      "gloss": "космат"
+    },
+    {
+      "surface": "עִזִּ֥ים",
+      "gloss": "от козите"
+    },
+    {
+      "surface": "אֶחָ֖ד",
+      "gloss": "един"
+    },
+    {
+      "surface": "לְחַטָּֽאת",
+      "gloss": "за жертва за грях"
+    }
+  ],
+  "timestamp": "2026-09-22T11:48:31.548590632Z",
+  "model": "glm-5.3"
+}

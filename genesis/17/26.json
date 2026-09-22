@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 17,
+  "translation": "В самия този ден беше обрязан Авраам и Ишмаел, синът му.",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "в самия"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ден"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "беше обрязан"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "Авраам"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "и Ишмаел"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "синът му"
+    }
+  ],
+  "timestamp": "2026-09-22T16:15:33.821922364Z",
+  "model": "glm-5.3"
+}

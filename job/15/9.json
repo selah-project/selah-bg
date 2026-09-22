@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 15:9",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Какво знаеш ти, което ние не знаем? Какво разбираш, което не ⟨е⟩ с нас?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "Какво"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаеш ти"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "знаем"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "разбираш"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "с нас"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨е⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T15:26:52.676457173Z",
+  "model": "glm-5.3"
+}

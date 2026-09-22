@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 36:2",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 36,
+  "translation": "Така каза Адонай Яхве: понеже врагът каза за вас: ха! — и височините отвеки станаха ни possession ⟨наследство⟩ —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "יען",
+      "gloss": "понеже"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "каза"
+    },
+    {
+      "surface": "האויב",
+      "gloss": "врагът"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "за вас"
+    },
+    {
+      "surface": "האח",
+      "gloss": "ха"
+    },
+    {
+      "surface": "ובמות",
+      "gloss": "и височините"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "отвеки"
+    },
+    {
+      "surface": "למורשה",
+      "gloss": "за наследство"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ни"
+    }
+  ],
+  "timestamp": "2026-09-22T14:28:00.811247447Z",
+  "model": "glm-5.3"
+}

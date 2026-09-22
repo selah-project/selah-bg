@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 26:1",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 26,
+  "translation": "Като сняг в лятото и като дъжд в жътвата, така не подобава на глупака слава.",
+  "tokens": [
+    {
+      "surface": "כשלג",
+      "gloss": "като сняг"
+    },
+    {
+      "surface": "בקיץ",
+      "gloss": "в лятото"
+    },
+    {
+      "surface": "וכמטר",
+      "gloss": "и като дъжд"
+    },
+    {
+      "surface": "בקציר",
+      "gloss": "в жътвата"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "подобава"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "на глупака"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "слава"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:46.700869705Z",
+  "model": "glm-5.3"
+}

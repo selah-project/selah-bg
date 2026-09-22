@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "Ще отнема, ще отнема ⟨е⟩ всичко от лицето на земята — oracleум на Яхве.",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "Ще отнема"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ще отнема"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "от"
+    },
+    {
+      "surface": "פני",
+      "gloss": "лицето"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "на земята"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "изречение"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T14:45:09.176107822Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Устни целува ⟨онзи, който⟩ отговаря думи прави.",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "устни"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "целува"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "⟨онзи, който⟩ отговаря"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "думи"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "прави"
+    }
+  ],
+  "timestamp": "2026-09-22T15:20:40.973259081Z",
+  "model": "glm-5.3"
+}

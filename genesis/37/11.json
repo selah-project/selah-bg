@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 37:11",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "И завидяха му братята му, а баща му пазеше ⟨את⟩ думата.",
+  "tokens": [
+    {
+      "surface": "ויקנאו",
+      "gloss": "И завидяха"
+    },
+    {
+      "surface": "בו",
+      "gloss": "му"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "братята му"
+    },
+    {
+      "surface": "ואביו",
+      "gloss": "а баща му"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "пазеше"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "думата"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "думата"
+    }
+  ],
+  "timestamp": "2026-09-22T11:06:47.909183054Z",
+  "model": "glm-5.3"
+}

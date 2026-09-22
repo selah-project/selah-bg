@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Или ако се върне живата плът и се обърне на бяло, ще дойде при свещеника.",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "или"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ако"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "се върне"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "плътта"
+    },
+    {
+      "surface": "החי",
+      "gloss": "живата"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "и се обърне"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "на бяло"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "и ще дойде"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "свещеника"
+    }
+  ],
+  "timestamp": "2026-09-22T11:36:15.738227601Z",
+  "model": "glm-5.3"
+}

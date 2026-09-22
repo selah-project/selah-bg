@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 19:14",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "И слезе Моше от планината при народа, и освети ⟨את⟩ народа, и измиха дрехите си.",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "и слезе"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "מן",
+      "gloss": "от"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "планината"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "העם",
+      "gloss": " народа"
+    },
+    {
+      "surface": "ויקדש",
+      "gloss": "и освети"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": " народа"
+    },
+    {
+      "surface": "העם",
+      "gloss": " народа"
+    },
+    {
+      "surface": "ויכבסו",
+      "gloss": "и измиха"
+    },
+    {
+      "surface": "שמלתם",
+      "gloss": "дрехите си"
+    }
+  ],
+  "timestamp": "2026-09-22T11:20:06.291007907Z",
+  "model": "glm-5.3"
+}

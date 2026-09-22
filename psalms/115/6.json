@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 115,
+  "translation": "Уши имат, но не чуват; нос имат, но не подушват:",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "уши"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "чуват"
+    },
+    {
+      "surface": "אף",
+      "gloss": "нос"
+    },
+    {
+      "surface": "להם",
+      "gloss": "имат"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "но не"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "подушват"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:41.796465786Z",
+  "model": "glm-5.3"
+}

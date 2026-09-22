@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "habakkuk 2:20",
+  "book": "habakkuk",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "А Яхве — в ⟨светия Си⟩ палат; тихо пред Него, цяла земя!",
+  "tokens": [
+    {
+      "surface": "ויהוה",
+      "gloss": "А Яхве"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "в палат"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "⟨светия Си⟩"
+    },
+    {
+      "surface": "הס",
+      "gloss": "тихо"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "пред Него"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цяла"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "земя"
+    }
+  ],
+  "timestamp": "2026-09-22T16:28:52.463607259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 24:25",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И тя му каза: и слама, и фураж има в изобилие при нас, и място ⟨за⟩⟨да⟩ нощуваме.",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "и каза тя"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "му"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "слама"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "фураж"
+    },
+    {
+      "surface": "רב",
+      "gloss": "има в изобилие"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "при нас"
+    },
+    {
+      "surface": "גם",
+      "gloss": "и"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "място"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "⟨за⟩⟨да⟩ нощуваме"
+    }
+  ],
+  "timestamp": "2026-09-22T16:15:28.560457804Z",
+  "model": "glm-5.3"
+}

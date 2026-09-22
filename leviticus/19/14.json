@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "Не проклинай глухия и пред слепия не слагай препъване; и бой се от Елохим си: аз съм Яхве.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "проклинай"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "глухия"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "и пред"
+    },
+    {
+      "surface": "עור",
+      "gloss": "слепия"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "слагай"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "препъване"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "и бой се"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "от Елохим си"
+    },
+    {
+      "surface": "אני",
+      "gloss": "аз"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:39:37.614622019Z",
+  "model": "glm-5.3"
+}

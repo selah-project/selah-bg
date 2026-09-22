@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "минаващ по улицата край ъгъла ѝ, и по пътя към дома ѝ крачеше —",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "минаващ"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "по улицата"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "край"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "ъгъла ѝ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "и по пътя"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "към дома ѝ"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "крачеше"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:59.994307164Z",
+  "model": "glm-5.3"
+}

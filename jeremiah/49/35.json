@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "jeremiah 49:35",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 49,
+  "translation": "Така рече Яхве Цеваот: Ето, Аз чупя ⟨את⟩ лъка на Елам, началото на силата им.",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "Така"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "Цеваот"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "Ето, Аз"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "чупя"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "лъка"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "лъка"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "на Елам"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "началото"
+    },
+    {
+      "surface": "גבורתם",
+      "gloss": "на силата им"
+    }
+  ],
+  "timestamp": "2026-09-22T14:08:45.631925254Z",
+  "model": "glm-5.3"
+}

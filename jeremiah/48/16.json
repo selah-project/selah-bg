@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 48:16",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 48,
+  "translation": "Близо е бедата на Моав да дойде, и злото му се ускорява много.",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "Близо е"
+    },
+    {
+      "surface": "איד",
+      "gloss": "бедата"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "на Моав"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "да дойде"
+    },
+    {
+      "surface": "ורעתו",
+      "gloss": "и злото му"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "се ускорява"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "много"
+    }
+  ],
+  "timestamp": "2026-09-22T14:07:07.119244456Z",
+  "model": "glm-5.3"
+}

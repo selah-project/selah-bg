@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 29,
+  "translation": "а Яхве не ви даде сърце да знае, и очи да види, и уши да чуе, до този ден.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "а не"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "даде"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ви"
+    },
+    {
+      "surface": "לב",
+      "gloss": "сърце"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "да знае"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "и очи"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "да види"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "и уши"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "да чуе"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "היום",
+      "gloss": "този ден"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "този"
+    }
+  ],
+  "timestamp": "2026-09-22T12:13:43.374174640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "синовете на Бацлит, синовете на Мехида, синовете на Харша,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "Бацлит"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "Мехида"
+    },
+    {
+      "surface": "בני",
+      "gloss": "синовете"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "Харша"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:53.707830129Z",
+  "model": "glm-5.3"
+}

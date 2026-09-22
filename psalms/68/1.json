@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 68:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 68,
+  "translation": "За водача ⟨на музиката⟩. На Давид. Мизмор, песен.",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "за водача"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "мизмор"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "песен"
+    }
+  ],
+  "timestamp": "2026-09-22T15:02:40.401780484Z",
+  "model": "glm-5.3"
+}

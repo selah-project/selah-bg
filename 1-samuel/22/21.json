@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-samuel 22:21",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И съобщи Евятар на Давид, че Саул уби ⟨את⟩ свещениците на Яхве.",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "и съобщи"
+    },
+    {
+      "surface": "אביתר",
+      "gloss": "Евятар"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "כי",
+      "gloss": "че"
+    },
+    {
+      "surface": "הרג",
+      "gloss": "уби"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "Саул"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "свещениците"
+    },
+    {
+      "surface": "כהני",
+      "gloss": "свещениците"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T12:43:55.195061928Z",
+  "model": "glm-5.3"
+}

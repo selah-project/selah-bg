@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 33:17",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "Обаче още народът колеше по височините — само на Яхве, своя Елохим.",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "Обаче"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "още"
+    },
+    {
+      "surface": "העם",
+      "gloss": "народът"
+    },
+    {
+      "surface": "зבחים",
+      "gloss": "колеше"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "по височините"
+    },
+    {
+      "surface": "רק",
+      "gloss": "само"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "своя Елохим"
+    }
+  ],
+  "timestamp": "2026-09-22T16:12:51.624849181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 24:3",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "И взе Йехояда за него две жени, и роди той синове и дъщери.",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "И взе"
+    },
+    {
+      "surface": "לו",
+      "gloss": "за него"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "Йехояда"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "жени"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "две"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "и роди"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "синове"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "и дъщери"
+    }
+  ],
+  "timestamp": "2026-09-22T16:10:02.254297309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 27:1",
+  "book": "ezekiel",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "И беше слово от Яхве към мен, което казва:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И беше"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "слово"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "към мен"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "което казва"
+    }
+  ],
+  "timestamp": "2026-09-22T16:27:15.864846094Z",
+  "model": "glm-5.3"
+}

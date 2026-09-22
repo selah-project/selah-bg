@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 2:1",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синко, ако приемеш думите ми и заповядванията ми скриеш при ⟨את⟩ тебе,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синко"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "приемеш"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "думите ми"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "и заповядванията ми"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "скриеш"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ тебе"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:27.001945307Z",
+  "model": "glm-5.3"
+}

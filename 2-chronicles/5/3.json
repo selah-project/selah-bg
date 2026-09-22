@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И се събраха при царя всички мъже от Израил в празника — той ⟨е⟩ седмият месец.",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "И се събраха"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царя"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъже"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "от Израил"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "в празника"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "месецът"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "седмият"
+    }
+  ],
+  "timestamp": "2026-09-22T16:06:06.248380493Z",
+  "model": "glm-5.3"
+}

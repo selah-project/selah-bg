@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Три пъти в годината ще Ми празнуваш.",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "пъти"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "ще празнуваш"
+    },
+    {
+      "surface": "לי",
+      "gloss": "на Мен"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "в годината"
+    }
+  ],
+  "timestamp": "2026-09-22T11:22:36.759446971Z",
+  "model": "glm-5.3"
+}

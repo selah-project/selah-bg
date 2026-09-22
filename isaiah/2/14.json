@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "и върху всички високи планини, и върху всички издигнати хълмове",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "и върху"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "планини"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "високи"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и върху"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "хълмове"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "издигнати"
+    }
+  ],
+  "timestamp": "2026-09-22T13:24:23.797921192Z",
+  "model": "glm-5.3"
+}

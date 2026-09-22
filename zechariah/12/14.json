@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Всички родове, които остават, род по род отделно, и жените им отделно.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "Всички"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "родове"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "които остават"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "род"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "по род"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "отделно"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "и жените им"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "отделно"
+    }
+  ],
+  "timestamp": "2026-09-22T14:47:25.133063266Z",
+  "model": "glm-5.3"
+}

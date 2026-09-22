@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И ⟨את⟩ заека — защото тя изважда преживяно, но копито не е разделила — нечиста е тя за вас.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "заека"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "заека"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "изважда"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "преживяно"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "и копито"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "е разделила"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "нечиста"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "тя"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "за вас"
+    }
+  ],
+  "timestamp": "2026-09-22T11:34:53.285840935Z",
+  "model": "glm-5.3"
+}

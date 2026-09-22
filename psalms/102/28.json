@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 102:28",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 102,
+  "translation": "А Ти ⟨си⟩ Същият, и годините Ти няма да се свършат.",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "А Ти"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "Същият"
+    },
+    {
+      "surface": "ושנותיך",
+      "gloss": "и годините Ти"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יתמו",
+      "gloss": "ще се свършат"
+    }
+  ],
+  "timestamp": "2026-09-22T15:08:52.908780186Z",
+  "model": "glm-5.3"
+}

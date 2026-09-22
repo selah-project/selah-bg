@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Дори когато викам и зовя, запуши молитвата ми.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "Дори"
+    },
+    {
+      "surface": "כי",
+      "gloss": "когато"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "викам"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "и зовя"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "запуши"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "молитвата ми"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:45.974694678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 73:4",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 73,
+  "translation": "Защото няма окови при смъртта им, и тялото ⟨им⟩ ⟨е⟩ здраво.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "חרצבות",
+      "gloss": "окови"
+    },
+    {
+      "surface": "למותם",
+      "gloss": "при смъртта им"
+    },
+    {
+      "surface": "ובריא",
+      "gloss": "и здраво"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "тялото"
+    }
+  ],
+  "timestamp": "2026-09-22T15:03:50.001666467Z",
+  "model": "glm-5.3"
+}

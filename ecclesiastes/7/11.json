@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "Добра е мъдростта заедно с наследство, и полза за ония, които виждат слънцето.",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "Добра"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "мъдростта"
+    },
+    {
+      "surface": "עם",
+      "gloss": "заедно с"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "наследство"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "и полза"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "за ония, които виждат"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "слънцето"
+    }
+  ],
+  "timestamp": "2026-09-22T15:39:54.481127022Z",
+  "model": "glm-5.3"
+}

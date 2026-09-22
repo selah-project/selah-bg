@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 12:1",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "И отговори Ийов ⟨Йов⟩ и рече:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "И отговори"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "Ийов ⟨Йов⟩"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    }
+  ],
+  "timestamp": "2026-09-22T15:26:24.016678798Z",
+  "model": "glm-5.3"
+}

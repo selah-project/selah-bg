@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 77:12",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 77,
+  "translation": "Ще спомена делата на Ях, защото ще помня издреве чудесата Ти.",
+  "tokens": [
+    {
+      "surface": "אזכיר",
+      "gloss": "ще спомена"
+    },
+    {
+      "surface": "מעללי",
+      "gloss": "делата"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "אזכרה",
+      "gloss": "ще помня"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "издреве"
+    },
+    {
+      "surface": "פלאך",
+      "gloss": "чудесата Ти"
+    }
+  ],
+  "timestamp": "2026-09-22T15:04:16.121692920Z",
+  "model": "glm-5.3"
+}

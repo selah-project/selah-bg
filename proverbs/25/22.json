@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 25,
+  "translation": "Защото жарава ти събираш върху главата му, и Яхве ще ти възплати.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "жарава"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "събираш"
+    },
+    {
+      "surface": "על",
+      "gloss": "върху"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "главата му"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "и Яхве"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ще възплати"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    }
+  ],
+  "timestamp": "2026-09-22T16:31:50.959537991Z",
+  "model": "glm-5.3"
+}

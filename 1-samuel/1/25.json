@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 1:25",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И заклаха ⟨את⟩ юнеца, и доведоха ⟨את⟩ момчето при Ели.",
+  "tokens": [
+    {
+      "surface": "וישחטו",
+      "gloss": "и заклаха"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "юнеца"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "юнеца"
+    },
+    {
+      "surface": "ויביאו",
+      "gloss": "и доведоха"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "момчето"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "момчето"
+    },
+    {
+      "surface": "אל",
+      "gloss": "при"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ели"
+    }
+  ],
+  "timestamp": "2026-09-22T16:21:41.166028987Z",
+  "model": "glm-5.3"
+}

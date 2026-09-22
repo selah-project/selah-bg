@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И рекох: Ах, Адонай Яхве! Ето, не умея да говоря, защото съм младеж.",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "и рекох"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ах"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "Адонай"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "умея"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "да говоря"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "נער",
+      "gloss": "младеж"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "съм"
+    }
+  ],
+  "timestamp": "2026-09-22T13:46:52.327217261Z",
+  "model": "glm-5.3"
+}

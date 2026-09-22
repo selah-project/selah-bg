@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "докато Яхве не надникне и не види от небесата.",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "докато"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "надникне"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "и види"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "мשמים",
+      "gloss": "от небесата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:38.955140717Z",
+  "model": "glm-5.3"
+}

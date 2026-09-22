@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 89,
+  "ref": "psalms 119:89",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 119,
+  "translation": "До века, Яхве, Твоята дума е поставена на небесата.",
+  "tokens": [
+    {
+      "surface": "לעולם",
+      "gloss": "до века"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "דברך",
+      "gloss": "Твоята дума"
+    },
+    {
+      "surface": "נצב",
+      "gloss": "⟨е⟩ поставена"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "на небесата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:12:10.127571785Z",
+  "model": "glm-5.3"
+}

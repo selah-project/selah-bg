@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 42:5",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 42,
+  "translation": "С слушане на ухото те чух, а сега окото ми те видя.",
+  "tokens": [
+    {
+      "surface": "לשמע",
+      "gloss": "с слушане"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "на ухото"
+    },
+    {
+      "surface": "שמעתיך",
+      "gloss": "те чух"
+    },
+    {
+      "surface": "ועתה",
+      "gloss": "а сега"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "окото ми"
+    },
+    {
+      "surface": "ראתך",
+      "gloss": "те видя"
+    }
+  ],
+  "timestamp": "2026-09-22T16:32:17.052457003Z",
+  "model": "glm-5.3"
+}

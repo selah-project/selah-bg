@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 107,
+  "translation": "И намаляха, и се смириха от гнет — зло и скръб.",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "и намаляха"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "и се смириха"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "от гнет"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "зло"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "и скръб"
+    }
+  ],
+  "timestamp": "2026-09-22T15:10:05.839149325Z",
+  "model": "glm-5.3"
+}

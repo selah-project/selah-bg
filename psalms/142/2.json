@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 142,
+  "translation": "Гласът ми към Яхве викам, гласът ми към Яхве се умилостивявам.",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "гласът ми"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "викам"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "гласът ми"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "се умилостивявам"
+    }
+  ],
+  "timestamp": "2026-09-22T15:14:14.325636925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 11:5",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "Но о, дано проговори Елоах и отвори устните си към теб,",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "Но"
+    },
+    {
+      "surface": "מי",
+      "gloss": "кой"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "дано"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "Елоах"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "проговори"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "и отвори"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "устните си"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "към теб"
+    }
+  ],
+  "timestamp": "2026-09-22T15:26:23.804982323Z",
+  "model": "glm-5.3"
+}

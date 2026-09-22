@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 3:16",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И преброи Моше ⟨את⟩ тях по словото на Яхве, както беше заповядано.",
+  "tokens": [
+    {
+      "surface": "ויפקד",
+      "gloss": "и преброи"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ тях",
+      "marks": "тях"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "על",
+      "gloss": "по"
+    },
+    {
+      "surface": "פי",
+      "gloss": "словото"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "на Яхве"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "беше заповядано"
+    }
+  ],
+  "timestamp": "2026-09-22T11:45:48.943143729Z",
+  "model": "glm-5.3"
+}

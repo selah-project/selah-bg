@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 12:25",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Синовете на Юда, носещи щит и копие — шест хиляди и осемстотин, въоръжени за война.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "на Юда"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "носещи"
+    },
+    {
+      "surface": "цנה",
+      "gloss": "щит"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "и копие"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "шест"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "хиляди"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "и осем"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "стотин"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "въоръжени"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "за война"
+    }
+  ],
+  "timestamp": "2026-09-22T16:00:46.719609875Z",
+  "model": "glm-5.3"
+}

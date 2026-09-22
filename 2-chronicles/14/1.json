@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И стори Аса ⟨това, което е⟩ добро и право в очите на Яхве, Елохима ⟨на него⟩.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и стори"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "Аса"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "доброто"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "и правото"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "в очите"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "Елохима неговия"
+    }
+  ],
+  "timestamp": "2026-09-22T16:08:05.415345473Z",
+  "model": "glm-5.3"
+}

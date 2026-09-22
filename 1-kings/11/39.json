@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И ще смиря ⟨את⟩ потомството на Давид заради това, но не завинаги.",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "и ще смиря"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "потомството"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "потомство"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "למען",
+      "gloss": "заради"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "това"
+    },
+    {
+      "surface": "אך",
+      "gloss": "но"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "כל",
+      "gloss": "винаги"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "дните"
+    }
+  ],
+  "timestamp": "2026-09-22T13:06:46.988095435Z",
+  "model": "glm-5.3"
+}

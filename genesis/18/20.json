@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 18:20",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И рече Яхве: викът на Содом и Гомор е голям, и грехът им — наистина много тежък е.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "викът"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "Содом"
+    },
+    {
+      "surface": "ועמרה",
+      "gloss": "и Гомор"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "голям е"
+    },
+    {
+      "surface": "וחטאתם",
+      "gloss": "и грехът им"
+    },
+    {
+      "surface": "כי",
+      "gloss": "наистина"
+    },
+    {
+      "surface": "כבדה",
+      "gloss": "тежък е"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "много"
+    }
+  ],
+  "timestamp": "2026-09-22T10:59:23.879512477Z",
+  "model": "glm-5.3"
+}

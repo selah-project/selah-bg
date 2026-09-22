@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 24,
+  "translation": "Остана в града запустение и разорение; смачкан е портата.",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "остана"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "в града"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "запустение"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "и разорение"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "смачкан е"
+    },
+    {
+      "surface": "שער",
+      "gloss": "портата"
+    }
+  ],
+  "timestamp": "2026-09-22T13:31:46.586452813Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Не.cut завет с тях и с боговете им.",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "cut завет"
+    },
+    {
+      "surface": "להם",
+      "gloss": "с тях"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "и с боговете им"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "завет"
+    }
+  ],
+  "timestamp": "2026-09-22T11:23:00.321674834Z",
+  "model": "glm-5.3"
+}

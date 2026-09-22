@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 15:6",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "И повярва в Яхве, и Той му го вмени за праведност.",
+  "tokens": [
+    {
+      "surface": "והאמן",
+      "gloss": "и повярва"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "в Яхве"
+    },
+    {
+      "surface": "ויחשבה",
+      "gloss": "и му го вмени"
+    },
+    {
+      "surface": "לו",
+      "gloss": "му"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "праведност"
+    }
+  ],
+  "timestamp": "2026-09-22T10:57:58.620389475Z",
+  "model": "glm-5.3"
+}

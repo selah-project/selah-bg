@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "В годината осемнадесета на цар Яровам стана цар Авија над Јудеја.",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "в годината"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "осем"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "надесет"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "на цар"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "Яровам"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "и стана цар"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "Авија"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "Јудеја"
+    }
+  ],
+  "timestamp": "2026-09-22T16:08:28.257397402Z",
+  "model": "glm-5.3"
+}

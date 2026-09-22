@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 118:19",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 118,
+  "translation": "Отворете ми портите на правдата — ще вляза в тях, ще благодаря Ях.",
+  "tokens": [
+    {
+      "surface": "פתחו",
+      "gloss": "отворете"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "портите"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "на правдата"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ще вляза"
+    },
+    {
+      "surface": "בם",
+      "gloss": "в тях"
+    },
+    {
+      "surface": "אודה",
+      "gloss": "ще благодаря"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    }
+  ],
+  "timestamp": "2026-09-22T15:11:16.091909264Z",
+  "model": "glm-5.3"
+}

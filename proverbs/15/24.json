@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 15:24",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 15,
+  "translation": "Пътят на живота е нагоре за разумния — за да се отклони от Шеол отдолу.",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "пътят"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "на живота"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "нагоре"
+    },
+    {
+      "surface": "למשכיל",
+      "gloss": "за разумния"
+    },
+    {
+      "surface": "למען",
+      "gloss": "за да"
+    },
+    {
+      "surface": "סור",
+      "gloss": "се отклони"
+    },
+    {
+      "surface": "משאול",
+      "gloss": "от Шеол"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "отдолу"
+    }
+  ],
+  "timestamp": "2026-09-22T15:18:45.311704923Z",
+  "model": "glm-5.3"
+}

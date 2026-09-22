@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 22:23",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И Ветуил роди ⟨את⟩ Ривка — осем ⟨са⟩ тези, които роди Милка на Нахор, брата на Авраам.",
+  "tokens": [
+    {
+      "surface": "ובתואל",
+      "gloss": "И Ветуил"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ривка"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "Ривка"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "осем"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "Милка"
+    },
+    {
+      "surface": "לנחור",
+      "gloss": "на Нахор"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "брата"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "на Авраам"
+    }
+  ],
+  "timestamp": "2026-09-22T11:00:30.884641769Z",
+  "model": "glm-5.3"
+}

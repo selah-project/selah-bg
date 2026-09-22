@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 18:9",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 18,
+  "translation": "И в един миг ще говоря за народ и за царство, да го съградя и да го насадя.",
+  "tokens": [
+    {
+      "surface": "ורגע",
+      "gloss": "и в един миг"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ще говоря"
+    },
+    {
+      "surface": "על",
+      "gloss": "за"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "и за"
+    },
+    {
+      "surface": "ממלכה",
+      "gloss": "царство"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "да го съградя"
+    },
+    {
+      "surface": "ולנטע",
+      "gloss": "и да го насадя"
+    }
+  ],
+  "timestamp": "2026-09-22T13:55:08.887046637Z",
+  "model": "glm-5.3"
+}

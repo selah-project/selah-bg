@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Ще им дадеш покривало на сърцето, проклятието си ⟨върху⟩ тях.",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "Ще дадеш"
+    },
+    {
+      "surface": "להם",
+      "gloss": "им"
+    },
+    {
+      "surface": "מגנת",
+      "gloss": "покривало"
+    },
+    {
+      "surface": "לב",
+      "gloss": "на сърцето"
+    },
+    {
+      "surface": "תאלתך",
+      "gloss": "проклятието си"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨върху⟩ тях"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:34.875058888Z",
+  "model": "glm-5.3"
+}

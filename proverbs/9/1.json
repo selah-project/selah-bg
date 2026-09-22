@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Мъдростта построи дома си, изсяко̀ стълбовете си — седем.",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "Мъдростта"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "построи"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "дома си"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "изсяко̀"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "стълбовете си"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "седем"
+    }
+  ],
+  "timestamp": "2026-09-22T15:17:31.599262342Z",
+  "model": "glm-5.3"
+}

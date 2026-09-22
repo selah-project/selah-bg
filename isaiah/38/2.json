@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 38:2",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 38,
+  "translation": "И обърна Хизкияу лицето си към стената и се помоли към Яхве.",
+  "tokens": [
+    {
+      "surface": "ויסב",
+      "gloss": "и обърна"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "Хизкияу"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "лицето си"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "הקיר",
+      "gloss": "стената"
+    },
+    {
+      "surface": "ויתפלל",
+      "gloss": "и се помоли"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T13:36:12.148780060Z",
+  "model": "glm-5.3"
+}

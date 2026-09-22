@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Блажен онзи, който чака и достига до хиляда триста трийсет и пет дни.",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "Блажен"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "който чака"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "и достига"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "до дни"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляда"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "три"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ста"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "трийсет"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "и пет"
+    }
+  ],
+  "timestamp": "2026-09-22T15:48:11.886081861Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "daniel 5:22",
+  "book": "daniel",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И ти, синът му, Валтасар, не смири сърцето си, макар че всичко това знаеше.",
+  "tokens": [
+    {
+      "surface": "ואנתה",
+      "gloss": "И ти"
+    },
+    {
+      "surface": "ברה",
+      "gloss": "синът му"
+    },
+    {
+      "surface": "בלשאצר",
+      "gloss": "Валтасар"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "השפלת",
+      "gloss": "смири"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "сърцето си"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "макар че"
+    },
+    {
+      "surface": "די",
+      "gloss": "че"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всичко"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "това"
+    },
+    {
+      "surface": "ידעת",
+      "gloss": "знаеше"
+    }
+  ],
+  "timestamp": "2026-09-22T15:44:29.697020328Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 35:3",
+  "book": "job",
+  "lang": "bg",
+  "chapter": 35,
+  "translation": "Защо казваш: „каква полза за теб? какво спечеля от греха си?“",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защо"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "казваш"
+    },
+    {
+      "surface": "מה",
+      "gloss": "каква"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "полза"
+    },
+    {
+      "surface": "לך",
+      "gloss": "за теб"
+    },
+    {
+      "surface": "מה",
+      "gloss": "какво"
+    },
+    {
+      "surface": "אעיל",
+      "gloss": "спечеля"
+    },
+    {
+      "surface": "מחטאתי",
+      "gloss": "от греха си"
+    }
+  ],
+  "timestamp": "2026-09-22T15:31:48.787271845Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 7:27",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "А ако откажеш ти да пусниш, ето, Аз ще поразя ⟨את⟩ целия ти край с жаби.",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "а ако"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "откажеш"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "да пусниш"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "Аз"
+    },
+    {
+      "surface": "נגף",
+      "gloss": "ще поразя"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "целия ти край"
+    },
+    {
+      "surface": "כל",
+      "gloss": "целия"
+    },
+    {
+      "surface": "גבולך",
+      "gloss": "ти край"
+    },
+    {
+      "surface": "בצפרדעים",
+      "gloss": "с жаби"
+    }
+  ],
+  "timestamp": "2026-09-22T11:16:12.779080605Z",
+  "model": "glm-5.3"
+}

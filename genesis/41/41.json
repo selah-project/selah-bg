@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 41:41",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 41,
+  "translation": "И рече фараонът на Йосеф: Виж, дадох ⟨את⟩ теб над цялата земя Мицраим.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И рече"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "фараонът"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "Йосеф"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "виж"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "дадох"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ теб",
+      "marks": "ти"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "כל",
+      "gloss": "цялата"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "земя"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "Мицраим"
+    }
+  ],
+  "timestamp": "2026-09-22T11:10:26.805528727Z",
+  "model": "glm-5.3"
+}

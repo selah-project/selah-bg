@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 6:53",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "и ⟨את⟩ Йокмеам с ⟨את⟩ пасищата ѝ, и ⟨את⟩ Бет-Хорон с ⟨את⟩ пасищата ѝ;",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Йокмеам"
+    },
+    {
+      "surface": "יקמעם",
+      "gloss": "Йокмеам"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "пасищата ѝ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "пасищата ѝ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Бет-Хорон"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Бет"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "-Хорон"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "пасищата ѝ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "пасищата ѝ"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:45.788205543Z",
+  "model": "glm-5.3"
+}

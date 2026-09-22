@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Красивата и нежната — уподобих, дъщерята на Цион.",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "Красивата"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "и нежната"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "уподобих"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъщерята"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "Цион"
+    }
+  ],
+  "timestamp": "2026-09-22T13:49:47.609986599Z",
+  "model": "glm-5.3"
+}

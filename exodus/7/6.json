@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 7,
+  "translation": "И направиха Моше и Аарон както заповяда Яхве ⟨את⟩ ги, така направиха.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "и направиха"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "и Аарон"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "заповяда"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ги",
+      "marks": "Моше и Аарон"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "направиха"
+    }
+  ],
+  "timestamp": "2026-09-22T16:16:39.479757468Z",
+  "model": "glm-5.3"
+}

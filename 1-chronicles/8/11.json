@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "И от Хушим роди ⟨את⟩ Авитув и ⟨את⟩ Елпаал.",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "И от Хушим"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "рода"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авитув"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "Авитув"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Елпаал"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "Елпаал"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:28.360386661Z",
+  "model": "glm-5.3"
+}

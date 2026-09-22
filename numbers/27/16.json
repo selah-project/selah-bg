@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 27:16",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Да посети Яхве, Елохим на духовете на всяка плът, човек над общността —",
+  "tokens": [
+    {
+      "surface": "יפקד",
+      "gloss": "Да посети"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "Елохим на"
+    },
+    {
+      "surface": "הרוחת",
+      "gloss": "духовете"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "на всяка"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "плът"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "על",
+      "gloss": "над"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "общността"
+    }
+  ],
+  "timestamp": "2026-09-22T11:57:21.737128791Z",
+  "model": "glm-5.3"
+}

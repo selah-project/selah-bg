@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Всяка чиста птица ще ядете.",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "всяка"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "птица"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "чиста"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ще ядете"
+    }
+  ],
+  "timestamp": "2026-09-22T12:06:45.692210178Z",
+  "model": "glm-5.3"
+}

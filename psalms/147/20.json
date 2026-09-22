@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 147:20",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 147,
+  "translation": "Не е правил така за никой ⟨друг⟩ народ, и съдите ⟨его⟩ не са ги познали. Хвалете Ях!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "Не"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "е правил"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "за никой"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "народ"
+    },
+    {
+      "surface": "ומשפטים",
+      "gloss": "и съдите"
+    },
+    {
+      "surface": "בל",
+      "gloss": "не"
+    },
+    {
+      "surface": "ידעום",
+      "gloss": "са ги познали"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "Хвалете"
+    },
+    {
+      "surface": "יה",
+      "gloss": "Ях"
+    }
+  ],
+  "timestamp": "2026-09-22T15:15:12.087167278Z",
+  "model": "glm-5.3"
+}

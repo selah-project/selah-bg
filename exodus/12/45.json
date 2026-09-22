@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 12,
+  "translation": "Пребиваващ и нает не яде от него.",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "пребиваващ"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "и нает"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "яде"
+    },
+    {
+      "surface": "בו",
+      "gloss": "от него"
+    }
+  ],
+  "timestamp": "2026-09-22T11:18:28.959720574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 9:21",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "Зехария, син на Мешелемия, пазач на входа на шатъра на срещата.",
+  "tokens": [
+    {
+      "surface": "זכריה",
+      "gloss": "Зехария"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "משלמיה",
+      "gloss": "на Мешелемия"
+    },
+    {
+      "surface": "שער",
+      "gloss": "пазач"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "на входа"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "на шатъра"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "на срещата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:59:33.663635906Z",
+  "model": "glm-5.3"
+}

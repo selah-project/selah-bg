@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 3:11",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "И не можа вече да отговори ⟨את⟩ Авнер дума, от страха си от ⟨את⟩ него.",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "и не"
+    },
+    {
+      "surface": "יכל",
+      "gloss": "можа"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "вече"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "да отговори"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авнер"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "Авнер"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "дума"
+    },
+    {
+      "surface": "מיראתו",
+      "gloss": "от страха си"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него"
+    }
+  ],
+  "timestamp": "2026-09-22T16:22:18.584949677Z",
+  "model": "glm-5.3"
+}

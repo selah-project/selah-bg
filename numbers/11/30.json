@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "bg",
+  "chapter": 11,
+  "translation": "И се прибра Моше към стана — той и старейшините на Израил.",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "И се прибра"
+    },
+    {
+      "surface": "משה",
+      "gloss": "Моше"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "стана"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "и старейшините"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "на Израил"
+    }
+  ],
+  "timestamp": "2026-09-22T11:51:11.237652072Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 8:10",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 8,
+  "translation": "и ⟨את⟩ Йеуц, и ⟨את⟩ Шехия, и ⟨את⟩ Мирма — тези ⟨са⟩ синовете му, глави на бащи.",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Йеуц"
+    },
+    {
+      "surface": "יעוץ",
+      "gloss": "Йеуц"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Шехия"
+    },
+    {
+      "surface": "שכיה",
+      "gloss": "Шехия"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "Мирма"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "Мирма"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тези"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синовете му"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "глави"
+    },
+    {
+      "surface": "אבות",
+      "gloss": "на бащи"
+    }
+  ],
+  "timestamp": "2026-09-22T15:58:28.360243614Z",
+  "model": "glm-5.3"
+}

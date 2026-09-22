@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Защото дори кошута в полето роди и ⟨го⟩ остави, защото нямаше трева.",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "גם",
+      "gloss": "дори"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "кошута"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "в полето"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "роди"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "и ⟨го⟩ остави"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "לא",
+      "gloss": "не"
+    },
+    {
+      "surface": "היה",
+      "gloss": "имаше"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "трева"
+    }
+  ],
+  "timestamp": "2026-09-22T16:25:16.715150566Z",
+  "model": "glm-5.3"
+}

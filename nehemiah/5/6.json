@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 5:6",
+  "book": "nehemiah",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И разгневих се много, когато чух ⟨את⟩ вика им и ⟨את⟩ тези думи.",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "И разгневих се"
+    },
+    {
+      "surface": "לי",
+      "gloss": "се"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "много"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "когато"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "чух"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "вика им"
+    },
+    {
+      "surface": "זעקתם",
+      "gloss": "вика им"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "и ⟨את⟩",
+      "marks": "тези думи"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "думите"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "тези"
+    }
+  ],
+  "timestamp": "2026-09-22T15:53:35.610686308Z",
+  "model": "glm-5.3"
+}

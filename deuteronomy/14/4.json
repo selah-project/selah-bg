@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "Това е добитъкът, който ще ядете: вол, агне от овцете и агне от козите.",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "Това"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "е добитъкът"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "който"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ще ядете"
+    },
+    {
+      "surface": "שור",
+      "gloss": "вол"
+    },
+    {
+      "surface": "שה",
+      "gloss": "агне"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "от овцете"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "и агне"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "от козите"
+    }
+  ],
+  "timestamp": "2026-09-22T12:06:36.737061837Z",
+  "model": "glm-5.3"
+}

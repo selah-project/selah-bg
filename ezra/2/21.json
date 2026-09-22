@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezra 2:21",
+  "book": "ezra",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "Синовете на Вейт Лехем — сто двадесет и три.",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "Синовете"
+    },
+    {
+      "surface": "בית",
+      "gloss": "Вейт"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "Лехем"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "сто"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "двадесет"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "и три"
+    }
+  ],
+  "timestamp": "2026-09-22T15:47:58.367219690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 5:39",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 5,
+  "translation": "И Шалум роди ⟨את⟩ Хилкия, и Хилкия роди ⟨את⟩ Ацария.",
+  "tokens": [
+    {
+      "surface": "ושלום",
+      "gloss": "и Шалум"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Хилкия"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "Хилкия"
+    },
+    {
+      "surface": "וחלקיה",
+      "gloss": "и Хилкия"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "роди"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Ацария"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "Ацария"
+    }
+  ],
+  "timestamp": "2026-09-22T15:57:18.830387714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 27:7",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 27,
+  "translation": "Сита душа тъпче мед от пита, а на гладна душа всяко горчиво е сладко.",
+  "tokens": [
+    {
+      "surface": "נפש",
+      "gloss": "душе"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "сита"
+    },
+    {
+      "surface": "תבוס",
+      "gloss": "тъпче"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "мед от пита"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "а душа"
+    },
+    {
+      "surface": "רעבה",
+      "gloss": "гладна"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всяко"
+    },
+    {
+      "surface": "מר",
+      "gloss": "горчиво"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "е сладко"
+    }
+  ],
+  "timestamp": "2026-09-22T15:21:54.648679082Z",
+  "model": "glm-5.3"
+}

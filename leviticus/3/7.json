@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Ако агне той принася ⟨את⟩ приноса си, ще принесе ⟨את⟩ него пред Яхве.",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ако"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "агне"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "той"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "принася"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "приноса си"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "приноса си"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "ще принесе"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "пред"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    }
+  ],
+  "timestamp": "2026-09-22T11:31:16.853513096Z",
+  "model": "glm-5.3"
+}

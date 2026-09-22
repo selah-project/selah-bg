@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "Шест ⟨неща⟩ мрази Яхве, и седем ⟨са⟩ мерзост за душата Му:",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "шест"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨неща⟩"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "мрази"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "и седем"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "мерзост"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "за душата Му"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:52.326443775Z",
+  "model": "glm-5.3"
+}

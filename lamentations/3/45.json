@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Отрепка и измет ни постави всред народите.",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "отрепка"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "и измет"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "ни постави"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "всред"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "народите"
+    }
+  ],
+  "timestamp": "2026-09-22T16:45:07.176596229Z",
+  "model": "glm-5.3"
+}

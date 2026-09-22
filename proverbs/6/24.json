@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 6:24",
+  "book": "proverbs",
+  "lang": "bg",
+  "chapter": 6,
+  "translation": "за да те пази от жена злодейка, от гладкостта на чужд език.",
+  "tokens": [
+    {
+      "surface": "לשמרך",
+      "gloss": "за да те пази"
+    },
+    {
+      "surface": "мאשת",
+      "gloss": "от жена"
+    },
+    {
+      "surface": "רע",
+      "gloss": "злодейка"
+    },
+    {
+      "surface": "мחלקת",
+      "gloss": "от гладкостта"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "на език"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "чужд"
+    }
+  ],
+  "timestamp": "2026-09-22T15:16:40.377393760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 31,
+  "translation": "Возненавидях пазещите суетни измами, а аз — на Яхве уповах.",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "Возненавидях"
+    },
+    {
+      "surface": "השמרים",
+      "gloss": "пазещите"
+    },
+    {
+      "surface": "הבלי",
+      "gloss": "суетни"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "измами"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "а аз"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "уповах"
+    }
+  ],
+  "timestamp": "2026-09-22T14:55:35.250960803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 50:12",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 50,
+  "translation": "И направиха синовете му ⟨му⟩ така, както им заповяда.",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "и направиха"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "синовете му"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨му⟩"
+    },
+    {
+      "surface": "כן",
+      "gloss": "така"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "както"
+    },
+    {
+      "surface": "צום",
+      "gloss": "им заповяда"
+    }
+  ],
+  "timestamp": "2026-09-22T11:13:36.238927574Z",
+  "model": "glm-5.3"
+}

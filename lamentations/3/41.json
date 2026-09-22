@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Дигаме сърцето си към дланите, към Ел в небесата.",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "Дигаме"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "сърцето си"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "дланите"
+    },
+    {
+      "surface": "אל",
+      "gloss": "към"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "в небесата"
+    }
+  ],
+  "timestamp": "2026-09-22T15:36:45.809349277Z",
+  "model": "glm-5.3"
+}

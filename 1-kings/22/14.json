@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 22:14",
+  "book": "1-kings",
+  "lang": "bg",
+  "chapter": 22,
+  "translation": "И рече Михайху: жив е Яхве — ⟨את⟩ онова, което Яхве ми каже, ⟨את⟩ него ще говоря.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "Михайху"
+    },
+    {
+      "surface": "חי",
+      "gloss": "жив"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "כי",
+      "gloss": "—"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "онова"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "което"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "каже"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ми"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "ще говоря"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ще говоря"
+    }
+  ],
+  "timestamp": "2026-09-22T13:12:42.702313052Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И синовете на Йаван: Елиша, и Таршиша, Китим, и Роданим.",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "И синовете"
+    },
+    {
+      "surface": "יון",
+      "gloss": "на Йаван"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "Елиша"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "и Таршиша"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "Китим"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "и Роданим"
+    }
+  ],
+  "timestamp": "2026-09-22T15:56:21.994707219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "habakkuk 3:15",
+  "book": "habakkuk",
+  "lang": "bg",
+  "chapter": 3,
+  "translation": "Ти стъпка в морето конете ⟨си⟩, тинята на многото води.",
+  "tokens": [
+    {
+      "surface": "דרכת",
+      "gloss": "Ти стъпка"
+    },
+    {
+      "surface": "בים",
+      "gloss": "в морето"
+    },
+    {
+      "surface": "סוסיך",
+      "gloss": "конете ⟨си⟩"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "тинята"
+    },
+    {
+      "surface": "מים",
+      "gloss": "на водите"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "многото"
+    }
+  ],
+  "timestamp": "2026-09-22T14:44:09.911532385Z",
+  "model": "glm-5.3"
+}

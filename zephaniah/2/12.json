@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "bg",
+  "chapter": 2,
+  "translation": "И вие, кушити — ⟨поразени⟩ от меча Ми ще бъдете те.",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "И"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "вие"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "кушити"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "⟨поразени⟩"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "от меча Ми"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ще бъдат те"
+    }
+  ],
+  "timestamp": "2026-09-22T14:43:57.580446600Z",
+  "model": "glm-5.3"
+}

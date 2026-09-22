@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "bg",
+  "chapter": 23,
+  "translation": "Прекоси земята си като река, дъще Таршиш — няма ⟨още⟩ пояс.",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "Прекоси"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "земята си"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "като река"
+    },
+    {
+      "surface": "בת",
+      "gloss": "дъще"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "Таршиш"
+    },
+    {
+      "surface": "אין",
+      "gloss": "няма"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "пояс"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "⟨още⟩"
+    }
+  ],
+  "timestamp": "2026-09-22T13:32:06.300106823Z",
+  "model": "glm-5.3"
+}

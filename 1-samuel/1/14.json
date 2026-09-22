@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 1:14",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 1,
+  "translation": "И каза на нея Ели: до кога ще се напиваш? Махни ⟨את⟩ виното си от себе си!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "И каза"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "на нея"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "Ели"
+    },
+    {
+      "surface": "עד",
+      "gloss": "до"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "кога"
+    },
+    {
+      "surface": "תשתכרין",
+      "gloss": "ще се напиваш"
+    },
+    {
+      "surface": "הסירי",
+      "gloss": "Махни"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "виното си"
+    },
+    {
+      "surface": "יינך",
+      "gloss": "виното си"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "от себе си"
+    }
+  ],
+  "timestamp": "2026-09-22T12:35:58.072809303Z",
+  "model": "glm-5.3"
+}

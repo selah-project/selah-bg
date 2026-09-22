@@ -1,0 +1,80 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-samuel 14:21",
+  "book": "2-samuel",
+  "lang": "bg",
+  "chapter": 14,
+  "translation": "И рече царят на Йоав: ето сега направих ⟨את⟩ думата тази; иди, върни ⟨את⟩ момчето ⟨את⟩ Авшалом.",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "царят"
+    },
+    {
+      "surface": "אל",
+      "gloss": "на"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "Йоав"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ето"
+    },
+    {
+      "surface": "נא",
+      "gloss": "сега"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "направих"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "думата"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "думата"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "тази"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "иди"
+    },
+    {
+      "surface": "השב",
+      "gloss": "върни"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "момчето"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "момчето"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "Авшалом"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "Авшалом"
+    }
+  ],
+  "timestamp": "2026-09-22T12:53:46.366892014Z",
+  "model": "glm-5.3"
+}

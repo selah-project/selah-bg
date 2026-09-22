@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 13:13",
+  "book": "deuteronomy",
+  "lang": "bg",
+  "chapter": 13,
+  "translation": "Ако чуеш в един от градовете си, които Яхве, твоят Елохим, ти дава да живееш там, и ⟨се⟩ казва:",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "Ако"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "чуеш"
+    },
+    {
+      "surface": "באחת",
+      "gloss": "в един"
+    },
+    {
+      "surface": "עריך",
+      "gloss": "от градовете си"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "които"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "твоят Елохим"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "дава"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ти"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "да живееш"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "и ⟨се⟩ казва"
+    }
+  ],
+  "timestamp": "2026-09-22T12:07:35.864026537Z",
+  "model": "glm-5.3"
+}

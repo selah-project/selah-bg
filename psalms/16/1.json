@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 16:1",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 16,
+  "translation": "Михтам на Давид ⟨Мойсей⟩. Пази ме, Ел, защото в теб се скрих.",
+  "tokens": [
+    {
+      "surface": "מכתם",
+      "gloss": "Михтам"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "на Давид"
+    },
+    {
+      "surface": "שמרני",
+      "gloss": "Пази ме"
+    },
+    {
+      "surface": "אל",
+      "gloss": "Ел"
+    },
+    {
+      "surface": "כי",
+      "gloss": "защото"
+    },
+    {
+      "surface": "חסיתי",
+      "gloss": "се скрих"
+    },
+    {
+      "surface": "בך",
+      "gloss": "в теб"
+    }
+  ],
+  "timestamp": "2026-09-22T16:28:59.763726799Z",
+  "model": "glm-5.3"
+}
