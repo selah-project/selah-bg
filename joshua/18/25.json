@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "bg",
   "chapter": 18,
-  "translation": "Гивон, и hа-Рама, и Беерот.",
+  "translation": "Гивон, и ха-Рама, и Беерот.",
   "tokens": [
     {
       "surface": "גבעון",
@@ -13,13 +13,13 @@
     },
     {
       "surface": "והרמה",
-      "gloss": "и hа-Рама"
+      "gloss": "и ха-Рама"
     },
     {
       "surface": "ובארות",
       "gloss": "и Беерот"
     }
   ],
-  "timestamp": "2026-09-22T12:22:53.429468439Z",
+  "timestamp": "2026-09-22T17:03:10.972972029Z",
   "model": "glm-5.3"
 }

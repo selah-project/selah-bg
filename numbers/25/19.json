@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "bg",
   "chapter": 25,
-  "translation": "И било след поражението —",
+  "translation": "И биде след епидемията,",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "И било"
+      "gloss": "И биде"
     },
     {
       "surface": "אחרי",
@@ -17,9 +17,9 @@
     },
     {
       "surface": "המגפה",
-      "gloss": "поражението"
+      "gloss": "епидемията"
     }
   ],
-  "timestamp": "2026-09-22T11:54:38.663348413Z",
+  "timestamp": "2026-09-22T17:00:55.382632892Z",
   "model": "glm-5.3"
 }

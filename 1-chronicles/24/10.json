@@ -5,11 +5,11 @@
   "book": "1-chronicles",
   "lang": "bg",
   "chapter": 24,
-  "translation": "седмият за Хакоц, осмият за Авиja",
+  "translation": "Седмият на Хакоц, осмият на Авия.",
   "tokens": [
     {
       "surface": "להקוץ",
-      "gloss": "за Хакоц"
+      "gloss": "на Хакоц"
     },
     {
       "surface": "השבעי",
@@ -17,13 +17,13 @@
     },
     {
       "surface": "לאביה",
-      "gloss": "за Авиja"
+      "gloss": "на Авия"
     },
     {
       "surface": "השמיני",
       "gloss": "осмият"
     }
   ],
-  "timestamp": "2026-09-22T16:02:28.180427569Z",
+  "timestamp": "2026-09-22T17:15:47.297361249Z",
   "model": "glm-5.3"
 }

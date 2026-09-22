@@ -5,69 +5,69 @@
   "book": "isaiah",
   "lang": "bg",
   "chapter": 43,
-  "translation": "Thus says Yahweh, your Redeemer, the Holy One of Israel: for your sake I sent to Babylon, and I brought down all the bars, and the Chaldeans ⟨in⟩ the ships of their shouting.",
+  "translation": "Така каза Яхве, вашият Изкупител, Светият на Израел: заради вас пратих ⟨в⟩ Вавилон и снищих бегълците — всички тях, и халдейци ⟨в⟩ корабите на тяхната песен.",
   "tokens": [
     {
       "surface": "כה",
-      "gloss": "thus"
+      "gloss": "Така"
     },
     {
       "surface": "אמר",
-      "gloss": "says"
+      "gloss": "каза"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "Яхве"
     },
     {
       "surface": "גאלכם",
-      "gloss": "your Redeemer"
+      "gloss": "вашият Изкупител"
     },
     {
       "surface": "קדוש",
-      "gloss": "the Holy One"
+      "gloss": "Светият"
     },
     {
       "surface": "ישראל",
-      "gloss": "of Israel"
+      "gloss": "на Израел"
     },
     {
       "surface": "למענכם",
-      "gloss": "for your sake"
+      "gloss": "заради вас"
     },
     {
       "surface": "שלחתי",
-      "gloss": "I sent"
+      "gloss": "пратих"
     },
     {
       "surface": "בבלה",
-      "gloss": "to Babylon"
+      "gloss": "⟨в⟩ Вавилон"
     },
     {
       "surface": "והורדתי",
-      "gloss": "and I brought down"
+      "gloss": "и снищих"
     },
     {
       "surface": "בריחים",
-      "gloss": "bars"
+      "gloss": "бегълците"
     },
     {
       "surface": "כלם",
-      "gloss": "all of them"
+      "gloss": "всички тях"
     },
     {
       "surface": "וכשדים",
-      "gloss": "and the Chaldeans"
+      "gloss": "и халдейци"
     },
     {
       "surface": "באניות",
-      "gloss": "⟨in⟩ ships"
+      "gloss": "⟨в⟩ корабите"
     },
     {
       "surface": "רנתם",
-      "gloss": "of their shouting"
+      "gloss": "на тяхната песен"
     }
   ],
-  "timestamp": "2026-09-22T13:38:12.177396067Z",
+  "timestamp": "2026-09-22T17:09:04.047149938Z",
   "model": "glm-5.3"
 }

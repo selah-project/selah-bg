@@ -5,7 +5,7 @@
   "book": "joshua",
   "lang": "bg",
   "chapter": 19,
-  "translation": "и Елтолад, и Ветуl, и Хорма.",
+  "translation": "и Елтолад, и Бетул, и Хорма,",
   "tokens": [
     {
       "surface": "ואלתולד",
@@ -13,13 +13,13 @@
     },
     {
       "surface": "ובתול",
-      "gloss": "и Ветул"
+      "gloss": "и Бетул"
     },
     {
       "surface": "וחרמה",
       "gloss": "и Хорма"
     }
   ],
-  "timestamp": "2026-09-22T12:23:19.752182094Z",
+  "timestamp": "2026-09-22T17:03:05.608303334Z",
   "model": "glm-5.3"
 }

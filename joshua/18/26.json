@@ -5,21 +5,21 @@
   "book": "joshua",
   "lang": "bg",
   "chapter": 18,
-  "translation": "и hа-Мицпа, и hа-Кфира, и hа-Моца.",
+  "translation": "и ха-Мицпа, и ха-Кфира, и ха-Моца.",
   "tokens": [
     {
       "surface": "והמצפה",
-      "gloss": "и hа-Мицпа"
+      "gloss": "и ха-Мицпа"
     },
     {
       "surface": "והכפירה",
-      "gloss": "и hа-Кфира"
+      "gloss": "и ха-Кфира"
     },
     {
       "surface": "והמצה",
-      "gloss": "и hа-Моца"
+      "gloss": "и ха-Моца"
     }
   ],
-  "timestamp": "2026-09-22T12:22:53.429690273Z",
+  "timestamp": "2026-09-22T17:03:10.973193863Z",
   "model": "glm-5.3"
 }
