@@ -1,1 +1,70 @@
-{"tier": "glm-5.2", "verse": 30, "ref": "genesis 32:30", "book": "genesis", "lang": "bg", "chapter": 32, "translation": "И запита Яаков и рече: Изяви, моля ти се, името си. А той рече: защо това питаш за името ми? И благослови го ⟨⟨את⟩ него⟩ там.", "tokens": [{"surface": "וישאל", "gloss": "и запита"}, {"surface": "יעקב", "gloss": "Яаков"}, {"surface": "ויאמר", "gloss": "и рече"}, {"surface": "הגידה", "gloss": "изяви"}, {"surface": "נא", "gloss": "моля ти се"}, {"surface": "שמך", "gloss": "името си"}, {"surface": "ויאמר", "gloss": "и рече"}, {"surface": "למה", "gloss": "защо"}, {"surface": "זה", "gloss": "това"}, {"surface": "תשאל", "gloss": "питаш"}, {"surface": "לשמי", "gloss": "за името ми"}, {"surface": "ויברך", "gloss": "и благослови"}, {"surface": "אתו", "gloss": "⟨את⟩ него", "marks": "него (Яаков)"}, {"surface": "שם", "gloss": "там"}], "timestamp": "2026-09-22T16:56:52.262346187Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 32:30",
+  "book": "genesis",
+  "lang": "bg",
+  "chapter": 32,
+  "translation": "И попита Яаков и рече: открий ⟨моля⟩ името си. А той рече: защо това питаш за името ми? И благослови ⟨את⟩ него там.",
+  "tokens": [
+    {
+      "surface": "וישאל",
+      "gloss": "и попита"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "Яаков"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "открий"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨моля⟩"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "името си"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "и рече"
+    },
+    {
+      "surface": "למה",
+      "gloss": "защо"
+    },
+    {
+      "surface": "זה",
+      "gloss": "това"
+    },
+    {
+      "surface": "תשאל",
+      "gloss": "питаш"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "за името ми"
+    },
+    {
+      "surface": "ויברך",
+      "gloss": "и благослови"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ него",
+      "marks": "него"
+    },
+    {
+      "surface": "שם",
+      "gloss": "там"
+    }
+  ],
+  "timestamp": "2026-09-25T08:05:27.471954551Z",
+  "model": "glm-5.3"
+}

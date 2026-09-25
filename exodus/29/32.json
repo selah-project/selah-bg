@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "bg",
   "chapter": 29,
-  "translation": "И ще ядат Аарон и синовете му ⟨את⟩ месото на овена и ⟨את⟩ хляба, който е в кошницата, при входа на шатъра на срещата.",
+  "translation": "И Аарон ⟨и⟩ синовете му ще ядат ⟨את⟩ плътта на овена и ⟨את⟩ хляба, който е в кошницата, при входа на шатъра на срещата.",
   "tokens": [
     {
       "surface": "ואכל",
@@ -22,32 +22,32 @@
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "mesoto na ovena"
+      "marks": "плътта"
     },
     {
       "surface": "בשר",
-      "gloss": "mesoto"
+      "gloss": "плътта"
     },
     {
       "surface": "האיל",
-      "gloss": "na ovena"
+      "gloss": "на овена"
     },
     {
       "surface": "ואת",
       "gloss": "и ⟨את⟩",
-      "marks": "khlyaba"
+      "marks": "хляба"
     },
     {
       "surface": "הלחם",
-      "gloss": "khlyaba"
+      "gloss": "хляба"
     },
     {
       "surface": "אשר",
-      "gloss": "koito"
+      "gloss": "който"
     },
     {
       "surface": "בסל",
-      "gloss": "v koshnitsata"
+      "gloss": "в кошницата"
     },
     {
       "surface": "פתח",
@@ -62,6 +62,6 @@
       "gloss": "на срещата"
     }
   ],
-  "timestamp": "2026-09-22T11:25:32.158025444Z",
+  "timestamp": "2026-09-25T08:03:37.381501005Z",
   "model": "glm-5.3"
 }

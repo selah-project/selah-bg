@@ -1,1 +1,58 @@
-{"tier":"glm-5.2","verse":44,"ref":"judges 20:44","book":"judges","lang":"bg","chapter":20,"translation":"И паднаха от Benjamin осемнадесет хиляди мъже — ⟨את⟩ всички тези ⟨бяха⟩ мъже сила.","tokens":[{"surface":"ויפלו","gloss":"И паднаха"},{"surface":"מבנימן","gloss":"от Benjamin"},{"surface":"שמנה","gloss":"осем"},{"surface":"עשר","gloss":"надесет"},{"surface":"אלף","gloss":"хиляди"},{"surface":"איש","gloss":"мъже"},{"surface":"את","gloss":"⟨את⟩"},{"surface":"כל","gloss":"всички"},{"surface":"אלה","gloss":"тези"},{"surface":"אנשי","gloss":"мъже"},{"surface":"חיל","gloss":"сила"}],"timestamp":"2026-09-22T12:34:57.153096518Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "judges 20:44",
+  "book": "judges",
+  "lang": "bg",
+  "chapter": 20,
+  "translation": "И паднаха от Вениамин осемнадесет хиляди мъже — ⟨את⟩ всички тия, мъже на доблест.",
+  "tokens": [
+    {
+      "surface": "ויפלו",
+      "gloss": "и паднаха"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "от Вениамин"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "осем"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "надесет"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "хиляди"
+    },
+    {
+      "surface": "איש",
+      "gloss": "мъже"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "всички тия"
+    },
+    {
+      "surface": "כל",
+      "gloss": "всички"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "тия"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "мъже"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "на доблест"
+    }
+  ],
+  "timestamp": "2026-09-25T08:15:26.214866794Z",
+  "model": "glm-5.3"
+}

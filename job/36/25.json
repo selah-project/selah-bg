@@ -5,7 +5,7 @@
   "book": "job",
   "lang": "bg",
   "chapter": 36,
-  "translation": "Всеки човек го е съзерцавал, смъртен <човек> гледа отдалеч.",
+  "translation": "Всеки човек е <strong>гледал<\/strong> него; смъртен <strong>вижда<\/strong> <strong>отдалеч<\/strong>.",
   "tokens": [
     {
       "surface": "כל",
@@ -17,7 +17,7 @@
     },
     {
       "surface": "חזו",
-      "gloss": "го е съзерцавал"
+      "gloss": "гледал"
     },
     {
       "surface": "בו",
@@ -29,13 +29,13 @@
     },
     {
       "surface": "יביט",
-      "gloss": "гледа"
+      "gloss": "вижда"
     },
     {
       "surface": "מרחוק",
       "gloss": "отдалеч"
     }
   ],
-  "timestamp": "2026-09-22T15:31:33.164106751Z",
+  "timestamp": "2026-09-25T08:11:00.403827040Z",
   "model": "glm-5.3"
 }

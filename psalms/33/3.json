@@ -1,1 +1,41 @@
-{"tier":"glm-5.2","verse":3,"ref":"psalms 33:3","book":"psalms","lang":"bg","chapter":33,"translation":"Пейте Му песен нова; изсвирете добре ⟨с⟨⟨свирене⟩⟩⟩ ⟨с⟩ тръбене.","tokens":[{"surface":"שירו","gloss":"Пейте"},{"surface":"לו","gloss":"Му"},{"surface":"שיר","gloss":"песен"},{"surface":"חדש","gloss":"нова"},{"surface":"היטיבו","gloss":"изсвирете добре"},{"surface":"נגן","gloss":"⟨свирене⟩"},{"surface":"בתרועה","gloss":"с тръбене"}],"timestamp":"2026-09-22T17:13:09.601241307Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 33:3",
+  "book": "psalms",
+  "lang": "bg",
+  "chapter": 33,
+  "translation": "Пейте му нова песен; свирете добре ⟨с⟩ труба ⟨на≫ възклицание.",
+  "tokens": [
+    {
+      "surface": "שִֽׁירוּ",
+      "gloss": "пейте"
+    },
+    {
+      "surface": "ל֭וֹ",
+      "gloss": "му"
+    },
+    {
+      "surface": "שִׁ֣יר",
+      "gloss": "песен"
+    },
+    {
+      "surface": "חָדָ֑שׁ",
+      "gloss": "нова"
+    },
+    {
+      "surface": "הֵיטִ֥יבוּ",
+      "gloss": "правете добре"
+    },
+    {
+      "surface": "נַ֝גֵּ֗ן",
+      "gloss": "свири"
+    },
+    {
+      "surface": "בִּתְרוּעָֽה",
+      "gloss": "с възклицание"
+    }
+  ],
+  "timestamp": "2026-09-25T08:24:31.347581821Z",
+  "model": "glm-5.3"
+}

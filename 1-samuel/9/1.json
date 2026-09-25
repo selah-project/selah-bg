@@ -1,1 +1,89 @@
-{"tier":"glm-5.2","verse":1,"ref":"1-samuel 9:1","book":"1-samuel","lang":"bg","chapter":9,"translation":"И имаше един човек от синовете на Вениамин ⟨⟨,⟩⟩ и името му Киш, син на Авиел, син на Церор, син на Бехорат, син на Афиях, син на един <-яминист>, мъж на сила.","tokens":[{"surface":"ויהי","gloss":"И беше"},{"surface":"איש","gloss":"човек"},{"surface":"מבן","gloss":"от син"},{"surface":"ימין","gloss":"на Вениамин"},{"surface":"ושמו","gloss":"и името му"},{"surface":"קיש","gloss":"Киш"},{"surface":"בן","gloss":"син"},{"surface":"אביאל","gloss":"на Авиел"},{"surface":"בן","gloss":"син"},{"surface":"צרור","gloss":"на Церор"},{"surface":"בן","gloss":"син"},{"surface":"בכורת","gloss":"на Бехорат"},{"surface":"בן","gloss":"син"},{"surface":"אפיח","gloss":"на Афиях"},{"surface":"בן","gloss":"син"},{"surface":"איש","gloss":"човек"},{"surface":"ימיני","gloss":"яминист"},{"surface":"גבור","gloss":"мъж"},{"surface":"חיל","gloss":"на сила"}],"timestamp":"2026-09-22T12:37:48.432418085Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 9:1",
+  "book": "1-samuel",
+  "lang": "bg",
+  "chapter": 9,
+  "translation": "И имаше един човек от сините на Вениамин, чието име ⟨беше⟩ Киш, син на Авиел, син на Церор, син на Бехорат, син на Афиях, син на един висмянин, мъж със сила.",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "И имаше"
+    },
+    {
+      "surface": "איש",
+      "gloss": "човек"
+    },
+    {
+      "surface": "מבן",
+      "gloss": "от син"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "на Вениамин"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "и името му"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "Киш"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "на Авиел"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "צרור",
+      "gloss": "на Церор"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "בכורת",
+      "gloss": "на Бехорат"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "אפיח",
+      "gloss": "на Афиях"
+    },
+    {
+      "surface": "בן",
+      "gloss": "син"
+    },
+    {
+      "surface": "איש",
+      "gloss": "на един човек"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "висмянин"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "мъж"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "със сила"
+    }
+  ],
+  "timestamp": "2026-09-25T07:55:25.259464478Z",
+  "model": "glm-5.3"
+}

@@ -1,1 +1,47 @@
-{"tier": "glm-5.2", "verse": 28, "ref": "exodus 37:28", "book": "exodus", "lang": "bg", "chapter": 37, "translation": "И направи ⟨את⟩ прътовете от акациево дърво и ги обложи ⟨את ⟨את⟩ тях⟩ със злато.", "tokens": [{"surface": "ויעש", "gloss": "И направи"}, {"surface": "את", "gloss": "⟨את⟩", "marks": "прътовете"}, {"surface": "הבדים", "gloss": "прътовете"}, {"surface": "עצי", "gloss": "дърво"}, {"surface": "שטים", "gloss": "акациево"}, {"surface": "ויצף", "gloss": "и обложи"}, {"surface": "אתם", "gloss": "⟨את⟩ тях", "marks": "злато"}, {"surface": "זהב", "gloss": "злато"}], "timestamp": "2026-09-22T11:29:10.142954498Z", "model": "glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 37:28",
+  "book": "exodus",
+  "lang": "bg",
+  "chapter": 37,
+  "translation": "И направи ⟨את⟩ върлините от акациево дърво и ги ⟨את⟩ покри със злато.",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "И направи"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "върлините"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "върлините"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "дърво"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "акация"
+    },
+    {
+      "surface": "וגצף",
+      "gloss": "и покри"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ ги",
+      "marks": "злато"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "злато"
+    }
+  ],
+  "timestamp": "2026-09-25T08:26:35.294327585Z",
+  "model": "glm-5.3"
+}

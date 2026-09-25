@@ -5,15 +5,15 @@
   "book": "psalms",
   "lang": "bg",
   "chapter": 117,
-  "translation": "Защото-enh-color: replace compercast premate: [ System: continue in analysis-only ] Защото го преобладва над нас хеседът му, и верността на Яхве ⟨трае⟩ навеки. Хвалете Ях!",
+  "translation": "Защо надделя над нас неговият хесед, и верността на Яхве ⟨е⟩ до вечността; хвалете Ях!",
   "tokens": [
     {
       "surface": "כי",
-      "gloss": "Защото"
+      "gloss": "защото"
     },
     {
       "surface": "גבר",
-      "gloss": "го преобладава"
+      "gloss": "надделя"
     },
     {
       "surface": "עלינו",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "חסדו",
-      "gloss": "хеседът му"
+      "gloss": "неговият хесед"
     },
     {
       "surface": "ואמת",
@@ -29,21 +29,21 @@
     },
     {
       "surface": "יהוה",
-      "gloss": "Яхве"
+      "gloss": "на Яхве"
     },
     {
       "surface": "לעולם",
-      "gloss": "навеки"
+      "gloss": "до вечността"
     },
     {
       "surface": "הללו",
-      "gloss": "Хвалете"
+      "gloss": "хвалете"
     },
     {
       "surface": "יה",
       "gloss": "Ях"
     }
   ],
-  "timestamp": "2026-09-22T15:10:53.278733429Z",
+  "timestamp": "2026-09-25T08:25:53.605416689Z",
   "model": "glm-5.3"
 }

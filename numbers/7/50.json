@@ -5,33 +5,33 @@
   "book": "numbers",
   "lang": "bg",
   "chapter": 7,
-  "translation": "Една златна <к>πaf чашка, десет шекела, пълна с тамян.",
+  "translation": "една златна кътлива от десет ⟨сикъла⟩, пълна с тамян",
   "tokens": [
     {
-      "surface": "כף",
-      "gloss": "чашка"
+      "surface": "כַּ֥ף",
+      "gloss": "кутлива"
     },
     {
-      "surface": "אחת",
+      "surface": "אַחַ֛ת",
       "gloss": "една"
     },
     {
-      "surface": "עשרה",
+      "surface": "עֲשָׂרָ֥ה",
       "gloss": "десет"
     },
     {
-      "surface": "זהב",
+      "surface": "זָהָ֖ב",
       "gloss": "златна"
     },
     {
-      "surface": "מלאה",
+      "surface": "מְלֵאָ֥ה",
       "gloss": "пълна"
     },
     {
-      "surface": "קטרת",
+      "surface": "קְטֹֽרֶת",
       "gloss": "с тамян"
     }
   ],
-  "timestamp": "2026-09-22T11:47:33.290348119Z",
+  "timestamp": "2026-09-25T08:22:59.243002932Z",
   "model": "glm-5.3"
 }

@@ -5,69 +5,69 @@
   "book": "ezekiel",
   "lang": "bg",
   "chapter": 20,
-  "translation": "Жив съм Аз, oracle на Адонай Яхве: ако не с мощна ръка и с простряна мишца и с изляна ярост ще царувам над вас.",
+  "translation": "Жив съм Аз, говори Адонай Яхве: ако не — с ръка силна и с мишка простряна и с ярост излята ще царувам над вас.",
   "tokens": [
     {
-      "surface": "חי",
+      "surface": "חַי",
       "gloss": "жив"
     },
     {
-      "surface": "אני",
+      "surface": "אָ֕נִי",
       "gloss": "Аз"
     },
     {
-      "surface": "נאם",
-      "gloss": "oracle"
+      "surface": "נְאֻ֖ם",
+      "gloss": "говори"
     },
     {
-      "surface": "אדני",
+      "surface": "אֲדֹנָ֣י",
       "gloss": "Адонай"
     },
     {
-      "surface": "יהוה",
+      "surface": "יְהוִ֑ה",
       "gloss": "Яхве"
     },
     {
-      "surface": "אם",
+      "surface": "אִם",
       "gloss": "ако"
     },
     {
-      "surface": "לא",
+      "surface": "לֹ֠א",
       "gloss": "не"
     },
     {
-      "surface": "ביד",
+      "surface": "בְּיָ֨ד",
       "gloss": "с ръка"
     },
     {
-      "surface": "חזקה",
-      "gloss": "мощна"
+      "surface": "חֲזָקָ֜ה",
+      "gloss": "силна"
     },
     {
-      "surface": "ובזרוע",
-      "gloss": "и с мишца"
+      "surface": "וּבִזְר֧וֹעַ",
+      "gloss": "и с мишка"
     },
     {
-      "surface": "נטויה",
+      "surface": "נְטוּיָ֛ה",
       "gloss": "простряна"
     },
     {
-      "surface": "ובחמה",
+      "surface": "וּבְחֵמָ֥ה",
       "gloss": "и с ярост"
     },
     {
-      "surface": "שפוכה",
-      "gloss": "изляна"
+      "surface": "שְׁפוּכָ֖ה",
+      "gloss": "излята"
     },
     {
-      "surface": "אמלוך",
+      "surface": "אֶמְל֥וֹךְ",
       "gloss": "ще царувам"
     },
     {
-      "surface": "עליכם",
+      "surface": "עֲלֵיכֶֽם",
       "gloss": "над вас"
     }
   ],
-  "timestamp": "2026-09-22T14:19:22.697556154Z",
+  "timestamp": "2026-09-25T08:04:14.196294024Z",
   "model": "glm-5.3"
 }

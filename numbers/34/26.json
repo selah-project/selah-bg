@@ -5,7 +5,7 @@
   "book": "numbers",
   "lang": "bg",
   "chapter": 34,
-  "translation": "И за племето на synovete na Isahar nasii Paltiel sin na Azzan.",
+  "translation": "И за племето на Исахаровите синове — княз Палтиел, син на Азан.",
   "tokens": [
     {
       "surface": "ולמטה",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "בני",
-      "gloss": "на синовете"
+      "gloss": "синовете"
     },
     {
       "surface": "יששכר",
@@ -21,7 +21,7 @@
     },
     {
       "surface": "נשיא",
-      "gloss": "нася"
+      "gloss": "княз"
     },
     {
       "surface": "פלטיאל",
@@ -36,6 +36,6 @@
       "gloss": "Азан"
     }
   ],
-  "timestamp": "2026-09-22T17:01:40.868308446Z",
+  "timestamp": "2026-09-25T08:20:30.109865103Z",
   "model": "glm-5.3"
 }

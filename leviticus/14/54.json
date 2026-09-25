@@ -5,33 +5,33 @@
   "book": "leviticus",
   "lang": "bg",
   "chapter": 14,
-  "translation": "Това е Тора за всяка plague на цараат и за нетек:",
+  "translation": "Това ⟨е⟩ Тората за всяко поражение на царацат и за нетек",
   "tokens": [
     {
-      "surface": "זאת",
+      "surface": "זֹאת",
       "gloss": "Това"
     },
     {
-      "surface": "התורה",
-      "gloss": "Тора"
+      "surface": "הַתּוֹרָה",
+      "gloss": "Тората"
     },
     {
-      "surface": "לכל",
-      "gloss": "за всяка"
+      "surface": "לְכָל",
+      "gloss": "за всяко"
     },
     {
-      "surface": "נגע",
+      "surface": "נֶגַע",
       "gloss": "поражение"
     },
     {
-      "surface": "הצרעת",
-      "gloss": "на цараат"
+      "surface": "הַצָּרַעַת",
+      "gloss": "на царацат"
     },
     {
-      "surface": "ולנתק",
+      "surface": "וְלַנָּתֶק",
       "gloss": "и за нетек"
     }
   ],
-  "timestamp": "2026-09-22T11:36:45.850869234Z",
+  "timestamp": "2026-09-25T08:15:40.453297099Z",
   "model": "glm-5.3"
 }

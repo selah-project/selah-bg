@@ -1,1 +1,92 @@
-{"tier":"glm-5.2","verse":50,"ref":"joshua 19:50","book":"joshua","lang":"bg","chapter":19,"translation":"По думата на Яхве му дадоха ⟨את⟩ града, който поиска — ⟨את⟩ Тимнат-Серах, в хълмистата земя на Ефраим; и той построи ⟨את⟩ града и settled в него.","tokens":[{"surface":"על","gloss":"по"},{"surface":"פי","gloss":"думата"},{"surface":"יהוה","gloss":"Яхве"},{"surface":"נתנו","gloss":"му дадоха"},{"surface":"לו","gloss":"му"},{"surface":"את","gloss":"⟨את⟩","marks":"града"},{"surface":"העיר","gloss":"града"},{"surface":"אשר","gloss":"който"},{"surface":"שאל","gloss":"поиска"},{"surface":"את","gloss":"⟨את⟩","marks":"Тимнат-Серах"},{"surface":"תמנת","gloss":"Тимнат"},{"surface":"סרח","gloss":"Серах"},{"surface":"בהר","gloss":"в хълмистата земя"},{"surface":"אפרים","gloss":"на Ефраим"},{"surface":"ויבנה","gloss":"и построи"},{"surface":"את","gloss":"⟨את⟩","marks":"града"},{"surface":"העיר","gloss":"града"},{"surface":"וישב","gloss":"и settled"},{"surface":"בה","gloss":"в него"}],"timestamp":"2026-09-22T17:03:26.531818551Z","model":"glm-5.3"}
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 19:50",
+  "book": "joshua",
+  "lang": "bg",
+  "chapter": 19,
+  "translation": "По устата на Яхве дадоха му ⟨את⟩ града, който поиска — ⟨את⟩ Тимнат-Серах, в планината на Ефраим; и построи града, и се засели в него.",
+  "tokens": [
+    {
+      "surface": "עַל",
+      "gloss": "по"
+    },
+    {
+      "surface": "פִּי",
+      "gloss": "устата на"
+    },
+    {
+      "surface": "יְהוָה",
+      "gloss": "Яхве"
+    },
+    {
+      "surface": "נָתְנוּ",
+      "gloss": "дадоха"
+    },
+    {
+      "surface": "לוֹ",
+      "gloss": "му"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "града"
+    },
+    {
+      "surface": "הָעִיר",
+      "gloss": "града"
+    },
+    {
+      "surface": "אֲשֶׁר",
+      "gloss": "който"
+    },
+    {
+      "surface": "שָׁאָל",
+      "gloss": "поиска"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "Тимнат-Серах"
+    },
+    {
+      "surface": "תִּמְנַת",
+      "gloss": "Тимнат"
+    },
+    {
+      "surface": "סֶרַח",
+      "gloss": "Серах"
+    },
+    {
+      "surface": "בְּהַר",
+      "gloss": "в планината на"
+    },
+    {
+      "surface": "אֶפְרַיִם",
+      "gloss": "Ефраим"
+    },
+    {
+      "surface": "וַיִּבְנֶה",
+      "gloss": "и построи"
+    },
+    {
+      "surface": "אֶת",
+      "gloss": "⟨את⟩",
+      "marks": "града"
+    },
+    {
+      "surface": "הָעִיר",
+      "gloss": "града"
+    },
+    {
+      "surface": "וַיֵּשֶׁב",
+      "gloss": "и се засели"
+    },
+    {
+      "surface": "בָּהּ",
+      "gloss": "в него"
+    }
+  ],
+  "timestamp": "2026-09-25T08:14:52.991499205Z",
+  "model": "glm-5.3"
+}

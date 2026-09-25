@@ -5,7 +5,7 @@
   "book": "1-kings",
   "lang": "bg",
   "chapter": 4,
-  "translation": "Шими, син на Ела, в Benjamin.",
+  "translation": "Шими, син на Ела, в Бинямин:",
   "tokens": [
     {
       "surface": "שמעי",
@@ -17,13 +17,13 @@
     },
     {
       "surface": "אלא",
-      "gloss": "на Ела"
+      "gloss": "Ела"
     },
     {
       "surface": "בבנימן",
-      "gloss": "в Benjamin"
+      "gloss": "в Бинямин"
     }
   ],
-  "timestamp": "2026-09-22T13:02:20.433840239Z",
+  "timestamp": "2026-09-25T07:53:34.897411294Z",
   "model": "glm-5.3"
 }

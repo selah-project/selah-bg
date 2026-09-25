@@ -5,7 +5,7 @@
   "book": "exodus",
   "lang": "bg",
   "chapter": 23,
-  "translation": "Не.cut завет с тях и с боговете им.",
+  "translation": "Не切断и за тях и за боговете им завет.",
   "tokens": [
     {
       "surface": "לא",
@@ -13,21 +13,21 @@
     },
     {
       "surface": "תכרת",
-      "gloss": "cut завет"
+      "gloss": "отрежи"
     },
     {
       "surface": "להם",
-      "gloss": "с тях"
+      "gloss": "за тях"
     },
     {
       "surface": "ולאלהיהם",
-      "gloss": "и с боговете им"
+      "gloss": "и за боговете им"
     },
     {
       "surface": "ברית",
       "gloss": "завет"
     }
   ],
-  "timestamp": "2026-09-22T11:23:00.321674834Z",
+  "timestamp": "2026-09-25T08:03:32.005995800Z",
   "model": "glm-5.3"
 }
